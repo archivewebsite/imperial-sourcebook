@@ -1,0 +1,25 @@
+- have an insane level of delusional optimism
+- be an overthinker of the best case scenario
+- follow your obsession
+- work smart + hard + fast
+- eat clean and healthy
+- move daily/ start weighted calisthenics
+- sleep 6+hrs
+- face your fears every day
+- live at the edge
+- avoid overstimulation
+- go on adventures, see the world
+- be a polymath
+- push yourself harder
+- enjoy time with your loved ones
+- have more fun than others
+- learn, learn, learn
+- be honest
+- watch great movies
+- listen to high energy music
+- be authentic
+
+---
+## ?? Related Ideas
+- [[Lock In 6 Months]]
+- [[Percaya Diri]]

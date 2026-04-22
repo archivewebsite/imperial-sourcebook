@@ -1,0 +1,17 @@
+# Obsidian workspace / cache (device-specific, not content)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace.mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Trash
+.trash/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code local state (not part of the vault)
+.claude/

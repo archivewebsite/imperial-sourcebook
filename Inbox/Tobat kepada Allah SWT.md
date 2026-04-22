@@ -6,4 +6,4 @@
 5. Ambil air, sela-sela rambut hingga air menyentuh kulit kepala secara merata.
 6. Siram kepala 3×, pastikan air mengalir ke seluruh kepala.
 7. Basuh seluruh tubuh dimulai dari sisi kanan lalu kiri, ratakan air ke semua lipatan & bagian tubuh.
-8. Akhiri dengan membasuh kedua kaki (jika belum dibasuh saat wudhu, atau diulang untuk kehati-hatian).
+8. Akhiri dengan membasuh kedua kaki (jika belum dibasuh saat wudhu atau diulang untuk kehati-hatian).

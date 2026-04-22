@@ -1,0 +1,1 @@
+Market Capitalization = Current Stock Price × Number of Outstanding Shares

@@ -1,6 +1,6 @@
 # Tips and Trick
 
-`Tips and Trick` stores quick practical notes and tactical reminders.
+`Tips and Trick` stores quick practical notes and tactical reminders inside `Personal Advice`.
 
 ## What Belongs Here
 
@@ -14,4 +14,4 @@
 ## How To Use It
 
 - keep notes short, memorable, and easy to scan
-- move clusters of related tips into a dedicated folder once they stop being miscellaneous
+- keep this as the compact tactical branch of `Personal Advice`

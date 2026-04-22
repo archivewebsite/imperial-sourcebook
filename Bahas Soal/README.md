@@ -10,7 +10,7 @@
 
 ## What Does Not
 
-- broad theory notes that belong in `Resources/Notes`
+- broad theory notes that belong in `Notes`
 - project work that belongs in `Projects`
 
 ## How To Use It

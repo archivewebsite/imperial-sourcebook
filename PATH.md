@@ -17,7 +17,7 @@ The structure favors clear roles over deep hierarchy. Source-driven notes, everg
 ### 1. Notes (Broad Reference Layer)
 **Goal:** Hold source-driven notes, article notes, and topical references before they become evergreen synthesis.
 - **What belongs here:** broad reference notes, article-derived notes, subject notes, and topical material that is still closer to the source than to final synthesis.
-- **Rule:** Let this folder stay broad, but split off repeating domains once the topic starts forming its own cluster.
+- **Rule:** Let this folder stay broad, but split off repeating domains once the topic starts forming its own cluster. Keep open-ended curiosities in `Notes/Random Questions`.
 
 ### 2. Personal Wikipedia (Evergreen Layer)
 **Goal:** Build a personal reference layer that stays useful beyond the source that created it.
@@ -42,16 +42,15 @@ The structure favors clear roles over deep hierarchy. Source-driven notes, everg
 ### 6. Personal Advice (Practical Guidance)
 **Goal:** Keep rereadable advice, behavioral reminders, and applied self-management material in one place.
 - **What belongs here:** practical guidance, perspective pieces, and notes you expect to revisit during real decisions.
-- **Rule:** Favor utility over inspiration theater. If a note is only motivational, move it to `Motivation`.
+- **Rule:** Favor utility over inspiration theater. Keep compact tactical reminders in `Personal Advice/Tips and Trick`. If a note is only motivational, move it to `Motivation`.
 
 ### 7. Supporting Buckets
 **Goal:** Give lightweight homes to material that matters but does not define the vault's main architecture.
-- `Idea Backlog`: future plans and possible commitments
-- `Random Questions`: open curiosities and prompts for later research
 - `Design Inspiration`: references worth borrowing from later
 - `Motivation`: short notes that restore momentum
-- `Tips and Trick`: tactical reminders that stay compact
 - `Attachments`: supporting files only
+
+Future plans and possible commitments live outside this vault in `D:\Imperial Records\Labs\Idea Backlog`.
 
 ---
 
@@ -59,5 +58,6 @@ The structure favors clear roles over deep hierarchy. Source-driven notes, everg
 
 1. **Promote Upward Slowly:** Keep rough source-heavy material in `Notes` or `Learning & Skills` until the idea has earned an evergreen rewrite in `Personal Wikipedia`.
 2. **Separate Study From Retrieval:** If a note is meant to train skill, keep it in `The Academy`, `Bahas Soal`, or `Learning & Skills`. If it is meant to explain a durable concept, move it to `Personal Wikipedia`.
-3. **Do Not Turn Everything Into A System:** The vault should stay useful because the folders have clear roles, not because every note gets an elaborate workflow.
-4. **Keep Context In Markdown:** Images, screenshots, and files belong in `Attachments`, but the interpretation should live in notes that can be linked, searched, and revised.
+3. **Keep Backlog Operational:** Future commitments belong in `D:\Imperial Records\Labs\Idea Backlog`, not in the reference vault.
+4. **Do Not Turn Everything Into A System:** The vault should stay useful because the folders have clear roles, not because every note gets an elaborate workflow.
+5. **Keep Context In Markdown:** Images, screenshots, and files belong in `Attachments`, but the interpretation should live in notes that can be linked, searched, and revised.

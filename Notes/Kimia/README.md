@@ -1,6 +1,6 @@
 # Kimia
 
-`Kimia` stores chemistry notes inside the broader `Resources/Notes` bucket.
+`Kimia` stores chemistry notes inside the broader `Notes` bucket.
 
 ## What Belongs Here
 

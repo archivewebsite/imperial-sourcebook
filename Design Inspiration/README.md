@@ -11,7 +11,7 @@
 ## What Does Not
 
 - active design project work that belongs in `Projects`
-- evergreen design theory that belongs in `Resources/Notes` or `Personal Wikipedia`
+- evergreen design theory that belongs in `Notes` or `Personal Wikipedia`
 
 ## How To Use It
 

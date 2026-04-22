@@ -1,6 +1,6 @@
 # Random Questions
 
-This folder stores questions that pop into your head and feel worth keeping, even when you do not have an answer yet.
+This folder stores questions inside `Notes` that pop into your head and feel worth keeping, even when you do not have an answer yet.
 
 ## Rules
 
@@ -17,6 +17,6 @@ This folder stores questions that pop into your head and feel worth keeping, eve
 
 ## What Does Not
 
-- future projects or goals that belong in `Resources/Idea Backlog`
+- future projects or goals that belong in `D:\Imperial Records\Labs\Idea Backlog`
 - raw capture that should stay in `Inbox`
-- finished evergreen explanations that belong in `Resources/Personal Wikipedia`
+- finished evergreen explanations that belong in `Personal Wikipedia`

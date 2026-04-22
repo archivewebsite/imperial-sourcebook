@@ -1,8 +1,8 @@
 # Changelog
 
-All notable changes to Imperial Sourcebook should be documented here.
+All completed agent-driven changes to Imperial Sourcebook should be documented here.
 
-This changelog is adapted for a personal knowledge vault, not a software product. It tracks meaningful changes to structure, organization, workflows, and library-wide documentation. It does not need to record every small wording edit inside individual notes.
+This changelog is the required ledger for AI and agent work in this vault. Large reorganizations can use fuller entries; small note-level edits can use short bullets under the current date. Manual edits outside agent workflows can be logged too, but the rules below are enforced for agent-driven work.
 
 ## Recent Entries
 
@@ -15,11 +15,31 @@ Add new dated entries at the top of this section.
 - Connected the local `D:\Imperial Sourcebook` vault to the GitHub repository `https://github.com/archivewebsite/imperial-sourcebook.git`.
 - Replaced the legacy root `README.md` from the old `Resources` folder with Sourcebook-specific root documentation.
 - Added `PATH.md`, `CHANGELOG.md`, `.gitignore`, and the remote `LICENSE` so the vault has the same root governance pattern as `Imperial Records`.
+- Task type: `sourcebook-organization`
+- Consolidated the small-bucket layout by moving `Random Questions` under `Notes`, moving `Tips and Trick` under `Personal Advice`, and relocating `Idea Backlog` to `D:\Imperial Records\Labs`.
+- Normalized current README and PATH guidance to reflect the standalone Sourcebook taxonomy after the moves.
+- Task type: `vault-governance`
+- Added root `AGENTS.md` guidance so future agents must read the local vault rules and record kept edits in this changelog before finishing.
+- Replaced the Sourcebook changelog policy with per-edit agent logging instead of notable-only tracking.
+
+### Moved
+- Moved `Random Questions/` to `Notes/Random Questions/`.
+- Moved `Tips and Trick/` to `Personal Advice/Tips and Trick/`.
+- Moved `Idea Backlog/` out of Sourcebook into `D:\Imperial Records\Labs\Idea Backlog/`.
+
+### Workflow
+- Updated the installed Obsidian vault skills so `D:\Imperial Sourcebook` now follows this file for every retained agent edit pass, not only larger structural changes.
+- Added Sourcebook-specific audit heuristics so future vault audits do not assume the older `Imperial Records` folder layout.
 
 ### Notes
 - Counts: 146 markdown notes and 20 supporting files present at bootstrap.
+- Counts: 3 folders moved and 12 Sourcebook governance/readme notes updated during the consolidation pass.
+- Counts: 1 root agent-instruction file added and 5 installed skill or reference files updated for Sourcebook logging behavior.
 - Left unresolved: `Personal Advice/Menjadi Expert.md` still references missing file `1000089260.jpg`, which is not present in this vault.
-- Follow-up: update subfolder README references that still mention `Resources/...` if you want the wording fully normalized to the standalone vault.
+- Left unresolved: the `Quick Note!` duplicate-review pair remains intentionally unchanged.
+- Left unresolved: manual edits made outside agent workflows still depend on the editor to add an entry here; this policy only enforces agent-guided work.
+- Follow-up: none for this pass.
+- Follow-up: future same-day agent edits should merge into this `2026-04-22` entry instead of creating another date heading.
 
 ---
 # Agent Policy
@@ -27,6 +47,7 @@ Add new dated entries at the top of this section.
 ### Ownership
 
 - Only the top-level or orchestrating agent writes the final entry to this file.
+- Any top-level agent that keeps file edits under this vault must update this file before finishing unless the run qualifies under `When To Skip Logging`.
 - Delegated workers, helper agents, or narrow executor passes must not edit this file directly.
 - A task is complete only after its planned edits, cleanup, artifact generation, and verification steps are finished.
 
@@ -37,7 +58,7 @@ If a delegated worker finishes part of a task, it should return a changelog-read
 Use this format:
 
 ```md
-Task type: sourcebook-organization | knowledge-distillation | note-linking | vault-audit | import-cleanup | vault-bootstrap
+Task type: sourcebook-organization | knowledge-distillation | note-linking | vault-audit | import-cleanup | vault-bootstrap | vault-governance | note-update
 Completed: short summary of finished work
 Changed: notes, folders, links, rules, or artifacts that changed
 Counts: files moved, notes linked, files renamed, findings found, or `none`
@@ -50,13 +71,14 @@ Dry-run: yes | no
 
 ### When To Log
 
-Write an entry only when the completed task produced notable outcomes such as:
+Write an entry whenever a top-level agent run keeps changes under this vault, including:
 
 - notes, folders, or links changed
-- files were moved, renamed, or removed
+- files were created, edited, moved, renamed, or removed
 - vault rules, workflows, or templates changed
-- a library-wide audit produced material findings or saved artifacts
-- import cleanup changed how the vault is organized or used
+- a library-wide audit produced saved artifacts or findings worth preserving
+- cleanup, linking, or organization work changed even one or two notes
+- a partial or blocked run left kept file changes on disk that the next agent should understand
 
 ### When To Skip Logging
 
@@ -64,10 +86,12 @@ Skip the changelog update when any of these are true:
 
 - the run was dry-run, preview-only, or planning-only
 - the task was delegated work and this agent is not the final owner
-- the task produced no notable completed outcome
-- the task ended early, was blocked, or was not verified
-- a linking pass found no strong links and produced no meaningful reviewed outcome worth recording
-- an organization pass made no actual vault change
+- the run ended with no kept file change and no saved artifact
+- all temporary edits were reverted before handoff
+- a linking or organization pass made no actual vault change
+- a read-only review or audit produced no saved artifact and nothing worth preserving here
+
+Do not skip a changelog entry only because the change was small.
 
 ### Same-Day Merge
 
@@ -82,19 +106,18 @@ Skip the changelog update when any of these are true:
 Record changes such as:
 
 - large note moves or renames
+- small note-level agent edits, summarized briefly when needed
 - new root dashboards, indexes, or templates
-- changes to vault rules in `PATH.md` or `README.md`
+- changes to vault rules in `PATH.md`, `README.md`, `AGENTS.md`, or this file
 - major cleanup or import passes
 - changes to study structure, taxonomy, or governance
 - audits with material findings or saved artifacts
 
 Usually skip:
 
-- typo fixes
-- small wording edits inside a single note
-- normal note-taking
-- routine additions of one or two notes
 - dry-runs, previews, and no-op passes
+- delegated worker-only passes that did not own final logging
+- read-only reviews with no saved artifact
 
 ## How Entries Work
 
@@ -104,6 +127,7 @@ Usually skip:
 - Focus on what changed and why it matters.
 - Use only the sections that apply.
 - Merge same-day work into the existing date heading.
+- For a one-file or small-note update, a short `Changed` bullet and a short `Notes` bullet are enough. Do not skip it merely because the diff is small.
 
 ## Minimum Entry Schema
 
@@ -147,14 +171,14 @@ You do not need a dedicated section for each field. The information can be distr
 ## Suggested Scope By Folder
 
 - `Bahas Soal`: worked examples, formula support, and practice-note organization
-- `Notes`: source-driven notes, topical clusters, and reference-library cleanup
+- `Notes`: source-driven notes, topical clusters, `Random Questions`, and reference-library cleanup
 - `Personal Wikipedia`: evergreen synthesis, glossaries, and durable concept pages
 - `Learning & Skills`: technical references, skill maps, and learning systems
 - `The Academy`: formal study structures and curriculum-like organization
-- `Personal Advice`: practical guidance and rereadable behavioral material
-- `Idea Backlog` and `Random Questions`: future ideas and open curiosities
-- `Design Inspiration`, `Motivation`, and `Tips and Trick`: supporting reference buckets
+- `Personal Advice`: practical guidance, rereadable behavioral material, and `Tips and Trick`
+- `Design Inspiration` and `Motivation`: supporting reference buckets
 - `Attachments`: only notable asset reorganizations or media migrations
+- root governance docs: `README.md`, `PATH.md`, `CHANGELOG.md`, and `AGENTS.md`
 
 ## Task Examples
 

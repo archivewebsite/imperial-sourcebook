@@ -10,15 +10,12 @@ This vault was split out of `Imperial Records` so long-lived knowledge could gro
 
 - `Bahas Soal`: worked solutions, formula support, and practice breakdowns.
 - `Design Inspiration`: saved visual and product references worth revisiting.
-- `Idea Backlog`: future plans, goals, and possible commitments that are not active yet.
 - `Learning & Skills`: study notes, technical references, and skill-building material.
 - `Motivation`: short notes that restore perspective or momentum.
-- `Notes`: broad source-driven notes and topical references.
-- `Personal Advice`: practical guidance and self-management material worth rereading.
+- `Notes`: broad source-driven notes, topical references, and the `Notes/Random Questions` subfolder for open curiosities.
+- `Personal Advice`: practical guidance, self-management material, and the `Personal Advice/Tips and Trick` subfolder for compact tactical reminders.
 - `Personal Wikipedia`: evergreen explanations, glossaries, and long-lived reference pages.
-- `Random Questions`: open questions and curiosities that may grow into real notes later.
 - `The Academy`: structured academic material, subject training, and study systems.
-- `Tips and Trick`: compact practical reminders and tactical notes.
 - `Attachments`: supporting files only. Keep the meaning in markdown notes, not here.
 
 ## How To Use This Vault
@@ -26,9 +23,10 @@ This vault was split out of `Imperial Records` so long-lived knowledge could gro
 1. Put source-heavy notes into `Notes`, `Bahas Soal`, or `Learning & Skills` based on their role.
 2. Distill durable explanations into `Personal Wikipedia` once the note should outlive its source.
 3. Keep formal study systems and curriculum-like structures in `The Academy`.
-4. Store practical rereadable guidance in `Personal Advice`, `Motivation`, or `Tips and Trick`.
-5. Park future ideas and unanswered questions in `Idea Backlog` and `Random Questions`.
-6. Keep raw files in `Attachments`, but keep context, summaries, and decisions in markdown.
+4. Store practical rereadable guidance in `Personal Advice`, using `Personal Advice/Tips and Trick` for compact tactical reminders and `Motivation` for short reset notes.
+5. Park unanswered questions in `Notes/Random Questions`.
+6. Keep future plans and possible commitments in `D:\Imperial Records\Labs\Idea Backlog`.
+7. Keep raw files in `Attachments`, but keep context, summaries, and decisions in markdown.
 
 ## Conventions
 

@@ -20,7 +20,7 @@
 
 ## What Does Not
 
-- rough source notes that still belong in `Resources/Notes`
+- rough source notes that still belong in `Notes`
 - active project thinking that belongs in `Projects`
 
 ## How To Use It

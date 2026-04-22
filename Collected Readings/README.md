@@ -1,6 +1,6 @@
-# The Anthology
+# Collected Readings
 
-`The Anthology` is for curated readings, collected passages, or texts worth keeping together as a body of material.
+`Collected Readings` is for curated readings, collected passages, or texts worth keeping together as a body of material.
 
 ## What Belongs Here
 

@@ -85,33 +85,3 @@ Konfigurasi elektron gas mulia biasa digunakan untuk menyingkat penulisan konfig
 <sub>21</sub> Sc = 1s <sup>2</sup> 2s <sup>2</sup> 2p <sup>6</sup> 3s <sup>2</sup> 3p <sup>6</sup> 3d <sup>1</sup> 4s <sup>2</sup>, jika disingkat maka menjadi
 
 <sub>21</sub> Sc = \[Ar\] 3d <sup>1</sup> 4s <sup>2</sup>
-
-## Contoh Soal dan Pembahasan
-
-1. Tentukan jumlah elektron maksimum dalam suatu atom yang memiliki bilangan kuantum
-
-n = 4, l = 2, dan m = 1.
-
-**Jawab:**
-
-- n = 4, artinya elektron menempati kulit ke-4
-- l = 2, artinya elektron menempati subkulit d
-- m = 1 artinya elektron menempati orbital d yang ke-4
-
-Jadi, dengan bilangan kuantum tersebut, orbital yang dimaksud dapat 3d <sup>4</sup> (minimum) atau 3d <sup>9</sup> (maksimum). Sehingga jumlah elektron maksimum dalam atom dengan konfigurasi elektron 1s <sup>2</sup> 2s <sup>2</sup> 2p <sup>6</sup> 3s <sup>2</sup> 3p <sup>6</sup> 4s <sup>2</sup> 3d <sup>9</sup> atau 1s <sup>2</sup> 2s <sup>2</sup> 2p <sup>6</sup> 3s <sup>2</sup> 3p <sup>6</sup> 4s <sup>1</sup> 3d <sup>10</sup> adalah 29.
-
-2\. Deret bilangan kuantum yang sesuai untuk elektron terakhir pada orbital 3d <sup>5</sup> adalah …
-
-##### Jawab:
-
-n = 3, l = 2, m = +2, s = + ½
-
-3\. Tentukan konfigurasi elektron dan jumlah elektron pada setiap kulit elektron atom Ni (Z = 28) dan Sr (Z = 38)!
-
-##### Jawab:
-
-Ni (Z = 28) maka konfigurasinya adalah 1s2 2s2 2p6 3s2 3p6 4s2 3d8 atau \[Ar\] 4s2 3d8 dan jumlah elektron pada setiap kulit adalah K berjumlah 2, L berjumlah 8, M berjumlah 16 dan N berjumlah 2Sr (Z = 38) maka konfigurasinya adalah 1s2 2s2 2p6 3s2 3p6 4s2 3d8 5s2 atau \[Kr\] 5s2 dan jumlah elektron pada setiap kulit adalah K berjumlah 2, L berjumlah 8, M berjumlah 18, N berjumlah 2, dan O berjumlah 2.
-
-Demikian penjelasan terkait konfigurasi elektron, dari pengertian, aturan dan contoh soal beserta pembahasannya. Semoga bermanfaat!
-
-**Referensi**: studiobelajar.com

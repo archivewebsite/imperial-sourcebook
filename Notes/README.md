@@ -5,12 +5,14 @@
 ## Current Buckets
 
 - `Kimia`: chemistry notes.
+- `Random Questions`: open questions and curiosities worth keeping close to the broader reference layer.
 - `Tes Seleksi Perguruan Tinggi`: entrance-exam material with literacy and math branches.
 
 ## What Belongs Here
 
 - article-derived notes such as `20 Intellectual Rabbit Holes to Sharpen Your Mind`
 - topical reference material that does not yet belong in a more specialized bucket
+- open-ended questions that may later turn into fuller concept notes
 - subject notes that may later be distilled into `Personal Wikipedia` or `The Academy`
 
 ## What Does Not

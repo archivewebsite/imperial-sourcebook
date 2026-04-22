@@ -18,6 +18,7 @@ Add new dated entries at the top of this section.
 - Task type: `sourcebook-organization`
 - Consolidated the small-bucket layout by moving `Random Questions` under `Notes`, moving `Tips and Trick` under `Personal Advice`, and relocating `Idea Backlog` to `D:\Imperial Records\Labs`.
 - Normalized current README and PATH guidance to reflect the standalone Sourcebook taxonomy after the moves.
+- Simplified `Personal Wikipedia` by removing six unused placeholder subfolders and shifting the evergreen guidance toward a flatter default structure.
 - Task type: `vault-governance`
 - Added root `AGENTS.md` guidance so future agents must read the local vault rules and record kept edits in this changelog before finishing.
 - Replaced the Sourcebook changelog policy with per-edit agent logging instead of notable-only tracking.
@@ -30,14 +31,25 @@ Add new dated entries at the top of this section.
 ### Workflow
 - Updated the installed Obsidian vault skills so `D:\Imperial Sourcebook` now follows this file for every retained agent edit pass, not only larger structural changes.
 - Added Sourcebook-specific audit heuristics so future vault audits do not assume the older `Imperial Records` folder layout.
+- Updated `PATH.md`, root `README.md`, and `Personal Wikipedia/README.md` so the documented rule now matches the flatter evergreen layout.
+
+### Removed
+- Removed the unused `Personal Wikipedia/Book Autopsies/` placeholder folder.
+- Removed the unused `Personal Wikipedia/Concept Notes/` placeholder folder.
+- Removed the unused `Personal Wikipedia/Domain Wikis/` placeholder folder.
+- Removed the unused `Personal Wikipedia/Etymology & Language/` placeholder folder.
+- Removed the unused `Personal Wikipedia/Explain It Simply/` placeholder folder.
+- Removed the unused `Personal Wikipedia/Scientific Annotations/` placeholder folder.
 
 ### Notes
 - Counts: 146 markdown notes and 20 supporting files present at bootstrap.
 - Counts: 3 folders moved and 12 Sourcebook governance/readme notes updated during the consolidation pass.
 - Counts: 1 root agent-instruction file added and 5 installed skill or reference files updated for Sourcebook logging behavior.
+- Counts: 6 empty `Personal Wikipedia` placeholder folders and their 6 README files removed.
 - Left unresolved: `Personal Advice/Menjadi Expert.md` still references missing file `1000089260.jpg`, which is not present in this vault.
 - Left unresolved: the `Quick Note!` duplicate-review pair remains intentionally unchanged.
 - Left unresolved: manual edits made outside agent workflows still depend on the editor to add an entry here; this policy only enforces agent-guided work.
+- Left unresolved: `Personal Wikipedia/Anti-Library/` remains in place as the only current child bucket.
 - Follow-up: none for this pass.
 - Follow-up: future same-day agent edits should merge into this `2026-04-22` entry instead of creating another date heading.
 

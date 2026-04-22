@@ -5,12 +5,8 @@
 ## Current Buckets
 
 - `Anti-Library`: books and topics worth keeping visible before mastery.
-- `Book Autopsies`: deeper takeaways from books.
-- `Concept Notes`: durable explanations of ideas.
-- `Domain Wikis`: broader topic hubs.
-- `Etymology & Language`: language, wording, and origin notes.
-- `Explain It Simply`: simplified explanations for complex topics.
-- `Scientific Annotations`: science-heavy notes that need careful interpretation.
+
+Most evergreen notes currently live directly in `Personal Wikipedia` instead of being pre-sorted into extra subfolders.
 
 ## What Belongs Here
 
@@ -26,4 +22,4 @@
 ## How To Use It
 
 - write for future retrieval, not just capture
-- prefer durable titles and clean boundaries between child folders
+- keep the folder mostly flat until a repeated evergreen pattern actually earns its own child bucket

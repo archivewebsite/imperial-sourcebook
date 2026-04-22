@@ -22,7 +22,7 @@ The structure favors clear roles over deep hierarchy. Source-driven notes, everg
 ### 2. Personal Wikipedia (Evergreen Layer)
 **Goal:** Build a personal reference layer that stays useful beyond the source that created it.
 - **What belongs here:** glossary pages, concept notes, domain hubs, simplified explanations, and science-heavy notes that have been cleaned up enough to keep long term.
-- **Rule:** Move notes here when the title and structure should optimize for future retrieval, not just present capture.
+- **Rule:** Move notes here when the title and structure should optimize for future retrieval, not just present capture. Keep the folder relatively flat unless a repeated evergreen pattern clearly justifies a child bucket.
 
 ### 3. The Academy (Structured Study)
 **Goal:** Keep formal study systems and academic training material explicit instead of scattering them across generic notes.
@@ -58,6 +58,7 @@ Future plans and possible commitments live outside this vault in `D:\Imperial Re
 
 1. **Promote Upward Slowly:** Keep rough source-heavy material in `Notes` or `Learning & Skills` until the idea has earned an evergreen rewrite in `Personal Wikipedia`.
 2. **Separate Study From Retrieval:** If a note is meant to train skill, keep it in `The Academy`, `Bahas Soal`, or `Learning & Skills`. If it is meant to explain a durable concept, move it to `Personal Wikipedia`.
-3. **Keep Backlog Operational:** Future commitments belong in `D:\Imperial Records\Labs\Idea Backlog`, not in the reference vault.
-4. **Do Not Turn Everything Into A System:** The vault should stay useful because the folders have clear roles, not because every note gets an elaborate workflow.
-5. **Keep Context In Markdown:** Images, screenshots, and files belong in `Attachments`, but the interpretation should live in notes that can be linked, searched, and revised.
+3. **Earn New Subfolders:** Do not pre-create `Personal Wikipedia` subfolders until the notes inside them actually exist.
+4. **Keep Backlog Operational:** Future commitments belong in `D:\Imperial Records\Labs\Idea Backlog`, not in the reference vault.
+5. **Do Not Turn Everything Into A System:** The vault should stay useful because the folders have clear roles, not because every note gets an elaborate workflow.
+6. **Keep Context In Markdown:** Images, screenshots, and files belong in `Attachments`, but the interpretation should live in notes that can be linked, searched, and revised.

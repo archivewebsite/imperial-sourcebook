@@ -14,7 +14,7 @@ This vault was split out of `Imperial Records` so long-lived knowledge could gro
 - `Motivation`: short notes that restore perspective or momentum.
 - `Notes`: broad source-driven notes, topical references, and the `Notes/Random Questions` subfolder for open curiosities.
 - `Personal Advice`: practical guidance, self-management material, and the `Personal Advice/Tips and Trick` subfolder for compact tactical reminders.
-- `Personal Wikipedia`: evergreen explanations, glossaries, and long-lived reference pages.
+- `Personal Wikipedia`: evergreen explanations, glossaries, and long-lived reference pages. Keep this layer mostly flat until a real evergreen cluster earns its own subfolder.
 - `The Academy`: structured academic material, subject training, and study systems.
 - `Attachments`: supporting files only. Keep the meaning in markdown notes, not here.
 
@@ -34,6 +34,7 @@ This vault was split out of `Imperial Records` so long-lived knowledge could gro
 - Use the nearest folder `README.md` before creating a new bucket or filing ambiguous notes.
 - Let folders describe role; let note titles describe the specific material inside them.
 - Keep article-derived notes close to their source role, then promote stable synthesis upward when it becomes durable.
+- Keep `Personal Wikipedia` relatively flat unless repeated evergreen note patterns justify another child folder.
 
 ## What Does Not Belong
 

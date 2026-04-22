@@ -19,7 +19,7 @@ Add new dated entries at the top of this section.
 - Consolidated the small-bucket layout by moving `Random Questions` under `Notes`, moving `Tips and Trick` under `Personal Advice`, and relocating `Idea Backlog` to `D:\Imperial Records\Labs`.
 - Normalized current README and PATH guidance to reflect the standalone Sourcebook taxonomy after the moves.
 - Simplified `Personal Wikipedia` by removing six unused placeholder subfolders and shifting the evergreen guidance toward a flatter default structure.
-- Promoted the former `Personal Wikipedia/Anti-Library/` bucket to the vault root and reframed it as `Knowledge Horizon/` so pre-mastery material no longer sits inside the evergreen layer.
+- Promoted the former `Personal Wikipedia/Anti-Library/` bucket to the vault root and reframed it as `Curiosity Shelf/` so pre-mastery material no longer sits inside the evergreen layer.
 - Task type: `vault-governance`
 - Added root `AGENTS.md` guidance so future agents must read the local vault rules and record kept edits in this changelog before finishing.
 - Replaced the Sourcebook changelog policy with per-edit agent logging instead of notable-only tracking.
@@ -28,16 +28,16 @@ Add new dated entries at the top of this section.
 - Moved `Random Questions/` to `Notes/Random Questions/`.
 - Moved `Tips and Trick/` to `Personal Advice/Tips and Trick/`.
 - Moved `Idea Backlog/` out of Sourcebook into `D:\Imperial Records\Labs\Idea Backlog/`.
-- Moved `Personal Wikipedia/Anti-Library/` to root as `Knowledge Horizon/`.
+- Moved `Personal Wikipedia/Anti-Library/` to root as `Curiosity Shelf/`.
 
 ### Renamed
-- Renamed the moved `Anti-Library/` bucket to `Knowledge Horizon/` so the folder name reads as a root-level learning frontier instead of an imported library term.
+- Renamed the moved `Anti-Library/` bucket to `Curiosity Shelf/` so the folder name reads like a plain-language root bucket instead of an imported library term.
 
 ### Workflow
 - Updated the installed Obsidian vault skills so `D:\Imperial Sourcebook` now follows this file for every retained agent edit pass, not only larger structural changes.
 - Added Sourcebook-specific audit heuristics so future vault audits do not assume the older `Imperial Records` folder layout.
 - Updated `PATH.md`, root `README.md`, and `Personal Wikipedia/README.md` so the documented rule now matches the flatter evergreen layout.
-- Updated `Knowledge Horizon/README.md` plus the Sourcebook audit rules so future organization passes treat `Knowledge Horizon` as a valid top-level content bucket.
+- Updated `Curiosity Shelf/README.md` plus the Sourcebook audit rules so future organization passes treat `Curiosity Shelf` as a valid top-level content bucket.
 
 ### Removed
 - Removed the unused `Personal Wikipedia/Book Autopsies/` placeholder folder.
@@ -56,7 +56,7 @@ Add new dated entries at the top of this section.
 - Left unresolved: `Personal Advice/Menjadi Expert.md` still references missing file `1000089260.jpg`, which is not present in this vault.
 - Left unresolved: the `Quick Note!` duplicate-review pair remains intentionally unchanged.
 - Left unresolved: manual edits made outside agent workflows still depend on the editor to add an entry here; this policy only enforces agent-guided work.
-- Left unresolved: `Knowledge Horizon/` is still documentation-only because the former `Anti-Library/` bucket did not contain actual notes yet.
+- Left unresolved: `Curiosity Shelf/` is still documentation-only because the former `Anti-Library/` bucket did not contain actual notes yet.
 - Follow-up: none for this pass.
 - Follow-up: future same-day agent edits should merge into this `2026-04-22` entry instead of creating another date heading.
 

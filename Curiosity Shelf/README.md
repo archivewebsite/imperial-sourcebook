@@ -1,6 +1,6 @@
-# Knowledge Horizon
+# Curiosity Shelf
 
-`Knowledge Horizon` holds books, topics, and references you want to keep visible precisely because they sit just beyond your current mastery.
+`Curiosity Shelf` holds books, topics, and references you want to keep visible precisely because they sit just beyond your current mastery.
 
 ## What Belongs Here
 

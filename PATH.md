@@ -22,9 +22,9 @@ The structure favors clear roles over deep hierarchy. Source-driven notes, everg
 ### 2. Personal Wikipedia (Evergreen Layer)
 **Goal:** Build a personal reference layer that stays useful beyond the source that created it.
 - **What belongs here:** glossary pages, concept notes, domain hubs, simplified explanations, and science-heavy notes that have been cleaned up enough to keep long term.
-- **Rule:** Move notes here when the title and structure should optimize for future retrieval, not just present capture. Keep the folder relatively flat, and keep pre-mastery material in `Knowledge Horizon` instead of parking it here.
+- **Rule:** Move notes here when the title and structure should optimize for future retrieval, not just present capture. Keep the folder relatively flat, and keep pre-mastery material in `Curiosity Shelf` instead of parking it here.
 
-### 3. Knowledge Horizon (Visible Unknowns)
+### 3. Curiosity Shelf (Visible Unknowns)
 **Goal:** Keep books, topics, and references visible when they matter to you but still sit beyond current mastery.
 - **What belongs here:** unread or partially explored books, frontier topics, and lightweight reminders of what you still want to understand later.
 - **Rule:** Use this branch for visible unknowns, not operational backlog. Move material into `Learning & Skills` or `The Academy` once study begins, or into `Personal Wikipedia` once it becomes durable synthesis.
@@ -62,7 +62,7 @@ Future plans and possible commitments live outside this vault in `D:\Imperial Re
 ## Best Practices
 
 1. **Promote Upward Slowly:** Keep rough source-heavy material in `Notes` or `Learning & Skills` until the idea has earned an evergreen rewrite in `Personal Wikipedia`.
-2. **Separate Frontier From Retrieval:** If a note is mostly a reminder of what you still need to learn, keep it in `Knowledge Horizon`. Move it to `The Academy` or `Learning & Skills` once study starts, or to `Personal Wikipedia` once it becomes a durable explanation.
+2. **Separate Frontier From Retrieval:** If a note is mostly a reminder of what you still need to learn, keep it in `Curiosity Shelf`. Move it to `The Academy` or `Learning & Skills` once study starts, or to `Personal Wikipedia` once it becomes a durable explanation.
 3. **Earn New Subfolders:** Do not pre-create `Personal Wikipedia` subfolders until the notes inside them actually exist.
 4. **Keep Backlog Operational:** Future commitments belong in `D:\Imperial Records\Labs\Idea Backlog`, not in the reference vault.
 5. **Do Not Turn Everything Into A System:** The vault should stay useful because the folders have clear roles, not because every note gets an elaborate workflow.

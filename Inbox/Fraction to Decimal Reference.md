@@ -1,39 +1,26 @@
----
-tags: [math, fractions, decimals, reference, cheat-sheet]
-aliases: [Fraction to Decimal Table, Denominator Reference 2-20]
----
-# Fraction → Decimal Reference (Denominators 2–20)
-
-> [!tip] Obsidian Usage
-> - Press `Ctrl/Cmd + F` to instantly jump to any fraction.
-> - Values are **truncated** to 3 decimal places (as provided).
-> - Add `cssclasses: wide-page` to your frontmatter if tables feel cramped.
-
----
-
 ### Denominator 2
 | Fraction | Decimal |
-|:--------:|:-------:|
-| 1/2  | 0.500 |
-| 2/2  | 1.000 |
-| 3/2  | 1.500 |
-| 4/2  | 2.000 |
-| 5/2  | 2.500 |
-| 6/2  | 3.000 |
-| 7/2  | 3.500 |
-| 8/2  | 4.000 |
-| 9/2  | 4.500 |
-| 10/2 | 5.000 |
-| 11/2 | 5.500 |
-| 12/2 | 6.000 |
-| 13/2 | 6.500 |
-| 14/2 | 7.000 |
-| 15/2 | 7.500 |
-| 16/2 | 8.000 |
-| 17/2 | 8.500 |
-| 18/2 | 9.000 |
-| 19/2 | 9.500 |
-| 20/2 | 10.000 |
+| :------: | :-----: |
+|   1/2    |  0.500  |
+|   2/2    |  1.000  |
+|   3/2    |  1.500  |
+|   4/2    |  2.000  |
+|   5/2    |  2.500  |
+|   6/2    |  3.000  |
+|   7/2    |  3.500  |
+|   8/2    |  4.000  |
+|   9/2    |  4.500  |
+|   10/2   |  5.000  |
+|   11/2   |  5.500  |
+|   12/2   |  6.000  |
+|   13/2   |  6.500  |
+|   14/2   |  7.000  |
+|   15/2   |  7.500  |
+|   16/2   |  8.000  |
+|   17/2   |  8.500  |
+|   18/2   |  9.000  |
+|   19/2   |  9.500  |
+|   20/2   | 10.000  |
 
 ### Denominator 3
 | Fraction | Decimal |

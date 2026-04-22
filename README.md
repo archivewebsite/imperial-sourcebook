@@ -11,6 +11,7 @@ This vault was split out of `Imperial Records` so long-lived knowledge could gro
 - `Bahas Soal`: worked solutions, formula support, and practice breakdowns.
 - `Design Inspiration`: saved visual and product references worth revisiting.
 - `Learning & Skills`: study notes, technical references, and skill-building material.
+- `Knowledge Horizon`: books, topics, and references worth keeping visible before mastery without pretending they are already evergreen notes.
 - `Motivation`: short notes that restore perspective or momentum.
 - `Notes`: broad source-driven notes, topical references, and the `Notes/Random Questions` subfolder for open curiosities.
 - `Personal Advice`: practical guidance, self-management material, and the `Personal Advice/Tips and Trick` subfolder for compact tactical reminders.
@@ -21,12 +22,13 @@ This vault was split out of `Imperial Records` so long-lived knowledge could gro
 ## How To Use This Vault
 
 1. Put source-heavy notes into `Notes`, `Bahas Soal`, or `Learning & Skills` based on their role.
-2. Distill durable explanations into `Personal Wikipedia` once the note should outlive its source.
-3. Keep formal study systems and curriculum-like structures in `The Academy`.
-4. Store practical rereadable guidance in `Personal Advice`, using `Personal Advice/Tips and Trick` for compact tactical reminders and `Motivation` for short reset notes.
-5. Park unanswered questions in `Notes/Random Questions`.
-6. Keep future plans and possible commitments in `D:\Imperial Records\Labs\Idea Backlog`.
-7. Keep raw files in `Attachments`, but keep context, summaries, and decisions in markdown.
+2. Keep pre-mastery books, topics, and frontier references in `Knowledge Horizon` when they still act as visible unknowns rather than finished notes.
+3. Distill durable explanations into `Personal Wikipedia` once the note should outlive its source.
+4. Keep formal study systems and curriculum-like structures in `The Academy`.
+5. Store practical rereadable guidance in `Personal Advice`, using `Personal Advice/Tips and Trick` for compact tactical reminders and `Motivation` for short reset notes.
+6. Park unanswered questions in `Notes/Random Questions`.
+7. Keep future plans and possible commitments in `D:\Imperial Records\Labs\Idea Backlog`.
+8. Keep raw files in `Attachments`, but keep context, summaries, and decisions in markdown.
 
 ## Conventions
 
@@ -34,6 +36,7 @@ This vault was split out of `Imperial Records` so long-lived knowledge could gro
 - Use the nearest folder `README.md` before creating a new bucket or filing ambiguous notes.
 - Let folders describe role; let note titles describe the specific material inside them.
 - Keep article-derived notes close to their source role, then promote stable synthesis upward when it becomes durable.
+- Keep frontier books and topics in `Knowledge Horizon` until they become active study material or evergreen reference notes.
 - Keep `Personal Wikipedia` relatively flat unless repeated evergreen note patterns justify another child folder.
 
 ## What Does Not Belong

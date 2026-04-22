@@ -2,11 +2,11 @@
 
 `Personal Wikipedia` is the evergreen reference layer of the vault. Use it for notes you want to stay useful beyond the article, source, or moment that produced them.
 
-## Current Buckets
+## Current Shape
 
-- `Anti-Library`: books and topics worth keeping visible before mastery.
+`Personal Wikipedia` currently has no standing child buckets. Most evergreen notes should live directly in this folder unless a repeated pattern genuinely earns a subfolder.
 
-Most evergreen notes currently live directly in `Personal Wikipedia` instead of being pre-sorted into extra subfolders.
+Pre-mastery books, topics, and frontier references now live in root `Knowledge Horizon`, not inside this evergreen layer.
 
 ## What Belongs Here
 
@@ -17,7 +17,8 @@ Most evergreen notes currently live directly in `Personal Wikipedia` instead of 
 ## What Does Not
 
 - rough source notes that still belong in `Notes`
-- active project thinking that belongs in `Projects`
+- pre-mastery books or topics that belong in `Knowledge Horizon`
+- active project thinking that belongs in `Imperial Records`
 
 ## How To Use It
 

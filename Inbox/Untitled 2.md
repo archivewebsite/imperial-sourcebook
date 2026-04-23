@@ -451,3 +451,8 @@ The three daily practices (morning intention, evening evidence log, anchor habit
 
 When you're ready, click any week inside the plan to begin. And when Phase 1 starts feeling like maintenance rather than effort — that's when you'll know you're ready for Phase 2.
 
+![[artifact.html]]
+
+---
+
+Question:

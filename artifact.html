@@ -1,0 +1,718 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Phase 1 — 30-Day Foundation Plan</title>
+<style>
+  :root {
+    --bg: #13110f;
+    --bg2: #1c1814;
+    --bg3: #242018;
+    --cream: #e8e0d0;
+    --muted: #8a8070;
+    --amber: #c9913a;
+    --amber-light: #e6b060;
+    --teal: #4a9e8a;
+    --purple: #8b72be;
+    --coral: #c4614a;
+    --border: rgba(232,224,208,0.1);
+    --border2: rgba(232,224,208,0.06);
+    --week1: #c9913a;
+    --week2: #4a9e8a;
+    --week3: #8b72be;
+    --week4: #c4614a;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--cream);
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 15px;
+    line-height: 1.7;
+    min-height: 100vh;
+  }
+
+  .grain {
+    position: fixed; inset: 0; pointer-events: none; z-index: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+    opacity: 0.6;
+  }
+
+  .container { position: relative; z-index: 1; max-width: 860px; margin: 0 auto; padding: 0 24px 80px; }
+
+  /* HEADER */
+  .header {
+    padding: 48px 0 32px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 36px;
+  }
+  .phase-label {
+    font-family: 'Courier New', monospace;
+    font-size: 11px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--amber);
+    margin-bottom: 12px;
+    opacity: 0.9;
+  }
+  h1 {
+    font-size: clamp(28px, 5vw, 42px);
+    font-weight: 400;
+    letter-spacing: -0.5px;
+    line-height: 1.2;
+    color: var(--cream);
+    margin-bottom: 16px;
+  }
+  h1 em { font-style: italic; color: var(--amber-light); }
+  .header-sub {
+    color: var(--muted);
+    font-size: 14px;
+    max-width: 560px;
+    line-height: 1.6;
+  }
+
+  /* PROGRESS BAR */
+  .progress-section { margin-bottom: 36px; }
+  .progress-header {
+    display: flex; justify-content: space-between; align-items: baseline;
+    margin-bottom: 8px;
+  }
+  .progress-label { font-size: 12px; color: var(--muted); font-family: 'Courier New', monospace; letter-spacing: 1px; text-transform: uppercase; }
+  .progress-count { font-size: 22px; color: var(--amber); font-weight: 400; }
+  .progress-track {
+    height: 3px; background: var(--border); border-radius: 2px; overflow: hidden;
+  }
+  .progress-fill {
+    height: 100%; background: linear-gradient(90deg, var(--amber), var(--amber-light));
+    border-radius: 2px; transition: width 0.5s ease;
+    width: 0%;
+  }
+
+  /* WEEK TABS */
+  .week-tabs {
+    display: flex; gap: 4px; margin-bottom: 32px;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 0;
+  }
+  .week-tab {
+    padding: 10px 18px 12px;
+    font-size: 13px;
+    font-family: 'Courier New', monospace;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    border: none;
+    background: transparent;
+    color: var(--muted);
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+    transition: all 0.2s ease;
+    border-radius: 4px 4px 0 0;
+  }
+  .week-tab:hover { color: var(--cream); }
+  .week-tab.active { color: var(--cream); }
+  .week-tab[data-week="1"].active { border-bottom-color: var(--week1); color: var(--amber-light); }
+  .week-tab[data-week="2"].active { border-bottom-color: var(--week2); color: #6dc4ae; }
+  .week-tab[data-week="3"].active { border-bottom-color: var(--week3); color: #a990d4; }
+  .week-tab[data-week="4"].active { border-bottom-color: var(--week4); color: #d4806a; }
+
+  /* WEEK PANEL */
+  .week-panel { display: none; }
+  .week-panel.active { display: block; animation: fadeIn 0.25s ease; }
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+
+  .week-header {
+    display: flex; align-items: flex-start; gap: 20px;
+    margin-bottom: 28px; padding: 24px;
+    background: var(--bg2);
+    border-radius: 10px;
+    border: 1px solid var(--border2);
+  }
+  .week-number {
+    font-size: 48px; line-height: 1;
+    font-weight: 400; font-style: italic;
+    flex-shrink: 0;
+    opacity: 0.15;
+  }
+  .week-info { flex: 1; }
+  .week-theme-label { font-family: 'Courier New', monospace; font-size: 10px; letter-spacing: 3px; text-transform: uppercase; margin-bottom: 4px; }
+  .week-theme { font-size: 20px; margin-bottom: 10px; font-style: italic; }
+  .week-desc { color: var(--muted); font-size: 14px; line-height: 1.65; }
+  .week-days { font-family: 'Courier New', monospace; font-size: 11px; letter-spacing: 1px; margin-top: 10px; }
+
+  /* COLOR ACCENTS PER WEEK */
+  [data-panel="1"] .week-number, [data-panel="1"] .week-theme, [data-panel="1"] .week-theme-label { color: var(--week1); }
+  [data-panel="2"] .week-number, [data-panel="2"] .week-theme, [data-panel="2"] .week-theme-label { color: var(--week2); }
+  [data-panel="3"] .week-number, [data-panel="3"] .week-theme, [data-panel="3"] .week-theme-label { color: var(--week3); }
+  [data-panel="4"] .week-number, [data-panel="4"] .week-theme, [data-panel="4"] .week-theme-label { color: var(--week4); }
+  [data-panel="1"] .week-days { color: var(--week1); }
+  [data-panel="2"] .week-days { color: var(--week2); }
+  [data-panel="3"] .week-days { color: var(--week3); }
+  [data-panel="4"] .week-days { color: var(--week4); }
+
+  /* SECTIONS */
+  .section-label {
+    font-family: 'Courier New', monospace;
+    font-size: 10px; letter-spacing: 3px; text-transform: uppercase;
+    color: var(--muted); margin-bottom: 14px; margin-top: 28px;
+    padding-bottom: 8px; border-bottom: 1px solid var(--border2);
+  }
+
+  /* DAILY HABITS */
+  .habits-grid { display: flex; flex-direction: column; gap: 8px; margin-bottom: 24px; }
+  .habit-card {
+    display: flex; align-items: flex-start; gap: 14px;
+    padding: 14px 16px;
+    background: var(--bg2); border: 1px solid var(--border2);
+    border-radius: 8px; cursor: pointer;
+    transition: background 0.15s ease, border-color 0.15s ease;
+  }
+  .habit-card:hover { background: var(--bg3); border-color: var(--border); }
+  .habit-card.done { opacity: 0.55; }
+  .habit-check {
+    width: 18px; height: 18px; border-radius: 50%;
+    border: 1.5px solid var(--muted);
+    flex-shrink: 0; margin-top: 2px;
+    display: flex; align-items: center; justify-content: center;
+    transition: all 0.2s ease;
+  }
+  .habit-card.done .habit-check {
+    background: var(--amber); border-color: var(--amber);
+  }
+  .checkmark { display: none; width: 10px; height: 7px; }
+  .checkmark path { stroke: var(--bg); stroke-width: 2; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+  .habit-card.done .checkmark { display: block; }
+  .habit-time {
+    font-family: 'Courier New', monospace; font-size: 10px;
+    letter-spacing: 1px; text-transform: uppercase;
+    color: var(--amber); opacity: 0.7; margin-bottom: 3px;
+  }
+  .habit-title { font-size: 14px; color: var(--cream); margin-bottom: 2px; }
+  .habit-desc { font-size: 13px; color: var(--muted); line-height: 1.5; }
+
+  /* FOCUS CARDS (3 pillars) */
+  .pillar-grid { display: grid; grid-template-columns: 1fr; gap: 12px; margin-bottom: 24px; }
+  @media (min-width: 600px) { .pillar-grid { grid-template-columns: 1fr 1fr 1fr; } }
+  .pillar-card {
+    padding: 18px 16px; background: var(--bg2);
+    border: 1px solid var(--border2); border-radius: 8px;
+  }
+  .pillar-name {
+    font-family: 'Courier New', monospace; font-size: 10px;
+    letter-spacing: 2px; text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+  .pillar-card:nth-child(1) .pillar-name { color: var(--amber); }
+  .pillar-card:nth-child(2) .pillar-name { color: var(--teal); }
+  .pillar-card:nth-child(3) .pillar-name { color: var(--purple); }
+  .pillar-text { font-size: 13px; color: var(--muted); line-height: 1.65; }
+  .pillar-action {
+    font-size: 13px; color: var(--cream); margin-top: 8px;
+    padding-top: 8px; border-top: 1px solid var(--border2);
+    line-height: 1.55;
+  }
+
+  /* INSIGHT BLOCK */
+  .insight-block {
+    margin: 20px 0;
+    padding: 20px 22px;
+    border-left: 2px solid;
+    background: var(--bg2);
+    border-radius: 0 8px 8px 0;
+  }
+  [data-panel="1"] .insight-block { border-color: var(--week1); }
+  [data-panel="2"] .insight-block { border-color: var(--week2); }
+  [data-panel="3"] .insight-block { border-color: var(--week3); }
+  [data-panel="4"] .insight-block { border-color: var(--week4); }
+  .insight-label { font-family: 'Courier New', monospace; font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
+  .insight-text { font-size: 14px; color: var(--cream); font-style: italic; line-height: 1.7; }
+
+  /* MISTAKES / WARNINGS */
+  .warn-block {
+    background: var(--bg2); border: 1px solid rgba(196,97,74,0.25);
+    border-radius: 8px; padding: 18px 20px; margin-top: 20px;
+  }
+  .warn-block .section-label { color: var(--coral); border-color: rgba(196,97,74,0.2); margin-top: 0; }
+  .warn-list { list-style: none; }
+  .warn-list li {
+    font-size: 13px; color: var(--muted); padding: 6px 0;
+    border-bottom: 1px solid var(--border2); display: flex; gap: 10px;
+  }
+  .warn-list li:last-child { border: none; }
+  .warn-icon { color: var(--coral); flex-shrink: 0; margin-top: 2px; }
+
+  /* WEEKLY REVIEW */
+  .review-block {
+    background: var(--bg2); border: 1px solid var(--border);
+    border-radius: 8px; padding: 20px 22px; margin-top: 24px;
+  }
+  .review-block .section-label { margin-top: 0; }
+  .review-q { font-size: 14px; color: var(--cream); padding: 8px 0; border-bottom: 1px solid var(--border2); }
+  .review-q:last-child { border: none; }
+  .q-num { color: var(--amber); font-family: 'Courier New', monospace; font-size: 12px; margin-right: 8px; }
+
+  /* FOOTER NOTE */
+  .footer-note {
+    margin-top: 40px; padding: 20px;
+    border: 1px solid rgba(139,114,190,0.2);
+    border-radius: 8px; background: rgba(139,114,190,0.04);
+    font-size: 13px; color: var(--muted); line-height: 1.65;
+  }
+  .footer-note strong { color: var(--purple); font-weight: 400; }
+
+  /* ALL DAYS TRACKER */
+  .days-tracker {
+    display: grid; grid-template-columns: repeat(7, 1fr);
+    gap: 6px; margin-bottom: 28px;
+  }
+  .day-dot {
+    aspect-ratio: 1; border-radius: 4px;
+    background: var(--bg2); border: 1px solid var(--border2);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 11px; color: var(--muted);
+    font-family: 'Courier New', monospace;
+    cursor: default;
+    transition: all 0.2s;
+  }
+  .day-dot.completed { background: rgba(201,145,58,0.2); border-color: rgba(201,145,58,0.4); color: var(--amber-light); }
+  .day-dot.current { border-color: var(--amber); color: var(--amber); }
+
+  /* UTILITY */
+  .flex-between { display: flex; justify-content: space-between; align-items: center; }
+  .text-muted { color: var(--muted); }
+  .text-sm { font-size: 13px; }
+
+  /* NAV BOTTOM */
+  .bottom-nav {
+    display: flex; gap: 10px; margin-top: 32px; padding-top: 24px;
+    border-top: 1px solid var(--border);
+  }
+  .nav-btn {
+    padding: 10px 20px; border-radius: 6px; border: 1px solid var(--border);
+    background: var(--bg2); color: var(--muted); cursor: pointer;
+    font-family: 'Courier New', monospace; font-size: 12px;
+    letter-spacing: 1px; transition: all 0.2s;
+    text-transform: uppercase;
+  }
+  .nav-btn:hover { color: var(--cream); border-color: var(--amber); }
+  .nav-btn.primary { background: rgba(201,145,58,0.12); border-color: rgba(201,145,58,0.4); color: var(--amber-light); }
+  .spacer { flex: 1; }
+</style>
+</head>
+<body>
+<div class="grain"></div>
+<div class="container">
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="phase-label">Phase 1 of 4 · Foundation</div>
+    <h1>30 days to build<br><em>who you actually become</em></h1>
+    <p class="header-sub">This is not a challenge to complete. It is an identity to begin constructing — one small, honest action at a time. Self-esteem, positive mindset, and self-discipline are the roots. Everything else grows from here.</p>
+  </div>
+
+  <!-- PROGRESS -->
+  <div class="progress-section">
+    <div class="progress-header">
+      <span class="progress-label">Overall progress</span>
+      <span class="progress-count" id="prog-text">0 / 12 habits</span>
+    </div>
+    <div class="progress-track"><div class="progress-fill" id="prog-fill"></div></div>
+  </div>
+
+  <!-- 30-DAY DOT TRACKER -->
+  <div class="section-label" style="margin-top:0">30-day overview</div>
+  <div class="days-tracker" id="dot-tracker"></div>
+
+  <!-- WEEK TABS -->
+  <div class="week-tabs">
+    <button class="week-tab active" data-week="1" onclick="switchWeek(1)">Week 1 — Awareness</button>
+    <button class="week-tab" data-week="2" onclick="switchWeek(2)">Week 2 — Patterns</button>
+    <button class="week-tab" data-week="3" onclick="switchWeek(3)">Week 3 — Shifts</button>
+    <button class="week-tab" data-week="4" onclick="switchWeek(4)">Week 4 — Integration</button>
+  </div>
+
+  <!-- WEEK 1 -->
+  <div class="week-panel active" data-panel="1">
+    <div class="week-header">
+      <div class="week-number">I</div>
+      <div class="week-info">
+        <div class="week-theme-label">Theme</div>
+        <div class="week-theme">"Observe before you judge"</div>
+        <div class="week-desc">The goal this week is not to change anything — it is to notice. You are gathering data about yourself, not making verdicts. Observation without judgment is the beginning of all real change.</div>
+        <div class="week-days">Days 1 – 7</div>
+      </div>
+    </div>
+
+    <div class="section-label">Daily habits — do all three, every day</div>
+    <div class="habits-grid">
+      <div class="habit-card" onclick="toggleHabit(this, 'w1h1')">
+        <div class="habit-check"><svg class="checkmark" viewBox="0 0 10 7"><path d="M1 3.5L3.5 6L9 1"/></svg></div>
+        <div>
+          <div class="habit-time">Morning · 5 min</div>
+          <div class="habit-title">Set a daily intention</div>
+          <div class="habit-desc">Write one sentence: <em>"Today I want to bring ___."</em> Not a goal. Not a task. An energy or quality — patience, curiosity, effort, kindness. This trains the mind to lead rather than react.</div>
+        </div>
+      </div>
+      <div class="habit-card" onclick="toggleHabit(this, 'w1h2')">
+        <div class="habit-check"><svg class="checkmark" viewBox="0 0 10 7"><path d="M1 3.5L3.5 6L9 1"/></svg></div>
+        <div>
+          <div class="habit-time">Evening · 5 min</div>
+          <div class="habit-title">Write your evidence log</div>
+          <div class="habit-desc">Write 3 things you did well today — no matter how small. "I replied to a message I'd been avoiding." "I didn't snap at someone even when I wanted to." This is not positivity. It is <em>evidence collection</em> against the voice that says you're not enough.</div>
+        </div>
+      </div>
+      <div class="habit-card" onclick="toggleHabit(this, 'w1h3')">
+        <div class="habit-check"><svg class="checkmark" viewBox="0 0 10 7"><path d="M1 3.5L3.5 6L9 1"/></svg></div>
+        <div>
+          <div class="habit-time">Any time · 10–15 min</div>
+          <div class="habit-title">Anchor habit — choose one and keep it</div>
+          <div class="habit-desc">Pick exactly one: walking, reading (anything), journaling, or a short skill practice. Do it at the same time every day. The content matters less than the consistency. You are building the neural groove of follow-through.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-label">Weekly focus — the three pillars</div>
+    <div class="pillar-grid">
+      <div class="pillar-card">
+        <div class="pillar-name">Self-esteem</div>
+        <div class="pillar-text">Begin an "evidence file." A note on your phone or notebook where you paste proof that you are capable, kind, or growing.</div>
+        <div class="pillar-action">Each evening, add one specific entry. Not "I'm a good person." But: "I helped someone without expecting anything back today."</div>
+      </div>
+      <div class="pillar-card">
+        <div class="pillar-name">Positive mindset</div>
+        <div class="pillar-text">Notice when your inner voice is harsh. Don't fight it yet — just name it. "There's that voice again."</div>
+        <div class="pillar-action">No action required yet. Pure observation. Awareness is the first and most important step.</div>
+      </div>
+      <div class="pillar-card">
+        <div class="pillar-name">Self-discipline</div>
+        <div class="pillar-text">One anchor habit. That's all. Do it even when you don't feel like it — especially then. Motivation follows action, not the other way around.</div>
+        <div class="pillar-action">Track with a simple mark: ✓ or ✗. No streaks yet — just data.</div>
+      </div>
+    </div>
+
+    <div class="insight-block">
+      <div class="insight-label">Key insight for this week</div>
+      <div class="insight-text">You are not trying to become a different person this week. You are learning to see the person you already are — clearly, without the distortion of self-judgment. That clarity is more valuable than any motivational strategy.</div>
+    </div>
+
+    <div class="review-block">
+      <div class="section-label">End-of-week review — Sunday, 15 min</div>
+      <div class="review-q"><span class="q-num">01.</span> What did I complete? What did I skip — and what does the pattern tell me?</div>
+      <div class="review-q"><span class="q-num">02.</span> What did I notice about my inner critic this week?</div>
+      <div class="review-q"><span class="q-num">03.</span> What is one piece of evidence I'm most proud of adding to my file?</div>
+      <div class="review-q"><span class="q-num">04.</span> What will I keep doing exactly the same in Week 2?</div>
+    </div>
+
+    <div class="bottom-nav">
+      <div class="spacer"></div>
+      <button class="nav-btn primary" onclick="switchWeek(2)">Week 2 →</button>
+    </div>
+  </div>
+
+  <!-- WEEK 2 -->
+  <div class="week-panel" data-panel="2">
+    <div class="week-header">
+      <div class="week-number">II</div>
+      <div class="week-info">
+        <div class="week-theme-label">Theme</div>
+        <div class="week-theme">"Your thoughts are not facts"</div>
+        <div class="week-desc">You spent Week 1 observing. Now you begin to gently question. The brain treats repeated thoughts as truth — even when they are wrong. This week you learn to interrupt the automatic and ask: <em>is this actually true?</em></div>
+        <div class="week-days">Days 8 – 14</div>
+      </div>
+    </div>
+
+    <div class="section-label">Daily habits — continue + expand</div>
+    <div class="habits-grid">
+      <div class="habit-card" onclick="toggleHabit(this, 'w2h1')">
+        <div class="habit-check"><svg class="checkmark" viewBox="0 0 10 7"><path d="M1 3.5L3.5 6L9 1"/></svg></div>
+        <div>
+          <div class="habit-time">Morning · 5–7 min</div>
+          <div class="habit-title">Intention + one curiosity</div>
+          <div class="habit-desc">Same as Week 1, but add one sentence: <em>"Something I'm curious about today is ___."</em> Curiosity is the antidote to anxiety. A curious mind cannot be fully consumed by fear at the same time.</div>
+        </div>
+      </div>
+      <div class="habit-card" onclick="toggleHabit(this, 'w2h2')">
+        <div class="habit-check"><svg class="checkmark" viewBox="0 0 10 7"><path d="M1 3.5L3.5 6L9 1"/></svg></div>
+        <div>
+          <div class="habit-time">Evening · 10 min</div>
+          <div class="habit-title">Evidence log + thought challenge</div>
+          <div class="habit-desc">After your 3 evidence entries, add one: <em>"A harsh thought I had today was ___. The kinder, truer version is ___."</em> You are not suppressing the thought — you are examining it like a scientist examining a claim.</div>
+        </div>
+      </div>
+      <div class="habit-card" onclick="toggleHabit(this, 'w2h3')">
+        <div class="habit-check"><svg class="checkmark" viewBox="0 0 10 7"><path d="M1 3.5L3.5 6L9 1"/></svg></div>
+        <div>
+          <div class="habit-time">Any time · 15–20 min</div>
+          <div class="habit-title">Anchor habit + optional second habit</div>
+          <div class="habit-desc">Keep your Week 1 anchor habit exactly as it was. If it already feels automatic, add 5 more minutes — or add a second small habit. If it still feels effortful, keep it at the same level. Honesty here is more valuable than ambition.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-label">Weekly focus — the three pillars</div>
+    <div class="pillar-grid">
+      <div class="pillar-card">
+        <div class="pillar-name">Self-esteem</div>
+        <div class="pillar-text">When your inner critic speaks, ask one question: <em>"Would I say this to someone I love?"</em></div>
+        <div class="pillar-action">If the answer is no — write the version you would say to them instead. That is what you deserve to hear too.</div>
+      </div>
+      <div class="pillar-card">
+        <div class="pillar-name">Positive mindset</div>
+        <div class="pillar-text">Practice specific gratitude — not "I'm grateful for my health" but "I'm grateful I woke up without pain and could make coffee before the day started."</div>
+        <div class="pillar-action">Specificity creates the feeling. Vague gratitude is just a ritual. Detailed gratitude is a shift in attention.</div>
+      </div>
+      <div class="pillar-card">
+        <div class="pillar-name">Self-discipline</div>
+        <div class="pillar-text">Track your streak this week. Missing one day is fine — everyone does. Missing two consecutive days is the start of a new habit: the habit of not doing it.</div>
+        <div class="pillar-action">If you miss a day: restart tomorrow, not from Day 1. You don't undo 10 good days by having one difficult one.</div>
+      </div>
+    </div>
+
+    <div class="insight-block">
+      <div class="insight-label">Key insight for this week</div>
+      <div class="insight-text">The brain treats repetition as truth. A thought you've had 10,000 times feels like a fact — but it is only a habit of mind. Interrupting a pattern once is not enough. Patient, consistent repetition in a new direction is how you actually rewrite it.</div>
+    </div>
+
+    <div class="review-block">
+      <div class="section-label">End-of-week review — Sunday, 15 min</div>
+      <div class="review-q"><span class="q-num">01.</span> What harsh thought came up most often this week? What is the truer version?</div>
+      <div class="review-q"><span class="q-num">02.</span> Did my anchor habit feel easier or harder than Week 1? What does that tell me?</div>
+      <div class="review-q"><span class="q-num">03.</span> What's one specific thing I'm genuinely grateful for that I almost didn't notice?</div>
+      <div class="review-q"><span class="q-num">04.</span> Is there a second habit I'm ready to add — or should I go deeper on the first?</div>
+    </div>
+
+    <div class="bottom-nav">
+      <button class="nav-btn" onclick="switchWeek(1)">← Week 1</button>
+      <div class="spacer"></div>
+      <button class="nav-btn primary" onclick="switchWeek(3)">Week 3 →</button>
+    </div>
+  </div>
+
+  <!-- WEEK 3 -->
+  <div class="week-panel" data-panel="3">
+    <div class="week-header">
+      <div class="week-number">III</div>
+      <div class="week-info">
+        <div class="week-theme-label">Theme</div>
+        <div class="week-theme">"Action first, feeling second"</div>
+        <div class="week-desc">Most people wait to feel confident before they act. This is backwards. Identity shifts when actions precede feelings — not when you feel ready. You become disciplined by doing disciplined things before you feel disciplined.</div>
+        <div class="week-days">Days 15 – 21</div>
+      </div>
+    </div>
+
+    <div class="section-label">Daily habits — deepen and act despite resistance</div>
+    <div class="habits-grid">
+      <div class="habit-card" onclick="toggleHabit(this, 'w3h1')">
+        <div class="habit-check"><svg class="checkmark" viewBox="0 0 10 7"><path d="M1 3.5L3.5 6L9 1"/></svg></div>
+        <div>
+          <div class="habit-time">Morning · 7–10 min</div>
+          <div class="habit-title">Intention + naming a resistance</div>
+          <div class="habit-desc">Write your intention, then add: <em>"One thing I'll act on today despite resistance or fear is ___."</em> Small is fine. The point is choosing to move toward something uncomfortable — this is exactly how courage is built.</div>
+        </div>
+      </div>
+      <div class="habit-card" onclick="toggleHabit(this, 'w3h2')">
+        <div class="habit-check"><svg class="checkmark" viewBox="0 0 10 7"><path d="M1 3.5L3.5 6L9 1"/></svg></div>
+        <div>
+          <div class="habit-time">Evening · 10 min</div>
+          <div class="habit-title">Evidence log + non-productivity pride</div>
+          <div class="habit-desc">After your evidence entries, write one thing you're proud of that has nothing to do with productivity, output, or achievement. Being patient. Staying calm. Choosing kindness. These are harder than most tasks and matter more.</div>
+        </div>
+      </div>
+      <div class="habit-card" onclick="toggleHabit(this, 'w3h3')">
+        <div class="habit-check"><svg class="checkmark" viewBox="0 0 10 7"><path d="M1 3.5L3.5 6L9 1"/></svg></div>
+        <div>
+          <div class="habit-time">Weekly once · 60 min</div>
+          <div class="habit-title">One hour of protected, phone-free focus</div>
+          <div class="habit-desc">Once this week, set your phone in another room and give one full uninterrupted hour to your chosen learning or skill. No notifications. No multitasking. This single practice will feel unusual at first. That discomfort is the point.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-label">Weekly focus — the three pillars</div>
+    <div class="pillar-grid">
+      <div class="pillar-card">
+        <div class="pillar-name">Self-esteem</div>
+        <div class="pillar-text">Write a letter to yourself from the perspective of someone who truly sees you and genuinely cares about you.</div>
+        <div class="pillar-action">What would they say about what you've been through? About what they see you doing? About what they believe you're capable of? Write it all. Read it slowly.</div>
+      </div>
+      <div class="pillar-card">
+        <div class="pillar-name">Positive mindset</div>
+        <div class="pillar-text">Take one difficulty or failure from this week and reframe it explicitly in writing — not to minimize it, but to extract what's true and useful from it.</div>
+        <div class="pillar-action"><em>"This happened. It was hard. What it taught me was ___. What I'd do differently is ___."</em> This is how experience becomes wisdom rather than wound.</div>
+      </div>
+      <div class="pillar-card">
+        <div class="pillar-name">Self-discipline</div>
+        <div class="pillar-text">By now your anchor habit should feel like something you simply do — not something you motivate yourself toward. If it still feels like effort, that's fine. If it's becoming automatic, add one small challenge.</div>
+        <div class="pillar-action">The protected focus hour this week is your test. Can you protect your own time? This is one of the most powerful skills you will ever build.</div>
+      </div>
+    </div>
+
+    <div class="insight-block">
+      <div class="insight-label">Key insight for this week</div>
+      <div class="insight-text">You do not become confident and then act. You act, and through that action, you gradually accumulate the evidence that makes confidence possible. Confidence is not a feeling you summon — it is a conclusion you reach after repeated proof.</div>
+    </div>
+
+    <div class="review-block">
+      <div class="section-label">End-of-week review — Sunday, 15 min</div>
+      <div class="review-q"><span class="q-num">01.</span> What was the one thing I did despite resistance? How did it feel afterward?</div>
+      <div class="review-q"><span class="q-num">02.</span> What did I write in the letter to myself — and did any of it surprise me?</div>
+      <div class="review-q"><span class="q-num">03.</span> Did I manage the protected hour? What was the biggest obstacle?</div>
+      <div class="review-q"><span class="q-num">04.</span> What does my anchor habit feel like now compared to Day 1?</div>
+    </div>
+
+    <div class="bottom-nav">
+      <button class="nav-btn" onclick="switchWeek(2)">← Week 2</button>
+      <div class="spacer"></div>
+      <button class="nav-btn primary" onclick="switchWeek(4)">Week 4 →</button>
+    </div>
+  </div>
+
+  <!-- WEEK 4 -->
+  <div class="week-panel" data-panel="4">
+    <div class="week-header">
+      <div class="week-number">IV</div>
+      <div class="week-info">
+        <div class="week-theme-label">Theme</div>
+        <div class="week-theme">"Maintenance is a skill"</div>
+        <div class="week-desc">Most people experience this: they build something good, then quietly let it fall apart. This week you learn that maintaining a practice is itself an advanced skill — not a plateau, but a form of mastery. You also prepare for Phase 2.</div>
+        <div class="week-days">Days 22 – 30</div>
+      </div>
+    </div>
+
+    <div class="section-label">Daily habits — consolidate and look forward</div>
+    <div class="habits-grid">
+      <div class="habit-card" onclick="toggleHabit(this, 'w4h1')">
+        <div class="habit-check"><svg class="checkmark" viewBox="0 0 10 7"><path d="M1 3.5L3.5 6L9 1"/></svg></div>
+        <div>
+          <div class="habit-time">Morning · 7 min</div>
+          <div class="habit-title">Intention + Phase 2 readiness question</div>
+          <div class="habit-desc">Write your intention, then add: <em>"Of the Phase 2 challenges — emotional intelligence, empathy, filtering my social circles — which one do I feel most ready to begin?"</em> You don't need to answer fully yet. Just ask honestly.</div>
+        </div>
+      </div>
+      <div class="habit-card" onclick="toggleHabit(this, 'w4h2')">
+        <div class="habit-check"><svg class="checkmark" viewBox="0 0 10 7"><path d="M1 3.5L3.5 6L9 1"/></svg></div>
+        <div>
+          <div class="habit-time">Evening · 10 min</div>
+          <div class="habit-title">Evidence log + month reflection</div>
+          <div class="habit-desc">After evidence entries, write one sentence about something that is genuinely different — however small — compared to Day 1. Not a goal reached. A thing that shifted. In how you see yourself, how you talk to yourself, how you show up.</div>
+        </div>
+      </div>
+      <div class="habit-card" onclick="toggleHabit(this, 'w4h3')">
+        <div class="habit-check"><svg class="checkmark" viewBox="0 0 10 7"><path d="M1 3.5L3.5 6L9 1"/></svg></div>
+        <div>
+          <div class="habit-time">Day 30 · 20–30 min</div>
+          <div class="habit-title">Write your self-portrait and design your Phase 2 habit stack</div>
+          <div class="habit-desc">On the final day: write a short "self-portrait" — who are you now, compared to Day 1? Then design your ongoing practice: which 1–2 habits from this month will you keep permanently? Write your Phase 2 plan with your first week's focus.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-label">Weekly focus — the three pillars</div>
+    <div class="pillar-grid">
+      <div class="pillar-card">
+        <div class="pillar-name">Self-esteem</div>
+        <div class="pillar-text">Read back through your evidence file from Day 1 to today. All of it, slowly.</div>
+        <div class="pillar-action">Write a "self-portrait" — not a list of achievements, but a description of who you actually are, based on the evidence you've collected. Let the evidence speak instead of your fears.</div>
+      </div>
+      <div class="pillar-card">
+        <div class="pillar-name">Positive mindset</div>
+        <div class="pillar-text">Decide which 1–2 practices from these 30 days you will keep indefinitely — not as a challenge, but as part of how you live.</div>
+        <div class="pillar-action">Specific gratitude? Morning intention? Thought challenge? Choose deliberately. What you practice becomes what you are.</div>
+      </div>
+      <div class="pillar-card">
+        <div class="pillar-name">Self-discipline</div>
+        <div class="pillar-text">Design your Phase 2 habit stack. What new discipline will you add while protecting what you've already built?</div>
+        <div class="pillar-action">The rule: never add a new habit at the expense of an existing one. Layer, don't replace. Your morning and evening practices are now the container everything else lives inside.</div>
+      </div>
+    </div>
+
+    <div class="insight-block">
+      <div class="insight-label">Key insight for this week</div>
+      <div class="insight-text">The goal was never to complete a 30-day challenge. It was to become someone for whom these practices are no longer an effort — someone who simply does them, the way you simply brush your teeth. That person is not a future version of you. They're who you're becoming right now.</div>
+    </div>
+
+    <div class="review-block">
+      <div class="section-label">Final review — Day 30, the most important one</div>
+      <div class="review-q"><span class="q-num">01.</span> What is one thing genuinely different about how I see myself compared to Day 1?</div>
+      <div class="review-q"><span class="q-num">02.</span> What habit proved hardest to maintain — and what does that resistance reveal?</div>
+      <div class="review-q"><span class="q-num">03.</span> What surprised me about this process?</div>
+      <div class="review-q"><span class="q-num">04.</span> Which Phase 2 challenge am I most ready for — and what is my very first action?</div>
+      <div class="review-q"><span class="q-num">05.</span> What will I keep doing, forever, because it now belongs to who I am?</div>
+    </div>
+
+    <!-- COMMON MISTAKES -->
+    <div class="warn-block" style="margin-top:28px">
+      <div class="section-label">Common mistakes — what not to do</div>
+      <ul class="warn-list">
+        <li><span class="warn-icon">—</span><span>Trying to do all 13 of your original challenges simultaneously. One phase at a time. Depth before breadth.</span></li>
+        <li><span class="warn-icon">—</span><span>Measuring progress by how you feel. Measure by whether you did the habit. Feelings lag behind actions by weeks.</span></li>
+        <li><span class="warn-icon">—</span><span>Treating a missed day as failure. Missing one day is data. Missing two in a row is a choice. Restart tomorrow, not from Day 1.</span></li>
+        <li><span class="warn-icon">—</span><span>Comparing your Week 1 to someone else's Year 5. You are building a foundation. Foundations are invisible — that doesn't mean they aren't real.</span></li>
+        <li><span class="warn-icon">—</span><span>Adding more habits before the current ones feel automatic. Stability first. Ambition second.</span></li>
+      </ul>
+    </div>
+
+    <div class="bottom-nav">
+      <button class="nav-btn" onclick="switchWeek(3)">← Week 3</button>
+      <div class="spacer"></div>
+      <button class="nav-btn primary" onclick="switchWeek(1)">Start again ↺</button>
+    </div>
+  </div>
+
+  <!-- FOOTER NOTE -->
+  <div class="footer-note" style="margin-top:40px">
+    <strong>An important note:</strong> If you are experiencing persistent low mood, difficulty functioning, or signs of depression, please consider working with a therapist or counselor alongside this plan. These practices support but do not replace professional mental health care. Reaching out to a professional is itself an act of self-discipline and self-esteem — not a sign of weakness.
+  </div>
+
+</div>
+
+<script>
+  const habits = {};
+  let totalHabits = 0;
+
+  function toggleHabit(el, id) {
+    habits[id] = !habits[id];
+    el.classList.toggle('done', habits[id]);
+    updateProgress();
+  }
+
+  function updateProgress() {
+    const done = Object.values(habits).filter(Boolean).length;
+    const total = document.querySelectorAll('.habit-card').length;
+    document.getElementById('prog-text').textContent = done + ' / ' + total + ' habits';
+    document.getElementById('prog-fill').style.width = (done / total * 100) + '%';
+    updateDots(done, total);
+  }
+
+  function updateDots(done, total) {
+    const dots = document.querySelectorAll('.day-dot');
+    const pct = done / total;
+    const completedDays = Math.floor(pct * 30);
+    dots.forEach((d, i) => {
+      d.classList.remove('completed', 'current');
+      if (i < completedDays) d.classList.add('completed');
+      else if (i === completedDays) d.classList.add('current');
+    });
+  }
+
+  function switchWeek(n) {
+    document.querySelectorAll('.week-panel').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('.week-tab').forEach(t => t.classList.remove('active'));
+    document.querySelector('[data-panel="' + n + '"]').classList.add('active');
+    document.querySelector('[data-week="' + n + '"]').classList.add('active');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  // Build 30-day dots
+  const tracker = document.getElementById('dot-tracker');
+  for (let i = 1; i <= 30; i++) {
+    const d = document.createElement('div');
+    d.className = 'day-dot' + (i === 1 ? ' current' : '');
+    d.textContent = i;
+    tracker.appendChild(d);
+  }
+</script>
+</body>
+</html>

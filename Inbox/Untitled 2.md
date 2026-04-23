@@ -60,5 +60,3 @@
 |**The Conversation**|Artikel akademik yang ditulis para ahli, gratis penuh|
 
 ---
-
-> 💡 **Tips:** Untuk akses gratis maksimal, gunakan **The Conversation**, **Quanta Magazine**, **Phys.org**, dan **ScienceDaily** — semuanya 100% gratis tanpa paywall dan sangat tepercaya karena bersumber langsung dari peneliti dan institusi ilmiah.

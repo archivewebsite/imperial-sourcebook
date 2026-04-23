@@ -1,0 +1,1 @@
+Confidence doesn’t come from believing in yourself. It comes from having done the uncomfortable thing enough times that your nervous system stops flagging it as an emergency.

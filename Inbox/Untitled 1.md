@@ -1,9 +1,3 @@
----
-tags: [kimia, hidrokarbon, alkana, alkena, alkuna, sifat-fisika]
-created: 2026-01-02
-updated: 2026-01-02
-source: "Materi Kimia - Sifat Fisika Hidrokarbon"
----
 # Sifat Fisika Hidrokarbon
 
 > [!info] Ringkasan

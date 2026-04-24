@@ -1,6 +1,6 @@
-# Tes Seleksi Perguruan Tinggi
+# College Preparation
 
-`Tes Seleksi Perguruan Tinggi` groups notes related to entrance-exam preparation.
+`College Preparation` groups notes related to entrance-exam preparation.
 
 ## Current Buckets
 

@@ -17,7 +17,7 @@ Add new dated entries at the top of this section.
 - Completed an Inbox organization pass using the existing Sourcebook buckets and routed complete notes out of `Inbox`.
 
 ### Moved
-- Moved UTBK plans, exam strategy, and math formula references into `Notes/Tes Seleksi Perguruan Tinggi/` and `Notes/Tes Seleksi Perguruan Tinggi/Matematika/`.
+- Moved UTBK plans, exam strategy, and math formula references into `Notes/College Preparation/` and `Notes/College Preparation/Matematika/`.
 - Moved AI, grammar, and mental-math learning material into `Learning & Skills/`, `Learning & Skills/Language Vaults/`, and `Learning & Skills/Skill Trees/`.
 - Moved chemistry, psychology, religion, finance, and source-list references into their matching `Notes/` locations.
 - Moved practical guidance and short motivational reminders into `Personal Advice/`, `Personal Advice/Tips and Trick/`, and `Motivation/`.

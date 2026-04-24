@@ -6,7 +6,7 @@
 
 - `Kimia`: chemistry notes.
 - `Random Questions`: open questions and curiosities worth keeping close to the broader reference layer.
-- `Tes Seleksi Perguruan Tinggi`: entrance-exam material with literacy and math branches.
+- `College Preparation`: entrance-exam material with literacy and math branches.
 
 ## What Belongs Here
 

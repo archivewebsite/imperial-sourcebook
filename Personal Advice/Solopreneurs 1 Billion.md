@@ -1,4 +1,4 @@
-![Image](joyful-boutique-owner-afro-orange-jumpsuit.png)
+![[joyful-boutique-owner-afro-orange-jumpsuit.png]]
 
 When epidemiologist Carl Juneau launched Dr. Muscle, his goal was to bring the latest in exercise science to users of his mobile app.
 

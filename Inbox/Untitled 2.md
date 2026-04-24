@@ -96,33 +96,3 @@ Proses kognitif utamanya:
 |Menafsirkan dan mengevaluasi / Interpreting & Evaluating|Mengembalikan hasil matematika ke konteks awal dan menilai kewajarannya|
 
 Masalah dalam subtes ini dapat muncul dalam konteks pribadi, pekerjaan, sosial, hingga ilmiah. ([SNPMB](https://snpmb.id/fr/ "Framework UTBK - Seleksi Nasional Penerimaan Mahasiswa Baru"))
-
-## Ketentuan resmi UTBK-SNBT 2026
-
-Peserta SNBT hanya boleh mengikuti UTBK 2026 **satu kali**. Hasil UTBK 2026 hanya berlaku untuk SNBT dan penerimaan PTN tahun 2026. Seleksi SNBT 2026 didasarkan pada hasil UTBK 2026, ditambah portofolio bagi peserta yang memilih program studi seni dan/atau olahraga. Siswa yang sudah dinyatakan lulus SNBP 2026, SNBP 2025, atau SNBP 2024 tidak dapat mengikuti SNBT 2026. ([SNPMB](https://snpmb.id/utbk-snbt/informasi-umum "Informasi Umum | Seleksi Nasional Penerimaan Mahasiswa Baru"))
-
-Persyaratan peserta mencakup kepemilikan Akun SNPMB Siswa, WNI dengan NIK, siswa kelas terakhir SMA/SMK/MA/sederajat tahun 2026 atau Paket C 2026 dengan usia maksimal 25 tahun per 1 Juli 2026, lulusan 2024–2025 dengan batas usia yang sama, ijazah setara bagi lulusan luar negeri, portofolio untuk bidang seni/olahraga, kesehatan memadai, surat pernyataan tunanetra bagi peserta tunanetra, dan pembayaran biaya UTBK. ([SNPMB](https://snpmb.id/utbk-snbt/informasi-umum "Informasi Umum | Seleksi Nasional Penerimaan Mahasiswa Baru"))
-
-## Alur pendaftaran UTBK-SNBT 2026
-
-Alur resmi pendaftaran UTBK-SNBT 2026 adalah: melengkapi biodata, memilih program studi, mengunggah portofolio bila memilih bidang seni/olahraga, memilih kota/wilayah UTBK, membayar biaya UTBK, lalu mengunduh Kartu Peserta UTBK-SNBT. Peserta dapat memilih maksimal empat program studi dengan ketentuan kombinasi program akademik dan vokasi yang sudah ditetapkan SNPMB. ([SNPMB](https://snpmb.id/utbk-snbt/informasi-umum "Informasi Umum | Seleksi Nasional Penerimaan Mahasiswa Baru"))
-
-Biaya UTBK-SNBT 2026 adalah **Rp200.000**, dibayar sebagai syarat pendaftaran melalui bank mitra yang ditunjuk. ([SNPMB](https://snpmb.id/utbk-snbt/informasi-umum "Informasi Umum | Seleksi Nasional Penerimaan Mahasiswa Baru"))
-
-## Jadwal UTBK-SNBT 2026
-
-|Tahap|Jadwal|
-|---|---|
-|Registrasi Akun SNPMB Siswa|12 Januari – 7 April 2026|
-|Pendaftaran UTBK-SNBT|25 Maret – 7 April 2026|
-|Pembayaran Biaya UTBK|25 Maret – 8 April 2026|
-|Unduh Kartu Peserta UTBK-SNBT|11 – 15 April 2026|
-|Pelaksanaan UTBK|21 – 30 April 2026|
-|Pengumuman Hasil SNBT|25 Mei 2026|
-|Unduh Sertifikat UTBK|2 Juni – 31 Juli 2026|
-
-Seluruh kegiatan pada tanggal yang ditentukan dimulai dan diakhiri pukul **15.00 WIB**, sedangkan proses verifikasi dokumen dan/atau pendaftaran ulang mengikuti ketentuan masing-masing PTN. ([SNPMB](https://snpmb.id/jadwal-penting "Jadwal | Seleksi Nasional Penerimaan Mahasiswa Baru"))
-
-## Catatan pelaksanaan saat ujian
-
-SNPMB mengimbau peserta untuk memperhatikan jadwal, sesi, dan lokasi ujian pada kartu peserta; mencari informasi penyesuaian waktu tes di pusat UTBK masing-masing; hadir paling lambat **60 menit sebelum sesi dimulai**; membawa dokumen seperti Kartu Peserta, identitas sah, ijazah/fotokopi sah untuk lulusan 2024–2025 atau surat keterangan kelas 12/surat keterangan lulus untuk lulusan 2026; dan mematuhi tata tertib UTBK. ([SNPMB](https://snpmb.id/blog/waktu-pelaksanaan-utbk-2026 "Pengumuman Waktu Pelaksanaan UTBK 2026 | Seleksi Nasional Penerimaan Mahasiswa Baru"))

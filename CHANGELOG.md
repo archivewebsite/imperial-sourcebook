@@ -32,7 +32,7 @@ Add new dated entries at the top of this section.
 - Counts: 1 plan note added and this changelog updated.
 - Counts: 20 Inbox markdown notes moved, 8 destination filenames clarified, and 1 empty Inbox subfolder removed.
 - Left unresolved: `Inbox/Untitled 3.md` remains in place because it is empty and should not be routed as a complete note.
-- Left unresolved: `Rencana Belajar Mentah.md` remains unchanged as source material, but is now routed under `Notes/Tes Seleksi Perguruan Tinggi/`.
+- Left unresolved: `Rencana Belajar Mentah.md` remains unchanged as source material, but is now routed under `Notes/College Preparation/`.
 - Follow-up: none.
 
 ## 2026-04-22

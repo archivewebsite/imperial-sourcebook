@@ -1,7 +1,5 @@
 # Mental Math Curriculum from *Secrets of Mental Math*
 
-Here is a version with a **brief explanation + example** for each curriculum topic from the PDF *Secrets of Mental Math*. I kept it concise rather than making it a full tutorial.
-
 ## Chapter 0: Quick Tricks
 
 1. **Instant multiplication by 11**  
@@ -9,23 +7,23 @@ Here is a version with a **brief explanation + example** for each curriculum top
    Example: 32 × 11 → 3, 3+2=5, 2 → **352**.
 
 2. **Squaring two-digit numbers that end in 5**  
-   Main idea: multiply the first digit by the next number, then add 25.  
-   Example: 35² → 3×4=12, then 25 → **1225**.
+   Main idea: multiply the first digit by the next higher digit, then attach 25.  
+   Example: 35² → 3×4=12, then attach 25 → **1225**.
 
-3. **Multiplying two numbers with the same first digit and last digits that add up to 10**  
-   Main idea: multiply the first digit by the next number, then multiply the last digits.  
+3. **Multiplying two two-digit numbers with the same first digit and last digits that add up to 10**  
+   Main idea: multiply the shared first digit by the next higher digit, then multiply the last digits.  
    Example: 83 × 87 → 8×9=72, 3×7=21 → **7221**.
 
 4. **Subtraction using rounding and correction**  
-   Main idea: subtract using the nearest round number, then correct the difference.  
-   Example: 1241 − 587 → 1241 − 600 = 641, add 13 → **654**.
+   Main idea: subtract using a nearby round number, then correct the difference.  
+   Example: 1241 − 587 → 1241 − 600 = 641, then add back 13 → **654**.
 
 5. **Quickly adding certain number sequences**  
-   Main idea: some sequences have hidden patterns that let you find the sum directly.  
-   Example: certain Fibonacci-like sequences can be summed by looking at a specific element instead of adding each number one by one.
+   Main idea: some sequences have patterns that let you find the sum directly instead of adding every term one by one.  
+   Example: certain Fibonacci-like sequences can be summed by using a related term in the sequence.
 
 6. **Quick division for the first decimal digits**  
-   Main idea: find only the first few digits of the quotient, not the entire decimal expansion.  
+   Main idea: find only the first few digits of the quotient when a full decimal expansion is unnecessary.  
    Example: 359 ÷ 222 ≈ **1.61**.
 
 7. **Calculating restaurant tips**  
@@ -34,18 +32,18 @@ Here is a version with a **brief explanation + example** for each curriculum top
 
 8. **Basics of memorizing numbers**  
    Main idea: numbers can be converted into words or sounds to make them easier to remember.  
-   Example: a long number is not memorized as raw digits, but as a sequence of words.
+   Example: a long number can be memorized as a sequence of words instead of raw digits.
 
 9. **Determining the day of the week, introductory version**  
-   Main idea: use a simple code for a specific date, especially at the beginning of a year.  
-   Example: January 1, 2030 → calculated using the year code → **Tuesday**.
+   Main idea: use a simple code to determine the weekday for certain dates, especially January 1 in a given year.  
+   Example: January 1, 2030 → calculated using the year-code method → **Tuesday**.
 
 ---
 
 ## Chapter 1: Mental Addition and Subtraction
 
 1. **Left-to-right addition**  
-   Main idea: calculate from the largest digit first because it works better for mental math.  
+   Main idea: calculate from the largest place value first because it works better for mental math.  
    Example: 47 + 32 → 47 + 30 = 77, +2 = **79**.
 
 2. **Two-digit addition**  
@@ -57,11 +55,11 @@ Here is a version with a **brief explanation + example** for each curriculum top
    Example: 538 + 327 → 838 → 858 → **865**.
 
 4. **Adding three-digit and four-digit numbers**  
-   Main idea: still work from left to right, just with larger numbers.  
+   Main idea: still work from left to right, just with larger place values.  
    Example: 2700 + 567 → 2700 + 500 = 3200, +67 = **3267**.
 
 5. **Left-to-right subtraction**  
-   Main idea: subtract starting from the largest part.  
+   Main idea: subtract starting from the largest place value.  
    Example: 958 − 417 → 558 → 548 → **541**.
 
 6. **Two-digit subtraction**  
@@ -73,11 +71,11 @@ Here is a version with a **brief explanation + example** for each curriculum top
    Example: 81 − 37 → 81 − 40 = 41, +3 = **44**.
 
 8. **Three-digit subtraction**  
-   Main idea: use either number splitting or rounding to the nearest hundred.  
+   Main idea: use number splitting or round the subtracted number up to a nearby hundred, then correct.  
    Example: 747 − 598 → 747 − 600 = 147, +2 = **149**.
 
 9. **Complement technique**  
-   Main idea: find the “distance to 100” or “distance to 1000” to speed up corrections.  
+   Main idea: find the “distance to 100,” “distance to 1000,” or another round number to speed up corrections.  
    Example: the complement of 68 is 32, because 68 + 32 = 100.
 
 ---
@@ -89,23 +87,23 @@ Here is a version with a **brief explanation + example** for each curriculum top
    Example: 42 × 7 → 40×7=280, 2×7=14, total **294**.
 
 2. **The split-number method**  
-   Main idea: break a larger number into easier parts to multiply.  
+   Main idea: break a number into easier parts before multiplying.  
    Example: 48 × 4 → 40×4=160, 8×4=32, total **192**.
 
 3. **Multiplication by rounding up**  
-   Main idea: round the number up to the nearest ten, then subtract the excess.  
-   Example: 69 × 6 → 70×6=420, −6 = **414**.
+   Main idea: round the number up to the nearest ten, multiply, then subtract the excess.  
+   Example: 69 × 6 → 70×6=420, then subtract 1×6 → **414**.
 
 4. **Multiplying 3-digit × 1-digit numbers**  
    Main idea: split the number into hundreds, tens, and ones.  
    Example: 326 × 7 → 300×7=2100, 20×7=140, 6×7=42 → **2282**.
 
 5. **Squaring two-digit numbers**  
-   Main idea: use the nearest round number as an anchor.  
+   Main idea: use nearby round numbers as anchors.  
    Example: 41² → 40×42 + 1² = 1680 + 1 = **1681**.
 
 6. **The up-and-down method for squaring**  
-   Main idea: lower one side and raise the other to make the multiplication easier, then add the square of the difference.  
+   Main idea: lower one factor and raise the other by the same amount, then add the square of the difference.  
    Example: 56² → 52×60 + 4² = 3120 + 16 = **3136**.
 
 7. **Basic algebra behind the tricks**  
@@ -117,7 +115,7 @@ Here is a version with a **brief explanation + example** for each curriculum top
 ## Chapter 3: Intermediate Multiplication
 
 1. **Multiplying 2-digit × 2-digit numbers**  
-   Main idea: turn the problem into several smaller multiplications.  
+   Main idea: turn the problem into smaller multiplications.  
    Example: 46 × 42 → 46×40 + 46×2 = 1840 + 92 = **1932**.
 
 2. **Addition method**  
@@ -126,10 +124,10 @@ Here is a version with a **brief explanation + example** for each curriculum top
 
 3. **Shortcut for multiplying by 11**  
    Main idea: insert the sum of the digits in the middle, carrying if needed.  
-   Example: 57 × 11 → 5+7=12, result is **627**.
+   Example: 57 × 11 → 5+7=12, carry the 1 → **627**.
 
 4. **Subtraction method**  
-   Main idea: round a number up, then subtract the excess multiplication.  
+   Main idea: round a number up, multiply, then subtract the extra amount.  
    Example: 89 × 72 → 90×72 − 1×72 = 6480 − 72 = **6408**.
 
 5. **Factoring method**  
@@ -138,18 +136,18 @@ Here is a version with a **brief explanation + example** for each curriculum top
 
 6. **Friendly products**  
    Main idea: look for intermediate products that produce easy numbers, such as numbers ending in 0 or containing 0.  
-   Example: 67 × 6 = **402**, which is then easier to multiply further.
+   Example: 67 × 6 = **402**, which is easier to multiply further.
 
 7. **Choosing a method creatively**  
    Main idea: not every problem is fastest with the same method; choose based on the shape of the numbers.  
-   Example: 96×73 is easier with the subtraction method: 100×73 − 4×73.
+   Example: 96×73 is easier with the subtraction method: 100×73 − 4×73 = 7300 − 292 = **7008**.
 
 8. **Squaring three-digit numbers**  
-   Main idea: extend the two-digit squaring method using the nearest anchor number.  
+   Main idea: extend the two-digit squaring method using a nearby anchor number.  
    Example: 108² → 100×116 + 8² = 11600 + 64 = **11664**.
 
 9. **Cubing two-digit numbers**  
-   Main idea: use patterns or expansion to calculate cubes quickly.  
+   Main idea: use multiplication patterns or expansion to calculate cubes efficiently.  
    Example: 12³ = 12×12×12 = 144×12 = **1728**.
 
 ---
@@ -158,26 +156,26 @@ Here is a version with a **brief explanation + example** for each curriculum top
 
 1. **Division by a one-digit divisor**  
    Main idea: divide from left to right, like a mental version of long division.  
-   Example: 1824 ÷ 4 → 18÷4=4 remainder 2, continue until **456**.
+   Example: 1824 ÷ 4 → 18÷4=4 remainder 2, continue through the remaining digits → **456**.
 
 2. **Determining the number of digits in the answer**  
-   Main idea: first estimate whether the answer is in the hundreds, tens, or ones.  
-   Example: 672 ÷ 7 is roughly 700÷7=100, so the answer is around two or three digits; the exact answer is **96**.
+   Main idea: estimate the size of the quotient before dividing.  
+   Example: 672 ÷ 7 is less than 100 because 7×100 = 700, so the answer has two digits; the exact answer is **96**.
 
 3. **The Rule of Thumb for storing answers**  
-   Main idea: use your fingers as temporary markers while dividing.  
-   Example: when the temporary result is 4 and then 6, your fingers help keep the digit positions from slipping out of memory.
+   Main idea: use fingers as temporary markers while dividing mentally.  
+   Example: while producing quotient digits one at a time, fingers can help keep track of stored digits and place value.
 
 4. **Division by a two-digit divisor**  
-   Main idea: use estimation and gradual correction.  
-   Example: 738 ÷ 18 ≈ 40 because 18×40=720, remainder 18, so the answer is **41**.
+   Main idea: use estimation and correction.  
+   Example: 738 ÷ 18 → 18×40=720, remainder 18, so the answer is **41**.
 
 5. **Decimalization**  
-   Main idea: convert fractions into decimals through mental division.  
+   Main idea: convert fractions into decimals through division.  
    Example: 3/8 = 3 ÷ 8 = **0.375**.
 
 6. **Divisibility tests**  
-   Main idea: check whether a number is divisible without actually dividing.  
+   Main idea: check whether a number is divisible without fully dividing it.  
    Example: 1236 is divisible by 3 because 1+2+3+6=12, and 12 is divisible by 3.
 
 7. **Divisibility tests for 2, 3, 4, 5, 6, 7, 8, 9, 11, and 17**  
@@ -218,11 +216,11 @@ Here is a version with a **brief explanation + example** for each curriculum top
 
 1. **Estimating addition**  
    Main idea: round the numbers so the sum can be found quickly.  
-   Example: 498 + 297 ≈ 500 + 300 = **800**, exact answer 795.
+   Example: 498 + 297 ≈ 500 + 300 = **800**, exact answer **795**.
 
 2. **Estimating subtraction**  
-   Main idea: round both numbers to see the approximate difference.  
-   Example: 1003 − 487 ≈ 1000 − 500 = **500**, exact answer 516.
+   Main idea: round both numbers to estimate the difference.  
+   Example: 1003 − 487 ≈ 1000 − 500 = **500**, exact answer **516**.
 
 3. **Estimating division**  
    Main idea: turn the problem into an easier division.  
@@ -230,10 +228,10 @@ Here is a version with a **brief explanation + example** for each curriculum top
 
 4. **Estimating multiplication**  
    Main idea: round the factors, then multiply.  
-   Example: 49 × 81 ≈ 50 × 80 = **4000**, exact answer 3969.
+   Example: 49 × 81 ≈ 50 × 80 = **4000**, exact answer **3969**.
 
 5. **Estimating square roots**  
-   Main idea: find the two nearest perfect squares.  
+   Main idea: find the nearest perfect squares.  
    Example: √50 is between √49=7 and √64=8, so it is about **7.1**.
 
 6. **Divide-and-average method for square roots**  
@@ -249,11 +247,11 @@ Here is a version with a **brief explanation + example** for each curriculum top
    Example: 8% tax on $50 = 10%−2% = $5−$1 = **$4**.
 
 9. **Calculating interest quickly**  
-   Main idea: use simple percentages of the principal.  
-   Example: 6% of $2000 = **$120** per year.
+   Main idea: use estimation rules such as the Rule of 70 to estimate growth over time.  
+   Example: at 5% annual interest, money doubles in about 70 ÷ 5 = **14 years**.
 
 10. **Estimation for everyday life**  
-    Main idea: use it for shopping, discounts, bills, distance, time, and quick decisions.  
+    Main idea: use estimation for shopping, discounts, bills, distance, time, and quick decisions.  
     Example: an item priced at Rp198,000 with a 25% discount saves about Rp50,000, so the price is around **Rp148,000**.
 
 ---
@@ -261,79 +259,79 @@ Here is a version with a **brief explanation + example** for each curriculum top
 ## Chapter 6: Pencil-and-Paper Math
 
 1. **Adding columns of numbers**  
-   Main idea: add many numbers systematically using mental patterns.  
-   Example: 128 + 342 + 519 + 211 can be calculated by columns or by easy groups.
+   Main idea: add many numbers systematically using efficient grouping and column strategies.  
+   Example: 128 + 342 + 519 + 211 can be calculated by columns or by grouping convenient pairs.
 
 2. **Mod sums for checking addition**  
-   Main idea: use remainders, usually mod 9, to detect mistakes.  
-   Example: if the digit sum of the result does not match the input digit sums mod 9, there is an error.
+   Main idea: use remainders, often modulo 9, to detect possible mistakes.  
+   Example: if the digit sum of the result does not match the digit sums of the inputs modulo 9, there is an error.
 
 3. **Fast subtraction on paper**  
-   Main idea: use complements and rounding to avoid too much borrowing.  
-   Example: 1000 − 684 → the complement of 684 to 1000 = **316**.
+   Main idea: use complements and rounding to reduce borrowing.  
+   Example: 1000 − 684 → complement of 684 to 1000 = **316**.
 
 4. **Square roots with pencil and paper**  
-   Main idea: a manual procedure for finding square roots digit by digit.  
-   Example: √2025 can be found as **45**.
+   Main idea: use a written digit-by-digit procedure to calculate square roots.  
+   Example: √2025 = **45**.
 
 5. **Pencil-and-paper multiplication**  
-   Main idea: a written method that is more efficient than the standard school algorithm for certain numbers.  
-   Example: 123×45 is calculated using a faster arrangement of partial products.
+   Main idea: use written multiplication arrangements that can be faster than the standard school algorithm for certain problems.  
+   Example: 123×45 can be calculated using organized partial products.
 
 6. **Criss-cross multiplication**  
-   Main idea: multiply digits crosswise to build the result from right to left or left to right.  
-   Example: 23×14 → 2×1, then 2×4 + 3×1, then 3×4 → **322**.
+   Main idea: multiply digits crosswise and combine the results with carries.  
+   Example: 23×14 → units: 3×4=12, cross: 2×4 + 3×1 = 11 plus carry, tens/hundreds handled by carrying → **322**.
 
 7. **Casting out elevens**  
    Main idea: check results using a modulo 11 pattern.  
-   Example: for the number 121, the pattern 1−2+1=0, which matches a multiple of 11.
+   Example: for 121, the alternating sum 1−2+1=0, so it is divisible by 11.
 
 ---
 
 ## Chapter 7: Memorizing Numbers
 
 1. **Mnemonics for numbers**  
-   Main idea: numbers are converted into something the brain can remember more easily, because the human brain apparently prefers stories over digits.  
-   Example: 1492 can be remembered as the year of Columbus, not as four random digits.
+   Main idea: numbers are converted into more memorable associations, words, or images.  
+   Example: 1492 can be tied to a known historical association instead of being treated as four random digits.
 
 2. **Phonetic code**  
-   Main idea: each digit is paired with a consonant sound.  
-   Example: 1 can be associated with the t/d sound, 2 with n, and so on.
+   Main idea: each digit is paired with one or more consonant sounds.  
+   Example: 1 can be associated with t/d sounds, 2 with n, and so on.
 
 3. **Converting numbers into words**  
    Main idea: digits are converted into sounds, then turned into words.  
-   Example: 32 can become a word with the m-n sounds, such as “moon” in certain systems.
+   Example: 32 can become a word using m-n sounds, such as “moon” in a phonetic-code system.
 
 4. **Memorizing long sequences of numbers**  
-   Main idea: break long numbers into words or mental images.  
-   Example: 314159 can be split into several words instead of being memorized as six raw digits.
+   Main idea: break long numbers into words, images, or stories.  
+   Example: 314159 can be split into several encoded words instead of memorized as six raw digits.
 
 5. **Memorizing dates**  
-   Main idea: dates are converted into word codes or stories.  
+   Main idea: dates can be converted into word codes or memorable associations.  
    Example: 1776 can be remembered through a sequence of words representing the digits 1-7-7-6.
 
 6. **Memorizing phone numbers**  
-   Main idea: phone numbers are converted into phrases.  
-   Example: 555-1234 can be turned into a combination of sounds or words that is easy to visualize.
+   Main idea: phone numbers can be converted into phrases or images.  
+   Example: 555-1234 can be turned into a sequence of sounds or words that is easier to visualize.
 
 7. **Mnemonics for large mental calculations**  
-   Main idea: intermediate results are stored as words so they do not disappear while calculating.  
-   Example: when multiplying large numbers, a temporary result like 384 can be encoded into a temporary word.
+   Main idea: intermediate results can be stored as words so they do not disappear while calculating.  
+   Example: while multiplying large numbers, a temporary result like 384 can be encoded into a word.
 
 8. **Memory magic**  
-   Main idea: memory techniques are used as a performance, such as remembering a long number from the audience.  
-   Example: someone says 20 digits, then you repeat them using a memory code.
+   Main idea: memory techniques can be used as performance tools.  
+   Example: someone says 20 digits, and you repeat them using a memory code.
 
 ---
 
 ## Chapter 8: Advanced Multiplication
 
 1. **Squaring four-digit numbers**  
-   Main idea: the squaring method is extended using a nearby base, such as 1000 or 2000.  
+   Main idea: extend the squaring method using a nearby base such as 1000 or 2000.  
    Example: 1004² → 1000×1008 + 4² = 1,008,000 + 16 = **1,008,016**.
 
 2. **Multiplying 3-digit × 2-digit numbers**  
-   Main idea: split either the two-digit or three-digit number into easier parts.  
+   Main idea: split or factor one number into easier parts.  
    Example: 312×24 → 312×6×4 = 1872×4 = **7488**.
 
 3. **Factoring method for 3-by-2 multiplication**  
@@ -345,43 +343,43 @@ Here is a version with a **brief explanation + example** for each curriculum top
    Example: 326×42 → 326×40 + 326×2 = 13040 + 652 = **13692**.
 
 5. **Subtraction method for 3-by-2 multiplication**  
-   Main idea: round the two-digit number up, then subtract the difference.  
+   Main idea: round the two-digit number up, multiply, then subtract the excess.  
    Example: 326×49 → 326×50 − 326 = 16300 − 326 = **15974**.
 
 6. **Squaring five-digit numbers**  
-   Main idea: use a large base and store intermediate results with memory techniques.  
+   Main idea: use a large nearby base and memory techniques for intermediate results.  
    Example: 10003² → 10000×10006 + 3² = 100,060,000 + 9 = **100,060,009**.
 
 7. **Multiplying 3-digit × 3-digit numbers**  
-   Main idea: combine number splitting, factoring, or rounding methods.  
+   Main idea: combine splitting, factoring, rounding, or other multiplication strategies.  
    Example: 123×456 → 123×400 + 123×50 + 123×6 = **56088**.
 
 8. **Factoring method for 3-by-3 multiplication**  
-   Main idea: factor one of the three-digit numbers if possible.  
-   Example: 125×216 → 125×6×36, or 216×1000/8 = **27000**.
+   Main idea: factor one of the three-digit numbers when possible.  
+   Example: 125×216 → 216×1000÷8 = **27000**.
 
 9. **Close-together method**  
-   Main idea: use this when two numbers are close to each other.  
-   Example: 97×96 → 100−3 and 100−4, initial result 93, then 3×4=12 → **9312**.
+   Main idea: use this when two numbers are close to each other or close to a convenient base.  
+   Example: 97×96 → 100−3 and 100−4, first part 93, last part 3×4=12 → **9312**.
 
 10. **Addition method for 3-by-3 multiplication**  
-    Main idea: split the number into hundreds, tens, and ones, then add the results.  
+    Main idea: split one number into hundreds, tens, and ones, then add the partial products.  
     Example: 234×567 → 234×500 + 234×60 + 234×7 = **132678**.
 
 11. **Subtraction method for 3-by-3 multiplication**  
-    Main idea: round one of the numbers to the nearest hundred or thousand, then correct.  
-    Example: 987×654 → 1000×654 − 13×654.
+    Main idea: round one number to a convenient hundred or thousand, then subtract the excess.  
+    Example: 987×654 → 1000×654 − 13×654 = 654000 − 8502 = **645498**.
 
 12. **When-all-else-fails method**  
-    Main idea: a backup method for when the numbers do not fit any specific trick.  
-    Example: break 478×693 into 478×700 − 478×7.
+    Main idea: use a reliable fallback split when no special trick fits the numbers well.  
+    Example: 478×693 → 478×700 − 478×7 = 334600 − 3346 = **331254**.
 
 13. **Multiplying 5-digit × 5-digit numbers**  
     Main idea: large calculations are done using intermediate results and memory techniques.  
-    Example: 10002×10003 → base 10000, result around **100,050,006**.
+    Example: 10002×10003 → base 10000 → **100,050,006**.
 
 14. **Using the phonetic code to store intermediate results**  
-    Main idea: when a number is too large for working memory, temporary results are encoded as words.  
+    Main idea: when a number is too large for working memory, temporary results can be encoded as words.  
     Example: an intermediate result like 729 can be encoded into sounds or a word so it can be remembered while continuing the calculation.
 
 ---
@@ -389,7 +387,7 @@ Here is a version with a **brief explanation + example** for each curriculum top
 ## Chapter 9: Mathematical Magic
 
 1. **Psychic math**  
-   Main idea: tricks that look like mind reading but are actually based on mathematical patterns.  
+   Main idea: tricks that look like mind reading but are based on mathematical patterns.  
    Example: a spectator chooses a number and follows certain instructions, and the final result can be predicted.
 
 2. **The Magic 1089**  
@@ -397,7 +395,7 @@ Here is a version with a **brief explanation + example** for each curriculum top
    Example: 732 − 237 = 495, 495 + 594 = **1089**.
 
 3. **Missing-digit tricks**  
-   Main idea: guess the missing digit using digit sums or mod 9 rules.  
+   Main idea: guess the missing digit using digit sums or modulo 9 rules.  
    Example: if the digit sum must be a multiple of 9, the missing digit can be found from the difference.
 
 4. **Leapfrog addition**  
@@ -409,8 +407,8 @@ Here is a version with a **brief explanation + example** for each curriculum top
    Example: the classic 3×3 magic square has each row summing to **15**.
 
 6. **Constructing a magic square**  
-   Main idea: there is a special procedure for arranging numbers so every direction has the same sum.  
-   Example: the numbers 1 through 9 are arranged in a 3×3 grid so each row, column, and diagonal sums to 15.
+   Main idea: use a procedure to arrange numbers so every row, column, and diagonal has the same sum.  
+   Example: the numbers 1 through 9 can be arranged in a 3×3 grid so each row, column, and diagonal sums to **15**.
 
 7. **Quick cube roots**  
    Main idea: quickly find the cube root of a perfect cube.  
@@ -418,20 +416,20 @@ Here is a version with a **brief explanation + example** for each curriculum top
 
 8. **Simplified square roots**  
    Main idea: simplify radicals by separating perfect-square factors.  
-   Example: √72 = √36×2 = **6√2**.
+   Example: √72 = √(36×2) = **6√2**.
 
 9. **The “amazing” sum**  
-   Main idea: a trick for adding a sequence that looks random but is actually controlled.  
-   Example: several numbers are chosen, but the final sum can already be predicted through a pattern.
+   Main idea: a trick for adding a sequence that looks random but is actually controlled by a pattern.  
+   Example: several numbers are chosen, but the final sum can be predicted through the sequence structure.
 
 10. **Determining the day of the week for any date**  
     Main idea: use month, date, and year codes, then take the remainder after division by 7.  
-    Example: if the total code is 20, 20 mod 7 = 6, meaning the 6th day in that coding system.
+    Example: if the total code is 20, then 20 mod 7 = 6, which corresponds to **Saturday** in the Monday=1, Tuesday=2, ..., Saturday=6, Sunday=0/7 coding system.
 
 11. **Month codes, year codes, and leap-year rules**  
-    Main idea: each month and year has a code value; leap years require a correction.  
+    Main idea: each month and year has a code value, and leap years require a correction.  
     Example: January and February in a leap year need a special adjustment.
 
 12. **Date calculations in the Gregorian calendar**  
-    Main idea: the modern date system is calculated using century, year, month, and leap-year rules.  
+    Main idea: calendar dates can be calculated using century, year, month, date, and leap-year rules.  
     Example: July 20, 1969 can be calculated to determine the day of the Moon landing, which was **Sunday**.

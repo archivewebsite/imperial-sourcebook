@@ -1,4 +1,4 @@
-# Rencana Belajar Tetap UTBK 2027
+# Rencana Belajar Tetap UTBK Tahun 2027
 
 Tanggal dibuat: 2026-04-24  
 Sumber utama: [[Rencana Belajar Mentah]]

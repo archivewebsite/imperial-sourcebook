@@ -403,11 +403,8 @@ konsep belum paham, salah hitung, salah baca soal, terlalu lama, lupa rumus, ata
 Kamu sudah punya daftar final:
 
 1. topik paling kuat,
-    
 2. topik rawan salah,
-    
 3. rumus/pola yang wajib dihafal,
-    
 4. strategi waktu per bagian.
     
 

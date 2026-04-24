@@ -8,6 +8,17 @@ This changelog is the required ledger for AI and agent work in this vault. Large
 
 Add new dated entries at the top of this section.
 
+## 2026-04-24
+
+### Changed
+- Task type: `note-update`
+- Created `Inbox/Rencana Belajar Tetap UTBK 2027.md` as a fixed study plan distilled from the raw planning material in `Inbox/Rencana Belajar Mentah.md`.
+
+### Notes
+- Counts: 1 plan note added and this changelog updated.
+- Left unresolved: `Inbox/Rencana Belajar Mentah.md` remains unchanged as the source material.
+- Follow-up: none.
+
 ## 2026-04-22
 
 ### Changed

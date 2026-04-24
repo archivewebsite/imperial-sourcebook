@@ -13,10 +13,26 @@ Add new dated entries at the top of this section.
 ### Changed
 - Task type: `note-update`
 - Created `Inbox/Rencana Belajar Tetap UTBK 2027.md` as a fixed study plan distilled from the raw planning material in `Inbox/Rencana Belajar Mentah.md`.
+- Task type: `inbox-organization`
+- Completed an Inbox organization pass using the existing Sourcebook buckets and routed complete notes out of `Inbox`.
+
+### Moved
+- Moved UTBK plans, exam strategy, and math formula references into `Notes/Tes Seleksi Perguruan Tinggi/` and `Notes/Tes Seleksi Perguruan Tinggi/Matematika/`.
+- Moved AI, grammar, and mental-math learning material into `Learning & Skills/`, `Learning & Skills/Language Vaults/`, and `Learning & Skills/Skill Trees/`.
+- Moved chemistry, psychology, religion, finance, and source-list references into their matching `Notes/` locations.
+- Moved practical guidance and short motivational reminders into `Personal Advice/`, `Personal Advice/Tips and Trick/`, and `Motivation/`.
+
+### Renamed
+- Renamed generic or mismatched Inbox captures such as `Explanation One.md`, `Explanation Two.md`, `Untitled*.md`, `Phase 1.md`, `Main Index.md`, and `Tobat kepada Allah SWT.md` to destination filenames that match their actual topics.
+
+### Removed
+- Removed the empty `Inbox/Artificial Intelligence/` folder after its notes were routed.
 
 ### Notes
 - Counts: 1 plan note added and this changelog updated.
-- Left unresolved: `Inbox/Rencana Belajar Mentah.md` remains unchanged as the source material.
+- Counts: 20 Inbox markdown notes moved, 8 destination filenames clarified, and 1 empty Inbox subfolder removed.
+- Left unresolved: `Inbox/Untitled 3.md` remains in place because it is empty and should not be routed as a complete note.
+- Left unresolved: `Rencana Belajar Mentah.md` remains unchanged as source material, but is now routed under `Notes/Tes Seleksi Perguruan Tinggi/`.
 - Follow-up: none.
 
 ## 2026-04-22

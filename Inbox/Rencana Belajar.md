@@ -142,16 +142,16 @@ Urutan belajar harian:
 
 Format tracker harian:
 
-| Metrik | Isi |
-|---|---|
-| Tanggal |  |
-| Level hari ini | Darurat / Minimum / Normal / Kuat / Boost |
-| Soal baru |  |
-| Soal salah direview |  |
-| Menit konsep |  |
-| Subtes/topik |  |
-| Kesalahan utama | Konsep / hitung / baca soal / waktu / lupa rumus / terjebak opsi |
-| Besok mulai dari |  |
+| Metrik              | Isi                                                              |
+| ------------------- | ---------------------------------------------------------------- |
+| Tanggal             |                                                                  |
+| Level hari ini      | Darurat / Minimum / Normal / Kuat / Boost                        |
+| Soal baru           |                                                                  |
+| Soal salah direview |                                                                  |
+| Menit konsep        |                                                                  |
+| Subtes/topik        |                                                                  |
+| Kesalahan utama     | Konsep / hitung / baca soal / waktu / lupa rumus / terjebak opsi |
+| Besok mulai dari    |                                                                  |
 
 Aturan penting:
 

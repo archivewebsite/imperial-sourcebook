@@ -1,4 +1,4 @@
-# Dario Amodei: Sourced Advice
+# Every Piece of Advice from Dario Amodei
 
 ## Think about AI
 

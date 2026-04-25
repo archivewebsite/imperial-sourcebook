@@ -12,6 +12,8 @@ Add new dated entries at the top of this section.
 
 ### Changed
 - Task type: `note-update`
+- Created `Inbox/Rencana Belajar.md` as a second UTBK 2027 study plan that combines the new psychological context, execution rules, official 2026 SNPMB reference frame, tryout targets, and anti-planning safeguards.
+- Task type: `note-update`
 - Created `Inbox/Bisa Lulus UTBK Tanpa Bimbel Mahal.md` as a fenced Markdown-block note arguing for an AI, internet-source, daily-practice, and error-review UTBK preparation path without expensive tutoring.
 - Task type: `note-update`
 - Added a small `Quick Links` section to `Notes/College Preparation/README.md` so the main study-plan note and `Kerangka UTBK.md` are reachable from the folder hub.
@@ -21,6 +23,8 @@ Add new dated entries at the top of this section.
 - Reformatted `Inbox/Untitled 5.md` into tighter markdown list spacing while preserving its Dario Amodei advice headings and bullets.
 
 ### Notes
+- Counts: 1 Inbox study-plan note created and this changelog entry added.
+- Left unresolved: 2027 UTBK-SNBT official framework is not published yet, so the plan uses the latest official 2026 SNPMB structure as the current reference point.
 - Counts: 1 Inbox note created and this changelog entry added.
 - Left unresolved: 2027 UTBK-SNBT official framework is not published yet, so the note uses the latest available official 2026 SNPMB data as the current reference point.
 - Counts: 1 folder README updated and 1 changelog entry added.

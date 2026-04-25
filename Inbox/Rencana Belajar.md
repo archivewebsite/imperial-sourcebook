@@ -118,13 +118,13 @@ Setelah itu mulai. Tidak perlu sistem baru.
 
 Gunakan level, bukan mood. Level dipilih berdasarkan energi nyata hari itu.
 
-| Level | Kapan Dipakai | Target Minimum |
-|---|---|---|
-| Darurat | sakit ringan, sangat capek, hari kacau | 5 soal tertulis + review 1 salah + 3 menit konsep |
-| Minimum anti-gagal | malas, sibuk, energi rendah | 10 soal tertulis + review 3 salah + 5 menit konsep |
-| Normal | hari biasa | 30-50 soal + review 5-10 salah + 10-30 menit konsep |
-| Kuat | hari longgar | 60-90 soal + review 15-20 salah + 30-45 menit konsep |
-| Boost | masa kosong penuh | 80-120 soal total + review 20 salah + 2-3 blok belajar |
+| Level              | Kapan Dipakai                          | Target Minimum                                         |
+| ------------------ | -------------------------------------- | ------------------------------------------------------ |
+| Darurat            | sakit ringan, sangat capek, hari kacau | 5 soal tertulis + review 1 salah + 3 menit konsep      |
+| Minimum anti-gagal | malas, sibuk, energi rendah            | 10 soal tertulis + review 3 salah + 5 menit konsep     |
+| Normal             | hari biasa                             | 30-50 soal + review 5-10 salah + 10-30 menit konsep    |
+| Kuat               | hari longgar                           | 60-90 soal + review 15-20 salah + 30-45 menit konsep   |
+| Boost              | masa kosong penuh                      | 80-120 soal total + review 20 salah + 2-3 blok belajar |
 
 Tidak ada hari nol. Hari buruk tidak perlu heroik, tetapi harus tetap menyentuh soal.
 

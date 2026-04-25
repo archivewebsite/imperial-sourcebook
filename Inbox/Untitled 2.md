@@ -1,218 +1,122 @@
-# What this calculus formula means
+---
+tags: [math, calculus, derivatives, limits, differential-calculus]
+date: 2026-04-25
+aliases: [Derivative Definition, Limit Definition of Derivative, df/dt]
+---
 
-The image is explaining the **derivative**, which is calculus’s way of measuring an **instantaneous rate of change**.
+![[Pasted image 20260425112549.png]]
 
-The formula is:
+# The Limit Definition of the Derivative
 
-\[
-\frac{df}{dt} = \lim_{h \to 0} \frac{f(t+h) - f(t)}{h}
-\]
+&gt; [!INFO]
+&gt; The **derivative** is calculus's way of measuring an ==instantaneous rate of change==.
 
-In plain English:
+$$\frac{df}{dt} = \lim_{h \to 0} \frac{f(t+h) - f(t)}{h}$$
 
-> The derivative of \( f \) with respect to \( t \) tells you how fast \( f(t) \) is changing at one exact moment in time.
+In plain English: *How fast is $f(t)$ changing at this exact moment?*
 
-Humans, in their eternal quest to make “speed right now” sound like a legal contract, write it this way.
+---
 
-## The pieces
+## The Core Idea
 
-### \( f(t) \)
+Before calculus, we could only measure ==average rate of change== over an interval:
 
-This means the value of some quantity \( f \) at time \( t \).
+$$\frac{\Delta f}{\Delta t} = \frac{\text{change in quantity}}{\text{change in time}}$$
 
-For example, \( f(t) \) might represent:
+Calculus lets us ask a sharper question:
 
-- position of a car at time \( t \)
-- temperature at time \( t \)
-- money in an account at time \( t \)
-- population at time \( t \)
+&gt; What is the rate of change at ==one exact instant==?
 
-So \( f(t) \) is the **old value**.
+---
 
-## \( f(t+h) \)
+## Breaking Down the Formula
 
-This means the value of the same quantity a little later, at time \( t+h \).
+### Left Side: $\frac{df}{dt}$
 
-Here, \( h \) is a small time interval.
+**Leibniz notation** for the derivative.
 
-So \( f(t+h) \) is the **new value**.
+| Symbol | Meaning |
+|--------|---------|
+| $f$ | The quantity being measured |
+| $t$ | Independent variable (usually time) |
+| $df$ | An infinitesimal change in $f$ |
+| $dt$ | An infinitesimal change in $t$ |
+| $\frac{df}{dt}$ | Instantaneous rate of change of $f$ with respect to $t$ |
 
-## \( f(t+h) - f(t) \)
+&gt; [!EXAMPLE]
+&gt; If $f(t)$ is position, then $\frac{df}{dt}$ is ==velocity==.
 
-This measures how much the quantity changed.
+---
 
-\[
-f(t+h) - f(t)
-\]
+### Right Side: The Limit Expression
 
-That is:
+$$\lim_{h \to 0} \frac{f(t+h) - f(t)}{h}$$
 
-\[
-\text{new value} - \text{old value}
-\]
+| Symbol | Meaning |
+|--------|---------|
+| $\lim$ | The value being approached |
+| $h \to 0$ | Time interval shrinks toward zero |
+| $f(t)$ | Old value (at current time) |
+| $f(t+h)$ | New value (after small interval $h$) |
+| $f(t+h) - f(t)$ | Change in quantity |
+| $h$ | Time interval |
+| Fraction | Average rate of change over interval $h$ |
 
-So this part gives the **change in the quantity**.
+---
 
-## \( h \)
+## The Logic: Average → Instantaneous
 
-The \( h \) represents the amount of time that passed.
+1. **Average rate**: $\frac{f(t+h) - f(t)}{h}$ is the slope of a ==secant line== through two points.
+2. **Shrink the interval**: Let $h \to 0$. The two points merge into one.
+3. **Instantaneous rate**: The secant becomes a ==tangent line==. The slope at that single point is the derivative.
 
-So the fraction
+&gt; [!IMPORTANT]
+&gt; $h$ **approaches** zero but never equals zero. This avoids division by zero while capturing the behavior at a single instant.
 
-\[
-\frac{f(t+h) - f(t)}{h}
-\]
+---
 
-means:
+## Concrete Example: $f(t) = t^2$
 
-\[
-\frac{\text{change in quantity}}{\text{change in time}}
-\]
+$$\frac{df}{dt} = \lim_{h \to 0} \frac{(t+h)^2 - t^2}{h}$$
 
-That is an **average rate of change** over the time interval \( h \).
+**Step-by-step:**
 
-For example, if distance changes by 20 meters over 4 seconds:
+$$\begin{aligned}
+&= \lim_{h \to 0} \frac{t^2 + 2th + h^2 - t^2}{h} \\
+&= \lim_{h \to 0} \frac{2th + h^2}{h} \\
+&= \lim_{h \to 0} \frac{h(2t + h)}{h} \\
+&= \lim_{h \to 0} (2t + h) \\
+&= 2t
+\end{aligned}$$
 
-\[
-\frac{20}{4} = 5
-\]
+&gt; [!TIP]
+&gt; Result: $\frac{df}{dt} = 2t$. At $t = 3$, the rate of change is ==6 units per unit time==.
 
-So the average speed is 5 meters per second.
+---
 
-## The limit part
+## Why This Matters
 
-The important calculus move is this:
+The derivative turns **average change** over an interval into **instantaneous change** at a single point.
 
-\[
-\lim_{h \to 0}
-\]
-
-This means we let the time interval \( h \) get smaller and smaller, approaching zero.
-
-Not actually equal to zero, because then we would divide by zero and mathematics would throw a chair.
-
-Instead, \( h \) gets extremely close to zero.
-
-So instead of asking:
-
-> How fast is the quantity changing over a long interval?
-
-we ask:
-
-> How fast is the quantity changing at this exact instant?
-
-That is the derivative.
-
-## Final meaning
-
-\[
-\frac{df}{dt}
-\]
-
-means:
-
-> the instantaneous rate of change of \( f \) with respect to time \( t \).
-
-So the whole formula means:
-
-\[
-\frac{df}{dt} = \lim_{h \to 0} \frac{f(t+h)-f(t)}{h}
-\]
-
-or in words:
-
-> The derivative is the value that the average rate of change approaches as the time interval becomes infinitely small.
-
-## Simple example
-
-Suppose:
-
-\[
-f(t) = t^2
-\]
-
-Then:
-
-\[
-f(t+h) = (t+h)^2
-\]
-
-Use the derivative formula:
-
-\[
-\frac{df}{dt} = \lim_{h \to 0} \frac{(t+h)^2 - t^2}{h}
-\]
-
-Expand:
-
-\[
-(t+h)^2 = t^2 + 2th + h^2
-\]
-
-So:
-
-\[
-\frac{df}{dt} = \lim_{h \to 0} \frac{t^2 + 2th + h^2 - t^2}{h}
-\]
-
-Cancel \( t^2 \):
-
-\[
-\frac{df}{dt} = \lim_{h \to 0} \frac{2th + h^2}{h}
-\]
-
-Factor out \( h \):
-
-\[
-\frac{df}{dt} = \lim_{h \to 0} \frac{h(2t+h)}{h}
-\]
-
-Cancel \( h \):
-
-\[
-\frac{df}{dt} = \lim_{h \to 0} (2t+h)
-\]
-
-Now let \( h \to 0 \):
-
-\[
-\frac{df}{dt} = 2t
-\]
-
-So if:
-
-\[
-f(t) = t^2
-\]
-
-then:
-
-\[
-\frac{df}{dt} = 2t
-\]
-
-This means the rate of change depends on the current value of \( t \).
-
-At \( t = 3 \):
-
-\[
-\frac{df}{dt} = 2(3) = 6
-\]
-
-So at that exact moment, the quantity is changing at a rate of 6 units per unit time.
-
-## Big idea
-
-The derivative turns this:
-
-\[
-\text{average change over a time interval}
-\]
-
-into this:
-
-\[
-\text{instantaneous change at one exact point}
-\]
-
-That is the core idea behind differential calculus.
+&gt; [!QUOTE]
+&gt; A derivative measures how fast something is changing ==right now==.
+
+**Applications:**
+- #physics — velocity, acceleration, forces
+- #economics — marginal cost, marginal profit
+- #biology — population growth rates
+- #engineering — system dynamics
+- #machine-learning — gradient descent optimization
+
+---
+
+## Related Concepts
+
+- [[Limits]]
+- [[Continuity]]
+- [[Tangent Line]]
+- [[Secant Line]]
+- [[Power Rule]]
+- [[Chain Rule]]
+
+#math #calculus #derivatives #limits #rate-of-change

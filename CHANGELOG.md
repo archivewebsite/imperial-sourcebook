@@ -13,9 +13,12 @@ Add new dated entries at the top of this section.
 ### Changed
 - Task type: `note-update`
 - Added a small `Quick Links` section to `Notes/College Preparation/README.md` so the main study-plan note and `Kerangka UTBK.md` are reachable from the folder hub.
+- Task type: `vault-settings`
+- Set the Obsidian attachment folder path to `Attachments` so pasted and stored images default to the vault's supporting-file bucket.
 
 ### Notes
 - Counts: 1 folder README updated and 1 changelog entry added.
+- Counts: 1 Obsidian app setting updated and this changelog entry added.
 - Left unresolved: no other `College Preparation` links or structure were changed in this pass.
 - Follow-up: none.
 

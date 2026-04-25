@@ -1,3 +1,5 @@
+![[Pasted image 20260425123133.png]]
+
 This is the **Unit Circle** — a fundamental diagram in trigonometry often called the "One Circle to Rule Them All" because nearly every trigonometric concept flows from it.
 
 ## What It Shows

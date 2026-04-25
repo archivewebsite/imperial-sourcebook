@@ -12,6 +12,8 @@ Add new dated entries at the top of this section.
 
 ### Changed
 - Task type: `note-update`
+- Created `Inbox/Bisa Lulus UTBK Tanpa Bimbel Mahal.md` as a fenced Markdown-block note arguing for an AI, internet-source, daily-practice, and error-review UTBK preparation path without expensive tutoring.
+- Task type: `note-update`
 - Added a small `Quick Links` section to `Notes/College Preparation/README.md` so the main study-plan note and `Kerangka UTBK.md` are reachable from the folder hub.
 - Task type: `vault-settings`
 - Set the Obsidian attachment folder path to `Attachments` so pasted and stored images default to the vault's supporting-file bucket.
@@ -19,6 +21,8 @@ Add new dated entries at the top of this section.
 - Reformatted `Inbox/Untitled 5.md` into tighter markdown list spacing while preserving its Dario Amodei advice headings and bullets.
 
 ### Notes
+- Counts: 1 Inbox note created and this changelog entry added.
+- Left unresolved: 2027 UTBK-SNBT official framework is not published yet, so the note uses the latest available official 2026 SNPMB data as the current reference point.
 - Counts: 1 folder README updated and 1 changelog entry added.
 - Counts: 1 Obsidian app setting updated and this changelog entry added.
 - Counts: 1 Inbox note formatted, with 166 bullets and 18 headings preserved.

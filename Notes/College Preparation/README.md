@@ -2,6 +2,11 @@
 
 `College Preparation` groups notes related to entrance-exam preparation.
 
+## Quick Links
+
+- [[Rencana Belajar]]
+- [[Kerangka UTBK]]
+
 ## Current Buckets
 
 - `Literasi`: literacy and language-focused material.

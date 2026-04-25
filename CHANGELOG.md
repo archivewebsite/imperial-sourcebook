@@ -8,6 +8,17 @@ This changelog is the required ledger for AI and agent work in this vault. Large
 
 Add new dated entries at the top of this section.
 
+## 2026-04-25
+
+### Changed
+- Task type: `note-update`
+- Added a small `Quick Links` section to `Notes/College Preparation/README.md` so the main study-plan note and `Kerangka UTBK.md` are reachable from the folder hub.
+
+### Notes
+- Counts: 1 folder README updated and 1 changelog entry added.
+- Left unresolved: no other `College Preparation` links or structure were changed in this pass.
+- Follow-up: none.
+
 ## 2026-04-24
 
 ### Changed

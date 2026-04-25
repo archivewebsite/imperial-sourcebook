@@ -1,4 +1,4 @@
-# Rencana Belajar UTBK 2027 - Versi 2
+# Rencana Belajar UTBK 2027
 
 Dibuat: 2026-04-25  
 Status: plan eksekusi, bukan bahan untuk terus direncanakan ulang

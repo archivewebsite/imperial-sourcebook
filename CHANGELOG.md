@@ -15,11 +15,15 @@ Add new dated entries at the top of this section.
 - Added a small `Quick Links` section to `Notes/College Preparation/README.md` so the main study-plan note and `Kerangka UTBK.md` are reachable from the folder hub.
 - Task type: `vault-settings`
 - Set the Obsidian attachment folder path to `Attachments` so pasted and stored images default to the vault's supporting-file bucket.
+- Task type: `note-update`
+- Reformatted `Inbox/Untitled 5.md` into tighter markdown list spacing while preserving its Dario Amodei advice headings and bullets.
 
 ### Notes
 - Counts: 1 folder README updated and 1 changelog entry added.
 - Counts: 1 Obsidian app setting updated and this changelog entry added.
+- Counts: 1 Inbox note formatted, with 166 bullets and 18 headings preserved.
 - Left unresolved: no other `College Preparation` links or structure were changed in this pass.
+- Left unresolved: note content and placement were intentionally left unchanged.
 - Follow-up: none.
 
 ## 2026-04-24

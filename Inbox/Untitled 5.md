@@ -2,382 +2,217 @@
 
 ## Think about AI
 
-- Hold the upside and the risk together: powerful AI could create a radically better world, but only if society survives and manages the risks that could derail it. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
-    
+- Hold the upside and the risk together: powerful AI could create a radically better world, but only if society survives and manages the risks that could derail it. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
 - Treat AI risk and AI benefit as “two sides of the same coin”; optimism about AI’s upside is not a reason to stop worrying about risk. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
-- Do not be a doomer: avoid quasi-religious, fatalistic, sensationalist, or sci-fi-coded risk rhetoric. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Do not be a techno-prophet: avoid treating AI companies as world-saving prophets or unilateral shapers of civilization. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
-    
-- Avoid “sci-fi baggage” when describing AI futures; concrete descriptions persuade better than subculture-coded fantasy. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
-    
-- Talk about risk in a sober, fact-based, pragmatic way that can survive political mood swings. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Acknowledge uncertainty: do not claim certainty about timelines, risks, or outcomes, but still plan. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Build hope, not only fear: people need a positive future to fight for, not just a fire-extinguishing plan. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
-    
-- Use concrete visions to reason about AI’s upside; focus on health, mental health, poverty, governance, peace, work, and meaning. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
-    
-- Think in terms of “marginal returns to intelligence”: ask how much extra intelligence helps in each domain, on what timescale, and what other bottlenecks remain. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
-    
-- Track non-intelligence bottlenecks: physical-world speed, data availability, intrinsic complexity, human constraints, legal constraints, and physical laws. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
-    
-- Expect AI’s effects to vary by task and field; avoid one universal story about “AI solves everything” or “AI solves nothing.” ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
-    
-- Treat AI as steerable even if not fully stoppable; the practical goal is to shape rollout, deployment, governance, and safety. ([Dario Amodei](https://www.darioamodei.com/post/the-urgency-of-interpretability "Dario Amodei — The Urgency of Interpretability"))
-    
+- Do not be a doomer: avoid quasi-religious, fatalistic, sensationalist, or sci-fi-coded risk rhetoric. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Do not be a techno-prophet: avoid treating AI companies as world-saving prophets or unilateral shapers of civilization. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
+- Avoid “sci-fi baggage” when describing AI futures; concrete descriptions persuade better than subculture-coded fantasy. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
+- Talk about risk in a sober, fact-based, pragmatic way that can survive political mood swings. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Acknowledge uncertainty: do not claim certainty about timelines, risks, or outcomes, but still plan. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Build hope, not only fear: people need a positive future to fight for, not just a fire-extinguishing plan. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
+- Use concrete visions to reason about AI’s upside; focus on health, mental health, poverty, governance, peace, work, and meaning. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
+- Think in terms of “marginal returns to intelligence”: ask how much extra intelligence helps in each domain, on what timescale, and what other bottlenecks remain. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
+- Track non-intelligence bottlenecks: physical-world speed, data availability, intrinsic complexity, human constraints, legal constraints, and physical laws. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
+- Expect AI’s effects to vary by task and field; avoid one universal story about “AI solves everything” or “AI solves nothing.” ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
+- Treat AI as steerable even if not fully stoppable; the practical goal is to shape rollout, deployment, governance, and safety. ([Dario Amodei](https://www.darioamodei.com/post/the-urgency-of-interpretability "Dario Amodei — The Urgency of Interpretability"))
 
 ## Research methodology
 
 - Work on safety problems that have empirical feedback loops today and can scale toward future systems. ([80,000 Hours](https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/ "Dario Amodei on OpenAI and how AI will change the world for good and ill | 80,000 Hours"))
-    
 - Do not separate near-term and long-term safety too sharply; build bridges from testable present-day problems to future risks. ([80,000 Hours](https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/ "Dario Amodei on OpenAI and how AI will change the world for good and ill | 80,000 Hours"))
-    
 - Use short-term empirical analogues for abstract future problems. ([80,000 Hours](https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/ "Dario Amodei on OpenAI and how AI will change the world for good and ill | 80,000 Hours"))
-    
 - Be suspicious of purely abstract safety arguments that cannot be tested against real systems. ([80,000 Hours](https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/ "Dario Amodei on OpenAI and how AI will change the world for good and ill | 80,000 Hours"))
-    
 - Get concrete: study failure modes such as negative side effects, reward hacking, scalable oversight, safe exploration, and distributional shift. ([arXiv](https://arxiv.org/abs/1606.06565?utm_source=chatgpt.com "Concrete Problems in AI Safety"))
-    
 - Stay close to the frontier if you want to implement safety in the systems that matter. ([80,000 Hours](https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/ "Dario Amodei on OpenAI and how AI will change the world for good and ill | 80,000 Hours"))
-    
 - Do not assume present-day systems are safe just because today’s observed harms are limited; capabilities can appear unpredictably as models scale. ([Anthropic](https://www.anthropic.com/news/uk-ai-safety-summit "Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy \ Anthropic"))
-    
 - Test frequently for dangerous capabilities along the scaling curve instead of discovering them accidentally after deployment. ([Anthropic](https://www.anthropic.com/news/uk-ai-safety-summit "Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy \ Anthropic"))
-    
 - Use red teams, external testers, audits, and model evaluations before releases. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Treat safety as engineering discipline, not vague virtue signaling: convert principles into protocols, deadlines, tests, and operating requirements. ([Anthropic](https://www.anthropic.com/news/uk-ai-safety-summit "Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy \ Anthropic"))
-    
 
 ## Interpretability and alignment
 
-- Look inside models, not only at external behavior; models can behave well in tests while hiding latent problems. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Use mechanistic interpretability to reason about hypothetical situations that cannot be directly tested. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Use interpretability to detect deception, hidden capabilities, power-seeking, jailbreak weaknesses, and model-level cognitive strengths or weaknesses. ([Dario Amodei](https://www.darioamodei.com/post/the-urgency-of-interpretability "Dario Amodei — The Urgency of Interpretability"))
-    
-- Treat interpretability like a future “brain scan” for frontier models. ([Dario Amodei](https://www.darioamodei.com/post/the-urgency-of-interpretability "Dario Amodei — The Urgency of Interpretability"))
-    
-- Combine interpretability with alignment training; use each to improve and check the other. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
+- Look inside models, not only at external behavior; models can behave well in tests while hiding latent problems. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Use mechanistic interpretability to reason about hypothetical situations that cannot be directly tested. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Use interpretability to detect deception, hidden capabilities, power-seeking, jailbreak weaknesses, and model-level cognitive strengths or weaknesses. ([Dario Amodei](https://www.darioamodei.com/post/the-urgency-of-interpretability "Dario Amodei — The Urgency of Interpretability"))
+- Treat interpretability like a future “brain scan” for frontier models. ([Dario Amodei](https://www.darioamodei.com/post/the-urgency-of-interpretability "Dario Amodei — The Urgency of Interpretability"))
+- Combine interpretability with alignment training; use each to improve and check the other. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
 - Use Constitutional AI as one tool in a toolkit, not as a complete safety solution. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Make AI constitutions readable by humans and models so principles can be inspected, debated, specialized, and revised. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Use scalable supervision methods when human feedback cannot scale to the difficulty or volume of future model behavior. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Do not rely on RLHF alone; it often teaches models to satisfy short-term human preferences, which may differ from long-term human interests. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
-- Design models whose long-term user interests are genuinely protected, not subtly distorted by business incentives or addictive interaction loops. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
+- Design models whose long-term user interests are genuinely protected, not subtly distorted by business incentives or addictive interaction loops. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
 
 ## AI company behavior
 
 - Race to the top: set good practices that other labs can copy, instead of trying merely to be “the good company.” ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Improve the ecosystem, not only one company’s reputation. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Treat drama about which company is winning as secondary; align industry incentives. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Publish responsible scaling policies and turn them into operational constraints. ([Anthropic](https://www.anthropic.com/news/uk-ai-safety-summit "Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy \ Anthropic"))
-    
 - Use if-then safety thresholds: if a model reaches dangerous capability levels, then deployment and further scaling require stronger safeguards. ([Anthropic](https://www.anthropic.com/news/uk-ai-safety-summit "Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy \ Anthropic"))
-    
 - Bake safety protocols into product and research roadmaps; missed safety deadlines should affect shipping and training plans. ([Anthropic](https://www.anthropic.com/news/uk-ai-safety-summit "Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy \ Anthropic"))
-    
 - Require deep executive involvement in safety governance. ([Anthropic](https://www.anthropic.com/news/uk-ai-safety-summit "Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy \ Anthropic"))
-    
 - Create accountability structures: board directives, external oversight, compliance officers, and whistleblower channels. ([Anthropic](https://www.anthropic.com/news/uk-ai-safety-summit "Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy \ Anthropic"))
-    
 - Publish model cards, system cards, external red-team results, and safety/security practices. ([Anthropic](https://www.anthropic.com/news/uk-ai-safety-summit "Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy \ Anthropic"))
-    
-- Publicly disclose concerning model behavior so other labs and policymakers can learn. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
+- Publicly disclose concerning model behavior so other labs and policymakers can learn. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
 - Do not judge safety claims by words alone; judge companies by costly actions. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 - Be honest about commercial incentives; do not pretend profit and public-good motives are never in tension. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 - Avoid ad-driven AI business models when models know users deeply; if the user is not paying, the product can become a system that exploits the user. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 - Integrate with existing ecosystems when useful; do not rebuild every tool unless AI enables a genuinely better product shape. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 - Do not promise never to build first-party products; be honest with platform developers about where the company may compete. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 
 ## Regulation and public policy
 
-- Voluntary safety action is necessary but insufficient. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Legislation is needed because the least responsible labs can endanger everyone. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Intervene surgically: rules should be simple, targeted, minimally burdensome, and focused on actual risk. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Avoid overbroad regulation that causes backlash, destroys value, or creates “safety theater.” ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Start with transparency legislation for frontier labs. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Exempt smaller companies when they are unlikely to produce frontier-level risks. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Use transparency to collect evidence before imposing more prescriptive rules. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- If strong evidence of danger appears, make the rules proportionately strong. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Keep the search for danger intellectually honest; transparency should also be able to show when danger is absent or weaker than expected. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
+- Voluntary safety action is necessary but insufficient. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Legislation is needed because the least responsible labs can endanger everyone. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Intervene surgically: rules should be simple, targeted, minimally burdensome, and focused on actual risk. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Avoid overbroad regulation that causes backlash, destroys value, or creates “safety theater.” ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Start with transparency legislation for frontier labs. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Exempt smaller companies when they are unlikely to produce frontier-level risks. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Use transparency to collect evidence before imposing more prescriptive rules. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- If strong evidence of danger appears, make the rules proportionately strong. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Keep the search for danger intellectually honest; transparency should also be able to show when danger is absent or weaker than expected. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
 - Turn the best parts of responsible scaling policies into testing, auditing, accountability, and oversight regimes. ([Anthropic](https://www.anthropic.com/news/uk-ai-safety-summit "Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy \ Anthropic"))
-    
 - Advocate policy on substance, not party alignment. ([CBS News](https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-full-transcript/ "Read the full transcript of our interview with Anthropic CEO Dario Amodei - CBS News"))
-    
 - Stand up for AI policy positions even when doing so is commercially or politically costly. ([CBS News](https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-full-transcript/ "Read the full transcript of our interview with Anthropic CEO Dario Amodei - CBS News"))
-    
 
 ## Misuse, biosecurity, and dangerous capabilities
 
 - Treat biological, chemical, radiological, and nuclear misuse as serious frontier-model risks. ([Anthropic](https://www.anthropic.com/news/uk-ai-safety-summit "Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy \ Anthropic"))
-    
-- Do not wait for catastrophe before installing biosecurity safeguards. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Use hard-line prohibitions for assistance with biological, chemical, nuclear, or radiological weapons. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Add specialized classifiers to detect and block dangerous bioweapon-related outputs. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Keep upgrading safeguards because all models can be jailbroken. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Accept real cost to margins when safety classifiers are necessary. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Use third-party evaluations and verification for dangerous capability risks. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Mandate gene-synthesis screening as a complementary biosecurity layer. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Do not disclose operational details that would help people produce biological weapons; transparency should not become an instruction manual. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Treat malicious motive as unpredictable; “maybe nobody will use this” is not a sufficient defense. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
+- Do not wait for catastrophe before installing biosecurity safeguards. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Use hard-line prohibitions for assistance with biological, chemical, nuclear, or radiological weapons. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Add specialized classifiers to detect and block dangerous bioweapon-related outputs. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Keep upgrading safeguards because all models can be jailbroken. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Accept real cost to margins when safety classifiers are necessary. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Use third-party evaluations and verification for dangerous capability risks. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Mandate gene-synthesis screening as a complementary biosecurity layer. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Do not disclose operational details that would help people produce biological weapons; transparency should not become an instruction manual. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Treat malicious motive as unpredictable; “maybe nobody will use this” is not a sufficient defense. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
 
 ## Geopolitics, authoritarianism, and export controls
 
-- Do not sell advanced AI chips, chip-making tools, or datacenter capacity to the Chinese Communist Party. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Treat chips and chip-making tools as critical bottlenecks for powerful AI. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Keep democratic nations at the frontier of AI development. ([Dario Amodei](https://www.darioamodei.com/post/on-deepseek-and-export-controls "Dario Amodei — On DeepSeek and Export Controls"))
-    
-- Do not hand authoritarian regimes avoidable technological advantages. ([Dario Amodei](https://www.darioamodei.com/post/on-deepseek-and-export-controls "Dario Amodei — On DeepSeek and Export Controls"))
-    
-- Compete by building better models in democracies, not by diffusing the full AI stack to adversaries. ([Dario Amodei](https://www.darioamodei.com/post/on-deepseek-and-export-controls "Dario Amodei — On DeepSeek and Export Controls"))
-    
-- Prevent AI-enabled autocracy even if no single authoritarian state takes over the world. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Be alert to AI companies themselves as power centers; they control models, datacenters, expertise, and user relationships. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Scrutinize AI-company governance because consumer AI products could manipulate or “brainwash” massive user bases. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
+- Do not sell advanced AI chips, chip-making tools, or datacenter capacity to the Chinese Communist Party. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Treat chips and chip-making tools as critical bottlenecks for powerful AI. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Keep democratic nations at the frontier of AI development. ([Dario Amodei](https://www.darioamodei.com/post/on-deepseek-and-export-controls "Dario Amodei — On DeepSeek and Export Controls"))
+- Do not hand authoritarian regimes avoidable technological advantages. ([Dario Amodei](https://www.darioamodei.com/post/on-deepseek-and-export-controls "Dario Amodei — On DeepSeek and Export Controls"))
+- Compete by building better models in democracies, not by diffusing the full AI stack to adversaries. ([Dario Amodei](https://www.darioamodei.com/post/on-deepseek-and-export-controls "Dario Amodei — On DeepSeek and Export Controls"))
+- Prevent AI-enabled autocracy even if no single authoritarian state takes over the world. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Be alert to AI companies themselves as power centers; they control models, datacenters, expertise, and user relationships. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Scrutinize AI-company governance because consumer AI products could manipulate or “brainwash” massive user bases. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
 - Defend democracy with powerful AI, but preserve democratic values while doing it. ([CBS News](https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-full-transcript/ "Read the full transcript of our interview with Anthropic CEO Dario Amodei - CBS News"))
-    
 
 ## Military and national security
 
 - Support democratic national security against autocratic adversaries. ([CBS News](https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-full-transcript/ "Read the full transcript of our interview with Anthropic CEO Dario Amodei - CBS News"))
-    
 - Put red lines around domestic mass surveillance and fully autonomous weapons. ([CBS News](https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-full-transcript/ "Read the full transcript of our interview with Anthropic CEO Dario Amodei - CBS News"))
-    
 - Do not allow AI-enabled domestic mass surveillance just because it is technically legal and newly useful. ([CBS News](https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-full-transcript/ "Read the full transcript of our interview with Anthropic CEO Dario Amodei - CBS News"))
-    
 - Do not deploy fully autonomous weapons until reliability, oversight, and accountability are solved. ([CBS News](https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-full-transcript/ "Read the full transcript of our interview with Anthropic CEO Dario Amodei - CBS News"))
-    
 - Distinguish partially autonomous battlefield systems from weapons that fire without human involvement. ([CBS News](https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-full-transcript/ "Read the full transcript of our interview with Anthropic CEO Dario Amodei - CBS News"))
-    
 - Prototype risky military AI systems in sandboxes before unrestricted use. ([CBS News](https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-full-transcript/ "Read the full transcript of our interview with Anthropic CEO Dario Amodei - CBS News"))
-    
 - Keep humans accountable for life-and-death decisions; concentrated control over large autonomous fleets creates accountability problems. ([CBS News](https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-full-transcript/ "Read the full transcript of our interview with Anthropic CEO Dario Amodei - CBS News"))
-    
 - Cooperate with government on the 98–99% of uses that advance national security and democratic values; hold firm on narrow red lines. ([CBS News](https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-full-transcript/ "Read the full transcript of our interview with Anthropic CEO Dario Amodei - CBS News"))
-    
 - Congress should eventually set democratic guardrails for AI military and surveillance use. ([CBS News](https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-full-transcript/ "Read the full transcript of our interview with Anthropic CEO Dario Amodei - CBS News"))
-    
 
 ## Jobs, labor, and the economy
 
 - Stop sugarcoating AI’s effect on white-collar jobs. ([Axios](https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic "AI jobs danger: Sleepwalking into a white-collar bloodbath"))
-    
 - Prepare for possible displacement of many entry-level white-collar jobs in technology, finance, law, consulting, and similar fields. ([Axios](https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic "AI jobs danger: Sleepwalking into a white-collar bloodbath"))
-    
-- Treat labor displacement as a real macroeconomic problem, not just a communications problem. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Understand why AI may differ from previous technological transitions: speed, cognitive breadth, ability to replace many related jobs at once, and rapid filling of gaps. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Do not rely blindly on “people will move to physical work”; robotics and AI-accelerated automation may erode that refuge too. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Do not assume “human touch” will protect enough jobs to solve the labor-market problem. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Do not over-rely on comparative advantage if AI systems become vastly more productive than humans. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Collect accurate, granular, high-frequency data on AI adoption and job displacement. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Steer enterprise AI adoption toward innovation when possible, not only cost-cutting. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Reassign employees creatively before resorting to layoffs. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- In a world of enormous AI-created wealth, consider paying human employees even after their traditional economic value declines. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Use philanthropy, progressive taxation, and other macroeconomic interventions to reduce inequality from AI concentration. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Wealthy AI beneficiaries should give away both wealth and power. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Break the link between economic value and human self-worth. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
+- Treat labor displacement as a real macroeconomic problem, not just a communications problem. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Understand why AI may differ from previous technological transitions: speed, cognitive breadth, ability to replace many related jobs at once, and rapid filling of gaps. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Do not rely blindly on “people will move to physical work”; robotics and AI-accelerated automation may erode that refuge too. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Do not assume “human touch” will protect enough jobs to solve the labor-market problem. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Do not over-rely on comparative advantage if AI systems become vastly more productive than humans. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Collect accurate, granular, high-frequency data on AI adoption and job displacement. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Steer enterprise AI adoption toward innovation when possible, not only cost-cutting. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Reassign employees creatively before resorting to layoffs. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- In a world of enormous AI-created wealth, consider paying human employees even after their traditional economic value declines. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Use philanthropy, progressive taxation, and other macroeconomic interventions to reduce inequality from AI concentration. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Wealthy AI beneficiaries should give away both wealth and power. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Break the link between economic value and human self-worth. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
 
 ## Career advice for individuals
 
 - Do not compete against AI head-on; build alongside it. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 - Work where AI is a tailwind. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 - Look for moats in the physical world, human relationships, institutions, integration, and supply chains. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 - Combine human-centered work, physical-world work, and analytical skill. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 - Consider semiconductor supply chains and other AI infrastructure as durable opportunity areas. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 - Develop institution-facing skills: consulting, integration, relationship management, and the ability to make organizations adopt new tools. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 - Build critical thinking and street smarts; AI-generated images, videos, scams, and fake content will make reality harder to judge. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 - Do not let AI use deskill you; using AI to cheat or outsource learning can destroy important abilities. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 - Use AI carefully as a skill amplifier, not as a substitute for learning. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 - Expect coding to be automated before broader software engineering. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 - Move from line-by-line coding toward system design, architecture, product judgment, UX judgment, and directing AI systems. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Use comparative advantage while it lasts: when AI does most of a job, the remaining human parts become more leveraged. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Watch what AI can actually do now and adapt step by step; AI progress is empirical. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
-- Keep learning even when AI can do the task better; human purpose is not the same as being the best performer. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
+- Keep learning even when AI can do the task better; human purpose is not the same as being the best performer. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
 
 ## Advice for aspiring AI researchers
 
 - Get extremely strong at machine learning. ([80,000 Hours](https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/ "Dario Amodei on OpenAI and how AI will change the world for good and ill | 80,000 Hours"))
-    
 - Pair technical strength with serious interest in AI safety. ([80,000 Hours](https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/ "Dario Amodei on OpenAI and how AI will change the world for good and ill | 80,000 Hours"))
-    
 - The most natural path into AI safety research is an ML PhD. ([80,000 Hours](https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/ "Dario Amodei on OpenAI and how AI will change the world for good and ill | 80,000 Hours"))
-    
 - You can transition from physics, computer science, mathematics, economics, logic, or other quantitative fields. ([80,000 Hours](https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/ "Dario Amodei on OpenAI and how AI will change the world for good and ill | 80,000 Hours"))
-    
 - Test your fit cheaply: implement recent ML models quickly and see whether you enjoy it. ([80,000 Hours](https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/ "Dario Amodei on OpenAI and how AI will change the world for good and ill | 80,000 Hours"))
-    
 - Read papers, implement them, reproduce results, then tweak the models. ([80,000 Hours](https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/ "Dario Amodei on OpenAI and how AI will change the world for good and ill | 80,000 Hours"))
-    
 - Build practical intuition through hands-on implementation, not only coursework. ([80,000 Hours](https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/ "Dario Amodei on OpenAI and how AI will change the world for good and ill | 80,000 Hours"))
-    
 - Learn Python and modern ML frameworks; use them to implement real models. ([80,000 Hours](https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/ "Dario Amodei on OpenAI and how AI will change the world for good and ill | 80,000 Hours"))
-    
 - If you already have a PhD in another field, do not automatically do another PhD; learn ML directly, implement models, and pursue internships or residencies. ([80,000 Hours](https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/ "Dario Amodei on OpenAI and how AI will change the world for good and ill | 80,000 Hours"))
-    
 - Use internships at frontier labs as a path into the field. ([80,000 Hours](https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/ "Dario Amodei on OpenAI and how AI will change the world for good and ill | 80,000 Hours"))
-    
 - Industrial frontier labs can be better environments than academia for some AI researchers because of compute, resources, and talent density. ([80,000 Hours](https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/ "Dario Amodei on OpenAI and how AI will change the world for good and ill | 80,000 Hours"))
-    
 - Keep up with the literature and produce creative, original work. ([80,000 Hours](https://80000hours.org/podcast/episodes/the-world-needs-ai-researchers-heres-how-to-become-one/ "Dario Amodei on OpenAI and how AI will change the world for good and ill | 80,000 Hours"))
-    
 - Skate where the puck is going: work on underexplored areas that will matter in five years. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Consider mechanistic interpretability, long-horizon learning, dynamic evaluations, and multi-agent systems as underexplored research areas. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Do not only chase popular model-architecture work if more neglected safety-relevant work has higher leverage. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 
 ## Building teams and organizations
 
 - Talent density beats talent mass. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Hire people who are smart, skilled, motivated, and aligned with the mission. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Keep hiring selective as the organization scales. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Avoid growing into fiefdoms; unified purpose is a superpower. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Build trust so the organization does not need excessive process to compensate for low alignment. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Hire people who can learn fast; Dario specifically notes theoretical physicists as often strong at this. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Do not give up because institutions are imperfect; imperfect people can still build better practices. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Do not argue endlessly with someone else’s vision; if you have a strong vision and others share it, go build it and own the consequences. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 - Do not make too many promises; make commitments costly enough that actions prove seriousness. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 - Competitive advantage often comes from boring tradecraft: better infrastructure, better data, better filtering, better process, and better execution. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 
 ## Product and model design
 
 - Prefer quality at the frontier; small quality differences between models can create large practical differences. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 - Expect programming tools and IDEs to become far more powerful as AI models learn to write, run, analyze, and improve code. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Build tools that let models close the loop: write code, run it, inspect results, and iterate. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Use domain-specific tooling where general chat is too weak for expert work. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Treat AI assistants that know users deeply as high-upside and high-risk: they can become “angels on your shoulder” or tools for manipulation. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 - Take the positive road: design personal AI systems to improve users’ lives, not exploit their private context. ([The Singju Post](https://singjupost.com/people-by-wtf-w-dario-amodei-the-ai-tsunami-is-here-transcript/ "People by WTF: w/ Dario Amodei - The AI Tsunami is Here (Transcript) – The Singju Post"))
-    
 
 ## Democracy, governance, and civil liberties
 
-- Fight for AI to favor democracy, individual rights, and equality under law. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
-    
-- Do not assume liberal democracy wins automatically; it requires commitment and sacrifice. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
-    
-- Use AI to strengthen democratic institutions, not only to defend against risks. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
-    
-- Explore AI for more impartial legal and judicial processes while guarding against discrimination. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
-    
-- Use AI to improve public services such as health benefits, social services, taxes, social security, and administrative systems. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
-    
-- Consider civil-liberties-focused legislation or constitutional protection against AI-powered surveillance abuses. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Apply extreme care and scrutiny to AI for autonomous weapons and strategic decision-making. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
+- Fight for AI to favor democracy, individual rights, and equality under law. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
+- Do not assume liberal democracy wins automatically; it requires commitment and sacrifice. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
+- Use AI to strengthen democratic institutions, not only to defend against risks. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
+- Explore AI for more impartial legal and judicial processes while guarding against discrimination. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
+- Use AI to improve public services such as health benefits, social services, taxes, social security, and administrative systems. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
+- Consider civil-liberties-focused legislation or constitutional protection against AI-powered surveillance abuses. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Apply extreme care and scrutiny to AI for autonomous weapons and strategic decision-making. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
 
 ## Human purpose and meaning
 
-- Do not define human value by economic productivity. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Do not define purpose by being the best in the world at a task. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Preserve stories, projects, relationships, and activities humans love even when AI can outperform humans. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Prevent exploitative or dystopian post-work arrangements; good outcomes must be fought for and iterated toward. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
-    
-- Be ambitious about AI-enabled liberty and equality, even if some ideas sound utopian. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
-    
+- Do not define human value by economic productivity. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Do not define purpose by being the best in the world at a task. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Preserve stories, projects, relationships, and activities humans love even when AI can outperform humans. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Prevent exploitative or dystopian post-work arrangements; good outcomes must be fought for and iterated toward. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
+- Be ambitious about AI-enabled liberty and equality, even if some ideas sound utopian. ([Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace "Dario Amodei — Machines of Loving Grace"))
 
 ## Philanthropy and responsibility
 
-- Reject cynicism that philanthropy is inherently fraudulent or useless. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Wealthy individuals, especially AI beneficiaries, have an obligation to help solve AI-driven inequality. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Use both private philanthropy and public policy; neither is sufficient alone. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- Give back because society contributed to private success. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
-- AI winners should be willing to give away wealth and power. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
-    
+- Reject cynicism that philanthropy is inherently fraudulent or useless. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Wealthy individuals, especially AI beneficiaries, have an obligation to help solve AI-driven inequality. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Use both private philanthropy and public policy; neither is sufficient alone. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- Give back because society contributed to private success. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
+- AI winners should be willing to give away wealth and power. ([Dario Amodei](https://www.darioamodei.com/essay/the-adolescence-of-technology "Dario Amodei — The Adolescence of Technology"))
 
 ## Exclusions and attribution controls
 
 - Do not attribute Amanda Askell’s Lex Fridman prompt-engineering advice to Dario Amodei; the “programming advice for non-technical people” and related technical-transition advice in that segment is Amanda’s, not Dario’s. ([Lex Fridman](https://lexfridman.com/dario-amodei-transcript "Transcript for Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452 - Lex Fridman"))
-    
 - Treat the paused Claude draft as a lead list, not a source of truth.

@@ -160,7 +160,6 @@ Cerita menjawab bukan hanya “apa yang terjadi”, tetapi juga “mengapa itu p
 ## 2. Storytelling Membangun Empati
 Melalui cerita, kita dapat melihat dunia dari sudut pandang orang lain.
 Cerita membuat kita berkata:
-
 > “Saya belum pernah mengalami itu, tapi sekarang saya bisa sedikit memahami rasanya.”
 
 Inilah alasan cerita penting dalam pendidikan, kepemimpinan, pelayanan, bisnis, seni, dan gerakan sosial.
@@ -168,36 +167,26 @@ Inilah alasan cerita penting dalam pendidikan, kepemimpinan, pelayanan, bisnis, 
 ---
 
 ## 3. Storytelling Menggerakkan Perubahan
-
 Orang jarang berubah hanya karena diberi instruksi. Mereka lebih mudah berubah ketika mereka merasa terhubung dengan sebuah cerita.
-
 Cerita bisa membuat seseorang:
 
 - Berani memulai
-    
 - Berani mengakui kesalahan
-    
 - Berani meminta maaf
-    
 - Berani bermimpi lebih besar
-    
 - Berani mengambil keputusan sulit
-    
 
 Storytelling menggerakkan karena ia menyentuh pikiran sekaligus hati.
 
 ---
 
 ## 4. Storytelling Membangun Identitas
-
 Kita memahami diri kita melalui cerita yang kita percaya tentang diri sendiri.
 
 Misalnya:
-
 > “Saya orang yang selalu gagal.”
 
 Bisa berubah menjadi:
-
 > “Saya orang yang sedang belajar melalui kegagalan.”
 
 Perubahan cerita internal dapat mengubah cara seseorang hidup.
@@ -205,7 +194,6 @@ Perubahan cerita internal dapat mengubah cara seseorang hidup.
 ---
 
 ## 5. Storytelling Menciptakan Koneksi
-
 Cerita mempertemukan manusia.
 
 Dalam cerita, orang menemukan pengalaman yang mirip, luka yang sama, harapan yang serupa, atau impian yang sejalan.
@@ -215,7 +203,6 @@ Itulah sebabnya cerita mampu membangun komunitas, memperkuat budaya organisasi, 
 ---
 
 ## Kesimpulan
-
 Menjadi storyteller yang baik berarti belajar menyampaikan kebenaran dengan cara yang hidup, jujur, dan bermakna.
 
 Cerita yang baik tidak harus sempurna. Ia harus **jujur, terarah, emosional, dan relevan**.

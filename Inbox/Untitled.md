@@ -101,6 +101,8 @@ Kemiringan garis ditentukan oleh gradien.
 3. Jika gradien nol, garis horizontal.
 4. Jika gradien tidak terdefinisi, garis vertikal.
 
+### Arah Garis Berdasarkan Nilai Kemiringan
+1. $m > 0$ -> garis menanjak
 Alasannya, gradien membandingkan perubahan $y$ terhadap perubahan $x$. Tanda dan keberadaan nilai gradien menunjukkan arah perubahan vertikal ketika terjadi perubahan horizontal.
 
 ![[Pasted image 20260426203751.png]]
@@ -111,7 +113,7 @@ Alasannya, gradien membandingkan perubahan $y$ terhadap perubahan $x$. Tanda dan
 
 Jika sebuah garis melalui dua titik berbeda $P(x_P,y_P)$ dan $Q(x_Q,y_Q)$, maka gradien garis tersebut adalah:
 
-$$
+$$m
 m=\frac{y_Q-y_P}{x_Q-x_P}
 $$
 

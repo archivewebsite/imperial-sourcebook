@@ -1,31 +1,18 @@
 ---
-title: "The Ultimate Decision-Making Guide — Why We Fail and How to Fix It (Part 3)"
+title: "Decision Biases Part 3 Create Distance"
 source: "https://medium.com/change-your-mind/the-ultimate-decision-making-guide-why-we-fail-and-how-to-fix-it-part-3-4a224700b349"
 author:
   - "[[Mental Garden]]"
 published: 2026-02-12
 created: 2026-04-25
-description: "The Ultimate Decision-Making Guide — Why We Fail and How to Fix It (Part 3) The Hidden Biases That Sabotage Even Smart Choices Did you get here by chance? If you haven’t yet read the second part …"
 tags:
   - "clippings"
 ---
-## [Change Your Mind Change Your Life](https://medium.com/change-your-mind?source=post_page---publication_nav-30d32c722963-4a224700b349---------------------------------------)
-
-[![Change Your Mind Change Your Life](https://miro.medium.com/v2/resize:fill:76:76/1*w1Jvhl-9CmZbxAIrp33BXg.jpeg)](https://medium.com/change-your-mind?source=post_page---post_publication_sidebar-30d32c722963-4a224700b349---------------------------------------)
-
-Read short and uplifting articles here to help you shift your thought, so you can see real change in your life and health.
-
 ## The Hidden Biases That Sabotage Even Smart Choices
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*VMMyzipyFn9CCupB.png)
-
-Created by Mental Garden
 
 *Did you get here by chance?*
 
-If you haven’t yet read the [**second part**](https://open.substack.com/pub/followmentalgarden/p/decisive-chip-dan-heath-2?utm_campaign=post-expanded-share&utm_medium=web) of this journey through the book *Decisive* (by Chip and Dan Heath), do yourself a favor and start there — you don’t want to miss everything we covered.
-
-**👉** [**Click here to read the second issue**](https://open.substack.com/pub/followmentalgarden/p/decisive-chip-dan-heath-2?utm_campaign=post-expanded-share&utm_medium=web)
+If you haven’t yet read the **second part** of this journey through the book *Decisive* (by Chip and Dan Heath), do yourself a favor and start there — you don’t want to miss everything we covered.
 
 There, we built the first two pillars of the system: **expanding options and testing assumptions**. We saw how to escape false binaries and how to avoid “researching” only to confirm what we already wanted to believe.
 
@@ -35,13 +22,11 @@ With two more unusual… and decisive elements: **distance** and **preparation**
 
 Let’s see how to decide — and get it right…
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*PpifGmxF4i9wi_B9.png)
-
 ## 3\. Create distance before deciding
 
 **Many decisions fail because we decide too close to the fire.**
 
-When you’re inside the problem, everything weighs more: [urgency](https://followmentalgarden.substack.com/i/174371243/10-the-urgency-instinct), [fear](https://followmentalgarden.substack.com/i/174047778/3-the-fear-instinct), pride, [sunk costs](https://followmentalgarden.substack.com/i/174047778/3-the-fear-instinct), [social pressure](https://followmentalgarden.substack.com/i/178110453/the-power-of-conformity). Emotions don’t cancel out your reason… **but they do hijack the horizon from which you reason.**
+When you’re inside the problem, everything weighs more: urgency, fear, pride, sunk costs, social pressure. Emotions don’t cancel out your reason… **but they do hijack the horizon from which you reason.**
 
 The result is predictable:
 
@@ -118,11 +103,11 @@ The book illustrates it with a simple idea: when you’re inside, you’re biase
 
 **When to use it:**
 
-- When you notice [attachment to the status quo](https://followmentalgarden.substack.com/i/180229877/2-break-the-status-quo) (“since I’m already here…”).
+- When you notice attachment to the status quo (“since I’m already here…”).
 - When quitting feels like “admitting a mistake.”
 - When you’ve been “holding on a bit longer” for months without a plan.
 
-This question kills the [sunk-cost bias](https://followmentalgarden.substack.com/i/148028984/2-sunk-cost-bias).
+This question kills the sunk-cost bias.
 
 **And gives you back the ability to let go.**
 
@@ -154,13 +139,11 @@ You can never win everything at once.
 
 And now, let’s move to the final step: **what to do even when things go wrong.**
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*ZCW6GGHxgfvxufoj.png)
-
 ## 4\. Prepare to be wrong
 
 **The future isn’t a straight line.**
 
-It’s a fan too wide to see in full. And the biggest mistake isn’t being wrong — **it’s having the audacity not to be prepared for it**. That’s why the Heath brothers repeat something uncomfortable to admit: [even experts predict poorly](https://open.substack.com/pub/followmentalgarden/p/why-experts-fail?utm_campaign=post-expanded-share&utm_medium=web), so the goal isn’t to always be right — it’s to design [antifragile decisions](https://followmentalgarden.substack.com/i/151993211/think-anti-fragile).
+It’s a fan too wide to see in full. And the biggest mistake isn’t being wrong — **it’s having the audacity not to be prepared for it**. That’s why the Heath brothers repeat something uncomfortable to admit: even experts predict poorly, so the goal isn’t to always be right — it’s to design antifragile decisions.
 
 **Aim for long-term resilience.**
 
@@ -185,13 +168,13 @@ Here are 4 techniques to achieve it:
 - When you feel overly confident in your choice.
 - When there’s real risk and you need a plan B/C.
 
-**This eliminates the** [**Irish error**](https://open.substack.com/pub/followmentalgarden/p/the-irish-mistake?utm_campaign=post-expanded-share&utm_medium=web) **and prepares you for the unexpected.**
+**This eliminates the** **Irish error** **and prepares you for the unexpected.**
 
 ## 4.2. Premortem: fail before you fail
 
 **The premortem is one of the most valuable tools in the system.**
 
-It consists of imagining that the decision has already happened… and it went badly. From there, you uncover why. This is a [technique used by ancient Stoic](https://followmentalgarden.substack.com/i/155120570/1-negative-visualization) philosophers to anticipate misfortune.
+It consists of imagining that the decision has already happened… and it went badly. From there, you uncover why. This is a technique used by ancient Stoic philosophers to anticipate misfortune.
 
 **How to apply it:**
 
@@ -236,7 +219,7 @@ Sometimes your plan doesn’t fail.
 
 ### 4.4.1. Safety margins
 
-The Heaths recommend adding an extra margin: more time, more money, more energy than you think you need. [The real world is usually harsher than our plans](https://followmentalgarden.substack.com/i/168568987/the-problem-of-expectations). This is what I call a [precautionary reserve](https://followmentalgarden.substack.com/i/153462996/preparing-for-the-extreme).
+The Heaths recommend adding an extra margin: more time, more money, more energy than you think you need. The real world is usually harsher than our plans. This is what I call a precautionary reserve.
 
 **How to apply it:**
 
@@ -276,8 +259,6 @@ Many decisions drag us into a black hole because we don’t know when to stop.
 
 **The tripwire cuts inertia before it costs you years.**
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*xe2mIGKyHA2qsmU6.png)
-
 **And here ends our full journey through *Decisive*. It’s been great.**
 
 The book doesn’t promise perfect decisions, but **it does give you something real that works:** less self-deception, less regret afterward, more clarity when deciding under pressure, and more peace of mind — even when you’re wrong.
@@ -290,30 +271,23 @@ We can’t control the future — but you’ve learned how to decide in an uncer
 
 **And that’s a skill for life.**
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Oy9Ax51RR5pIrn7A.png)
-
 ### Want to go deeper? Here are 3 related ideas to explore:
 
-1. [**All models are wrong, some are useful**](https://open.substack.com/pub/followmentalgarden/p/all-models-are-wrong?utm_campaign=post-expanded-share&utm_medium=web)
-2. [**3 Timeless Ideas to Solve Problems Before They Happen**](https://open.substack.com/pub/followmentalgarden/p/anticipation?utm_campaign=post-expanded-share&utm_medium=web)
-3. [**Occam’s Razor: Make Simple Decisions in a Complex World**](https://open.substack.com/pub/followmentalgarden/p/occams-razor?utm_campaign=post-expanded-share&utm_medium=web)
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*nMRYBojXrWpoKpCk.png)
+1. **All models are wrong, some are useful**
+2. **3 Timeless Ideas to Solve Problems Before They Happen**
+3. **Occam’s Razor: Make Simple Decisions in a Complex World**
 
 > ***✍️ Your turn:*** *If you applied the 10/10/10 rule to your current dilemma, at which horizon does your answer really change? What are you overvaluing today that might be irrelevant tomorrow?*
 > 
 > ***💭 Quote of the day:*** *“Our decisions will never be perfect, but they can be better. Bolder. Wiser. The right process can guide us toward the right choice.” — Chip Heath and Dan Heath*
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*jFsJMXciqJFv-LMs.png)
-
 🌱 Here I plant ideas. **In the newsletter, I make them grow.**
 
 Daily insights on self-development, writing, and psychology — straight to your inbox. If you liked this, you’ll love the newsletter. 🌿📩
 
-👉 **Join 51.000+ readers:** [**Mental Garden**](https://followmentalgarden.substack.com/)
+👉 **Join 51.000+ readers:** **Mental Garden**
 
 **See you in the next letter, take care! 👋**
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*zZGPxiv-ebENj229.png)
 
 ## References 📚
 

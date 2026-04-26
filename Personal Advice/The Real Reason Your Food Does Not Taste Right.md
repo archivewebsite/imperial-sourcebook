@@ -111,5 +111,5 @@ Because I believe your version of “delicious” will shine warmly, more beauti
 
 ## Related Clippings
 <!-- managed-by-linking-obsidian-clippings:start -->
-- [[You Are Not Overeating You Are Eating Wrong 7 Habits That Make Staying Slim Effortless]]
+- [[Eating Habits for Staying Lean]]
 <!-- managed-by-linking-obsidian-clippings:end -->

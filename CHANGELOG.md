@@ -13,12 +13,20 @@ Add new dated entries at the top of this section.
 ### Changed
 - Task type: `inbox-organization`
 - Completed an Inbox organization pass and routed all complete Inbox markdown notes into existing Sourcebook buckets with topic-specific filenames.
+- Task type: `inbox-organization`
+- Completed a second Inbox organization pass for the new captures, including the UTBK kata baku PDF.
+- Task type: `clipping-triage`
+- Lightly cleaned and routed the three current decision-making clippings into `Notes/Psychology/`.
+- Task type: `sourcebook-organization`
+- Completed a conservative filename cleanup for risky, vague, duplicate, long, underscore, or special-character content filenames and refreshed old note links.
 - Task type: `note-update`
 - Cleaned the formatting of a learning-strategy Inbox note about how smart people learn difficult things.
 - Task type: `note-update`
 - Updated `Learning & Skills/Dasar-Dasar Kelistrikan dan Muatan.md` so equations and inline symbols use Obsidian-compatible MathJax formatting.
 
 ### Moved
+- Moved the current Storytelling, 8th Habit, physics, biology, design-palette, algebra-formula, and kata baku captures out of `Inbox` into existing Sourcebook buckets.
+- Moved three decision-making clippings from `Clippings/` into `Notes/Psychology/`.
 - Moved UTBK strategy and planning notes into `Notes/College Preparation/`.
 - Moved divisibility, derivative, and unit-circle math references into `Notes/College Preparation/Matematika/`.
 - Moved retrieval-practice and Dario Amodei AI reference notes into `Learning & Skills/`.
@@ -27,11 +35,17 @@ Add new dated entries at the top of this section.
 - Moved the cleaned smart-learning note from `Inbox/` into `Learning & Skills/`.
 
 ### Renamed
+- Renamed all 10 current Inbox and Clippings files to short topic-specific names, including all current `Untitled*` captures and `The_8th_Habit_Summary.md`.
+- Renamed 16 existing risky or vague content filenames, including duplicate `soal dan pembahasan.md`, `Quick Note!.md`, `One.md`, `Two.md`, `Three.md`, `Conjunctions & Related Connectors.md`, and selected long smart-punctuation titles.
+- Retitled the three cleaned clipping frontmatter `title` values to match their new filenames.
 - Renamed every moved Inbox file from its Inbox capture filename to a unique topic-specific destination filename, including the generic `Untitled*.md` captures.
 - Preserved the near-duplicate personal-roadmap capture as `Personal Advice/A Personal Roadmap for When You Do Not Know Where to Start (Inbox 2026-04-26).md` instead of merging it into the existing roadmap note.
 - Renamed `Inbox/Untitled 2.md` to `Learning & Skills/How Smart People Learn Difficult Things.md`.
 
 ### Notes
+- Counts: 26 files moved or renamed, 3 clipping descriptions removed, 25 external clipping image lines removed, and old title links refreshed in 2 notes.
+- Counts: `Inbox` and `Clippings` left empty; scoped filename audit now reports 0 risky content filenames and 0 duplicate content basenames.
+- Left unresolved: clipping article text was not otherwise rewritten; original imported text encoding artifacts were preserved.
 - Counts: 13 Inbox markdown notes moved, 13 destination filenames clarified, and `Inbox` left empty.
 - Left unresolved: no note bodies were edited; existing near-duplicate roadmap records were intentionally kept separate.
 - Counts: 1 learning-strategy note cleaned, renamed, and moved.

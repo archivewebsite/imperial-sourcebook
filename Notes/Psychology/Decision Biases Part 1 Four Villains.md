@@ -1,20 +1,13 @@
 ---
-title: "Why we make bad decisions (and how to avoid it) (Part 1)"
+title: "Decision Biases Part 1 Four Villains"
 source: "https://followmentalgarden.substack.com/p/decisive-chip-dan-heath-1?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true"
 author:
   - "[[Álvaro García]]"
 published: 2026-02-02
 created: 2026-04-25
-description: "The ultimate guide to making the right decision"
 tags:
   - "clippings"
 ---
-##### Welcome to Mental Garden. The following letter is part of our “Distilling Books” collection, in which we extract the most revealing ideas from literature. For the complete library, click here.
-
-##### 🏷️ Categories: Decision making and biases.
-
----
-
 **It’s happened to you before.**
 
 You made a decision that seemed right. Months later, you look back and think: *How did I not see it?*  
@@ -35,8 +28,6 @@ In the next two editions: **the way out.**
 Because understanding the failure is the first step to fixing it.
 
 **This is going to be great—let’s dive in…**
-
-![https://substackcdn.com/image/fetch/$s_!dqxj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b85b962-d68b-49a3-ae5a-f0a60bf4060b_3000x240.png](https://substackcdn.com/image/fetch/$s_!dqxj!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b85b962-d68b-49a3-ae5a-f0a60bf4060b_3000x240.png)
 
 ### The problem lies in how we decide
 
@@ -70,13 +61,11 @@ These questions seem reasonable, **but they hide a trap**: they reduce a complex
 
 **Narrow framing appears as soon as we feel pressure to decide.**
 
-The brain hates ambiguity. You want to close the problem quickly and get rid of doubt, so you unconsciously turn a complex situation into a simple question. This gives us a [false sense of control that soothes us](https://followmentalgarden.substack.com/i/165734136/the-illusion-of-control) (and makes us fail).
+The brain hates ambiguity. You want to close the problem quickly and get rid of doubt, so you unconsciously turn a complex situation into a simple question. This gives us a false sense of control that soothes us (and makes us fail).
 
 On top of that, we tend to focus only on what’s right in front of us. On the immediate. The result is clear: **we choose between bad and few options, believing there are no others.**
 
 And when you only see two paths, the next villain enters the scene…
-
-![https://substackcdn.com/image/fetch/$s_!Ptmp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cce5622-c97a-43b7-b997-a221e85f5496_1280x914.png](https://substackcdn.com/image/fetch/$s_!Ptmp!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cce5622-c97a-43b7-b997-a221e85f5496_1280x914.png)
 
 ---
 
@@ -96,8 +85,6 @@ Being right—or sticking to your view—feels better than realizing you’re wr
 
 And so, a bad option becomes increasingly solid… **but only in our heads.**
 
-![](https://substackcdn.com/image/fetch/$s_!rNZT!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F412fbf0a-6456-4a27-ae3a-68377396095e_860x559.png)
-
 And despite all this, there are still two more villains to come…
 
 ---
@@ -112,7 +99,7 @@ The future becomes abstract.
 
 **The present weighs too much.**
 
-This happens because the human brain evolved to survive, not to plan twenty years ahead. Those are situations that only arise in stable moments of the modern, developed world. They’re [not part of our evolutionary origin](https://followmentalgarden.substack.com/i/145194138/amygdala-vs-prefrontal-cortex).
+This happens because the human brain evolved to survive, not to plan twenty years ahead. Those are situations that only arise in stable moments of the modern, developed world. They’re not part of our evolutionary origin.
 
 - That’s why we overvalue immediate relief.
 - That’s why we postpone necessary but uncomfortable decisions.
@@ -136,15 +123,13 @@ But even if we manage to calm down, there’s still one last enemy left…
 - We think this time will be different.
 - We overestimate our chances of success.
 
-Overconfidence feels like clarity. And that’s why it’s so dangerous. **It happens when we [confuse explaining with predicting](https://followmentalgarden.substack.com/i/176206813/1-hindsight-bias-the-famous-i-knew-it-all-along).** Being able to explain why something worked in the past doesn’t mean we can predict that it will work in the future. But the more expert we feel about something, the more we risk when predicting.
+Overconfidence feels like clarity. And that’s why it’s so dangerous. **It happens when we confuse explaining with predicting.** Being able to explain why something worked in the past doesn’t mean we can predict that it will work in the future. But the more expert we feel about something, the more we risk when predicting.
 
 - That’s why we believe our case is unique.
 - That’s why we believe this time will break the usual trend.
 - That’s why we think statistics don’t apply to us.
 
 **And so we make very risky decisions with crushing confidence.**
-
-![](https://substackcdn.com/image/fetch/$s_!qYua!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc11d5371-d45d-42cc-92d9-5c7d671fd750_1536x933.png)
 
 ---
 
@@ -171,8 +156,6 @@ That’s what *Decisive* does: **it provides a decision-making system that works
 
 **That system is called WRAP, and we’ll analyze it in detail, step by step.**
 
-![https://substackcdn.com/image/fetch/$s_!dqxj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b85b962-d68b-49a3-ae5a-f0a60bf4060b_3000x240.png](https://substackcdn.com/image/fetch/$s_!dqxj!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b85b962-d68b-49a3-ae5a-f0a60bf4060b_3000x240.png)
-
 ### What comes next
 
 **In this first installment, we’ve made the diagnosis.**
@@ -191,25 +174,17 @@ And that’s where everything starts to improve…
 
 **Here is the second part:**
 
-![https://substackcdn.com/image/fetch/$s_!dqxj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b85b962-d68b-49a3-ae5a-f0a60bf4060b_3000x240.png](https://substackcdn.com/image/fetch/$s_!dqxj!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b85b962-d68b-49a3-ae5a-f0a60bf4060b_3000x240.png)
-
 #### Want to know more? Here are 3 related ideas in the meantime:
 
-1. **[Correlation vs. causation: a common mistake in understanding the world](https://open.substack.com/pub/followmentalgarden/p/correlation-causation?utm_campaign=post-expanded-share&utm_medium=web)**
-2. **[10 mental traps that sabotage you without you even noticing](https://open.substack.com/pub/followmentalgarden/p/10-irrational-behaviors-1?utm_campaign=post-expanded-share&utm_medium=web)**
-3. **[The 10 most dangerous logical fallacies (and how to avoid them)](https://open.substack.com/pub/followmentalgarden/p/10-logical-fallacies?utm_campaign=post-expanded-share&utm_medium=web)**
-
-![https://substackcdn.com/image/fetch/$s_!dqxj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b85b962-d68b-49a3-ae5a-f0a60bf4060b_3000x240.png](https://substackcdn.com/image/fetch/$s_!dqxj!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b85b962-d68b-49a3-ae5a-f0a60bf4060b_3000x240.png)
+1. **Correlation vs. causation: a common mistake in understanding the world**
+2. **10 mental traps that sabotage you without you even noticing**
+3. **The 10 most dangerous logical fallacies (and how to avoid them)**
 
 > ✍️ **Your turn:** Which decision from the past year would you see differently today… and which part of the “invisible process” do you think you failed to review?
 > 
 > 💭 **Quote of the day:** “Success arises from the quality of the decisions we make and the amount of luck we receive. We can’t control luck. But we can control how we make decisions.” — Chip Heath and Dan Heath
 
 **See you in the next letter about** ***Decisive*****! 👋**
-
-![](https://substackcdn.com/image/fetch/$s_!SWPY!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29e51eb9-cd58-4935-8830-f3af757ab839_597x71.png)
-
-![https://substackcdn.com/image/fetch/$s_!dqxj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b85b962-d68b-49a3-ae5a-f0a60bf4060b_3000x240.png](https://substackcdn.com/image/fetch/$s_!dqxj!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b85b962-d68b-49a3-ae5a-f0a60bf4060b_3000x240.png)
 
 ### References 📚
 

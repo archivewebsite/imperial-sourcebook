@@ -1,33 +1,22 @@
 ---
-title: "Why we make bad decisions (and how to avoid it) (Part 2)"
+title: "Decision Biases Part 2 WRAP Method"
 source: "https://followmentalgarden.substack.com/p/decisive-chip-dan-heath-2?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true"
 author:
   - "[[Álvaro García]]"
 published: 2026-02-04
 created: 2026-04-25
-description: "The ultimate guide to making the right decision"
 tags:
   - "clippings"
 ---
-##### Welcome to Mental Garden. The following letter is part of our “Distilling Books” collection, in which we extract the most revealing ideas from literature. For the complete library, click here.
-
-##### 🏷️ Categories: Decision making and biases.
-
----
-
 *Did you get here by chance?*
 
-If you haven’t read **[the first part](https://open.substack.com/pub/followmentalgarden/p/decisive-chip-dan-heath-1?utm_campaign=post-expanded-share&utm_medium=web)** of this journey through the book *Decisive* (by Chip and Dan Heath), do yourself a favor and start there—you don’t want to miss everything we covered.
-
-👉 **[Click here to read the first chapter](https://open.substack.com/pub/followmentalgarden/p/decisive-chip-dan-heath-1?utm_campaign=post-expanded-share&utm_medium=web)**.
+If you haven’t read **the first part** of this journey through the book *Decisive* (by Chip and Dan Heath), do yourself a favor and start there—you don’t want to miss everything we covered.
 
 **There we made the diagnosis:** why even brilliant minds make bad decisions, how narrow framing creates false dilemmas, how confirmation bias makes us seek agreement rather than truth, how immediate emotion hijacks our long-term vision, and how overconfidence makes us risk everything without fear.
 
 **And here’s where things get really interesting**: today we’re going to change the system.
 
 **Here is, step by step, how to decide—and get it right.**
-
-![](https://substackcdn.com/image/fetch/$s_!dqxj!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b85b962-d68b-49a3-ae5a-f0a60bf4060b_3000x240.png)
 
 ## 1\. Expand your options
 
@@ -81,7 +70,7 @@ Imagine you’re obsessed with a specific offer. Do the exercise:
 
 - “If this offer didn’t exist… what would I do?”
 
-Suddenly, alternatives appear that you hadn’t considered: changing industries, starting a business, negotiating within your current company, training, waiting intentionally. This is the technique I usually call **option suppression**, and it’s also [extremely powerful for boosting creativity](https://followmentalgarden.substack.com/i/168232525/2-option-suppression-technique).
+Suddenly, alternatives appear that you hadn’t considered: changing industries, starting a business, negotiating within your current company, training, waiting intentionally. This is the technique I usually call **option suppression**, and it’s also extremely powerful for boosting creativity.
 
 It’s not that those options didn’t exist before.
 
@@ -129,8 +118,6 @@ Instead of obsessing over a specific offer, consider at the same time:
 
 Let’s look at the second mistake—and how to annihilate it…
 
-![](https://substackcdn.com/image/fetch/$s_!dqxj!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b85b962-d68b-49a3-ae5a-f0a60bf4060b_3000x240.png)
-
 ## 2\. Test your assumptions
 
 The worst enemy isn’t lack of information— **it’s information that agrees with you.**
@@ -166,7 +153,7 @@ You need to be challenged. Here are some practical ways to do that:
 - Instead of: “Hey, does this seem like a good idea to you?”
 - Ask: “Why do you think an expert wouldn’t do this?”
 
-In *Decisive*, they insist on **asking disconfirming questions** —this is the [inversion technique](https://open.substack.com/pub/followmentalgarden/p/inversion?utm_campaign=post-expanded-share&utm_medium=web). It’s key because these are the kinds of questions that expand real information. The others only reinforce a narrative you’ve already told yourself based on prior beliefs.
+In *Decisive*, they insist on **asking disconfirming questions** —this is the inversion technique. It’s key because these are the kinds of questions that expand real information. The others only reinforce a narrative you’ve already told yourself based on prior beliefs.
 
 **If an idea survives questions that go against it, that’s a good sign.**
 
@@ -207,8 +194,6 @@ Not all decisions allow sampling, but when they do, **use it**.
 
 **The Heath brothers warn in** ***Decisive***: it’s not always applicable, but it’s the technique that reduces risk the most and replaces assumptions with real data. It’s ideal.
 
-![](https://substackcdn.com/image/fetch/$s_!dqxj!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b85b962-d68b-49a3-ae5a-f0a60bf4060b_3000x240.png)
-
 ## What you did today (even if you didn’t notice)
 
 Today you didn’t learn “how to decide.”
@@ -225,25 +210,17 @@ Today you didn’t learn “how to decide.”
 
 **Here is the third part:**
 
-![](https://substackcdn.com/image/fetch/$s_!dqxj!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b85b962-d68b-49a3-ae5a-f0a60bf4060b_3000x240.png)
-
 #### Want more? Here are three related ideas in the meantime:
 
-1. **[The fighter pilot technique for making instant decisions](https://open.substack.com/pub/followmentalgarden/p/ooda-loop?utm_campaign=post-expanded-share&utm_medium=web)**
-2. **[Richard Feynman’s 7 principles for thinking clearly in a noisy world](https://open.substack.com/pub/followmentalgarden/p/7-principles-thinking?utm_campaign=post-expanded-share&utm_medium=web)**
-3. **[The number that changes everything: how anchoring bias kills your decisions](https://open.substack.com/pub/followmentalgarden/p/anchoring-bias?utm_campaign=post-expanded-share&utm_medium=web)**
-
-![](https://substackcdn.com/image/fetch/$s_!dqxj!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b85b962-d68b-49a3-ae5a-f0a60bf4060b_3000x240.png)
+1. **The fighter pilot technique for making instant decisions**
+2. **Richard Feynman’s 7 principles for thinking clearly in a noisy world**
+3. **The number that changes everything: how anchoring bias kills your decisions**
 
 > ✍️ **Your turn:** Lately, are you deciding from scarcity (“I have to choose now”) or from abundance (“I can design more options”)?
 > 
 > 💭 **Quote of the day:** “Should I do this or that?” Instead, ask yourself: “Is there any way I can do this and that?” — Chip Heath & Dan Heath
 
 **See you in the next letter about** ***Decisive*****! 👋**
-
-![](https://substackcdn.com/image/fetch/$s_!SWPY!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29e51eb9-cd58-4935-8830-f3af757ab839_597x71.png)
-
-![](https://substackcdn.com/image/fetch/$s_!dqxj!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b85b962-d68b-49a3-ae5a-f0a60bf4060b_3000x240.png)
 
 ### References 📚
 

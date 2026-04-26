@@ -95,15 +95,15 @@ Gradien hanya terdefinisi jika $\Delta x \ne 0$. Jika $\Delta x=0$, pembagian ol
 ## Kemiringan dan Arah Garis
 Kemiringan garis ditentukan oleh gradien.
 
-Jika gradien bernilai positif, ketika $x$ bertambah, $y$ juga bertambah.
-
-Jika gradien bernilai negatif, maka ketika $x$ bertambah, $y$ berkurang.
-
-Jika gradien nol, garis horizontal.
-
-Jika gradien tidak terdefinisi, garis vertikal.
+### Empat Jenis Kemiringan Garis
+1. Jika gradien bernilai positif, maka ketika $x$ bertambah, $y$ juga bertambah.
+2. Jika gradien bernilai negatif, maka ketika $x$ bertambah, $y$ berkurang.
+3. Jika gradien nol, garis horizontal.
+4. Jika gradien tidak terdefinisi, garis vertikal.
 
 Alasannya, gradien membandingkan perubahan $y$ terhadap perubahan $x$. Tanda dan keberadaan nilai gradien menunjukkan arah perubahan vertikal ketika terjadi perubahan horizontal.
+
+![[Pasted image 20260426203751.png]]
 
 ---
 

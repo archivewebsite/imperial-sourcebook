@@ -4,8 +4,8 @@ Tapi itu **bukan berarti semua benda bermuatan listrik bersih**. Banyak benda se
 
 Ringkasnya:
 
-* **Semua benda punya aspek kelistrikan** → ya
-* **Semua benda bermuatan netto** → tidak
+* **Semua benda punya aspek kelistrikan** -> ya
+* **Semua benda bermuatan netto** -> tidak
 
 Contoh:
 
@@ -13,7 +13,7 @@ Contoh:
 * Logam mudah menghantarkan muatan karena elektronnya lebih bebas bergerak.
 * Kayu juga punya muatan di tingkat atom, tetapi tidak menghantarkan listrik sebaik logam.
 
-Intinya, **“distribusi muatan”** adalah cara muatan listrik tersebar pada suatu sistem. Dalam fisika, biasanya dibagi jadi dua model:
+Intinya, **"distribusi muatan"** adalah cara muatan listrik tersebar pada suatu sistem. Dalam fisika, biasanya dibagi jadi dua model:
 
 ## 1) Distribusi muatan diskrit
 
@@ -44,7 +44,7 @@ Jadi kita memperlakukan sistem itu sebagai **kumpulan muatan titik**.
 
 **Contoh 2: elektron atau ion tertentu**
 
-* Dalam soal fisika, kadang ada “1 proton dan 1 elektron”.
+* Dalam soal fisika, kadang ada "1 proton dan 1 elektron".
 * Itu jelas diskrit, karena partikelnya dibedakan satu-satu.
 
 **Contoh 3: muatan di sudut-sudut persegi**
@@ -106,7 +106,7 @@ Misalnya sebuah batang plastik setelah digosok menjadi bermuatan. Kita tidak men
 
 ---
 
-# Kenapa disebut “kontinu” kalau muatan sebenarnya diskrit!=
+# Kenapa disebut "kontinu" kalau muatan sebenarnya diskrit?
 
 Karena dalam benda nyata jumlah partikel bermuatan **sangat banyak**. Jadi, untuk mempermudah hitungan, fisika memakai pendekatan:
 
@@ -127,7 +127,7 @@ Artinya:
 
 ---
 
-# Tentang “benda rigid / benda tegar”
+# Tentang "benda rigid / benda tegar"
 
 Bagian ini perlu diluruskan sedikit:
 
@@ -144,8 +144,8 @@ Disebut **benda tegar** karena bentuknya dianggap tidak berubah saat dianalisis,
 
 Jadi hubungan yang lebih tepat:
 
-* **diskrit** → muatan-muatan terpisah
-* **kontinu** → muatan dianggap tersebar pada garis, permukaan, atau volume suatu benda
+* **diskrit** -> muatan-muatan terpisah
+* **kontinu** -> muatan dianggap tersebar pada garis, permukaan, atau volume suatu benda
 
 Bukan semata-mata:
 
@@ -227,12 +227,12 @@ Kalau mau, saya bisa lanjutkan dengan **gambar sketsa sederhana** atau **contoh 
 
 Perbedaan antara Q besar dengan q kecil
 
-Pada materi ini, **Q besar** dan **q kecil** biasanya beda **makna pemakaian**, bukan beda “jenis muatan”-nya.
+Pada materi ini, **Q besar** dan **q kecil** biasanya beda **makna pemakaian**, bukan beda "jenis muatan"-nya.
 
 ## Inti singkat
 
-* **Q besar** → biasanya dipakai untuk **muatan total** pada suatu benda atau distribusi muatan
-* **q kecil** → biasanya dipakai untuk **muatan yang lebih kecil/individual**, misalnya muatan titik, muatan uji, atau satu muatan tertentu
+* **Q besar** -> biasanya dipakai untuk **muatan total** pada suatu benda atau distribusi muatan
+* **q kecil** -> biasanya dipakai untuk **muatan yang lebih kecil/individual**, misalnya muatan titik, muatan uji, atau satu muatan tertentu
 
 ## Penjelasan lebih jelas
 
@@ -242,8 +242,8 @@ Kalau sebuah benda punya muatan yang tersebar, total seluruh muatannya sering di
 
 Contoh:
 
-* Sebuah batang plastik bermuatan total **Q = 8 μC**
-* Sebuah bola logam bermuatan total **Q = -2 μC**
+* Sebuah batang plastik bermuatan total **$Q = 8\,\mu\text{C}$**
+* Sebuah bola logam bermuatan total **$Q = -2\,\mu\text{C}$**
 
 Artinya, **Q** mewakili **seluruh muatan pada benda itu**.
 
@@ -266,11 +266,11 @@ Huruf **q** biasanya dipakai untuk:
 
 Contoh:
 
-* ada muatan titik **q = 2 μC**
+* ada muatan titik **$q = 2\,\mu\text{C}$**
 * sebuah elektron memiliki muatan **q = -e**
 * muatan uji **q** diletakkan dekat benda bermuatan
 
-Jadi **q** sering berarti **“satu muatan tertentu”**, bukan total satu distribusi besar.
+Jadi **q** sering berarti **"satu muatan tertentu"**, bukan total satu distribusi besar.
 
 ---
 
@@ -388,7 +388,7 @@ Bayangkan seperti ini:
 
 Kalau distribusi kontinu:
 
-* **Q** = total isi “satu benda”
+* **Q** = total isi "satu benda"
 * **dq** = remah-remah kecil penyusun total itu
 
 ---
@@ -437,9 +437,9 @@ Karena muatan listrik **tidak sembarang**, tetapi kelipatan dari $e$.
 
 Jadi kalau suatu benda punya muatan:
 
-* 1 kali muatan elementer → $q = 1e$
-* 2 kali muatan elementer → $q = 2e$
-* 5 kali muatan elementer → $q = 5e$
+* 1 kali muatan elementer -> $q = 1e$
+* 2 kali muatan elementer -> $q = 2e$
+* 5 kali muatan elementer -> $q = 5e$
 
 ## Contoh mudah
 
@@ -536,8 +536,8 @@ $$
 
 Jadi:
 
-* $q = n e$ → isi **satu kantong**
-* $Q = n q$ → jumlah **beberapa kantong**
+* $q = n e$ -> isi **satu kantong**
+* $Q = n q$ -> jumlah **beberapa kantong**
 
 ---
 
@@ -573,8 +573,8 @@ Artinya total semua bola setara dengan 12 muatan elementer.
 
 # Ringkas sekali
 
-* $\boxed{q = n e}$ → satu muatan adalah kelipatan muatan elementer
-* $\boxed{Q = n q}$ → muatan total adalah jumlah dari beberapa muatan yang sama
+* $\boxed{q = n e}$ -> satu muatan adalah kelipatan muatan elementer
+* $\boxed{Q = n q}$ -> muatan total adalah jumlah dari beberapa muatan yang sama
 
 ---
 
@@ -597,7 +597,7 @@ Artinya:
 ### Satuan
 
 $$
-\text{C/m}
+\text{C}/\text{m}
 $$
 (coulomb per meter)
 
@@ -614,7 +614,7 @@ Sebuah kawat panjang 2 m memiliki muatan total 8 C.
 
 Maka:
 $$
-\lambda = \frac{Q}{l} = \frac{8}{2} = 4\ \text{C/m}
+\lambda = \frac{Q}{l} = \frac{8}{2} = 4\ \text{C}/\text{m}
 $$
 
 Artinya:
@@ -639,7 +639,7 @@ Artinya:
 ### Satuan
 
 $$
-\text{C/m}^2
+\text{C}/\text{m}^2
 $$
 
 ### Dipakai untuk benda seperti:
@@ -651,15 +651,15 @@ $$
 
 ### Contoh mudah
 
-Sebuah pelat memiliki luas 4 m² dan muatan total 20 C.
+Sebuah pelat memiliki luas $4\,\text{m}^2$ dan muatan total 20 C.
 
 Maka:
 $$
-\sigma = \frac{Q}{A} = \frac{20}{4} = 5\ \text{C/m}^2
+\sigma = \frac{Q}{A} = \frac{20}{4} = 5\ \text{C}/\text{m}^2
 $$
 
 Artinya:
-setiap 1 m² permukaan pelat mengandung muatan 5 C.
+setiap $1\,\text{m}^2$ permukaan pelat mengandung muatan 5 C.
 
 ---
 
@@ -697,7 +697,7 @@ Artinya:
 ### Satuan
 
 $$
-\text{C/m}^3
+\text{C}/\text{m}^3
 $$
 
 ### Dipakai untuk benda seperti:
@@ -709,25 +709,25 @@ $$
 
 ### Contoh mudah
 
-Sebuah bola pejal memiliki volume 2 m³ dan muatan total 10 C.
+Sebuah bola pejal memiliki volume $2\,\text{m}^3$ dan muatan total 10 C.
 
 Maka:
 $$
-\rho = \frac{Q}{V} = \frac{10}{2} = 5\ \text{C/m}^3
+\rho = \frac{Q}{V} = \frac{10}{2} = 5\ \text{C}/\text{m}^3
 $$
 
 Artinya:
-setiap 1 m³ volume benda mengandung muatan 5 C.
+setiap $1\,\text{m}^3$ volume benda mengandung muatan 5 C.
 
 ---
 
 # Cara membayangkannya
 
-Anggap muatan itu seperti sesuatu yang “menyebar”.
+Anggap muatan itu seperti sesuatu yang "menyebar".
 
-* Kalau menyebar sepanjang **kabel** → pakai $\lambda$
-* Kalau menyebar di **kulit permukaan** benda → pakai $\sigma$
-* Kalau menyebar di **seluruh isi** benda → pakai $\rho$
+* Kalau menyebar sepanjang **kabel** -> pakai $\lambda$
+* Kalau menyebar di **kulit permukaan** benda -> pakai $\sigma$
+* Kalau menyebar di **seluruh isi** benda -> pakai $\rho$
 
 ---
 
@@ -735,17 +735,17 @@ Anggap muatan itu seperti sesuatu yang “menyebar”.
 
 $$
 \lambda = \frac{Q}{l}
-\qquad\text{(linear, C/m)}
+\qquad(\text{linear, } \text{C}/\text{m})
 $$
 
 $$
 \sigma = \frac{Q}{A}
-\qquad\text{(permukaan, C/m}^2\text{)}
+\qquad(\text{permukaan, } \text{C}/\text{m}^2)
 $$
 
 $$
 \rho = \frac{Q}{V}
-\qquad\text{(volume, C/m}^3\text{)}
+\qquad(\text{volume, } \text{C}/\text{m}^3)
 $$
 
 ---
@@ -819,21 +819,21 @@ Kalau rapat muatannya seragam, integral ini menjadi sederhana:
 
 Kawat 3 m, muatan total 6 C:
 $$
-\lambda = \frac{6}{3} = 2\ \text{C/m}
+\lambda = \frac{6}{3} = 2\ \text{C}/\text{m}
 $$
 
 ### 2D
 
-Pelat 5 m², muatan total 15 C:
+Pelat $5\,\text{m}^2$, muatan total 15 C:
 $$
-\sigma = \frac{15}{5} = 3\ \text{C/m}^2
+\sigma = \frac{15}{5} = 3\ \text{C}/\text{m}^2
 $$
 
 ### 3D
 
-Kubus volume 4 m³, muatan total 12 C:
+Kubus volume $4\,\text{m}^3$, muatan total 12 C:
 $$
-\rho = \frac{12}{4} = 3\ \text{C/m}^3
+\rho = \frac{12}{4} = 3\ \text{C}/\text{m}^3
 $$
 
 ---
@@ -854,10 +854,10 @@ Dua benda bisa punya **muatan total sama**, tetapi efek fisiknya bisa berbeda ka
 
 Contoh:
 
-* kawat pendek bermuatan $10,\text{C}$
-* kawat sangat panjang juga bermuatan $10,\text{C}$
+* kawat pendek bermuatan $10\,\text{C}$
+* kawat sangat panjang juga bermuatan $10\,\text{C}$
 
-Walaupun $Q$-nya sama, “kepadatan” muatannya berbeda. Kawat pendek punya muatan lebih rapat daripada kawat panjang, sehingga pengaruh listrik di sekitarnya bisa berbeda. Itulah alasan kita perlu **kerapatan muatan**.
+Walaupun $Q$-nya sama, "kepadatan" muatannya berbeda. Kawat pendek punya muatan lebih rapat daripada kawat panjang, sehingga pengaruh listrik di sekitarnya bisa berbeda. Itulah alasan kita perlu **kerapatan muatan**.
 
 ## Inti gagasannya
 
@@ -865,7 +865,7 @@ Kerapatan memberi tahu:
 
 > **seberapa banyak muatan terdapat pada setiap bagian kecil benda**
 
-Bukan hanya “totalnya berapa”, tetapi juga “tersebar bagaimana”.
+Bukan hanya "totalnya berapa", tetapi juga "tersebar bagaimana".
 
 ---
 
@@ -880,13 +880,13 @@ Misalnya ada dua batang:
 
 Keduanya punya $Q = 6\text{ C}$, tetapi:
 $$
-\lambda_A = \frac{6}{1} = 6\ \text{C/m}
+\lambda_A = \frac{6}{1} = 6\ \text{C}/\text{m}
 $$
 $$
-\lambda_B = \frac{6}{3} = 2\ \text{C/m}
+\lambda_B = \frac{6}{3} = 2\ \text{C}/\text{m}
 $$
 
-Artinya batang A lebih “padat muatan” daripada batang B.
+Artinya batang A lebih "padat muatan" daripada batang B.
 
 Jadi, **jumlah total sama tidak berarti distribusinya sama**.
 
@@ -955,7 +955,7 @@ maka bentuk dan distribusinya berpengaruh. Di sinilah kerapatan diperlukan.
 
 Bayangkan ada 10 liter air.
 
-Informasi “10 liter” saja belum cukup kalau kita ingin tahu bagaimana air itu berada:
+Informasi "10 liter" saja belum cukup kalau kita ingin tahu bagaimana air itu berada:
 
 * dalam botol kecil,
 * di ember lebar,
@@ -985,7 +985,7 @@ Muatan juga begitu:
 
 Apa saja satuan yang digunakan untuk kerapatan per satuan panjang, kerapatan per satuan luas, kerapatan per satuan volume!=
 
-Satuannya mengikuti “muatan dibagi ukuran geometrinya”:
+Satuannya mengikuti "muatan dibagi ukuran geometrinya":
 
 * **Kerapatan muatan per satuan panjang**
 $$
@@ -993,7 +993,7 @@ $$
 $$
   Satuannya:
 $$
-\text{C/m}
+\text{C}/\text{m}
 $$
   dibaca **coulomb per meter**
 
@@ -1003,7 +1003,7 @@ $$
 $$
   Satuannya:
 $$
-\text{C/m}^2
+\text{C}/\text{m}^2
 $$
   dibaca **coulomb per meter persegi**
 
@@ -1013,15 +1013,15 @@ $$
 $$
   Satuannya:
 $$
-\text{C/m}^3
+\text{C}/\text{m}^3
 $$
   dibaca **coulomb per meter kubik**
 
 Agar mudah diingat:
 
-* panjang → **meter** → **C/m**
-* luas → **meter persegi** → **C/m²**
-* volume → **meter kubik** → **C/m³**
+* panjang -> **meter** -> **C/m**
+* luas -> **meter persegi** -> **C/m^2**
+* volume -> **meter kubik** -> **C/m^3**
 
 Kalau mau, saya bisa jelaskan juga **mengapa simbol $\rho$ dipakai untuk rapat muatan volume**, padahal di bab lain $\rho$ juga dipakai untuk massa jenis.
 
@@ -1048,8 +1048,8 @@ Ada dua jenis muatan:
 
 Aturan dasarnya:
 
-* **muatan sejenis** → **tolak-menolak**
-* **muatan berbeda jenis** → **tarik-menarik**
+* **muatan sejenis** -> **tolak-menolak**
+* **muatan berbeda jenis** -> **tarik-menarik**
 
 Ini bukan sekadar hafalan, tetapi hasil pengamatan eksperimen yang dirumuskan dalam **Hukum Coulomb**.
 
@@ -1072,8 +1072,8 @@ dengan:
 Rumus ini memberi tahu **besar** gaya.
 Untuk **arah** gaya, kita lihat tanda muatannya:
 
-* jika $q_1 q_2 > 0$ → tandanya positif → **muatan sejenis** → **tolak-menolak**
-* jika $q_1 q_2 < 0$ → tandanya negatif → **muatan berbeda** → **tarik-menarik**
+* jika $q_1 q_2 > 0$ -> tandanya positif -> **muatan sejenis** -> **tolak-menolak**
+* jika $q_1 q_2 < 0$ -> tandanya negatif -> **muatan berbeda** -> **tarik-menarik**
 
 Jadi secara matematis, tanda muatan menentukan apakah gaya mengarah **menjauh** atau **mendekat**.
 
@@ -1107,7 +1107,7 @@ Dari sini:
 ### Kasus 1: dua muatan positif
 
 Muatan positif pertama membuat medan keluar.
-Muatan positif kedua “mengikuti” arah medan, jadi terdorong **menjauh**.
+Muatan positif kedua "mengikuti" arah medan, jadi terdorong **menjauh**.
 
 ### Kasus 2: muatan positif dan negatif
 
@@ -1116,8 +1116,8 @@ Muatan negatif justru mengalami gaya **berlawanan arah medan**, jadi tertarik **
 
 Itulah sebabnya:
 
-* sejenis → menjauh
-* berbeda jenis → mendekat
+* sejenis -> menjauh
+* berbeda jenis -> mendekat
 
 ---
 
@@ -1131,17 +1131,17 @@ $$
 U = k \frac{q_1 q_2}{r}
 $$
 
-* Untuk **muatan sejenis**, $q_1 q_2$ positif, sehingga (U) positif. Jika dipaksa makin dekat, energi sistem naik. Sistem “lebih suka” saling menjauh.
-* Untuk **muatan berbeda jenis**, $q_1 q_2$ negatif, sehingga (U) negatif. Saat makin dekat, keadaan bisa menjadi lebih stabil. Sistem “lebih suka” saling mendekat.
+* Untuk **muatan sejenis**, $q_1 q_2$ positif, sehingga (U) positif. Jika dipaksa makin dekat, energi sistem naik. Sistem "lebih suka" saling menjauh.
+* Untuk **muatan berbeda jenis**, $q_1 q_2$ negatif, sehingga (U) negatif. Saat makin dekat, keadaan bisa menjadi lebih stabil. Sistem "lebih suka" saling mendekat.
 
 Jadi dari sudut pandang energi:
 
-* **sejenis** → lebih stabil kalau berjauhan
-* **berlainan** → lebih stabil kalau berdekatan
+* **sejenis** -> lebih stabil kalau berjauhan
+* **berlainan** -> lebih stabil kalau berdekatan
 
 ---
 
-## 5. Apakah ini benar-benar “mengapa” yang paling dalam!=
+## 5. Apakah ini benar-benar "mengapa" yang paling dalam!=
 
 Dalam fisika dasar, jawabannya adalah:
 
@@ -1187,7 +1187,7 @@ Pada kasus nyata ini, kadang bukan karena benda satunya bermuatan lawan secara l
 
 ## 7. Hal yang penting dipahami
 
-Tanda $+$ dan $-$ pada muatan **bukan berarti “baik” dan “buruk”**.
+Tanda $+$ dan $-$ pada muatan **bukan berarti "baik" dan "buruk"**.
 Itu hanya **label dua jenis muatan** yang berlawanan.
 
 Sama seperti dua kutub:
@@ -1203,8 +1203,8 @@ Sama seperti dua kutub:
 * Muatan lain yang masuk ke medan itu mengalami **gaya listrik**
 * Tanda muatan menentukan arah gaya:
 
-  * **sejenis** → **tolak-menolak**
-  * **berbeda jenis** → **tarik-menarik**
+  * **sejenis** -> **tolak-menolak**
+  * **berbeda jenis** -> **tarik-menarik**
 * Ini dapat dipahami lewat:
 
   * **Hukum Coulomb**
@@ -1213,13 +1213,13 @@ Sama seperti dua kutub:
 
 ---
 
-**“Muatan divergen”** dan **“muatan konvergen”** biasanya bukan nama jenis muatan.
+**"Muatan divergen"** dan **"muatan konvergen"** biasanya bukan nama jenis muatan.
 Yang lebih tepat adalah:
 
-* **muatan positif** menghasilkan **garis medan listrik yang keluar** dari muatan → tampak **divergen**
-* **muatan negatif** menghasilkan **garis medan listrik yang masuk** ke muatan → tampak **konvergen**
+* **muatan positif** menghasilkan **garis medan listrik yang keluar** dari muatan -> tampak **divergen**
+* **muatan negatif** menghasilkan **garis medan listrik yang masuk** ke muatan -> tampak **konvergen**
 
-Jadi yang divergen atau konvergen itu **pola garis medannya**, bukan “jenis muatan” baru.
+Jadi yang divergen atau konvergen itu **pola garis medannya**, bukan "jenis muatan" baru.
 
 ## 1. Setiap muatan punya medan listrik
 
@@ -1243,8 +1243,8 @@ Kalau:
 
 Karena itu:
 
-* muatan positif → garis medan keluar
-* muatan negatif → garis medan masuk
+* muatan positif -> garis medan keluar
+* muatan negatif -> garis medan masuk
 
 ## 2. Apakah muatan listrik itu besaran vektor!=
 
@@ -1293,10 +1293,10 @@ Kalau muatan uji negatif, gaya berlawanan arah medan.
 
 Ringkasnya:
 
-* **muatan $q$** → **skalar**
-* **medan listrik $\vec{E}$** → **vektor**
-* **gaya listrik $\vec{F}$** → **vektor**
-* **potensial listrik $V$** → **skalar**
+* **muatan $q$** -> **skalar**
+* **medan listrik $\vec{E}$** -> **vektor**
+* **gaya listrik $\vec{F}$** -> **vektor**
+* **potensial listrik $V$** -> **skalar**
 
 Jadi tidak semua yang berkaitan dengan listrik itu vektor.
 
@@ -1329,7 +1329,7 @@ $$
 \vec{E}_{total} = \vec{E}_1 + \vec{E}_2 + \vec{E}_3 + \cdots
 $$
 
-Artinya, medan dari tiap muatan memang “ditumpuk” secara matematis, tetapi hasil akhirnya di setiap titik tetap hanya **satu vektor resultan**.
+Artinya, medan dari tiap muatan memang "ditumpuk" secara matematis, tetapi hasil akhirnya di setiap titik tetap hanya **satu vektor resultan**.
 
 Maka yang digambar sebagai garis medan adalah **arah resultan akhir**, bukan garis dari tiap muatan yang dibiarkan saling bertabrakan.
 
@@ -1377,7 +1377,7 @@ Itu tampak **konvergen**.
 ### Dua muatan positif
 
 Keduanya sama-sama mengeluarkan garis medan.
-Di daerah antara keduanya, garis-garis membelok menjauh karena masing-masing “mendorong” arah medan resultan.
+Di daerah antara keduanya, garis-garis membelok menjauh karena masing-masing "mendorong" arah medan resultan.
 
 Di tengah, untuk dua muatan sama besar, bisa ada titik dengan:
 $$
@@ -1392,12 +1392,12 @@ Perlu dibedakan:
 * **garis medan tidak boleh berpotongan**
 * tetapi **medan dari beberapa muatan boleh dijumlahkan**
 
-Jadi yang “bercampur” adalah **vektornya secara matematis**, bukan garis gambarnya secara sembarangan.
+Jadi yang "bercampur" adalah **vektornya secara matematis**, bukan garis gambarnya secara sembarangan.
 
 ## 9. Inti jawaban
 
-* **Muatan positif** membuat garis medan keluar → tampak divergen
-* **Muatan negatif** membuat garis medan masuk → tampak konvergen
+* **Muatan positif** membuat garis medan keluar -> tampak divergen
+* **Muatan negatif** membuat garis medan masuk -> tampak konvergen
 * **Muatan $q$** adalah **skalar**, bukan vektor
 * **Medan listrik $\vec{E}$** adalah **vektor**
 * Garis medan tidak boleh overlap/berpotongan karena di satu titik medan listrik hanya boleh punya **satu arah resultan**
@@ -1454,7 +1454,7 @@ $$
 \varepsilon_0 \approx 8{,}85 \times 10^{-12}\ \text{F/m}
 $$
 
-Ini menunjukkan seberapa “mudah” medan listrik terbentuk di **ruang hampa**.
+Ini menunjukkan seberapa "mudah" medan listrik terbentuk di **ruang hampa**.
 
 ### $\varepsilon_r$ (epsilon relatif)
 
@@ -1486,7 +1486,7 @@ Akibatnya:
 * **medan listrik makin lemah**
 
 Mengapa!=
-Karena medium itu ikut “merespons” medan listrik, biasanya melalui **polarisasi**. Muatan-muatan di dalam bahan sedikit bergeser, lalu efeknya cenderung **mengurangi medan resultan**.
+Karena medium itu ikut "merespons" medan listrik, biasanya melalui **polarisasi**. Muatan-muatan di dalam bahan sedikit bergeser, lalu efeknya cenderung **mengurangi medan resultan**.
 
 Jadi medium bukan penonton pasif. Ia ikut campur dalam drama listrik.
 
@@ -1527,7 +1527,7 @@ $$
 = \frac{1}{4\pi \varepsilon_0}
 $$
 
-gaya listrik bernilai “penuh”.
+gaya listrik bernilai "penuh".
 
 ### Di air
 
@@ -1603,7 +1603,7 @@ Karena:
 
 * $\vec r$ punya **besar dan arah**
 * $|\vec r|$ hanya punya **besar**
-* saat $\vec r$ dibagi $|\vec r|$, besar vektornya “dinormalisasi” menjadi 1
+* saat $\vec r$ dibagi $|\vec r|$, besar vektornya "dinormalisasi" menjadi 1
 
 Jadi hasilnya adalah:
 
@@ -1706,7 +1706,7 @@ Kalau kamu bagi dengan panjangnya, kamu mendapat panah yang:
 * masih menunjuk ke timur laut,
 * tetapi panjangnya dibuat jadi 1.
 
-Jadi, ini semacam **versi “arah murni”** dari suatu vektor.
+Jadi, ini semacam **versi "arah murni"** dari suatu vektor.
 
 ## Catatan penting
 
@@ -1778,7 +1778,7 @@ Jadi:
 $$
 \frac{\vec r}{r}
 = \frac{\vec r}{|\vec r|}
-\hat r
+= \hat r
 $$
 
 ## Maknanya
@@ -1854,7 +1854,7 @@ Artinya:
 
 * $r$ memberi **besar**
 * $\hat r$ memberi **arah**
-* $\vec r$ = besar × arah
+* $\vec r$ = besar x arah
 
 Kalau mau, saya bisa lanjutkan ke bentuk yang sangat sering muncul di elektrostatika:
 
@@ -1870,8 +1870,8 @@ Gaya Coulomb adalah **gaya listrik antara dua muatan**.
 
 Kalau ada dua benda bermuatan didekatkan, mereka akan saling memberi gaya:
 
-* **muatan sejenis** → tolak-menolak
-* **muatan berbeda jenis** → tarik-menarik
+* **muatan sejenis** -> tolak-menolak
+* **muatan berbeda jenis** -> tarik-menarik
 
 ## Persamaan gaya Coulomb
 
@@ -1898,11 +1898,11 @@ Bahkan turun sangat cepat, karena ada $r^2$ di bawah.
 
 **Ketiga**, jenis muatan menentukan arah gaya:
 
-* $+$ dengan $+$ → tolak
-* $-$ dengan $-$ → tolak
-* $+$ dengan $-$ → tarik
+* $+$ dengan $+$ -> tolak
+* $-$ dengan $-$ -> tolak
+* $+$ dengan $-$ -> tarik
 
-## Kenapa disebut “gaya”!=
+## Kenapa disebut "gaya"!=
 
 Karena ia adalah **tarikan atau dorongan** yang dialami muatan akibat muatan lain.
 
@@ -1972,8 +1972,8 @@ Misalnya ada tiga muatan titik:
 
 Kalau kita ingin mencari **medan listrik di posisi $q_3$**, maka yang dihitung adalah medan yang disebabkan oleh:
 
-* $q_1$ pada titik 3 → ditulis $\vec E_{31}$
-* $q_2$ pada titik 3 → ditulis $\vec E_{32}$
+* $q_1$ pada titik 3 -> ditulis $\vec E_{31}$
+* $q_2$ pada titik 3 -> ditulis $\vec E_{32}$
 
 Biasanya notasi ini dibaca:
 
@@ -2048,7 +2048,7 @@ $$
 
 ## 4. Arti fisik $E_{31}$ dan $E_{32}$
 
-Anggap titik tempat $q_3$ berada adalah “titik pengamatan”.
+Anggap titik tempat $q_3$ berada adalah "titik pengamatan".
 
 * $\vec E_{31}$: seberapa besar dan ke mana arah medan di titik itu karena $q_1$
 * $\vec E_{32}$: seberapa besar dan ke mana arah medan di titik itu karena $q_2$
@@ -2216,7 +2216,7 @@ Hukum Gauss menyatakan:
 
 > **Jumlah total medan listrik yang menembus suatu permukaan tertutup sebanding dengan jumlah muatan bersih yang dilingkupi permukaan itu.**
 
-Jadi, yang diperhatikan bukan sekadar medan listrik di satu titik, tetapi **total “aliran” medan listrik** yang keluar atau masuk melalui permukaan tertutup.
+Jadi, yang diperhatikan bukan sekadar medan listrik di satu titik, tetapi **total "aliran" medan listrik** yang keluar atau masuk melalui permukaan tertutup.
 
 ---
 
@@ -2244,15 +2244,15 @@ $$
 
 ### Intuisi:
 
-* kalau medan sejajar arah normal permukaan → fluks besar
-* kalau medan miring → fluks lebih kecil
-* kalau medan sejajar permukaan → fluks nol
+* kalau medan sejajar arah normal permukaan -> fluks besar
+* kalau medan miring -> fluks lebih kecil
+* kalau medan sejajar permukaan -> fluks nol
 
 ---
 
 ## 3. Mengapa harus permukaan tertutup!=
 
-Karena Hukum Gauss berbicara tentang **muatan yang “terkurung” di dalam permukaan**.
+Karena Hukum Gauss berbicara tentang **muatan yang "terkurung" di dalam permukaan**.
 
 Permukaan tertutup itu misalnya:
 
@@ -2264,7 +2264,7 @@ Bukan bidang datar terbuka biasa.
 
 Kenapa!= Karena kita ingin tahu:
 
-> berapa total garis medan yang “keluar” dari suatu wilayah ruang.
+> berapa total garis medan yang "keluar" dari suatu wilayah ruang.
 
 ---
 
@@ -2347,9 +2347,9 @@ Ia bukan benda fisik. Hanya alat bantu matematis.
 
 Biasanya dipilih sesuai simetri masalah:
 
-* simetri bola → pilih permukaan bola
-* simetri silinder → pilih permukaan silinder
-* simetri bidang → pilih “pillbox” atau silinder tipis
+* simetri bola -> pilih permukaan bola
+* simetri silinder -> pilih permukaan silinder
+* simetri bidang -> pilih "pillbox" atau silinder tipis
 
 ---
 
@@ -2515,8 +2515,8 @@ Ini artinya:
 
 Interpretasi:
 
-* jika ada muatan positif di suatu daerah, medan seperti “memancar keluar”
-* jika ada muatan negatif, medan seperti “mengumpul masuk”
+* jika ada muatan positif di suatu daerah, medan seperti "memancar keluar"
+* jika ada muatan negatif, medan seperti "mengumpul masuk"
 
 Ini nyambung dengan ide divergen dan konvergen yang kamu singgung sebelumnya.
 
@@ -2550,7 +2550,7 @@ Bisa saja:
 
 Jadi:
 
-* **fluks nol** ≠ **medan nol**
+* **fluks nol** tidak sama dengan **medan nol**
 
 ---
 

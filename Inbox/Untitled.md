@@ -92,6 +92,20 @@ Alasan gradien ditulis sebagai perbandingan $\frac{\Delta y}{\Delta x}$ adalah k
 Gradien hanya terdefinisi jika $\Delta x \ne 0$. Jika $\Delta x=0$, pembagian oleh nol terjadi, dan pembagian oleh nol tidak didefinisikan dalam aritmetika biasa.
 
 ---
+## Kemiringan dan Arah Garis
+Kemiringan garis ditentukan oleh gradien.
+
+Jika gradien bernilai positif, ketika $x$ bertambah, $y$ juga bertambah.
+
+Jika gradien bernilai negatif, maka ketika $x$ bertambah, $y$ berkurang.
+
+Jika gradien nol, garis horizontal.
+
+Jika gradien tidak terdefinisi, garis vertikal.
+
+Alasannya, gradien membandingkan perubahan $y$ terhadap perubahan $x$. Tanda dan keberadaan nilai gradien menunjukkan arah perubahan vertikal ketika terjadi perubahan horizontal.
+
+---
 
 ## 6. Gradien dari Dua Titik
 
@@ -552,17 +566,3 @@ Konstanta adalah simbol yang nilainya tetap dalam satu persamaan, seperti $A$, $
 Alasan pembedaan ini diperlukan adalah karena variabel menentukan titik-titik yang mungkin berada pada garis, sedangkan konstanta menentukan garis tertentu yang sedang dibahas.
 
 ---
-
-## 25. Kemiringan dan Arah Garis
-
-Kemiringan garis ditentukan oleh gradien.
-
-Jika gradien bernilai positif, maka ketika $x$ bertambah, $y$ juga bertambah.
-
-Jika gradien bernilai negatif, maka ketika $x$ bertambah, $y$ berkurang.
-
-Jika gradien nol, garis horizontal.
-
-Jika gradien tidak terdefinisi, garis vertikal.
-
-Alasannya, gradien membandingkan perubahan $y$ terhadap perubahan $x$. Tanda dan keberadaan nilai gradien menunjukkan arah perubahan vertikal ketika terjadi perubahan horizontal.

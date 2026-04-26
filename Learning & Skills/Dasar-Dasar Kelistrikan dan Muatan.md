@@ -202,7 +202,7 @@ Ini **kontinu**, karena muatan dianggap menyebar sepanjang batang.
 
 ---
 
-# Kapan pakai model diskrit dan kapan kontinu!=
+# Kapan pakai model diskrit dan kapan kontinu?
 
 Pakai **diskrit** jika:
 
@@ -431,7 +431,7 @@ Artinya:
 * $n$ = banyaknya kelebihan atau kekurangan elektron
 * $e$ = muatan elementer
 
-## Kenapa begitu!=
+## Kenapa begitu?
 
 Karena muatan listrik **tidak sembarang**, tetapi kelipatan dari $e$.
 
@@ -672,7 +672,7 @@ Jadi bedanya ada pada **bentuk penyebaran muatannya**.
 
 ---
 
-# Bagaimana jika bendanya tiga dimensi!=
+# Bagaimana jika bendanya tiga dimensi?
 
 Kalau muatan tersebar di seluruh **isi/volume benda**, maka dipakai:
 
@@ -750,7 +750,7 @@ $$
 
 ---
 
-# Kapan rumus sederhana ini berlaku!=
+# Kapan rumus sederhana ini berlaku?
 
 Rumus:
 $$
@@ -774,10 +774,10 @@ $$
 
 Artinya:
 
-* (dQ) = muatan sangat kecil
-* (dl) = panjang sangat kecil
-* (dA) = luas sangat kecil
-* (dV) = volume sangat kecil
+* $dQ$ = muatan sangat kecil
+* $dl$ = panjang sangat kecil
+* $dA$ = luas sangat kecil
+* $dV$ = volume sangat kecil
 
 Ini dipakai kalau kerapatan muatan berubah-ubah di tiap tempat.
 
@@ -846,7 +846,7 @@ $$
 
 ---
 
-Mengapa kita harus mencari kerapatan dari suatu benda!=
+Mengapa kita harus mencari kerapatan dari suatu benda?
 
 Karena **muatan pada benda sering tidak cukup dijelaskan hanya dengan muatan total $Q$**.
 
@@ -869,7 +869,7 @@ Bukan hanya "totalnya berapa", tetapi juga "tersebar bagaimana".
 
 ---
 
-## Mengapa ini penting!=
+## Mengapa ini penting?
 
 ### 1. Karena muatan total saja belum cukup
 
@@ -983,7 +983,7 @@ Muatan juga begitu:
 
 ---
 
-Apa saja satuan yang digunakan untuk kerapatan per satuan panjang, kerapatan per satuan luas, kerapatan per satuan volume!=
+Apa saja satuan yang digunakan untuk kerapatan per satuan panjang, kerapatan per satuan luas, kerapatan per satuan volume?
 
 Satuannya mengikuti "muatan dibagi ukuran geometrinya":
 
@@ -1033,7 +1033,7 @@ Sifat muatan:
 Jika muatan memiliki jenis yang sama, maka akan terjadi tolak menolak
 Jika jenis muatan berbeda, maka akan terjadi interaksi tarik-menarik.
 
-Mengapa terjadi tolak-menolak dan tarik-menarik!=
+Mengapa terjadi tolak-menolak dan tarik-menarik?
 
 Jelaskan mengenai konsep dan contohnya.
 
@@ -1079,7 +1079,7 @@ Jadi secara matematis, tanda muatan menentukan apakah gaya mengarah **menjauh** 
 
 ---
 
-## 3. Mengapa arahnya bisa begitu!=
+## 3. Mengapa arahnya bisa begitu?
 
 Cara paling mudah memahaminya adalah dengan konsep **medan listrik**.
 
@@ -1131,8 +1131,8 @@ $$
 U = k \frac{q_1 q_2}{r}
 $$
 
-* Untuk **muatan sejenis**, $q_1 q_2$ positif, sehingga (U) positif. Jika dipaksa makin dekat, energi sistem naik. Sistem "lebih suka" saling menjauh.
-* Untuk **muatan berbeda jenis**, $q_1 q_2$ negatif, sehingga (U) negatif. Saat makin dekat, keadaan bisa menjadi lebih stabil. Sistem "lebih suka" saling mendekat.
+* Untuk **muatan sejenis**, $q_1 q_2$ positif, sehingga $U$ positif. Jika dipaksa makin dekat, energi sistem naik. Sistem "lebih suka" saling menjauh.
+* Untuk **muatan berbeda jenis**, $q_1 q_2$ negatif, sehingga $U$ negatif. Saat makin dekat, keadaan bisa menjadi lebih stabil. Sistem "lebih suka" saling mendekat.
 
 Jadi dari sudut pandang energi:
 
@@ -1141,7 +1141,7 @@ Jadi dari sudut pandang energi:
 
 ---
 
-## 5. Apakah ini benar-benar "mengapa" yang paling dalam!=
+## 5. Apakah ini benar-benar "mengapa" yang paling dalam?
 
 Dalam fisika dasar, jawabannya adalah:
 
@@ -1246,7 +1246,7 @@ Karena itu:
 * muatan positif -> garis medan keluar
 * muatan negatif -> garis medan masuk
 
-## 2. Apakah muatan listrik itu besaran vektor!=
+## 2. Apakah muatan listrik itu besaran vektor?
 
 Di sini penting membedakan **muatan** dan **medan listrik**.
 
@@ -1289,7 +1289,7 @@ $$
 Kalau muatan uji positif, gaya searah medan.
 Kalau muatan uji negatif, gaya berlawanan arah medan.
 
-## 3. Jadi mana yang vektor dan mana yang bukan!=
+## 3. Jadi mana yang vektor dan mana yang bukan?
 
 Ringkasnya:
 
@@ -1300,7 +1300,7 @@ Ringkasnya:
 
 Jadi tidak semua yang berkaitan dengan listrik itu vektor.
 
-## 4. Mengapa garis medan tidak boleh overlap atau berpotongan!=
+## 4. Mengapa garis medan tidak boleh overlap atau berpotongan?
 
 Karena **garis medan adalah gambar arah vektor medan listrik**.
 
@@ -1321,7 +1321,7 @@ Medan listrik di satu titik hanya punya:
 
 Jadi garis medan **tidak boleh saling memotong**.
 
-## 5. Lalu bagaimana dengan beberapa muatan sekaligus!=
+## 5. Lalu bagaimana dengan beberapa muatan sekaligus?
 
 Kalau ada banyak muatan, medan total dihitung dengan **superposisi**:
 
@@ -1333,7 +1333,7 @@ Artinya, medan dari tiap muatan memang "ditumpuk" secara matematis, tetapi hasil
 
 Maka yang digambar sebagai garis medan adalah **arah resultan akhir**, bukan garis dari tiap muatan yang dibiarkan saling bertabrakan.
 
-## 6. Mengapa untuk muatan sejenis garis medannya tidak saling menyambung!=
+## 6. Mengapa untuk muatan sejenis garis medannya tidak saling menyambung?
 
 Misalnya dua muatan sama-sama positif.
 
@@ -1420,7 +1420,7 @@ $$
 adalah **konstanta elektrostatik dalam suatu medium**.
 Ia muncul saat kita menghitung **gaya listrik** atau **medan listrik** di bahan tertentu, bukan hanya di ruang hampa.
 
-## 1. Di mana persamaan ini muncul!=
+## 1. Di mana persamaan ini muncul?
 
 Paling sering muncul pada Hukum Coulomb:
 
@@ -1485,7 +1485,7 @@ Akibatnya:
 * **gaya listrik makin kecil**
 * **medan listrik makin lemah**
 
-Mengapa!=
+Mengapa?
 Karena medium itu ikut "merespons" medan listrik, biasanya melalui **polarisasi**. Muatan-muatan di dalam bahan sedikit bergeser, lalu efeknya cenderung **mengurangi medan resultan**.
 
 Jadi medium bukan penonton pasif. Ia ikut campur dalam drama listrik.
@@ -1609,7 +1609,7 @@ Jadi hasilnya adalah:
 
 > vektor yang hanya menunjukkan **arah $\vec r$**
 
-## Kenapa panjangnya jadi 1!=
+## Kenapa panjangnya jadi 1?
 
 Misalkan:
 $$
@@ -1653,7 +1653,7 @@ Artinya:
 * arah tetap sama seperti $\vec r$
 * tapi panjangnya sekarang 1
 
-## Dalam fisika, ini muncul di mana!=
+## Dalam fisika, ini muncul di mana?
 
 Sering muncul pada medan listrik, gaya Coulomb, dan gravitasi.
 
@@ -1663,7 +1663,7 @@ $$
 \vec E = \frac{1}{4\pi\varepsilon_0}\frac{q}{r^2}\hat r
 $$
 
-Kenapa ada $\hat r$!=
+Kenapa ada $\hat r$?
 Karena medan listrik bukan cuma punya besar, tapi juga **arah**.
 
 Di rumus itu:
@@ -1760,7 +1760,7 @@ $$
 \hat r
 $$
 
-## Kenapa bisa sama!=
+## Kenapa bisa sama?
 
 Dalam fisika, sangat sering dipakai notasi:
 
@@ -1817,7 +1817,7 @@ Itu adalah vektor satuan yang searah dengan $\vec r$.
 
 ---
 
-## Kenapa kadang ditulis $\vec r/r$, bukan $\vec r/|\vec r|$!=
+## Kenapa kadang ditulis $\vec r/r$, bukan $\vec r/|\vec r|$?
 
 Karena fisikawan kadang suka hemat tinta dan sedikit nakal.
 
@@ -1902,7 +1902,7 @@ Bahkan turun sangat cepat, karena ada $r^2$ di bawah.
 * $-$ dengan $-$ -> tolak
 * $+$ dengan $-$ -> tarik
 
-## Kenapa disebut "gaya"!=
+## Kenapa disebut "gaya"?
 
 Karena ia adalah **tarikan atau dorongan** yang dialami muatan akibat muatan lain.
 
@@ -1990,7 +1990,7 @@ Itulah **prinsip superposisi**.
 
 ---
 
-## 2. Mengapa harus dijumlahkan sebagai vektor!=
+## 2. Mengapa harus dijumlahkan sebagai vektor?
 
 Karena medan listrik adalah **besaran vektor**:
 
@@ -2220,7 +2220,7 @@ Jadi, yang diperhatikan bukan sekadar medan listrik di satu titik, tetapi **tota
 
 ---
 
-## 2. Apa itu fluks listrik!=
+## 2. Apa itu fluks listrik?
 
 Fluks listrik adalah ukuran **seberapa banyak medan listrik menembus suatu permukaan**.
 
@@ -2240,7 +2240,7 @@ $$
 
 * $\vec E$ = medan listrik
 * $d\vec A$ = elemen luas kecil yang arahnya **tegak lurus keluar permukaan**
-* tanda titik ($\cdot$) = perkalian dot product, jadi yang dihitung hanya komponen medan yang menembus permukaan
+* tanda titik $\cdot$ = perkalian dot product, jadi yang dihitung hanya komponen medan yang menembus permukaan
 
 ### Intuisi:
 
@@ -2250,7 +2250,7 @@ $$
 
 ---
 
-## 3. Mengapa harus permukaan tertutup!=
+## 3. Mengapa harus permukaan tertutup?
 
 Karena Hukum Gauss berbicara tentang **muatan yang "terkurung" di dalam permukaan**.
 
@@ -2262,7 +2262,7 @@ Permukaan tertutup itu misalnya:
 
 Bukan bidang datar terbuka biasa.
 
-Kenapa!= Karena kita ingin tahu:
+Kenapa? Karena kita ingin tahu:
 
 > berapa total garis medan yang "keluar" dari suatu wilayah ruang.
 
@@ -2320,7 +2320,7 @@ adalah muatan total yang berada **di dalam** permukaan, dibagi permitivitas vaku
 
 ---
 
-## 6. Apa itu $Q_{\text{dalam}}$!=
+## 6. Apa itu $Q_{\text{dalam}}$?
 
 $Q_{\text{dalam}}$ adalah **muatan total bersih yang terkurung** oleh permukaan Gaussian.
 
@@ -2339,7 +2339,7 @@ Jadi yang dihitung adalah **jumlah aljabarnya**, bukan jumlah mutlaknya.
 
 ---
 
-## 7. Apa itu permukaan Gaussian!=
+## 7. Apa itu permukaan Gaussian?
 
 **Permukaan Gaussian** adalah permukaan tertutup imajiner yang kita pilih untuk mempermudah perhitungan dengan Hukum Gauss.
 
@@ -2353,7 +2353,7 @@ Biasanya dipilih sesuai simetri masalah:
 
 ---
 
-## 8. Kapan Hukum Gauss sangat berguna!=
+## 8. Kapan Hukum Gauss sangat berguna?
 
 Secara umum, Hukum Gauss **selalu benar**.
 Tetapi **sangat berguna untuk menghitung medan listrik** jika distribusi muatan punya **simetri tinggi**, misalnya:
@@ -2402,7 +2402,7 @@ Nah, ini menghasilkan kembali rumus medan listrik muatan titik. Elegan. Gauss da
 
 ## B. Kawat panjang tak hingga
 
-Untuk kawat panjang dengan rapat muatan linear $\lambda$, pilih permukaan Gaussian berupa silinder berjari-jari $r$ dan panjang (L).
+Untuk kawat panjang dengan rapat muatan linear $\lambda$, pilih permukaan Gaussian berupa silinder berjari-jari $r$ dan panjang $L$.
 
 Muatan di dalam silinder:
 
@@ -2456,7 +2456,7 @@ Menariknya, medan ini **tidak bergantung pada jarak** dari bidang. Aneh tapi sah
 
 ---
 
-## 10. Mengapa muatan di luar permukaan tidak dihitung!=
+## 10. Mengapa muatan di luar permukaan tidak dihitung?
 
 Karena garis medan dari muatan luar:
 
@@ -2522,7 +2522,7 @@ Ini nyambung dengan ide divergen dan konvergen yang kamu singgung sebelumnya.
 
 ---
 
-## 13. Kapan fluks nol!=
+## 13. Kapan fluks nol?
 
 Fluks total nol jika:
 

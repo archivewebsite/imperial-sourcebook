@@ -15,6 +15,8 @@ Add new dated entries at the top of this section.
 - Completed an Inbox organization pass and routed all complete Inbox markdown notes into existing Sourcebook buckets with topic-specific filenames.
 - Task type: `note-update`
 - Cleaned the formatting of a learning-strategy Inbox note about how smart people learn difficult things.
+- Task type: `note-update`
+- Updated `Learning & Skills/Dasar-Dasar Kelistrikan dan Muatan.md` so equations and inline symbols use Obsidian-compatible MathJax formatting.
 
 ### Moved
 - Moved UTBK strategy and planning notes into `Notes/College Preparation/`.
@@ -34,6 +36,8 @@ Add new dated entries at the top of this section.
 - Left unresolved: no note bodies were edited; existing near-duplicate roadmap records were intentionally kept separate.
 - Counts: 1 learning-strategy note cleaned, renamed, and moved.
 - Left unresolved: other current Inbox captures were not changed in this targeted pass.
+- Counts: 1 electricity note reformatted; 127 display-equation blocks converted from bracket notation to `$$` math blocks.
+- Left unresolved: note placement and lesson content were left unchanged outside formula/readability cleanup.
 - Follow-up: none.
 
 ## 2026-04-25

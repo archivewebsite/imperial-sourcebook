@@ -29,9 +29,9 @@ Biasanya dipakai saat:
 
 Bayangkan ada beberapa butir kecil bermuatan yang diletakkan di meja. Karena jumlahnya sedikit dan letaknya jelas, kita bisa bilang:
 
-* muatan (q_1) di titik A,
-* muatan (q_2) di titik B,
-* muatan (q_3) di titik C.
+* muatan $q_1$ di titik A,
+* muatan $q_2$ di titik B,
+* muatan $q_3$ di titik C.
 
 Jadi kita memperlakukan sistem itu sebagai **kumpulan muatan titik**.
 
@@ -56,9 +56,9 @@ Jadi kita memperlakukan sistem itu sebagai **kumpulan muatan titik**.
 
 * Muatan **tidak dianggap menyebar rata**, tetapi berada di titik-titik tertentu.
 * Perhitungan biasanya berupa penjumlahan:
-  [
-  Q_\text{total} = q_1 + q_2 + q_3 + \dots
-  ]
+$$
+Q_\text{total} = q_1 + q_2 + q_3 + \dots
+$$
 
 ---
 
@@ -106,7 +106,7 @@ Misalnya sebuah batang plastik setelah digosok menjadi bermuatan. Kita tidak men
 
 ---
 
-# Kenapa disebut “kontinu” kalau muatan sebenarnya diskrit?
+# Kenapa disebut “kontinu” kalau muatan sebenarnya diskrit!=
 
 Karena dalam benda nyata jumlah partikel bermuatan **sangat banyak**. Jadi, untuk mempermudah hitungan, fisika memakai pendekatan:
 
@@ -115,9 +115,9 @@ Karena dalam benda nyata jumlah partikel bermuatan **sangat banyak**. Jadi, untu
 
 Misalnya:
 
-* **rapat muatan linear**: (\lambda = \frac{dQ}{dl})
-* **rapat muatan permukaan**: (\sigma = \frac{dQ}{dA})
-* **rapat muatan volume**: (\rho = \frac{dQ}{dV})
+* **rapat muatan linear**: $\lambda = \frac{dQ}{dl}$
+* **rapat muatan permukaan**: $\sigma = \frac{dQ}{dA}$
+* **rapat muatan volume**: $\rho = \frac{dQ}{dV}$
 
 Artinya:
 
@@ -188,21 +188,21 @@ Muatan kontinu juga begitu:
 
 Ada tiga bola kecil:
 
-* (q_1 = 2 \mu C)
-* (q_2 = -1 \mu C)
-* (q_3 = 3 \mu C)
+* $q_1 = 2 \mu C$
+* $q_2 = -1 \mu C$
+* $q_3 = 3 \mu C$
 
 Ini **diskrit**, karena muatannya terletak pada 3 titik berbeda.
 
-### Kasus B: batang plastik bermuatan total (Q)
+### Kasus B: batang plastik bermuatan total $Q$
 
-Sebuah batang plastik panjang 20 cm memiliki muatan total (Q) yang tersebar merata.
+Sebuah batang plastik panjang 20 cm memiliki muatan total $Q$ yang tersebar merata.
 
 Ini **kontinu**, karena muatan dianggap menyebar sepanjang batang.
 
 ---
 
-# Kapan pakai model diskrit dan kapan kontinu?
+# Kapan pakai model diskrit dan kapan kontinu!=
 
 Pakai **diskrit** jika:
 
@@ -280,16 +280,16 @@ Jadi **q** sering berarti **“satu muatan tertentu”**, bukan total satu distr
 
 Ada 3 muatan titik:
 
-* (q_1 = 2\ \mu C)
-* (q_2 = -1\ \mu C)
-* (q_3 = 4\ \mu C)
+* $q_1 = 2\ \mu C$
+* $q_2 = -1\ \mu C$
+* $q_3 = 4\ \mu C$
 
 Di sini dipakai **q kecil** karena masing-masing adalah **muatan individual**.
 
 Kalau ditanya jumlah seluruhnya:
-[
+$$
 Q = q_1 + q_2 + q_3
-]
+$$
 
 Jadi:
 
@@ -303,14 +303,14 @@ Jadi:
 Sebuah batang panjang memiliki muatan total **Q**.
 
 Karena muatannya tersebar sepanjang batang, kita ambil bagian sangat kecil dari batang. Muatan kecil pada potongan itu ditulis:
-[
+$$
 dq
-]
+$$
 
 Lalu totalnya:
-[
+$$
 Q = \int dq
-]
+$$
 
 Artinya:
 
@@ -322,16 +322,16 @@ Artinya:
 ### Contoh 3: Gaya Coulomb
 
 Rumus gaya Coulomb:
-[
+$$
 F = k \frac{q_1 q_2}{r^2}
-]
+$$
 
 Di sini dipakai **q kecil** karena yang dibahas adalah **dua muatan titik individual**.
 
 Tapi kalau ada benda besar bermuatan **Q** yang memengaruhi muatan kecil **q**, bisa ditulis:
-[
+$$
 F = k \frac{Qq}{r^2}
-]
+$$
 
 Maknanya:
 
@@ -349,14 +349,14 @@ Dalam materi distribusi muatan, biasanya:
 * **q** = bisa juga muatan titik tertentu yang sedang diamati
 
 Contoh pada rapat muatan linear:
-[
+$$
 \lambda = \frac{dQ}{dl}
-]
+$$
 
 atau sering juga ditulis:
-[
+$$
 \lambda = \frac{dq}{dl}
-]
+$$
 
 Keduanya bisa muncul tergantung buku, tetapi yang paling umum:
 
@@ -408,9 +408,9 @@ Tentu. Cara paling mudah memahaminya adalah:
 Muatan listrik itu seperti **dikumpulkan dari unit-unit kecil**.
 
 Unit paling kecil yang biasa dipakai adalah **muatan elementer**:
-[
+$$
 e = 1{,}6 \times 10^{-19}\ \text{C}
-]
+$$
 
 Nilai ini adalah besar muatan:
 
@@ -419,83 +419,83 @@ Nilai ini adalah besar muatan:
 
 ---
 
-# 1) (q = n \cdot e)
+# 1) $q = n \cdot e$
 
 Artinya:
 
-> muatan (q) tersusun dari **n buah muatan elementer**
+> muatan $q$ tersusun dari **n buah muatan elementer**
 
 ## Makna simbol
 
-* (q) = muatan suatu benda / partikel
-* (n) = banyaknya kelebihan atau kekurangan elektron
-* (e) = muatan elementer
+* $q$ = muatan suatu benda / partikel
+* $n$ = banyaknya kelebihan atau kekurangan elektron
+* $e$ = muatan elementer
 
-## Kenapa begitu?
+## Kenapa begitu!=
 
-Karena muatan listrik **tidak sembarang**, tetapi kelipatan dari (e).
+Karena muatan listrik **tidak sembarang**, tetapi kelipatan dari $e$.
 
 Jadi kalau suatu benda punya muatan:
 
-* 1 kali muatan elementer → (q = 1e)
-* 2 kali muatan elementer → (q = 2e)
-* 5 kali muatan elementer → (q = 5e)
+* 1 kali muatan elementer → $q = 1e$
+* 2 kali muatan elementer → $q = 2e$
+* 5 kali muatan elementer → $q = 5e$
 
 ## Contoh mudah
 
 Kalau sebuah benda kelebihan 3 elektron, maka:
-[
+$$
 q = -3e
-]
+$$
 
 Karena 1 elektron bermuatan (-e), maka:
-[
+$$
 q = -3(1{,}6 \times 10^{-19}) = -4{,}8 \times 10^{-19}\ \text{C}
-]
+$$
 
 Kalau benda kekurangan 2 elektron, maka muatannya:
-[
+$$
 q = +2e
-]
+$$
 
 Karena kehilangan elektron membuat benda jadi positif.
 
 ---
 
-# 2) (Q = n \cdot q)
+# 2) $Q = n \cdot q$
 
 Artinya:
 
-> muatan total (Q) berasal dari **n buah muatan yang masing-masing besarnya (q)**
+> muatan total $Q$ berasal dari **n buah muatan yang masing-masing besarnya $q$**
 
 ## Makna simbol
 
-* (Q) = muatan total
-* (n) = jumlah benda / jumlah muatan
-* (q) = muatan tiap benda
+* $Q$ = muatan total
+* $n$ = jumlah benda / jumlah muatan
+* $q$ = muatan tiap benda
 
 ## Contoh mudah
 
 Ada 4 bola kecil, masing-masing bermuatan:
-[
+$$
 q = 2\ \mu C
-]
+$$
 
 Maka muatan total semuanya:
-[
+$$
 Q = n \cdot q = 4 \cdot 2\ \mu C = 8\ \mu C
-]
+$$
 
 Jadi:
 
-* (q) = muatan satu bola
-* (Q) = jumlah semua muatan bola
+* $q$ = muatan satu bola
+* $Q$ = jumlah semua muatan bola
 
 ---
 
 # Bedanya dua rumus itu
 
-## (q = n \cdot e)
+## $q = n \cdot e$
 
 Dipakai untuk menunjukkan bahwa **satu muatan** tersusun dari kelipatan muatan elementer.
 
@@ -504,7 +504,7 @@ Fokusnya:
 * dari mana muatan itu berasal
 * bahwa muatan bersifat diskrit / terkuantisasi
 
-## (Q = n \cdot q)
+## $Q = n \cdot q$
 
 Dipakai untuk menjumlahkan **beberapa muatan yang sama besar**.
 
@@ -518,37 +518,37 @@ Fokusnya:
 
 Bayangkan uang.
 
-* (e) = 1 keping uang logam
-* (q) = isi uang dalam 1 kantong
-* (Q) = total uang dari beberapa kantong
+* $e$ = 1 keping uang logam
+* $q$ = isi uang dalam 1 kantong
+* $Q$ = total uang dari beberapa kantong
 
 Kalau:
 
 * 1 kantong berisi 5 koin, maka
-  [
-  q = 5e
-  ]
+$$
+q = 5e
+$$
 
 Kalau ada 3 kantong seperti itu, maka totalnya:
-[
+$$
 Q = 3q
-]
+$$
 
 Jadi:
 
-* (q = n e) → isi **satu kantong**
-* (Q = n q) → jumlah **beberapa kantong**
+* $q = n e$ → isi **satu kantong**
+* $Q = n q$ → jumlah **beberapa kantong**
 
 ---
 
-# Hati-hati: huruf (n) tidak selalu sama
+# Hati-hati: huruf $n$ tidak selalu sama
 
-Di dua rumus itu, (n) **bisa punya arti berbeda**, tergantung konteks.
+Di dua rumus itu, $n$ **bisa punya arti berbeda**, tergantung konteks.
 
-* pada (q = n e), (n) = jumlah muatan elementer
-* pada (Q = n q), (n) = jumlah benda / jumlah muatan yang dijumlahkan
+* pada $q = n e$, $n$ = jumlah muatan elementer
+* pada $Q = n q$, $n$ = jumlah benda / jumlah muatan yang dijumlahkan
 
-Jadi jangan langsung mengira (n) di kedua rumus pasti sama.
+Jadi jangan langsung mengira $n$ di kedua rumus pasti sama.
 
 ---
 
@@ -557,15 +557,15 @@ Jadi jangan langsung mengira (n) di kedua rumus pasti sama.
 Misalnya:
 
 * 1 bola kecil punya muatan
-  [
-  q = 3e
-  ]
+$$
+q = 3e
+$$
 * ada 4 bola identik
 
 Maka muatan total:
-[
+$$
 Q = 4q = 4(3e) = 12e
-]
+$$
 
 Artinya total semua bola setara dengan 12 muatan elementer.
 
@@ -573,14 +573,14 @@ Artinya total semua bola setara dengan 12 muatan elementer.
 
 # Ringkas sekali
 
-* (\boxed{q = n e}) → satu muatan adalah kelipatan muatan elementer
-* (\boxed{Q = n q}) → muatan total adalah jumlah dari beberapa muatan yang sama
+* $\boxed{q = n e}$ → satu muatan adalah kelipatan muatan elementer
+* $\boxed{Q = n q}$ → muatan total adalah jumlah dari beberapa muatan yang sama
 
 ---
 
 Konsep ini adalah **rapat muatan**: cara menyatakan **seberapa padat muatan tersebar** pada suatu benda.
 
-## 1) ( \lambda = \frac{Q}{l} )
+## 1) $\lambda = \frac{Q}{l}$
 
 Ini disebut **rapat muatan linear**.
 
@@ -590,15 +590,15 @@ Artinya:
 
 ### Makna simbol
 
-* (Q) = muatan total
-* (l) = panjang benda
-* ( \lambda ) = rapat muatan linear
+* $Q$ = muatan total
+* $l$ = panjang benda
+* $\lambda$ = rapat muatan linear
 
 ### Satuan
 
-[
+$$
 \text{C/m}
-]
+$$
 (coulomb per meter)
 
 ### Dipakai untuk benda seperti:
@@ -613,16 +613,16 @@ Artinya:
 Sebuah kawat panjang 2 m memiliki muatan total 8 C.
 
 Maka:
-[
+$$
 \lambda = \frac{Q}{l} = \frac{8}{2} = 4\ \text{C/m}
-]
+$$
 
 Artinya:
 setiap 1 meter kawat mengandung muatan 4 C.
 
 ---
 
-## 2) ( \sigma = \frac{Q}{A} )
+## 2) $\sigma = \frac{Q}{A}$
 
 Ini disebut **rapat muatan permukaan**.
 
@@ -632,15 +632,15 @@ Artinya:
 
 ### Makna simbol
 
-* (Q) = muatan total
-* (A) = luas permukaan
-* ( \sigma ) = rapat muatan permukaan
+* $Q$ = muatan total
+* $A$ = luas permukaan
+* $\sigma$ = rapat muatan permukaan
 
 ### Satuan
 
-[
+$$
 \text{C/m}^2
-]
+$$
 
 ### Dipakai untuk benda seperti:
 
@@ -654,9 +654,9 @@ Artinya:
 Sebuah pelat memiliki luas 4 m² dan muatan total 20 C.
 
 Maka:
-[
+$$
 \sigma = \frac{Q}{A} = \frac{20}{4} = 5\ \text{C/m}^2
-]
+$$
 
 Artinya:
 setiap 1 m² permukaan pelat mengandung muatan 5 C.
@@ -665,24 +665,24 @@ setiap 1 m² permukaan pelat mengandung muatan 5 C.
 
 # Inti perbedaan keduanya
 
-* ( \lambda ) dipakai kalau muatan dianggap tersebar pada **garis / panjang**
-* ( \sigma ) dipakai kalau muatan dianggap tersebar pada **permukaan / luas**
+* $\lambda$ dipakai kalau muatan dianggap tersebar pada **garis / panjang**
+* $\sigma$ dipakai kalau muatan dianggap tersebar pada **permukaan / luas**
 
 Jadi bedanya ada pada **bentuk penyebaran muatannya**.
 
 ---
 
-# Bagaimana jika bendanya tiga dimensi?
+# Bagaimana jika bendanya tiga dimensi!=
 
 Kalau muatan tersebar di seluruh **isi/volume benda**, maka dipakai:
 
-[
+$$
 \rho = \frac{Q}{V}
-]
+$$
 
 Ini disebut **rapat muatan volume**.
 
-## 3) ( \rho = \frac{Q}{V} )
+## 3) $\rho = \frac{Q}{V}$
 
 Artinya:
 
@@ -690,15 +690,15 @@ Artinya:
 
 ### Makna simbol
 
-* (Q) = muatan total
-* (V) = volume benda
-* ( \rho ) = rapat muatan volume
+* $Q$ = muatan total
+* $V$ = volume benda
+* $\rho$ = rapat muatan volume
 
 ### Satuan
 
-[
+$$
 \text{C/m}^3
-]
+$$
 
 ### Dipakai untuk benda seperti:
 
@@ -712,9 +712,9 @@ Artinya:
 Sebuah bola pejal memiliki volume 2 m³ dan muatan total 10 C.
 
 Maka:
-[
+$$
 \rho = \frac{Q}{V} = \frac{10}{2} = 5\ \text{C/m}^3
-]
+$$
 
 Artinya:
 setiap 1 m³ volume benda mengandung muatan 5 C.
@@ -725,52 +725,52 @@ setiap 1 m³ volume benda mengandung muatan 5 C.
 
 Anggap muatan itu seperti sesuatu yang “menyebar”.
 
-* Kalau menyebar sepanjang **kabel** → pakai ( \lambda )
-* Kalau menyebar di **kulit permukaan** benda → pakai ( \sigma )
-* Kalau menyebar di **seluruh isi** benda → pakai ( \rho )
+* Kalau menyebar sepanjang **kabel** → pakai $\lambda$
+* Kalau menyebar di **kulit permukaan** benda → pakai $\sigma$
+* Kalau menyebar di **seluruh isi** benda → pakai $\rho$
 
 ---
 
 # Ringkasan tiga jenis rapat muatan
 
-[
+$$
 \lambda = \frac{Q}{l}
 \qquad\text{(linear, C/m)}
-]
+$$
 
-[
+$$
 \sigma = \frac{Q}{A}
 \qquad\text{(permukaan, C/m}^2\text{)}
-]
+$$
 
-[
+$$
 \rho = \frac{Q}{V}
 \qquad\text{(volume, C/m}^3\text{)}
-]
+$$
 
 ---
 
-# Kapan rumus sederhana ini berlaku?
+# Kapan rumus sederhana ini berlaku!=
 
 Rumus:
-[
+$$
 \lambda = \frac{Q}{l},\quad \sigma = \frac{Q}{A},\quad \rho = \frac{Q}{V}
-]
+$$
 berlaku jika muatan **tersebar merata**.
 
 Kalau muatan **tidak merata**, maka pakai bentuk diferensial:
 
-[
+$$
 \lambda = \frac{dQ}{dl}
-]
+$$
 
-[
+$$
 \sigma = \frac{dQ}{dA}
-]
+$$
 
-[
+$$
 \rho = \frac{dQ}{dV}
-]
+$$
 
 Artinya:
 
@@ -789,27 +789,27 @@ Kalau rapat muatannya diketahui, total muatan bisa dicari dengan:
 
 ### Untuk garis
 
-[
-Q = \int \lambda , dl
-]
+$$
+Q = \int \lambda \, dl
+$$
 
 ### Untuk permukaan
 
-[
-Q = \int \sigma , dA
-]
+$$
+Q = \int \sigma \, dA
+$$
 
 ### Untuk volume
 
-[
-Q = \int \rho , dV
-]
+$$
+Q = \int \rho \, dV
+$$
 
 Kalau rapat muatannya seragam, integral ini menjadi sederhana:
 
-* (Q = \lambda l)
-* (Q = \sigma A)
-* (Q = \rho V)
+* $Q = \lambda l$
+* $Q = \sigma A$
+* $Q = \rho V$
 
 ---
 
@@ -818,46 +818,46 @@ Kalau rapat muatannya seragam, integral ini menjadi sederhana:
 ### 1D
 
 Kawat 3 m, muatan total 6 C:
-[
+$$
 \lambda = \frac{6}{3} = 2\ \text{C/m}
-]
+$$
 
 ### 2D
 
 Pelat 5 m², muatan total 15 C:
-[
+$$
 \sigma = \frac{15}{5} = 3\ \text{C/m}^2
-]
+$$
 
 ### 3D
 
 Kubus volume 4 m³, muatan total 12 C:
-[
+$$
 \rho = \frac{12}{4} = 3\ \text{C/m}^3
-]
+$$
 
 ---
 
 # Kalimat paling sederhana
 
-* **( \lambda )**: seberapa padat muatan sepanjang **panjang**
-* **( \sigma )**: seberapa padat muatan pada **permukaan**
-* **( \rho )**: seberapa padat muatan dalam **volume**
+* **$\lambda$**: seberapa padat muatan sepanjang **panjang**
+* **$\sigma$**: seberapa padat muatan pada **permukaan**
+* **$\rho$**: seberapa padat muatan dalam **volume**
 
 ---
 
-Mengapa kita harus mencari kerapatan dari suatu benda?
+Mengapa kita harus mencari kerapatan dari suatu benda!=
 
-Karena **muatan pada benda sering tidak cukup dijelaskan hanya dengan muatan total (Q)**.
+Karena **muatan pada benda sering tidak cukup dijelaskan hanya dengan muatan total $Q$**.
 
 Dua benda bisa punya **muatan total sama**, tetapi efek fisiknya bisa berbeda kalau cara penyebarannya berbeda.
 
 Contoh:
 
-* kawat pendek bermuatan (10,\text{C})
-* kawat sangat panjang juga bermuatan (10,\text{C})
+* kawat pendek bermuatan $10,\text{C}$
+* kawat sangat panjang juga bermuatan $10,\text{C}$
 
-Walaupun (Q)-nya sama, “kepadatan” muatannya berbeda. Kawat pendek punya muatan lebih rapat daripada kawat panjang, sehingga pengaruh listrik di sekitarnya bisa berbeda. Itulah alasan kita perlu **kerapatan muatan**.
+Walaupun $Q$-nya sama, “kepadatan” muatannya berbeda. Kawat pendek punya muatan lebih rapat daripada kawat panjang, sehingga pengaruh listrik di sekitarnya bisa berbeda. Itulah alasan kita perlu **kerapatan muatan**.
 
 ## Inti gagasannya
 
@@ -869,7 +869,7 @@ Bukan hanya “totalnya berapa”, tetapi juga “tersebar bagaimana”.
 
 ---
 
-## Mengapa ini penting?
+## Mengapa ini penting!=
 
 ### 1. Karena muatan total saja belum cukup
 
@@ -878,13 +878,13 @@ Misalnya ada dua batang:
 * Batang A: panjang 1 m, muatan total 6 C
 * Batang B: panjang 3 m, muatan total 6 C
 
-Keduanya punya (Q = 6\text{ C}), tetapi:
-[
+Keduanya punya $Q = 6\text{ C}$, tetapi:
+$$
 \lambda_A = \frac{6}{1} = 6\ \text{C/m}
-]
-[
+$$
+$$
 \lambda_B = \frac{6}{3} = 2\ \text{C/m}
-]
+$$
 
 Artinya batang A lebih “padat muatan” daripada batang B.
 
@@ -902,9 +902,9 @@ Kalau sebuah benda sangat panjang, sangat lebar, atau sangat besar volumenya, ki
 
 Maka dipakai:
 
-* (\lambda) untuk panjang
-* (\sigma) untuk permukaan
-* (\rho) untuk volume
+* $\lambda$ untuk panjang
+* $\sigma$ untuk permukaan
+* $\rho$ untuk volume
 
 Ini membuat deskripsi benda menjadi lebih realistis.
 
@@ -918,13 +918,13 @@ Dalam fisika, saat menghitung:
 * potensial listrik,
 * gaya listrik,
 
-yang memengaruhi hasil bukan hanya (Q), tapi juga **letak dan sebaran muatannya**.
+yang memengaruhi hasil bukan hanya $Q$, tapi juga **letak dan sebaran muatannya**.
 
 Kalau muatan tersebar terus-menerus, kita harus ambil bagian kecil:
 
-* (dQ = \lambda,dl)
-* (dQ = \sigma,dA)
-* (dQ = \rho,dV)
+* $dQ = \lambda\, dl$
+* $dQ = \sigma\, dA$
+* $dQ = \rho\, dV$
 
 Lalu semua bagian kecil itu dijumlahkan.
 
@@ -965,7 +965,7 @@ Jumlahnya sama, tetapi **penyebarannya berbeda**.
 
 Muatan juga begitu:
 
-* (Q) memberi tahu **jumlah total**
+* $Q$ memberi tahu **jumlah total**
 * kerapatan memberi tahu **cara penyebarannya**
 
 ---
@@ -973,7 +973,7 @@ Muatan juga begitu:
 ## Jadi, fungsi kerapatan adalah:
 
 * menjelaskan **sebaran muatan**
-* membedakan benda yang punya (Q) sama tetapi distribusi berbeda
+* membedakan benda yang punya $Q$ sama tetapi distribusi berbeda
 * memudahkan perhitungan pada benda kontinu
 * membantu menghitung medan, gaya, dan potensial listrik
 
@@ -983,38 +983,38 @@ Muatan juga begitu:
 
 ---
 
-Apa saja satuan yang digunakan untuk kerapatan per satuan panjang, kerapatan per satuan luas, kerapatan per satuan volume?
+Apa saja satuan yang digunakan untuk kerapatan per satuan panjang, kerapatan per satuan luas, kerapatan per satuan volume!=
 
 Satuannya mengikuti “muatan dibagi ukuran geometrinya”:
 
 * **Kerapatan muatan per satuan panjang**
-  [
-  \lambda = \frac{Q}{l}
-  ]
+$$
+\lambda = \frac{Q}{l}
+$$
   Satuannya:
-  [
-  \text{C/m}
-  ]
+$$
+\text{C/m}
+$$
   dibaca **coulomb per meter**
 
 * **Kerapatan muatan per satuan luas**
-  [
-  \sigma = \frac{Q}{A}
-  ]
+$$
+\sigma = \frac{Q}{A}
+$$
   Satuannya:
-  [
-  \text{C/m}^2
-  ]
+$$
+\text{C/m}^2
+$$
   dibaca **coulomb per meter persegi**
 
 * **Kerapatan muatan per satuan volume**
-  [
-  \rho = \frac{Q}{V}
-  ]
+$$
+\rho = \frac{Q}{V}
+$$
   Satuannya:
-  [
-  \text{C/m}^3
-  ]
+$$
+\text{C/m}^3
+$$
   dibaca **coulomb per meter kubik**
 
 Agar mudah diingat:
@@ -1023,7 +1023,7 @@ Agar mudah diingat:
 * luas → **meter persegi** → **C/m²**
 * volume → **meter kubik** → **C/m³**
 
-Kalau mau, saya bisa jelaskan juga **mengapa simbol (\rho) dipakai untuk rapat muatan volume**, padahal di bab lain (\rho) juga dipakai untuk massa jenis.
+Kalau mau, saya bisa jelaskan juga **mengapa simbol $\rho$ dipakai untuk rapat muatan volume**, padahal di bab lain $\rho$ juga dipakai untuk massa jenis.
 
 ---
 
@@ -1033,7 +1033,7 @@ Sifat muatan:
 Jika muatan memiliki jenis yang sama, maka akan terjadi tolak menolak
 Jika jenis muatan berbeda, maka akan terjadi interaksi tarik-menarik.
 
-Mengapa terjadi tolak-menolak dan tarik-menarik?
+Mengapa terjadi tolak-menolak dan tarik-menarik!=
 
 Jelaskan mengenai konsep dan contohnya.
 
@@ -1057,29 +1057,29 @@ Ini bukan sekadar hafalan, tetapi hasil pengamatan eksperimen yang dirumuskan da
 
 ## 2. Penjelasan lewat Hukum Coulomb
 
-Untuk dua muatan titik (q_1) dan (q_2), besar gaya listriknya:
+Untuk dua muatan titik $q_1$ dan $q_2$, besar gaya listriknya:
 
-[
+$$
 F = k \frac{|q_1 q_2|}{r^2}
-]
+$$
 
 dengan:
 
-* (F) = besar gaya listrik
-* (k) = konstanta Coulomb
-* (r) = jarak antar muatan
+* $F$ = besar gaya listrik
+* $k$ = konstanta Coulomb
+* $r$ = jarak antar muatan
 
 Rumus ini memberi tahu **besar** gaya.
 Untuk **arah** gaya, kita lihat tanda muatannya:
 
-* jika (q_1 q_2 > 0) → tandanya positif → **muatan sejenis** → **tolak-menolak**
-* jika (q_1 q_2 < 0) → tandanya negatif → **muatan berbeda** → **tarik-menarik**
+* jika $q_1 q_2 > 0$ → tandanya positif → **muatan sejenis** → **tolak-menolak**
+* jika $q_1 q_2 < 0$ → tandanya negatif → **muatan berbeda** → **tarik-menarik**
 
 Jadi secara matematis, tanda muatan menentukan apakah gaya mengarah **menjauh** atau **mendekat**.
 
 ---
 
-## 3. Mengapa arahnya bisa begitu?
+## 3. Mengapa arahnya bisa begitu!=
 
 Cara paling mudah memahaminya adalah dengan konsep **medan listrik**.
 
@@ -1093,9 +1093,9 @@ Muatan negatif menghasilkan medan listrik yang arahnya **masuk** ke muatan.
 
 Lalu, jika ada muatan lain diletakkan di medan itu, gaya yang dialami adalah:
 
-[
+$$
 \vec{F} = q \vec{E}
-]
+$$
 
 Artinya:
 
@@ -1127,12 +1127,12 @@ Sistem fisika cenderung menuju keadaan energi yang lebih rendah.
 
 Energi potensial listrik dua muatan adalah:
 
-[
+$$
 U = k \frac{q_1 q_2}{r}
-]
+$$
 
-* Untuk **muatan sejenis**, (q_1 q_2) positif, sehingga (U) positif. Jika dipaksa makin dekat, energi sistem naik. Sistem “lebih suka” saling menjauh.
-* Untuk **muatan berbeda jenis**, (q_1 q_2) negatif, sehingga (U) negatif. Saat makin dekat, keadaan bisa menjadi lebih stabil. Sistem “lebih suka” saling mendekat.
+* Untuk **muatan sejenis**, $q_1 q_2$ positif, sehingga (U) positif. Jika dipaksa makin dekat, energi sistem naik. Sistem “lebih suka” saling menjauh.
+* Untuk **muatan berbeda jenis**, $q_1 q_2$ negatif, sehingga (U) negatif. Saat makin dekat, keadaan bisa menjadi lebih stabil. Sistem “lebih suka” saling mendekat.
 
 Jadi dari sudut pandang energi:
 
@@ -1141,7 +1141,7 @@ Jadi dari sudut pandang energi:
 
 ---
 
-## 5. Apakah ini benar-benar “mengapa” yang paling dalam?
+## 5. Apakah ini benar-benar “mengapa” yang paling dalam!=
 
 Dalam fisika dasar, jawabannya adalah:
 
@@ -1187,7 +1187,7 @@ Pada kasus nyata ini, kadang bukan karena benda satunya bermuatan lawan secara l
 
 ## 7. Hal yang penting dipahami
 
-Tanda (+) dan (-) pada muatan **bukan berarti “baik” dan “buruk”**.
+Tanda $+$ dan $-$ pada muatan **bukan berarti “baik” dan “buruk”**.
 Itu hanya **label dua jenis muatan** yang berlawanan.
 
 Sama seperti dua kutub:
@@ -1227,13 +1227,13 @@ Benar. Setiap muatan listrik menimbulkan **medan listrik** di ruang sekitarnya.
 
 Untuk muatan titik:
 
-[
+$$
 \vec{E} = k \frac{q}{r^2}\hat{r}
-]
+$$
 
 Maknanya:
 
-* besar medan bergantung pada (q) dan jarak (r)
+* besar medan bergantung pada $q$ dan jarak $r$
 * arah medan bergantung pada tanda muatan
 
 Kalau:
@@ -1246,11 +1246,11 @@ Karena itu:
 * muatan positif → garis medan keluar
 * muatan negatif → garis medan masuk
 
-## 2. Apakah muatan listrik itu besaran vektor?
+## 2. Apakah muatan listrik itu besaran vektor!=
 
 Di sini penting membedakan **muatan** dan **medan listrik**.
 
-### Muatan listrik (q)
+### Muatan listrik $q$
 
 Muatan adalah **besaran skalar**, bukan vektor.
 
@@ -1261,12 +1261,12 @@ Artinya:
 
 Contoh:
 
-* (q = +2,\mu C)
-* (q = -5,\mu C)
+* $q = +2\,\mu C$
+* $q = -5\,\mu C$
 
 Tanda plus/minus **bukan arah**, melainkan **jenis muatan**.
 
-### Medan listrik (\vec{E})
+### Medan listrik $\vec{E}$
 
 Medan listrik adalah **besaran vektor**.
 
@@ -1278,29 +1278,29 @@ Artinya:
 Contoh:
 di suatu titik, medan listrik bisa ke kanan, ke kiri, ke atas, dan seterusnya.
 
-### Gaya listrik (\vec{F})
+### Gaya listrik $\vec{F}$
 
 Gaya listrik juga **vektor**.
 
-[
+$$
 \vec{F} = q\vec{E}
-]
+$$
 
 Kalau muatan uji positif, gaya searah medan.
 Kalau muatan uji negatif, gaya berlawanan arah medan.
 
-## 3. Jadi mana yang vektor dan mana yang bukan?
+## 3. Jadi mana yang vektor dan mana yang bukan!=
 
 Ringkasnya:
 
-* **muatan (q)** → **skalar**
-* **medan listrik (\vec{E})** → **vektor**
-* **gaya listrik (\vec{F})** → **vektor**
-* **potensial listrik (V)** → **skalar**
+* **muatan $q$** → **skalar**
+* **medan listrik $\vec{E}$** → **vektor**
+* **gaya listrik $\vec{F}$** → **vektor**
+* **potensial listrik $V$** → **skalar**
 
 Jadi tidak semua yang berkaitan dengan listrik itu vektor.
 
-## 4. Mengapa garis medan tidak boleh overlap atau berpotongan?
+## 4. Mengapa garis medan tidak boleh overlap atau berpotongan!=
 
 Karena **garis medan adalah gambar arah vektor medan listrik**.
 
@@ -1321,19 +1321,19 @@ Medan listrik di satu titik hanya punya:
 
 Jadi garis medan **tidak boleh saling memotong**.
 
-## 5. Lalu bagaimana dengan beberapa muatan sekaligus?
+## 5. Lalu bagaimana dengan beberapa muatan sekaligus!=
 
 Kalau ada banyak muatan, medan total dihitung dengan **superposisi**:
 
-[
+$$
 \vec{E}_{total} = \vec{E}_1 + \vec{E}_2 + \vec{E}_3 + \cdots
-]
+$$
 
 Artinya, medan dari tiap muatan memang “ditumpuk” secara matematis, tetapi hasil akhirnya di setiap titik tetap hanya **satu vektor resultan**.
 
 Maka yang digambar sebagai garis medan adalah **arah resultan akhir**, bukan garis dari tiap muatan yang dibiarkan saling bertabrakan.
 
-## 6. Mengapa untuk muatan sejenis garis medannya tidak saling menyambung?
+## 6. Mengapa untuk muatan sejenis garis medannya tidak saling menyambung!=
 
 Misalnya dua muatan sama-sama positif.
 
@@ -1380,9 +1380,9 @@ Keduanya sama-sama mengeluarkan garis medan.
 Di daerah antara keduanya, garis-garis membelok menjauh karena masing-masing “mendorong” arah medan resultan.
 
 Di tengah, untuk dua muatan sama besar, bisa ada titik dengan:
-[
+$$
 \vec{E}_{total} = 0
-]
+$$
 Tetapi itu bukan karena garis overlap, melainkan karena dua vektor medannya **saling meniadakan**.
 
 ## 8. Hal yang sering membingungkan
@@ -1398,8 +1398,8 @@ Jadi yang “bercampur” adalah **vektornya secara matematis**, bukan garis gam
 
 * **Muatan positif** membuat garis medan keluar → tampak divergen
 * **Muatan negatif** membuat garis medan masuk → tampak konvergen
-* **Muatan (q)** adalah **skalar**, bukan vektor
-* **Medan listrik (\vec{E})** adalah **vektor**
+* **Muatan $q$** adalah **skalar**, bukan vektor
+* **Medan listrik $\vec{E}$** adalah **vektor**
 * Garis medan tidak boleh overlap/berpotongan karena di satu titik medan listrik hanya boleh punya **satu arah resultan**
 
 Kalau mau, saya bisa buatkan **sketsa ASCII sederhana** untuk:
@@ -1413,25 +1413,25 @@ Kalau mau, saya bisa buatkan **sketsa ASCII sederhana** untuk:
 
 Persamaan
 
-[
+$$
 \frac{1}{4\pi \varepsilon_0 \varepsilon_r}
-]
+$$
 
 adalah **konstanta elektrostatik dalam suatu medium**.
 Ia muncul saat kita menghitung **gaya listrik** atau **medan listrik** di bahan tertentu, bukan hanya di ruang hampa.
 
-## 1. Di mana persamaan ini muncul?
+## 1. Di mana persamaan ini muncul!=
 
 Paling sering muncul pada Hukum Coulomb:
 
-[
+$$
 F=\frac{1}{4\pi \varepsilon_0 \varepsilon_r}\frac{q_1 q_2}{r^2}
-]
+$$
 
 Artinya, besar gaya listrik antara dua muatan dipengaruhi oleh:
 
-* besar muatan (q_1) dan (q_2),
-* jarak (r),
+* besar muatan $q_1$ dan $q_2$,
+* jarak $r$,
 * dan **medium di antara keduanya**.
 
 Kalau mediumnya berubah, gaya listriknya juga berubah. Fisika memang suka bikin hidup tidak terlalu simpel.
@@ -1440,43 +1440,43 @@ Kalau mediumnya berubah, gaya listriknya juga berubah. Fisika memang suka bikin 
 
 ## 2. Arti tiap simbol
 
-### (4\pi)
+### $4\pi$
 
 Ini faktor matematis yang muncul karena geometri ruang 3 dimensi, terutama dari simetri bola.
 
-### (\varepsilon_0) (epsilon nol)
+### $\varepsilon_0$ (epsilon nol)
 
 Disebut **permitivitas vakum**.
 
 Nilainya:
 
-[
+$$
 \varepsilon_0 \approx 8{,}85 \times 10^{-12}\ \text{F/m}
-]
+$$
 
 Ini menunjukkan seberapa “mudah” medan listrik terbentuk di **ruang hampa**.
 
-### (\varepsilon_r) (epsilon relatif)
+### $\varepsilon_r$ (epsilon relatif)
 
 Disebut **permitivitas relatif** atau **konstanta dielektrik relatif**.
 
 Ini membandingkan medium tertentu terhadap vakum:
 
-* vakum: (\varepsilon_r = 1)
-* udara: kira-kira (\varepsilon_r \approx 1)
-* air: (\varepsilon_r \approx 80)
+* vakum: $\varepsilon_r = 1$
+* udara: kira-kira $\varepsilon_r \approx 1$
+* air: $\varepsilon_r \approx 80$
 
-Jadi (\varepsilon_r) memberi tahu apakah suatu bahan **memperlemah** gaya listrik dibanding vakum.
+Jadi $\varepsilon_r$ memberi tahu apakah suatu bahan **memperlemah** gaya listrik dibanding vakum.
 
 ---
 
 ## 3. Makna fisiknya
 
-Semakin besar (\varepsilon_r), maka nilai
+Semakin besar $\varepsilon_r$, maka nilai
 
-[
+$$
 \frac{1}{4\pi \varepsilon_0 \varepsilon_r}
-]
+$$
 
 semakin kecil.
 
@@ -1485,7 +1485,7 @@ Akibatnya:
 * **gaya listrik makin kecil**
 * **medan listrik makin lemah**
 
-Mengapa?
+Mengapa!=
 Karena medium itu ikut “merespons” medan listrik, biasanya melalui **polarisasi**. Muatan-muatan di dalam bahan sedikit bergeser, lalu efeknya cenderung **mengurangi medan resultan**.
 
 Jadi medium bukan penonton pasif. Ia ikut campur dalam drama listrik.
@@ -1496,21 +1496,21 @@ Jadi medium bukan penonton pasif. Ia ikut campur dalam drama listrik.
 
 Di vakum:
 
-[
+$$
 k=\frac{1}{4\pi \varepsilon_0}
-]
+$$
 
 dengan nilai kira-kira:
 
-[
+$$
 k \approx 9 \times 10^9\ \text{N m}^2/\text{C}^2
-]
+$$
 
 Kalau ada medium:
 
-[
+$$
 k_{\text{medium}}=\frac{1}{4\pi \varepsilon_0 \varepsilon_r}
-]
+$$
 
 Jadi ini bisa dipahami sebagai **versi konstanta Coulomb di dalam medium**.
 
@@ -1520,27 +1520,23 @@ Jadi ini bisa dipahami sebagai **versi konstanta Coulomb di dalam medium**.
 
 ### Di vakum
 
-Karena (\varepsilon_r=1),
+Karena $\varepsilon_r=1$,
 
-[
+$$
 \frac{1}{4\pi \varepsilon_0 \varepsilon_r}
-==========================================
-
-\frac{1}{4\pi \varepsilon_0}
-]
+= \frac{1}{4\pi \varepsilon_0}
+$$
 
 gaya listrik bernilai “penuh”.
 
 ### Di air
 
-Kalau (\varepsilon_r \approx 80), maka
+Kalau $\varepsilon_r \approx 80$, maka
 
-[
+$$
 \frac{1}{4\pi \varepsilon_0 \varepsilon_r}
-==========================================
-
-\frac{1}{80}\frac{1}{4\pi \varepsilon_0}
-]
+= \frac{1}{80}\frac{1}{4\pi \varepsilon_0}
+$$
 
 Artinya gaya listrik di air kira-kira menjadi **80 kali lebih kecil** daripada di vakum, untuk muatan dan jarak yang sama.
 
@@ -1552,52 +1548,52 @@ Itu sebabnya interaksi elektrostatik dalam air jauh lebih teredam.
 
 Anggap:
 
-[
+$$
 \frac{1}{4\pi \varepsilon_0 \varepsilon_r}
-]
+$$
 
 adalah **faktor penguat atau pelemah interaksi listrik**.
 
 * vakum: interaksi paling kuat
-* medium dengan (\varepsilon_r) besar: interaksi melemah
+* medium dengan $\varepsilon_r$ besar: interaksi melemah
 
 ---
 
 ## 7. Ringkasan inti
 
-[
+$$
 \frac{1}{4\pi \varepsilon_0 \varepsilon_r}
-]
+$$
 
 adalah konstanta yang menentukan **seberapa kuat gaya atau medan listrik** dalam suatu medium.
 
-* (\varepsilon_0): sifat dasar vakum
-* (\varepsilon_r): pengaruh bahan/medium
-* makin besar (\varepsilon_r), makin kecil gaya listriknya
+* $\varepsilon_0$: sifat dasar vakum
+* $\varepsilon_r$: pengaruh bahan/medium
+* makin besar $\varepsilon_r$, makin kecil gaya listriknya
 
 ## 8. Kalimat singkat yang cocok untuk catatan
 
-> Persamaan (\frac{1}{4\pi \varepsilon_0 \varepsilon_r}) adalah konstanta elektrostatik dalam medium, yang menunjukkan bahwa gaya dan medan listrik tidak hanya bergantung pada muatan dan jarak, tetapi juga pada jenis medium di antara muatan tersebut.
+> Persamaan $\frac{1}{4\pi \varepsilon_0 \varepsilon_r}$ adalah konstanta elektrostatik dalam medium, yang menunjukkan bahwa gaya dan medan listrik tidak hanya bergantung pada muatan dan jarak, tetapi juga pada jenis medium di antara muatan tersebut.
 
 ---
 
-Itu adalah **vektor satuan** dari (\vec r), biasanya ditulis:
+Itu adalah **vektor satuan** dari $\vec r$, biasanya ditulis:
 
-[
+$$
 \hat r = \frac{\vec r}{|\vec r|}
-]
+$$
 
 atau kadang
 
-[
+$$
 \hat{\mathbf r} = \frac{\mathbf r}{r}
-]
+$$
 
 dengan:
 
-* (\vec r) = vektor posisi / vektor arah
-* (|\vec r|) = panjang atau besar vektor (\vec r)
-* (\hat r) = vektor satuan yang arahnya sama dengan (\vec r), tetapi panjangnya **1**
+* $\vec r$ = vektor posisi / vektor arah
+* $|\vec r|$ = panjang atau besar vektor $\vec r$
+* $\hat r$ = vektor satuan yang arahnya sama dengan $\vec r$, tetapi panjangnya **1**
 
 ## Makna sederhananya
 
@@ -1605,77 +1601,75 @@ Persamaan itu dipakai untuk **mengambil arah saja** dari suatu vektor.
 
 Karena:
 
-* (\vec r) punya **besar dan arah**
-* (|\vec r|) hanya punya **besar**
-* saat (\vec r) dibagi (|\vec r|), besar vektornya “dinormalisasi” menjadi 1
+* $\vec r$ punya **besar dan arah**
+* $|\vec r|$ hanya punya **besar**
+* saat $\vec r$ dibagi $|\vec r|$, besar vektornya “dinormalisasi” menjadi 1
 
 Jadi hasilnya adalah:
 
-> vektor yang hanya menunjukkan **arah (\vec r)**
+> vektor yang hanya menunjukkan **arah $\vec r$**
 
-## Kenapa panjangnya jadi 1?
+## Kenapa panjangnya jadi 1!=
 
 Misalkan:
-[
+$$
 |\vec r| = r
-]
+$$
 
 maka:
 
-[
+$$
 \left|\frac{\vec r}{|\vec r|}\right|
-====================================
+= \frac{|\vec r|}{|\vec r|}
+= 1
+$$
 
-\frac{|\vec r|}{|\vec r|}
-=1
-]
-
-Selama (\vec r \neq 0), hasilnya selalu vektor dengan panjang 1.
+Selama $\vec r \neq 0$, hasilnya selalu vektor dengan panjang 1.
 
 ## Contoh angka
 
 Misalnya:
 
-[
+$$
 \vec r = 3\hat i + 4\hat j
-]
+$$
 
 Maka besarnya:
 
-[
+$$
 |\vec r| = \sqrt{3^2+4^2} = 5
-]
+$$
 
 Jadi vektor satuannya:
 
-[
+$$
 \hat r = \frac{\vec r}{|\vec r|}
 = \frac{3\hat i + 4\hat j}{5}
 = \frac{3}{5}\hat i + \frac{4}{5}\hat j
-]
+$$
 
 Artinya:
 
-* arah tetap sama seperti (\vec r)
+* arah tetap sama seperti $\vec r$
 * tapi panjangnya sekarang 1
 
-## Dalam fisika, ini muncul di mana?
+## Dalam fisika, ini muncul di mana!=
 
 Sering muncul pada medan listrik, gaya Coulomb, dan gravitasi.
 
 Contoh medan listrik muatan titik:
 
-[
+$$
 \vec E = \frac{1}{4\pi\varepsilon_0}\frac{q}{r^2}\hat r
-]
+$$
 
-Kenapa ada (\hat r)?
+Kenapa ada $\hat r$!=
 Karena medan listrik bukan cuma punya besar, tapi juga **arah**.
 
 Di rumus itu:
 
-* (\frac{1}{4\pi\varepsilon_0}\frac{q}{r^2}) memberi **besar**
-* (\hat r) memberi **arah**
+* $\frac{1}{4\pi\varepsilon_0}\frac{q}{r^2}$ memberi **besar**
+* $\hat r$ memberi **arah**
 
 Jadi rumus itu sebenarnya berkata:
 
@@ -1683,29 +1677,29 @@ Jadi rumus itu sebenarnya berkata:
 
 ## Perbedaan penting
 
-### (\vec r)
+### $\vec r$
 
 punya:
 
 * arah
 * besar
 
-### (|\vec r|)
+### $|\vec r|$
 
 punya:
 
 * besar saja
 
-### (\hat r = \frac{\vec r}{|\vec r|})
+### $\hat r = \frac{\vec r}{|\vec r|}$
 
 punya:
 
-* arah yang sama dengan (\vec r)
+* arah yang sama dengan $\vec r$
 * besar = 1
 
 ## Analogi mudah
 
-Bayangkan (\vec r) adalah panah panjang yang menunjuk ke timur laut.
+Bayangkan $\vec r$ adalah panah panjang yang menunjuk ke timur laut.
 
 Kalau kamu bagi dengan panjangnya, kamu mendapat panah yang:
 
@@ -1716,11 +1710,11 @@ Jadi, ini semacam **versi “arah murni”** dari suatu vektor.
 
 ## Catatan penting
 
-Kalau (\vec r = 0), maka:
+Kalau $\vec r = 0$, maka:
 
-[
+$$
 \frac{\vec r}{|\vec r|} = \frac{0}{0}
-]
+$$
 
 ini **tidak terdefinisi**.
 Jadi vektor satuan hanya bisa dibuat kalau vektornya **bukan nol**.
@@ -1729,72 +1723,69 @@ Jadi vektor satuan hanya bisa dibuat kalau vektornya **bukan nol**.
 
 Persamaan
 
-[
+$$
 \frac{\vec r}{|\vec r|}
-]
+$$
 
-adalah **vektor satuan** yang searah dengan (\vec r).
+adalah **vektor satuan** yang searah dengan $\vec r$.
 Fungsinya untuk menunjukkan **arah vektor tanpa membawa besarnya**.
 
 Kalau ditulis dalam catatan kuliah, kamu bisa pakai kalimat ini:
 
-> (\frac{\vec r}{|\vec r|}) adalah vektor satuan radial, yaitu vektor yang memiliki arah sama dengan (\vec r) tetapi besar sama dengan 1.
+> $\frac{\vec r}{|\vec r|}$ adalah vektor satuan radial, yaitu vektor yang memiliki arah sama dengan $\vec r$ tetapi besar sama dengan 1.
 
-Saya juga bisa lanjutkan ke hubungan antara (\hat r), (\hat i), (\hat j), (\hat k), dan kenapa di elektrostatika sering muncul bentuk
-[
+Saya juga bisa lanjutkan ke hubungan antara $\hat r$, $\hat i$, $\hat j$, $\hat k$, dan kenapa di elektrostatika sering muncul bentuk
+$$
 \frac{\vec r}{r^3}
-]
+$$
 yang kelihatannya aneh tapi sebenarnya elegan.
 
 ---
 
 Kalau yang dimaksud adalah
 
-[
+$$
 \frac{\vec r}{r}
-]
+$$
 
 maka **biasanya itu sama saja dengan**
 
-[
+$$
 \frac{\vec r}{|\vec r|}
-]
+$$
 
 dan hasilnya adalah **vektor satuan radial**:
 
-[
+$$
 \hat r
-]
+$$
 
-## Kenapa bisa sama?
+## Kenapa bisa sama!=
 
 Dalam fisika, sangat sering dipakai notasi:
 
-[
+$$
 r = |\vec r|
-]
+$$
 
 Artinya:
 
-* (\vec r) = vektor posisi
-* (r) = besar/panjang dari vektor posisi itu
+* $\vec r$ = vektor posisi
+* $r$ = besar/panjang dari vektor posisi itu
 
 Jadi:
 
-[
+$$
 \frac{\vec r}{r}
-================
-
-# \frac{\vec r}{|\vec r|}
-
+= \frac{\vec r}{|\vec r|}
 \hat r
-]
+$$
 
 ## Maknanya
 
 Hasil ini adalah vektor yang:
 
-* arahnya sama dengan (\vec r)
+* arahnya sama dengan $\vec r$
 * panjangnya 1
 
 Jadi ini tetap **vektor satuan**, bukan vektor biasa.
@@ -1805,71 +1796,71 @@ Jadi ini tetap **vektor satuan**, bukan vektor biasa.
 
 Misalnya:
 
-[
+$$
 \vec r = 3\hat i + 4\hat j
-]
+$$
 
 Maka:
 
-[
+$$
 r = |\vec r| = \sqrt{3^2 + 4^2} = 5
-]
+$$
 
 Sehingga:
 
-[
+$$
 \frac{\vec r}{r} = \frac{3\hat i + 4\hat j}{5}
 = \frac{3}{5}\hat i + \frac{4}{5}\hat j
-]
+$$
 
-Itu adalah vektor satuan yang searah dengan (\vec r).
+Itu adalah vektor satuan yang searah dengan $\vec r$.
 
 ---
 
-## Kenapa kadang ditulis (\vec r/r), bukan (\vec r/|\vec r|)?
+## Kenapa kadang ditulis $\vec r/r$, bukan $\vec r/|\vec r|$!=
 
 Karena fisikawan kadang suka hemat tinta dan sedikit nakal.
 
 Kalau konteksnya jelas, mereka menulis:
 
-* (r) untuk **besar vektor**
-* (\vec r) untuk **vektornya**
+* $r$ untuk **besar vektor**
+* $\vec r$ untuk **vektornya**
 
 Jadi:
 
-* (\vec r) = panah
-* (r) = panjang panah
+* $\vec r$ = panah
+* $r$ = panjang panah
 
 ---
 
 ## Ringkasnya
 
-[
+$$
 \frac{\vec r}{r}
-]
+$$
 berarti:
 
-> vektor (\vec r) dibagi dengan panjangnya sendiri, sehingga menghasilkan **vektor satuan radial** (\hat r)
+> vektor $\vec r$ dibagi dengan panjangnya sendiri, sehingga menghasilkan **vektor satuan radial** $\hat r$
 
 ## Hubungan penting
 
-[
+$$
 \vec r = r \hat r
-]
+$$
 
 Ini bentuk yang sangat sering dipakai.
 
 Artinya:
 
-* (r) memberi **besar**
-* (\hat r) memberi **arah**
-* (\vec r) = besar × arah
+* $r$ memberi **besar**
+* $\hat r$ memberi **arah**
+* $\vec r$ = besar × arah
 
 Kalau mau, saya bisa lanjutkan ke bentuk yang sangat sering muncul di elektrostatika:
 
-[
+$$
 \frac{\vec r}{r^3} = \frac{\hat r}{r^2}
-]
+$$
 
 yang sering bikin mahasiswa menatap papan tulis seperti baru dikhianati aljabar.
 
@@ -1884,34 +1875,34 @@ Kalau ada dua benda bermuatan didekatkan, mereka akan saling memberi gaya:
 
 ## Persamaan gaya Coulomb
 
-[
+$$
 F = k \frac{|q_1 q_2|}{r^2}
-]
+$$
 
 dengan:
 
-* (F) = besar gaya Coulomb
-* (k) = konstanta Coulomb
-* (q_1, q_2) = besar muatan
-* (r) = jarak antara dua muatan
+* $F$ = besar gaya Coulomb
+* $k$ = konstanta Coulomb
+* $q_1, q_2$ = besar muatan
+* $r$ = jarak antara dua muatan
 
 ## Makna fisiknya
 
 Persamaan itu memberi tahu tiga hal penting:
 
 **Pertama**, makin besar muatannya, makin besar gaya listriknya.
-Karena (F) sebanding dengan (q_1 q_2).
+Karena $F$ sebanding dengan $q_1 q_2$.
 
 **Kedua**, makin jauh jaraknya, makin kecil gayanya.
-Bahkan turun sangat cepat, karena ada (r^2) di bawah.
+Bahkan turun sangat cepat, karena ada $r^2$ di bawah.
 
 **Ketiga**, jenis muatan menentukan arah gaya:
 
-* (+) dengan (+) → tolak
-* (-) dengan (-) → tolak
-* (+) dengan (-) → tarik
+* $+$ dengan $+$ → tolak
+* $-$ dengan $-$ → tolak
+* $+$ dengan $-$ → tarik
 
-## Kenapa disebut “gaya”?
+## Kenapa disebut “gaya”!=
 
 Karena ia adalah **tarikan atau dorongan** yang dialami muatan akibat muatan lain.
 
@@ -1922,9 +1913,9 @@ Jadi:
 
 Hubungannya dengan medan listrik:
 
-[
+$$
 \vec F = q \vec E
-]
+$$
 
 ## Contoh sederhana
 
@@ -1975,31 +1966,31 @@ Jadi, kalau ada beberapa muatan titik, kita **hitung medan dari tiap muatan satu
 
 Misalnya ada tiga muatan titik:
 
-* (q_1)
-* (q_2)
-* (q_3)
+* $q_1$
+* $q_2$
+* $q_3$
 
-Kalau kita ingin mencari **medan listrik di posisi (q_3)**, maka yang dihitung adalah medan yang disebabkan oleh:
+Kalau kita ingin mencari **medan listrik di posisi $q_3$**, maka yang dihitung adalah medan yang disebabkan oleh:
 
-* (q_1) pada titik 3 → ditulis ( \vec E_{31} )
-* (q_2) pada titik 3 → ditulis ( \vec E_{32} )
+* $q_1$ pada titik 3 → ditulis $\vec E_{31}$
+* $q_2$ pada titik 3 → ditulis $\vec E_{32}$
 
 Biasanya notasi ini dibaca:
 
-* ( \vec E_{31} ) = medan listrik **di titik 3** akibat **muatan 1**
-* ( \vec E_{32} ) = medan listrik **di titik 3** akibat **muatan 2**
+* $\vec E_{31}$ = medan listrik **di titik 3** akibat **muatan 1**
+* $\vec E_{32}$ = medan listrik **di titik 3** akibat **muatan 2**
 
 Maka medan total di titik 3 adalah:
 
-[
+$$
 \vec E_3 = \vec E_{31} + \vec E_{32}
-]
+$$
 
 Itulah **prinsip superposisi**.
 
 ---
 
-## 2. Mengapa harus dijumlahkan sebagai vektor?
+## 2. Mengapa harus dijumlahkan sebagai vektor!=
 
 Karena medan listrik adalah **besaran vektor**:
 
@@ -2025,79 +2016,79 @@ Fisika sangat tidak suka penjumlahan sembrono.
 
 ## 3. Rumus medan dari satu muatan titik
 
-Medan listrik akibat satu muatan titik (q) pada jarak (r) adalah:
+Medan listrik akibat satu muatan titik $q$ pada jarak $r$ adalah:
 
-[
+$$
 \vec E = \frac{1}{4\pi \varepsilon_0}\frac{q}{r^2}\hat r
-]
+$$
 
 dengan:
 
-* (q) = muatan sumber
-* (r) = jarak dari muatan ke titik yang ditinjau
-* (\hat r) = vektor satuan arah medan
+* $q$ = muatan sumber
+* $r$ = jarak dari muatan ke titik yang ditinjau
+* $\hat r$ = vektor satuan arah medan
 
 Jadi untuk kasusmu:
 
-[
+$$
 \vec E_{31} = \frac{1}{4\pi \varepsilon_0}\frac{q_1}{r_{31}^2}\hat r_{31}
-]
+$$
 
-[
+$$
 \vec E_{32} = \frac{1}{4\pi \varepsilon_0}\frac{q_2}{r_{32}^2}\hat r_{32}
-]
+$$
 
 lalu:
 
-[
+$$
 \vec E_3 = \vec E_{31} + \vec E_{32}
-]
+$$
 
 ---
 
-## 4. Arti fisik (E_{31}) dan (E_{32})
+## 4. Arti fisik $E_{31}$ dan $E_{32}$
 
-Anggap titik tempat (q_3) berada adalah “titik pengamatan”.
+Anggap titik tempat $q_3$ berada adalah “titik pengamatan”.
 
-* ( \vec E_{31} ): seberapa besar dan ke mana arah medan di titik itu karena (q_1)
-* ( \vec E_{32} ): seberapa besar dan ke mana arah medan di titik itu karena (q_2)
+* $\vec E_{31}$: seberapa besar dan ke mana arah medan di titik itu karena $q_1$
+* $\vec E_{32}$: seberapa besar dan ke mana arah medan di titik itu karena $q_2$
 
 Medan total di titik 3 adalah gabungan keduanya.
 
 Penting:
 
-* **(q_3) tidak dipakai untuk membentuk medan yang bekerja pada dirinya sendiri**
-* (q_3) hanya bisa dianggap sebagai **muatan uji** atau muatan yang nantinya mengalami gaya
+* **$q_3$ tidak dipakai untuk membentuk medan yang bekerja pada dirinya sendiri**
+* $q_3$ hanya bisa dianggap sebagai **muatan uji** atau muatan yang nantinya mengalami gaya
 
 ---
 
-## 5. Kalau yang dicari gaya pada (q_3)
+## 5. Kalau yang dicari gaya pada $q_3$
 
-Setelah medan total di titik 3 diperoleh, maka gaya pada (q_3) adalah:
+Setelah medan total di titik 3 diperoleh, maka gaya pada $q_3$ adalah:
 
-[
+$$
 \vec F_3 = q_3 \vec E_3
-]
+$$
 
 Karena:
 
-[
+$$
 \vec E_3 = \vec E_{31} + \vec E_{32}
-]
+$$
 
 maka:
 
-[
+$$
 \vec F_3 = q_3(\vec E_{31} + \vec E_{32})
-]
+$$
 
-[
+$$
 \vec F_3 = q_3\vec E_{31} + q_3\vec E_{32}
-]
+$$
 
-[
+$$
 \vec F_3 = \vec F_{31} + \vec F_{32}
-]
+$$
 
 Ini menunjukkan bahwa **superposisi juga berlaku pada gaya listrik**.
 
@@ -2107,31 +2098,31 @@ Ini menunjukkan bahwa **superposisi juga berlaku pada gaya listrik**.
 
 Bayangkan:
 
-* (q_1) positif di kiri
-* (q_2) positif di kanan
-* (q_3) berada di tengah
+* $q_1$ positif di kiri
+* $q_2$ positif di kanan
+* $q_3$ berada di tengah
 
-Di titik (q_3):
+Di titik $q_3$:
 
-* medan dari (q_1) menjauhi (q_1), jadi arahnya ke kanan
-* medan dari (q_2) menjauhi (q_2), jadi arahnya ke kiri
+* medan dari $q_1$ menjauhi $q_1$, jadi arahnya ke kanan
+* medan dari $q_2$ menjauhi $q_2$, jadi arahnya ke kiri
 
 Maka:
 
-* ( \vec E_{31} ) ke kanan
-* ( \vec E_{32} ) ke kiri
+* $\vec E_{31}$ ke kanan
+* $\vec E_{32}$ ke kiri
 
 Medan total:
 
-[
+$$
 \vec E_3 = \vec E_{31} + \vec E_{32}
-]
+$$
 
 Kalau besarnya sama, hasilnya nol:
 
-[
+$$
 \vec E_3 = 0
-]
+$$
 
 Tapi kalau jaraknya berbeda atau muatannya berbeda, resultannya tidak nol.
 
@@ -2141,8 +2132,8 @@ Tapi kalau jaraknya berbeda atau muatannya berbeda, resultannya tidak nol.
 
 Misalnya:
 
-* (q_1) positif
-* (q_2) negatif
+* $q_1$ positif
+* $q_2$ negatif
 
 Maka arah medan di titik 3 harus ditentukan satu per satu:
 
@@ -2153,8 +2144,8 @@ Lalu kedua vektor itu dijumlahkan.
 
 Jadi langkah aman selalu:
 
-1. tentukan arah ( \vec E_{31} )
-2. tentukan arah ( \vec E_{32} )
+1. tentukan arah $\vec E_{31}$
+2. tentukan arah $\vec E_{32}$
 3. jumlahkan vektornya
 
 Jangan langsung menebak hasil akhir. Elektrostatika suka menjebak orang yang terlalu percaya diri.
@@ -2163,17 +2154,17 @@ Jangan langsung menebak hasil akhir. Elektrostatika suka menjebak orang yang ter
 
 ## 8. Bentuk umum prinsip superposisi
 
-Kalau ada banyak muatan (q_1, q_2, q_3, \dots, q_n), maka medan total di suatu titik (P) adalah:
+Kalau ada banyak muatan $q_1, q_2, q_3, \dots, q_n$, maka medan total di suatu titik $P$ adalah:
 
-[
+$$
 \vec E_P = \vec E_{P1} + \vec E_{P2} + \vec E_{P3} + \cdots + \vec E_{Pn}
-]
+$$
 
 atau:
 
-[
+$$
 \vec E_P = \sum_i \vec E_{Pi}
-]
+$$
 
 Artinya:
 
@@ -2189,19 +2180,19 @@ Untuk susunan beberapa muatan titik:
 * tiap muatan menghasilkan medan listrik sendiri
 * medan listrik total di suatu titik adalah **jumlah vektor** semua medan itu
 * pada titik 3:
-  [
-  \vec E_3 = \vec E_{31} + \vec E_{32}
-  ]
-* kalau ada muatan (q_3) di titik itu, maka gaya pada (q_3):
-  [
-  \vec F_3 = q_3 \vec E_3
-  ]
+$$
+\vec E_3 = \vec E_{31} + \vec E_{32}
+$$
+* kalau ada muatan $q_3$ di titik itu, maka gaya pada $q_3$:
+$$
+\vec F_3 = q_3 \vec E_3
+$$
 
 ---
 
 ## 10. Kalimat ringkas untuk catatan
 
-> Prinsip superposisi medan listrik menyatakan bahwa medan listrik total pada suatu titik akibat beberapa muatan titik sama dengan jumlah vektor medan listrik yang ditimbulkan oleh masing-masing muatan secara terpisah. Pada titik 3, medan total ditulis ( \vec E_3 = \vec E_{31} + \vec E_{32} ), dengan ( \vec E_{31} ) adalah medan di titik 3 akibat (q_1), dan ( \vec E_{32} ) adalah medan di titik 3 akibat (q_2).
+> Prinsip superposisi medan listrik menyatakan bahwa medan listrik total pada suatu titik akibat beberapa muatan titik sama dengan jumlah vektor medan listrik yang ditimbulkan oleh masing-masing muatan secara terpisah. Pada titik 3, medan total ditulis $\vec E_3 = \vec E_{31} + \vec E_{32}$, dengan $\vec E_{31}$ adalah medan di titik 3 akibat $q_1$, dan $\vec E_{32}$ adalah medan di titik 3 akibat $q_2$.
 
 ---
 
@@ -2212,9 +2203,9 @@ Untuk susunan beberapa muatan titik:
 
 Bentuk matematisnya:
 
-[
+$$
 \oint \vec{E}\cdot d\vec{A} = \frac{Q_{\text{dalam}}}{\varepsilon_0}
-]
+$$
 
 
 ---
@@ -2229,27 +2220,27 @@ Jadi, yang diperhatikan bukan sekadar medan listrik di satu titik, tetapi **tota
 
 ---
 
-## 2. Apa itu fluks listrik?
+## 2. Apa itu fluks listrik!=
 
 Fluks listrik adalah ukuran **seberapa banyak medan listrik menembus suatu permukaan**.
 
 Secara diferensial:
 
-[
+$$
 d\Phi_E = \vec{E}\cdot d\vec{A}
-]
+$$
 
 dan totalnya:
 
-[
+$$
 \Phi_E = \oint \vec{E}\cdot d\vec{A}
-]
+$$
 
 ### Makna simbol:
 
-* (\vec E) = medan listrik
-* (d\vec A) = elemen luas kecil yang arahnya **tegak lurus keluar permukaan**
-* tanda titik ((\cdot)) = perkalian dot product, jadi yang dihitung hanya komponen medan yang menembus permukaan
+* $\vec E$ = medan listrik
+* $d\vec A$ = elemen luas kecil yang arahnya **tegak lurus keluar permukaan**
+* tanda titik ($\cdot$) = perkalian dot product, jadi yang dihitung hanya komponen medan yang menembus permukaan
 
 ### Intuisi:
 
@@ -2259,7 +2250,7 @@ dan totalnya:
 
 ---
 
-## 3. Mengapa harus permukaan tertutup?
+## 3. Mengapa harus permukaan tertutup!=
 
 Karena Hukum Gauss berbicara tentang **muatan yang “terkurung” di dalam permukaan**.
 
@@ -2271,7 +2262,7 @@ Permukaan tertutup itu misalnya:
 
 Bukan bidang datar terbuka biasa.
 
-Kenapa? Karena kita ingin tahu:
+Kenapa!= Karena kita ingin tahu:
 
 > berapa total garis medan yang “keluar” dari suatu wilayah ruang.
 
@@ -2309,46 +2300,46 @@ Ini bagian yang sering bikin mahasiswa mengernyit. Wajar. Alam suka trik bersih 
 
 ## 5. Arti persamaan Hukum Gauss
 
-[
+$$
 \oint \vec{E}\cdot d\vec{A} = \frac{Q_{\text{dalam}}}{\varepsilon_0}
-]
+$$
 
 ### Kiri:
 
-[
+$$
 \oint \vec{E}\cdot d\vec{A}
-]
+$$
 adalah **fluks listrik total** melalui permukaan tertutup.
 
 ### Kanan:
 
-[
+$$
 \frac{Q_{\text{dalam}}}{\varepsilon_0}
-]
+$$
 adalah muatan total yang berada **di dalam** permukaan, dibagi permitivitas vakum.
 
 ---
 
-## 6. Apa itu (Q_{\text{dalam}})?
+## 6. Apa itu $Q_{\text{dalam}}$!=
 
-(Q_{\text{dalam}}) adalah **muatan total bersih yang terkurung** oleh permukaan Gaussian.
+$Q_{\text{dalam}}$ adalah **muatan total bersih yang terkurung** oleh permukaan Gaussian.
 
 Misalnya di dalam permukaan ada:
 
-* (+3,\mu C)
-* (-1,\mu C)
+* $+3\,\mu C$
+* $-1\,\mu C$
 
 maka:
 
-[
-Q_{\text{dalam}} = +2,\mu C
-]
+$$
+Q_{\text{dalam}} = +2\,\mu C
+$$
 
 Jadi yang dihitung adalah **jumlah aljabarnya**, bukan jumlah mutlaknya.
 
 ---
 
-## 7. Apa itu permukaan Gaussian?
+## 7. Apa itu permukaan Gaussian!=
 
 **Permukaan Gaussian** adalah permukaan tertutup imajiner yang kita pilih untuk mempermudah perhitungan dengan Hukum Gauss.
 
@@ -2362,7 +2353,7 @@ Biasanya dipilih sesuai simetri masalah:
 
 ---
 
-## 8. Kapan Hukum Gauss sangat berguna?
+## 8. Kapan Hukum Gauss sangat berguna!=
 
 Secara umum, Hukum Gauss **selalu benar**.
 Tetapi **sangat berguna untuk menghitung medan listrik** jika distribusi muatan punya **simetri tinggi**, misalnya:
@@ -2372,7 +2363,7 @@ Tetapi **sangat berguna untuk menghitung medan listrik** jika distribusi muatan 
 * bidang luas tak hingga
 * silinder simetris
 
-Kalau bentuk distribusinya acak seperti spageti kosmik, Hukum Gauss tetap benar, tapi tidak selalu praktis untuk menghitung (\vec E).
+Kalau bentuk distribusinya acak seperti spageti kosmik, Hukum Gauss tetap benar, tapi tidak selalu praktis untuk menghitung $\vec E$.
 
 ---
 
@@ -2380,30 +2371,30 @@ Kalau bentuk distribusinya acak seperti spageti kosmik, Hukum Gauss tetap benar,
 
 ## A. Muatan titik di pusat bola
 
-Misalkan ada muatan titik (Q) di pusat permukaan bola berjari-jari (r).
+Misalkan ada muatan titik $Q$ di pusat permukaan bola berjari-jari $r$.
 
 Karena simetri:
 
 * medan listrik di semua titik pada permukaan bola sama besar
-* arah (\vec E) sejajar (d\vec A)
+* arah $\vec E$ sejajar $d\vec A$
 
 Maka:
 
-[
+$$
 \oint \vec E \cdot d\vec A = E \oint dA = E(4\pi r^2)
-]
+$$
 
 Menurut Hukum Gauss:
 
-[
+$$
 E(4\pi r^2) = \frac{Q}{\varepsilon_0}
-]
+$$
 
 sehingga:
 
-[
+$$
 E = \frac{1}{4\pi\varepsilon_0}\frac{Q}{r^2}
-]
+$$
 
 Nah, ini menghasilkan kembali rumus medan listrik muatan titik. Elegan. Gauss datang, Coulomb mengangguk.
 
@@ -2411,13 +2402,13 @@ Nah, ini menghasilkan kembali rumus medan listrik muatan titik. Elegan. Gauss da
 
 ## B. Kawat panjang tak hingga
 
-Untuk kawat panjang dengan rapat muatan linear (\lambda), pilih permukaan Gaussian berupa silinder berjari-jari (r) dan panjang (L).
+Untuk kawat panjang dengan rapat muatan linear $\lambda$, pilih permukaan Gaussian berupa silinder berjari-jari $r$ dan panjang (L).
 
 Muatan di dalam silinder:
 
-[
+$$
 Q_{\text{dalam}} = \lambda L
-]
+$$
 
 Karena simetri:
 
@@ -2427,45 +2418,45 @@ Karena simetri:
 
 Maka:
 
-[
+$$
 E(2\pi rL) = \frac{\lambda L}{\varepsilon_0}
-]
+$$
 
 sehingga:
 
-[
+$$
 E = \frac{\lambda}{2\pi \varepsilon_0 r}
-]
+$$
 
 ---
 
 ## C. Bidang datar tak hingga
 
-Untuk bidang luas dengan rapat muatan permukaan (\sigma), ambil permukaan Gaussian berbentuk silinder tipis yang menembus bidang.
+Untuk bidang luas dengan rapat muatan permukaan $\sigma$, ambil permukaan Gaussian berbentuk silinder tipis yang menembus bidang.
 
 Muatan di dalam:
 
-[
+$$
 Q_{\text{dalam}} = \sigma A
-]
+$$
 
 Fluks keluar dari dua sisi:
 
-[
+$$
 2EA = \frac{\sigma A}{\varepsilon_0}
-]
+$$
 
 maka:
 
-[
+$$
 E = \frac{\sigma}{2\varepsilon_0}
-]
+$$
 
 Menariknya, medan ini **tidak bergantung pada jarak** dari bidang. Aneh tapi sah, selama bidang dianggap tak hingga.
 
 ---
 
-## 10. Mengapa muatan di luar permukaan tidak dihitung?
+## 10. Mengapa muatan di luar permukaan tidak dihitung!=
 
 Karena garis medan dari muatan luar:
 
@@ -2482,29 +2473,29 @@ Jadi muatan luar bisa membuat medan lokal di permukaan, tetapi tidak mengubah to
 
 Kalau muatan tersebar kontinu, maka:
 
-[
-Q_{\text{dalam}} = \int \rho, dV
-]
+$$
+Q_{\text{dalam}} = \int \rho\, dV
+$$
 
 untuk distribusi volume, atau
 
-[
-Q_{\text{dalam}} = \int \sigma, dA
-]
+$$
+Q_{\text{dalam}} = \int \sigma\, dA
+$$
 
 untuk distribusi permukaan, atau
 
-[
-Q_{\text{dalam}} = \int \lambda, dl
-]
+$$
+Q_{\text{dalam}} = \int \lambda\, dl
+$$
 
 untuk distribusi linear.
 
 Jadi Hukum Gauss terhubung langsung dengan konsep:
 
-* (\lambda)
-* (\sigma)
-* (\rho)
+* $\lambda$
+* $\sigma$
+* $\rho$
 
 yang tadi sudah kamu bahas.
 
@@ -2514,9 +2505,9 @@ yang tadi sudah kamu bahas.
 
 Dalam bentuk lokal:
 
-[
+$$
 \nabla \cdot \vec E = \frac{\rho}{\varepsilon_0}
-]
+$$
 
 Ini artinya:
 
@@ -2531,21 +2522,21 @@ Ini nyambung dengan ide divergen dan konvergen yang kamu singgung sebelumnya.
 
 ---
 
-## 13. Kapan fluks nol?
+## 13. Kapan fluks nol!=
 
 Fluks total nol jika:
 
 ### Tidak ada muatan bersih di dalam permukaan
 
-[
+$$
 Q_{\text{dalam}} = 0
-]
+$$
 
 maka:
 
-[
+$$
 \oint \vec E \cdot d\vec A = 0
-]
+$$
 
 Tetapi ini **tidak selalu berarti medan listrik nol di setiap titik permukaan**.
 
@@ -2567,9 +2558,9 @@ Jadi:
 
 **Hukum Gauss** menyatakan bahwa:
 
-[
+$$
 \oint \vec{E}\cdot d\vec{A} = \frac{Q_{\text{dalam}}}{\varepsilon_0}
-]
+$$
 
 Maknanya:
 

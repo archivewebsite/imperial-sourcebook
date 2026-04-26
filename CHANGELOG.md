@@ -13,6 +13,8 @@ Add new dated entries at the top of this section.
 ### Changed
 - Task type: `inbox-organization`
 - Completed an Inbox organization pass and routed all complete Inbox markdown notes into existing Sourcebook buckets with topic-specific filenames.
+- Task type: `note-update`
+- Cleaned the formatting of a learning-strategy Inbox note about how smart people learn difficult things.
 
 ### Moved
 - Moved UTBK strategy and planning notes into `Notes/College Preparation/`.
@@ -20,14 +22,18 @@ Add new dated entries at the top of this section.
 - Moved retrieval-practice and Dario Amodei AI reference notes into `Learning & Skills/`.
 - Moved character-analysis, Sam Altman, personal-roadmap, and compact AI-era building advice into `Personal Advice/` and `Personal Advice/Tips and Trick/`.
 - Moved the retail-business guide summary into `Notes/` and the boredom/devotion perspective essay into `Motivation/`.
+- Moved the cleaned smart-learning note from `Inbox/` into `Learning & Skills/`.
 
 ### Renamed
 - Renamed every moved Inbox file from its Inbox capture filename to a unique topic-specific destination filename, including the generic `Untitled*.md` captures.
 - Preserved the near-duplicate personal-roadmap capture as `Personal Advice/A Personal Roadmap for When You Do Not Know Where to Start (Inbox 2026-04-26).md` instead of merging it into the existing roadmap note.
+- Renamed `Inbox/Untitled 2.md` to `Learning & Skills/How Smart People Learn Difficult Things.md`.
 
 ### Notes
 - Counts: 13 Inbox markdown notes moved, 13 destination filenames clarified, and `Inbox` left empty.
 - Left unresolved: no note bodies were edited; existing near-duplicate roadmap records were intentionally kept separate.
+- Counts: 1 learning-strategy note cleaned, renamed, and moved.
+- Left unresolved: other current Inbox captures were not changed in this targeted pass.
 - Follow-up: none.
 
 ## 2026-04-25

@@ -8,6 +8,30 @@ This changelog is the required ledger for AI and agent work in this vault. Large
 
 Add new dated entries at the top of this section.
 
+
+
+## 2026-04-27
+
+### Changed
+- Task type: `inbox-organization`
+- Accepted complete study-reference notes from `D:\Imperial Records\Inbox` into existing College Preparation folders.
+- Task type: `clipping-triage`
+- Accepted cleaned source clippings from `D:\Imperial Records\Clippings` into Sourcebook clipping storage.
+
+### Moved
+- Added `Barisan dan Deret.md` and `Pecahan Istimewa.md` to `Notes/College Preparation/Matematika/`.
+- Added `Kosakata Bahasa Indonesia yang Sering Salah Dieja.md` to `Notes/College Preparation/Literasi/`.
+- Added 10 source-specific geometry clipping notes to `Clippings/`.
+
+### Renamed
+- Shortened and normalized all incoming file names, including Cuemath and Ruangguru clipping names.
+- Normalized incoming clipping frontmatter `title` values to match their filenames.
+
+### Notes
+- Counts: 13 files received from Imperial Records, 10 clippings cleaned, 8 clipping descriptions removed, 62 clipping image lines removed, 9 boilerplate or promotional lines removed, 172 external markdown link lines simplified, and no existing distilled math notes changed.
+- Left unresolved: imported clipping article text was otherwise preserved; existing Sourcebook notes were not merged or deduplicated.
+- Follow-up: none.
+
 ## 2026-04-26
 
 ### Changed

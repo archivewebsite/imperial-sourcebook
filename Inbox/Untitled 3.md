@@ -1,4 +1,4 @@
-Buatkan penjelasan mengenai isi buku `How to Read a Book` oleh Charles van Doren dan Mortimer J. Adler.
+Buatkan penjelasan mengenai isi buku [`Judul Buku`] oleh [Penulis Buku].
 CURAHKAN SELURUH ISI GUDANG ILMU ANDA MENGENAI BUKU INI.
 
 DILARANG MENYERTAKAN latihan, ringkasan, kesimpulan, checklist belajar siswa, worked example, soal evaluasi, motivasi panjang, tips mengerjakan soal. FOKUS hanya pada catatan materi. Kecuali jika dalam buku tersebut ada checklist atau task yang harus diikuti.
@@ -38,8 +38,6 @@ Pastikan seluruh output:
 - tidak berisi latihan;
 - tidak berisi ajakan;
 - tidak berisi motivasi;
-- tidak berisi tips;
-- tidak berisi aplikasi dunia nyata;
 - tidak berisi studi kasus;
 - tidak menyalin panjang dari buku;
 - tidak terasa seperti modul sekolah;

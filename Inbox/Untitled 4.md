@@ -77,8 +77,7 @@ Format output harus berupa Markdown yang ramah Obsidian dengan ketentuan berikut
 12. Jangan membuka tulisan dengan pengantar motivasional.
     Langsung mulai dari konsep utama buku.
 
-13. Jangan menutup tulisan dengan kalimat penutup motivasional, ajakan belajar, atau simpulan umum.
-    Akhiri pada bagian materi terakhir secara netral.
+13. Jangan menutup tulisan dengan kalimat penutup motivasional, ajakan belajar, atau simpulan umum. Akhiri pada bagian materi terakhir secara netral.
 
 ---
 

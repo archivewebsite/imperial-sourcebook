@@ -17,6 +17,9 @@ Add new dated entries at the top of this section.
 - Accepted complete study-reference notes from `D:\Imperial Records\Inbox` into existing College Preparation folders.
 - Task type: `clipping-triage`
 - Accepted cleaned source clippings from `D:\Imperial Records\Clippings` into Sourcebook clipping storage.
+- Task type: `vault-governance`
+- Refreshed Sourcebook root guidance so `D:\Imperial Records` is documented as the main operational vault and Sourcebook is documented as the sibling knowledge vault.
+- Created missing top-level README coverage for `Inbox`, `Clippings`, `Design`, and `Tugas`.
 
 ### Moved
 - Added `Barisan dan Deret.md` and `Pecahan Istimewa.md` to `Notes/College Preparation/Matematika/`.
@@ -27,9 +30,15 @@ Add new dated entries at the top of this section.
 - Shortened and normalized all incoming file names, including Cuemath and Ruangguru clipping names.
 - Normalized incoming clipping frontmatter `title` values to match their filenames.
 
+### Workflow
+- Replaced stale current-doc references to removed Sourcebook buckets with the current folder map.
+- Kept the reciprocal pointer docs-only in Sourcebook instead of creating a new top-level marker folder.
+
 ### Notes
 - Counts: 13 files received from Imperial Records, 10 clippings cleaned, 8 clipping descriptions removed, 62 clipping image lines removed, 9 boilerplate or promotional lines removed, 172 external markdown link lines simplified, and no existing distilled math notes changed.
+- Counts: 14 Sourcebook documentation files created or refreshed for the vault-governance pass.
 - Left unresolved: imported clipping article text was otherwise preserved; existing Sourcebook notes were not merged or deduplicated.
+- Left unresolved: existing `Inbox` and `Clippings` notes were not moved or triaged during the documentation pass.
 - Follow-up: none.
 
 ## 2026-04-26

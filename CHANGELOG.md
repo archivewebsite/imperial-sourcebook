@@ -20,6 +20,8 @@ Add new dated entries at the top of this section.
 - Task type: `vault-governance`
 - Refreshed Sourcebook root guidance so `D:\Imperial Records` is documented as the main operational vault and Sourcebook is documented as the sibling knowledge vault.
 - Created missing top-level README coverage for `Inbox`, `Clippings`, `Design`, and `Tugas`.
+- Task type: `note-update`
+- Created `Inbox/The Power of Logic - Catatan Materi.md` as an Obsidian-ready conceptual note on the Howard-Snyder, Howard-Snyder, and Wasserman logic textbook.
 
 ### Moved
 - Added `Barisan dan Deret.md` and `Pecahan Istimewa.md` to `Notes/College Preparation/Matematika/`.
@@ -37,8 +39,10 @@ Add new dated entries at the top of this section.
 ### Notes
 - Counts: 13 files received from Imperial Records, 10 clippings cleaned, 8 clipping descriptions removed, 62 clipping image lines removed, 9 boilerplate or promotional lines removed, 172 external markdown link lines simplified, and no existing distilled math notes changed.
 - Counts: 14 Sourcebook documentation files created or refreshed for the vault-governance pass.
+- Counts: 1 Inbox note created and this changelog updated.
 - Left unresolved: imported clipping article text was otherwise preserved; existing Sourcebook notes were not merged or deduplicated.
 - Left unresolved: existing `Inbox` and `Clippings` notes were not moved or triaged during the documentation pass.
+- Left unresolved: the new logic note remains in `Inbox` for later routing; no exercises or long source-text excerpts were added.
 - Follow-up: none.
 
 ## 2026-04-26

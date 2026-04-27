@@ -13,15 +13,16 @@
 - article-derived notes such as `20 Intellectual Rabbit Holes to Sharpen Your Mind`
 - topical reference material that does not yet belong in a more specialized bucket
 - open-ended questions that may later turn into fuller concept notes
-- subject notes that may later be distilled into `Personal Wikipedia` or `The Academy`
+- subject notes that may later move into `Learning & Skills`, `Collected Readings`, `Bahas Soal`, or another dedicated Sourcebook bucket
 
 ## What Does Not
 
-- active projects
-- daily capture
-- fully polished evergreen reference pages when `Personal Wikipedia` is a better fit
+- active projects that belong in `D:\Imperial Records\Projects`
+- daily capture that belongs in `D:\Imperial Records\Inbox`
+- source imports that still need clipping cleanup in `Clippings`
 
 ## How To Use It
 
 - let this folder be broad, but not shapeless
 - split off clear domains into child folders once a topic starts repeating
+- keep operational context in Records and durable reference material here

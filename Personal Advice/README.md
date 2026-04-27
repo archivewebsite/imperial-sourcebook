@@ -12,7 +12,8 @@
 ## What Does Not
 
 - dated journal entries
-- polished evergreen concept notes that belong in `Personal Wikipedia`
+- active decisions, plans, or recurring review systems that belong in `D:\Imperial Records`
+- theory-heavy reference notes that belong in `Notes` or `Learning & Skills`
 
 ## How To Use It
 

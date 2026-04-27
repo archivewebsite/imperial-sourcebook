@@ -10,8 +10,9 @@
 
 ## What Does Not
 
-- active design project work that belongs in `Projects`
-- evergreen design theory that belongs in `Notes` or `Personal Wikipedia`
+- active design project work that belongs in `D:\Imperial Records\Projects`
+- unstable design experiments that belong in `D:\Imperial Records\Labs`
+- design theory that belongs in `Design Class` or `Notes`
 
 ## How To Use It
 

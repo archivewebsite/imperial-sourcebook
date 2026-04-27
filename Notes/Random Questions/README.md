@@ -18,5 +18,5 @@ This folder stores questions inside `Notes` that pop into your head and feel wor
 ## What Does Not
 
 - future projects or goals that belong in `D:\Imperial Records\Labs\Idea Backlog`
-- raw capture that should stay in `Inbox`
-- finished evergreen explanations that belong in `Personal Wikipedia`
+- raw capture that should stay in the appropriate Inbox
+- durable answers that belong in `Notes`, `Learning & Skills`, or another Sourcebook bucket

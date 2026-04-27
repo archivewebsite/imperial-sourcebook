@@ -17,10 +17,12 @@
 
 ## What Does Not
 
-- polished evergreen synthesis that belongs in `Personal Wikipedia`
-- active deliverables that belong in `Projects`
+- broad source notes that belong in `Notes`
+- active deliverables that belong in `D:\Imperial Records\Projects`
+- experiments and prompt systems that belong in `D:\Imperial Records\Labs`
 
 ## How To Use It
 
 - keep learning notes close to the skill or domain they support
 - split durable explanations into other resource buckets when they stop being learning-in-progress
+- keep operational practice plans in Records and reusable learning material here

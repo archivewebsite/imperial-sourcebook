@@ -10,8 +10,9 @@
 
 ## What Does Not
 
-- deep reflective journaling that belongs in `Areas`
-- evergreen theory that belongs elsewhere in `Resources`
+- deep reflective journaling that belongs in `D:\Imperial Records\Areas`
+- active plans or commitments that belong in `D:\Imperial Records`
+- durable theory that belongs in `Notes` or `Learning & Skills`
 
 ## How To Use It
 

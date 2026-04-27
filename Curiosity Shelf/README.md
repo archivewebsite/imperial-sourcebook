@@ -12,4 +12,5 @@
 
 - use this folder as a visible edge-of-knowledge shelf, not as a general backlog
 - keep entries lightweight until you actually study or rewrite them
-- move material into `Learning & Skills`, `The Academy`, or `Personal Wikipedia` once it becomes active learning or durable reference
+- move material into `Learning & Skills`, `Notes`, or `Collected Readings` once it becomes active learning or durable reference
+- move future commitments and project ideas to `D:\Imperial Records\Labs\Idea Backlog`

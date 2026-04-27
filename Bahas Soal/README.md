@@ -11,9 +11,10 @@
 ## What Does Not
 
 - broad theory notes that belong in `Notes`
-- project work that belongs in `Projects`
+- active project work that belongs in `D:\Imperial Records\Projects`
 
 ## How To Use It
 
 - keep the solution path visible, not just the final answer
 - group related material by domain when the folder starts growing
+- move reusable theory into `Notes` or `Learning & Skills` when it stops being practice support

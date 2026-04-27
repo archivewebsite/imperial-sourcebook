@@ -70,7 +70,7 @@ Susunan tersebut disebut bentuk standar. Bentuk standar bukan berarti bentuk asl
 
 Argumen yang memiliki premis benar tetap bisa buruk jika hubungan dukungannya gagal. Argumen yang memiliki hubungan dukungan valid tetap tidak menghasilkan kesimpulan yang harus diterima jika premisnya salah.
 
-### Kesimpulan
+### Klaim yang Ditarik
 
 [[Kesimpulan]] adalah klaim yang ditarik dari premis. Kesimpulan dapat muncul di akhir, di awal, atau tersirat. Dalam argumen kompleks, sebuah kesimpulan antara dapat menjadi premis bagi kesimpulan berikutnya. Karena itu, satu teks dapat memuat rantai inferensi, bukan hanya satu argumen tunggal.
 
@@ -795,7 +795,7 @@ Dalam logika predikat, pola umum:
 
 Kata `hanya` membalik arah kondisi. `Hanya F yang G` tidak berarti semua F adalah G. Klaim itu berarti siapa pun yang G harus F.
 
-## Struktur Evaluasi Argumen
+## Struktur Penilaian Argumen
 
 Walaupun buku ini tidak mereduksi logika menjadi prosedur tunggal, pola evaluasi argumen dapat dipahami melalui beberapa pertanyaan konseptual:
 
@@ -809,7 +809,7 @@ Walaupun buku ini tidak mereduksi logika menjadi prosedur tunggal, pola evaluasi
 - Apakah bahasa mengandung ambiguitas atau kekaburan yang memengaruhi inferensi?
 - Apakah premisnya benar, dapat diterima, atau memerlukan dukungan lain?
 
-Pertanyaan tersebut bukan latihan, melainkan perangkat konseptual untuk membedakan jenis evaluasi. Argumen dapat gagal karena bentuk, karena premis, karena bahasa, karena relevansi, atau karena kekuatan bukti.
+Pertanyaan tersebut berfungsi sebagai perangkat konseptual untuk membedakan jenis penilaian. Argumen dapat gagal karena bentuk, karena premis, karena bahasa, karena relevansi, atau karena kekuatan bukti.
 
 ## Hubungan Kebenaran, Kepercayaan, dan Rasionalitas
 

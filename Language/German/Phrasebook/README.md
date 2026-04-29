@@ -24,9 +24,13 @@
 
 - `Phrasebook - Idioms and Collocations.md`: starter German phrase list.
 
-## Sources
 
+## Review Rhythm
+
+- Review when phrases repeat across situations or become better handled as vocabulary rows.
+- Keep practical phrases here and move grammar explanations into grammar notes.
+
+## Sources
 - [Goethe-Institut - Deutsch Online A1 Glossary](https://lernen.goethe.de/deutschonline/A1/PDF/EN/A1_deutschonline_course_vocabulary_1-18_alphabetical.pdf)
 - [Federal Foreign Office - Where to Learn German](https://www.germany.info/us-en/welcome/language-study-research/where-to-learn-german-1305980)
 - [Goethe-Institut - Welcome to German(y)](https://www.goethe.de/prj/dlp/en/teachingmaterials/series/youth_and/welcome_to_germany)
-

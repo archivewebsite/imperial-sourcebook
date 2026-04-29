@@ -18,3 +18,8 @@
 - keep the solution path visible, not just the final answer
 - group related material by domain when the folder starts growing
 - move reusable theory into `Notes` or `Learning & Skills` when it stops being practice support
+
+## Review Rhythm
+
+- Review when practice notes repeat around the same subtest, formula family, or solution pattern.
+- Promote reusable theory to `Notes` or `Learning & Skills`; keep this folder focused on worked reasoning.

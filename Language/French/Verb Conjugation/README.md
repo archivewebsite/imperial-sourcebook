@@ -24,10 +24,14 @@
 
 - `Core Verb Patterns.md`: starter map for common French verbs and patterns.
 
-## Sources
 
+## Review Rhythm
+
+- Review when verb patterns, irregular forms, or examples start duplicating grammar notes.
+- Keep conjugation tables compact and route usage explanations to grammar notes.
+
+## Sources
 - [Lawless French - Regular -er Verbs](https://www.lawlessfrench.com/grammar/regular-er-verbs/)
 - [Lawless French - Regular -ir Verbs](https://www.lawlessfrench.com/grammar/regular-ir-verbs/)
 - [Lawless French - Regular -re Verbs](https://www.lawlessfrench.com/grammar/regular-re-verbs/)
 - [Lawless French - Auxiliary Verbs](https://www.lawlessfrench.com/grammar/auxiliary-verbs/)
-

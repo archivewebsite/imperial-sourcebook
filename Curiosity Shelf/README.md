@@ -14,3 +14,8 @@
 - keep entries lightweight until you actually study or rewrite them
 - move material into `Learning & Skills`, `Notes`, or `Collected Readings` once it becomes active learning or durable reference
 - move future commitments and project ideas to `D:\Imperial Records\Labs\Idea Backlog`
+
+## Review Rhythm
+
+- Review quarterly for items that have become active study, durable references, or stale interests.
+- Promote useful material into `Learning & Skills`, `Notes`, or `Collected Readings`; leave true visible unknowns here.

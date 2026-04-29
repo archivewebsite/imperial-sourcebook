@@ -24,10 +24,14 @@
 
 - `False Friends and Common Mistakes.md`: starter table of high-risk French learner traps.
 
-## Sources
 
+## Review Rhythm
+
+- Review when learner mistakes repeat enough to need new examples or consolidation.
+- Keep contrast pairs and common errors here; route general grammar to grammar notes.
+
+## Sources
 - [FrenchLearner - French False Cognates](https://www.frenchlearner.com/vocabulary/false-cognates/)
 - [FrenchLearner - Common French Mistakes](https://www.frenchlearner.com/learning-french/common-mistakes/)
 - [Lawless French - Auxiliary Verbs](https://www.lawlessfrench.com/grammar/auxiliary-verbs/)
 - [Lawless French - Negative Adverbs](https://www.lawlessfrench.com/grammar/negative-adverbs/)
-

@@ -24,10 +24,14 @@
 
 - `False Friends and Common Mistakes.md`: starter table of high-risk German learner traps.
 
-## Sources
 
+## Review Rhythm
+
+- Review when learner mistakes repeat enough to need new examples or consolidation.
+- Keep contrast pairs and common errors here; route general grammar to grammar notes.
+
+## Sources
 - [UT Austin Grimm Grammar - German False Cognates](https://coerll.utexas.edu/gg/pdf/mis_03.pdf)
 - [Goethe-Institut - Old Relatives](https://www.goethe.de/ins/in/en/kul/lak/sko/21979246.html)
 - [University of Michigan - Negation](https://resources.german.lsa.umich.edu/grammatik/nicht/)
 - [University of Michigan - Word Order](https://resources.german.lsa.umich.edu/grammatik/wortstellung/)
-

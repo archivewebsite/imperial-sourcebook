@@ -24,9 +24,13 @@
 
 - `Common Mistakes and False Friends.md`: starter table of high-frequency English learner traps.
 
-## Sources
 
+## Review Rhythm
+
+- Review when learner mistakes repeat enough to need new examples or consolidation.
+- Keep contrast pairs and common errors here; route general grammar to grammar notes.
+
+## Sources
 - [Cambridge Dictionary - Common mistakes in English](https://dictionary.cambridge.org/us/grammar/british-grammar/common-mistakes-in-english)
 - [Cambridge Dictionary - Word choice](https://dictionary.cambridge.org/grammar/british-grammar/word-choice)
 - [Cambridge Dictionary - Prepositions](https://dictionary.cambridge.org/grammar/british-grammar/prepositions)
-

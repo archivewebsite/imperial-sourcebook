@@ -24,9 +24,13 @@
 
 - `Cultural Notes.md`: starter English communication notes with Indonesian explanations.
 
-## Sources
 
+## Review Rhythm
+
+- Review when cultural examples become too broad, dated, or better handled as phrasebook material.
+- Keep notes focused on communication context, not general travel or history references.
+
+## Sources
 - [Cambridge Dictionary - Using English](https://dictionary.cambridge.org/grammar/british-grammar/using-english)
 - [Cambridge Dictionary - Common mistakes in English](https://dictionary.cambridge.org/us/grammar/british-grammar/common-mistakes-in-english)
 - [British Council LearnEnglish - Idioms and expressions](https://learnenglish.britishcouncil.org/learning-hub/topics/idioms-expressions)
-

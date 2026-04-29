@@ -12,3 +12,8 @@
 
 - focus on the path, not just the final knowledge
 - capture what was efficient, wasteful, or unexpectedly useful
+
+## Review Rhythm
+
+- Review after finishing a substantial learning cycle or retrospective.
+- Keep only lessons that can improve a future attempt, not every progress detail.

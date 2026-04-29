@@ -18,3 +18,8 @@
 
 - keep notes rereadable under low motivation
 - prefer concrete reminders over abstract hype
+
+## Review Rhythm
+
+- Review when reset notes stop feeling rereadable or start duplicating each other.
+- Keep concise reminders here; route practical guidance to `Personal Advice` and theory to `Notes`.

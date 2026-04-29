@@ -20,6 +20,9 @@ Add new dated entries at the top of this section.
 - Documented `Comprehension Level` and `To Review` options across the language READMEs.
 - Expanded English, French, and German with researched grammar notes, phrasebooks, false-friend and mistake references, and cultural communication notes.
 - Added French and German verb-conjugation and noun-gender reference sections.
+- Task type: `vault-governance`
+- Expanded `AGENTS.md` with naming, note-type, stub, deduplication, wikilink, tag, attachment, and move/rename policies.
+- Added root `TAGS.md` and `REVIEW.md` as lightweight governance references.
 
 ### Moved
 - Moved the existing English vocabulary README and starter dictionary from top-level `Vocabulary/` into `Language/English/Vocabulary/`.
@@ -27,11 +30,17 @@ Add new dated entries at the top of this section.
 ### Renamed
 - Renamed `Language/Germany` to `Language/German` so the folder uses the language name.
 
+### Workflow
+- Added Review Rhythm guidance to existing semantic folder READMEs that were missing it.
+- Updated the installed Inbox and Clippings skills so final moved filenames do not keep `(Inbox YYYY-MM-DD)` suffixes.
+
 ### Notes
 - Counts: 8 new Language README or vocabulary notes added, 2 existing English vocabulary notes retained under `Language`, 134 vocabulary rows added, 3 vocabulary tables simplified, 1 folder renamed, and 2 root map docs updated.
 - Counts: 16 language-reference folders added, 32 new reference README or note files added, and 4 Language navigation README files updated for the new reference sections.
-- Left unresolved: English vocabulary content was preserved as the existing template; no grammar notes were added outside vocabulary tables.
+- Counts: 2 root governance files added, 1 agent policy file expanded, 43 existing folder READMEs updated with review cadence guidance, and 2 installed agent skills updated.
+- Left unresolved: English vocabulary content was preserved as the existing template.
 - Left unresolved: new grammar notes intentionally avoid tense tables and formal syntax-rule pages; verb details are kept in French and German conjugation sections.
+- Left unresolved: no frontmatter standard, templates, citation rule, archive behavior, or missing folder README was added in this pass.
 - Follow-up: none.
 
 

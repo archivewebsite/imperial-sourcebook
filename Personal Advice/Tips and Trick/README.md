@@ -15,3 +15,8 @@
 
 - keep notes short, memorable, and easy to scan
 - keep this as the compact tactical branch of `Personal Advice`
+
+## Review Rhythm
+
+- Review when compact reminders grow into essays or duplicate longer advice notes.
+- Keep this folder short, tactical, and easy to scan.

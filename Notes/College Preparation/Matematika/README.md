@@ -11,3 +11,8 @@
 
 - keep one concept or formula family per note when possible
 - link out to worked examples in `Bahas Soal` when the same topic needs full solutions
+
+## Review Rhythm
+
+- Review when formulas, concept notes, or worked examples begin duplicating each other.
+- Keep compact theory here and link full solution paths to `Bahas Soal`.

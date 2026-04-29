@@ -24,9 +24,13 @@
 
 - `Practical Grammar Notes.md`: beginner-to-intermediate English usage reminders with Indonesian notes.
 
-## Sources
 
+## Review Rhythm
+
+- Review when repeated learner mistakes or examples need a clearer grammar note.
+- Keep grammar references compact and move vocabulary rows back to the vocabulary folder.
+
+## Sources
 - [Cambridge Dictionary - Common mistakes in English](https://dictionary.cambridge.org/us/grammar/british-grammar/common-mistakes-in-english)
 - [Cambridge Dictionary - Prepositions](https://dictionary.cambridge.org/grammar/british-grammar/prepositions)
 - [Cambridge Dictionary - Using English](https://dictionary.cambridge.org/grammar/british-grammar/using-english)
-

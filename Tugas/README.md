@@ -24,3 +24,8 @@
 - keep the assignment context visible enough to understand the note later
 - move reusable theory or formulas into the relevant study folder when they outgrow the assignment
 - keep deliverable planning in Records and durable output here
+
+## Review Rhythm
+
+- Review after assignment material stops being active work and becomes reusable reference.
+- Move reusable theory, formulas, or study material into the relevant Sourcebook bucket.

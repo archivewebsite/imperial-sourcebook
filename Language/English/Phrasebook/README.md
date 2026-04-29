@@ -24,9 +24,13 @@
 
 - `Phrasebook - Idioms and Collocations.md`: practical starter list for daily English.
 
-## Sources
 
+## Review Rhythm
+
+- Review when phrases repeat across situations or become better handled as vocabulary rows.
+- Keep practical phrases here and move grammar explanations into grammar notes.
+
+## Sources
 - [British Council LearnEnglish - Idioms and expressions](https://learnenglish.britishcouncil.org/learning-hub/topics/idioms-expressions)
 - [Cambridge Dictionary - Collocation](https://dictionary.cambridge.org/grammar/british-grammar/collocation%3A)
 - [Cambridge Dictionary - Using English](https://dictionary.cambridge.org/grammar/british-grammar/using-english)
-

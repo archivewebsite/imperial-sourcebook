@@ -10,3 +10,8 @@
 ## How To Use It
 
 - keep the curation principle clear so the folder does not become another generic note dump
+
+## Review Rhythm
+
+- Review when a collection grows enough that its organizing principle needs to be named more clearly.
+- Split or route readings only when the collection stops being useful as a set.

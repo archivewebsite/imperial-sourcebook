@@ -26,3 +26,8 @@
 - let this folder be broad, but not shapeless
 - split off clear domains into child folders once a topic starts repeating
 - keep operational context in Records and durable reference material here
+
+## Review Rhythm
+
+- Review when a topic repeats enough to deserve a child folder or a stronger hub note.
+- Keep broad references here, but route practice, language, advice, and source intake to their clearer homes.

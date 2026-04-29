@@ -18,3 +18,8 @@
 
 - save the reference with the reason it matters
 - tag or title notes by the aspect worth borrowing, not just the source
+
+## Review Rhythm
+
+- Review when saved examples repeat the same interface, palette, layout, or product pattern.
+- Merge weak references and keep only examples with a clear reusable observation.

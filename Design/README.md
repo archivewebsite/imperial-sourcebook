@@ -26,3 +26,8 @@
 - save the specific design quality worth remembering, not just the source
 - keep examples close to the pattern they demonstrate
 - move active work back to Records and keep only the reusable lesson here
+
+## Review Rhythm
+
+- Review when design references accumulate around a repeated pattern, product, or visual system.
+- Keep reusable lessons here and move active project work back to `D:\Imperial Records`.

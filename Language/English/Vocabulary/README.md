@@ -36,3 +36,8 @@ Column order for every dictionary:
 
 - `Yes`: keep the word in active review.
 - `No`: keep the word as reference, but remove it from active review.
+
+## Review Rhythm
+
+- Review when a vocabulary file approaches 100 rows or contains many mastered words.
+- Keep dictionary rows consistent with the local vocabulary table columns.

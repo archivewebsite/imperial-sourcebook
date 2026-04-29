@@ -25,10 +25,14 @@
 
 - `Practical Grammar Notes.md`: starter German grammar reminders with Indonesian notes.
 
-## Sources
 
+## Review Rhythm
+
+- Review when repeated learner mistakes or examples need a clearer grammar note.
+- Keep grammar references compact and move vocabulary rows back to the vocabulary folder.
+
+## Sources
 - [University of Michigan - German Grammar](https://resources.german.lsa.umich.edu/grammatik/)
 - [University of Michigan - Negation](https://resources.german.lsa.umich.edu/grammatik/nicht/)
 - [University of Michigan - Prepositions](https://resources.german.lsa.umich.edu/grammatik/prepositions/)
 - [University of Michigan - Word Order](https://resources.german.lsa.umich.edu/grammatik/wortstellung/)
-

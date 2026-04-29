@@ -24,9 +24,13 @@
 
 - `Core Verb Patterns.md`: starter German conjugation map.
 
-## Sources
 
+## Review Rhythm
+
+- Review when verb patterns, irregular forms, or examples start duplicating grammar notes.
+- Keep conjugation tables compact and route usage explanations to grammar notes.
+
+## Sources
 - [University of Michigan - Strong, Weak and Mixed Verbs](https://resources.german.lsa.umich.edu/grammatik/strong-weak-mixed/)
 - [University of Michigan - Modal Verbs](https://resources.german.lsa.umich.edu/grammatik/modal-verbs/)
 - [Goethe-Institut - Deutsch Online A1 Glossary](https://lernen.goethe.de/deutschonline/A1/PDF/EN/A1_deutschonline_course_vocabulary_1-18_alphabetical.pdf)
-

@@ -12,3 +12,8 @@
 
 - use this folder to clarify sequence, not just desire
 - keep the trees practical enough to guide the next study decision
+
+## Review Rhythm
+
+- Review when a skill tree stops guiding the next study decision.
+- Remove speculative branches that do not support current learning choices.

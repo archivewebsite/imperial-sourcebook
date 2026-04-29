@@ -24,9 +24,13 @@
 
 - `Cultural Notes.md`: starter French communication notes.
 
-## Sources
 
+## Review Rhythm
+
+- Review when cultural examples become too broad, dated, or better handled as phrasebook material.
+- Keep notes focused on communication context, not general travel or history references.
+
+## Sources
 - [Lawless French - Social Niceties](https://www.lawlessfrench.com/expressions/social-niceties/)
 - [Lawless French - Faire la bise](https://www.lawlessfrench.com/travel-and-culture/faire-la-bise/)
 - [Lawless French - A1 French Grammar Lessons](https://www.lawlessfrench.com/faq/lessons-by-level/a1-grammar/)
-

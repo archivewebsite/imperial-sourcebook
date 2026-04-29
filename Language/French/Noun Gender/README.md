@@ -24,9 +24,13 @@
 
 - `Beginner Noun Gender List.md`: starter French noun-gender reference.
 
-## Sources
 
+## Review Rhythm
+
+- Review when noun-gender examples repeat enough to need grouping, cleanup, or vocabulary routing.
+- Keep gender patterns here and move plain word-list rows to vocabulary files.
+
+## Sources
 - [Lingolia - Gender of Nouns in French](https://francais.lingolia.com/en/grammar/nouns-and-articles/gender)
 - [Lawless French - Gender Lessons](https://www.lawlessfrench.com/tag/gender/)
 - [Lawless French - French Articles](https://www.lawlessfrench.com/grammar/articles/)
-

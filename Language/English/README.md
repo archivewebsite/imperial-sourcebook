@@ -52,3 +52,8 @@ Column order for every English vocabulary dictionary:
 
 - `Yes`: keep the word in active review.
 - `No`: keep the word as reference, but remove it from active review.
+
+## Review Rhythm
+
+- Review when vocabulary, grammar, phrasebook, or cultural notes grow unevenly across this language.
+- Keep language-specific material here and route learning-method notes back to `Learning & Skills`.

@@ -24,8 +24,12 @@
 
 - `Beginner Noun Gender List.md`: starter German noun-gender reference.
 
-## Sources
 
+## Review Rhythm
+
+- Review when noun-gender examples repeat enough to need grouping, cleanup, or vocabulary routing.
+- Keep gender patterns here and move plain word-list rows to vocabulary files.
+
+## Sources
 - [University of Michigan - Predicting Noun Genders](https://resources.german.lsa.umich.edu/grammatik/gender/)
 - [Goethe-Institut - Deutsch Online A1 Glossary](https://lernen.goethe.de/deutschonline/A1/PDF/EN/A1_deutschonline_course_vocabulary_1-18_alphabetical.pdf)
-

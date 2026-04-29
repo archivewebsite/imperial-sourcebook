@@ -20,3 +20,8 @@
 - title notes by the advice they actually contain
 - keep short tactical reminders in `Tips and Trick` instead of mixing them into longer advice notes
 - keep the material practical enough to revisit during real decisions
+
+## Review Rhythm
+
+- Review when advice notes duplicate each other or stop being actionable during real decisions.
+- Keep compact tactics in `Tips and Trick`; route motivation-only material to `Motivation`.

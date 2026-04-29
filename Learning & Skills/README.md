@@ -26,3 +26,8 @@
 - keep learning notes close to the skill or domain they support
 - split durable explanations into other resource buckets when they stop being learning-in-progress
 - keep operational practice plans in Records and reusable learning material here
+
+## Review Rhythm
+
+- Review when a skill area starts producing repeated notes, practice material, or durable references.
+- Split stable explanations into stronger folders only when retrieval improves.

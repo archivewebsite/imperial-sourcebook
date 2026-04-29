@@ -15,3 +15,8 @@
 
 - keep the source note atomic enough to become practice material later
 - link back to the fuller explanation when needed
+
+## Review Rhythm
+
+- Review when source notes are ready to become active recall prompts or can be retired from review.
+- Keep rehearsal material atomic and link back to fuller explanations when needed.

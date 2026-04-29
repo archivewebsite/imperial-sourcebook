@@ -21,3 +21,8 @@
 
 - keep branch-specific notes in the relevant child folder
 - use this folder for shared exam context and navigation
+
+## Review Rhythm
+
+- Review when exam-prep notes repeat by subject, subtest, or recurring weakness.
+- Keep shared exam context here and route branch-specific material into the child subject folders.

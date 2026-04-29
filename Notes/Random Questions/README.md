@@ -20,3 +20,8 @@ This folder stores questions inside `Notes` that pop into your head and feel wor
 - future projects or goals that belong in `D:\Imperial Records\Labs\Idea Backlog`
 - raw capture that should stay in the appropriate Inbox
 - durable answers that belong in `Notes`, `Learning & Skills`, or another Sourcebook bucket
+
+## Review Rhythm
+
+- Review when questions have answers, become active projects, or stop being worth keeping visible.
+- Promote answered material into the right Sourcebook folder and move commitments to `D:\Imperial Records`.

@@ -24,9 +24,13 @@
 
 - `Phrasebook - Idioms and Collocations.md`: starter French phrase list.
 
-## Sources
 
+## Review Rhythm
+
+- Review when phrases repeat across situations or become better handled as vocabulary rows.
+- Keep practical phrases here and move grammar explanations into grammar notes.
+
+## Sources
 - [Lawless French - Social Niceties](https://www.lawlessfrench.com/expressions/social-niceties/)
 - [Lawless French - A1 French Grammar Lessons](https://www.lawlessfrench.com/faq/lessons-by-level/a1-grammar/)
 - [Lawless French - Faire la bise](https://www.lawlessfrench.com/travel-and-culture/faire-la-bise/)
-

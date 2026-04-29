@@ -25,10 +25,14 @@
 
 - `Practical Grammar Notes.md`: beginner French grammar reminders with Indonesian notes.
 
-## Sources
 
+## Review Rhythm
+
+- Review when repeated learner mistakes or examples need a clearer grammar note.
+- Keep grammar references compact and move vocabulary rows back to the vocabulary folder.
+
+## Sources
 - [Lawless French - A1 French Grammar Lessons](https://www.lawlessfrench.com/faq/lessons-by-level/a1-grammar/)
 - [Lawless French - Negative Adverbs](https://www.lawlessfrench.com/grammar/negative-adverbs/)
 - [Lawless French - French Articles](https://www.lawlessfrench.com/grammar/articles/)
 - [Lawless French - French Contractions](https://www.lawlessfrench.com/grammar/contractions/)
-

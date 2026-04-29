@@ -11,3 +11,8 @@
 
 - keep the batch self-contained
 - move reusable formulas upward if they start supporting multiple exercise sets
+
+## Review Rhythm
+
+- Review after adding a new exercise batch or formula support note.
+- Move formulas upward when they start supporting more than this batch.

@@ -11,3 +11,8 @@
 
 - keep one note per concept, pattern, or recurring exam issue
 - make the note titles concrete enough to find quickly during review
+
+## Review Rhythm
+
+- Review when recurring language-question patterns need clearer concept notes or worked examples.
+- Keep titles concrete enough to support fast exam review.

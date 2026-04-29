@@ -4,15 +4,17 @@
 
 ## Current Buckets
 
-- `English`: English-Indonesian and Indonesian-English vocabulary.
-- `French`: French-Indonesian and Indonesian-French vocabulary.
-- `German`: German-Indonesian and Indonesian-German vocabulary.
+- `English`: English-Indonesian and Indonesian-English vocabulary plus practical English grammar, phrases, mistakes, and cultural communication notes.
+- `French`: French-Indonesian and Indonesian-French vocabulary plus grammar notes, verb conjugation, noun gender, phrases, mistakes, and cultural communication notes.
+- `German`: German-Indonesian and Indonesian-German vocabulary plus grammar notes, verb conjugation, noun gender, phrases, mistakes, and cultural communication notes.
 
 ## What Belongs Here
 
 - vocabulary dictionaries grouped by language
 - language-specific word lists copied from lessons, books, tests, or reading practice
 - compact grammar or example references when they belong with a specific language
+- phrasebooks, idioms, collocations, false friends, common mistakes, and cultural notes tied to one language
+- French and German verb-conjugation and noun-gender references
 
 ## What Does Not
 
@@ -24,8 +26,20 @@
 
 - keep each language in its own folder
 - keep vocabulary inside that language's `Vocabulary` folder
+- use `Grammar Notes`, `Phrasebook`, `False Friends & Common Mistakes`, and `Cultural Notes` for language-specific reference material
+- use `Verb Conjugation` and `Noun Gender` for French and German only
 - use plain Markdown tables so notes render cleanly in Obsidian
 - create new numbered vocabulary files only after the current one reaches 100 vocabulary rows
+
+## Reference Sections
+
+- `Vocabulary`: numbered translated-word dictionaries with a 100-row limit per file.
+- `Grammar Notes`: practical notes with examples, no tense tables, and no formal syntax-rule pages.
+- `Verb Conjugation`: French and German verb pattern notes for high-frequency verbs.
+- `Noun Gender`: French and German noun lists with articles.
+- `Phrasebook`: everyday phrases, idioms, and collocations with Indonesian meanings.
+- `False Friends & Common Mistakes`: misleading words and high-risk learner errors.
+- `Cultural Notes`: practical communication notes about politeness, register, greetings, and social distance.
 
 ## Vocabulary Table
 

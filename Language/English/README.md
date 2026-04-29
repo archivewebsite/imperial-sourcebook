@@ -5,16 +5,22 @@
 ## Current Buckets
 
 - `Vocabulary`: numbered English-Indonesian and Indonesian-English dictionary tables.
+- `Grammar Notes`: practical English usage reminders.
+- `Phrasebook`: everyday English phrases, idioms, and collocations.
+- `False Friends & Common Mistakes`: confusing English words, collocations, and learner mistakes.
+- `Cultural Notes`: practical English communication notes about politeness, register, and context.
 
 ## What Belongs Here
 
 - English vocabulary with Indonesian translations
 - Indonesian vocabulary with English translations
 - part-of-speech labels, comprehension level, review status, and short notes for English words
+- compact grammar reminders, phrase chunks, idioms, collocations, common mistakes, and cultural notes for English
 
 ## What Does Not
 
 - French or German vocabulary
+- French or German verb-conjugation and noun-gender notes
 - general language-learning strategy
 - broad Indonesian literacy notes for school or exam preparation
 
@@ -23,6 +29,10 @@
 - add translated words to `Vocabulary/Vocabulary 1.md` until it reaches 100 vocabulary rows
 - create `Vocabulary/Vocabulary 2.md` when the first file reaches the limit
 - keep the same table columns across numbered vocabulary files
+- use `Grammar Notes` for usage reminders, not tense-table collections
+- use `Phrasebook` for reusable expressions and collocations
+- use `False Friends & Common Mistakes` for traps found in writing, reading, or speaking
+- use `Cultural Notes` for tone, politeness, and register choices
 
 ## Vocabulary Columns
 

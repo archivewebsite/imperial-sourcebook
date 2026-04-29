@@ -18,6 +18,8 @@ Add new dated entries at the top of this section.
 - Replaced root top-level `Vocabulary` guidance with the new language-scoped structure in `README.md` and `PATH.md`.
 - Simplified all language vocabulary dictionaries to `Word | Translation | Part of Speech | Comprehension Level | To Review | Notes`.
 - Documented `Comprehension Level` and `To Review` options across the language READMEs.
+- Expanded English, French, and German with researched grammar notes, phrasebooks, false-friend and mistake references, and cultural communication notes.
+- Added French and German verb-conjugation and noun-gender reference sections.
 
 ### Moved
 - Moved the existing English vocabulary README and starter dictionary from top-level `Vocabulary/` into `Language/English/Vocabulary/`.
@@ -27,7 +29,9 @@ Add new dated entries at the top of this section.
 
 ### Notes
 - Counts: 8 new Language README or vocabulary notes added, 2 existing English vocabulary notes retained under `Language`, 134 vocabulary rows added, 3 vocabulary tables simplified, 1 folder renamed, and 2 root map docs updated.
+- Counts: 16 language-reference folders added, 32 new reference README or note files added, and 4 Language navigation README files updated for the new reference sections.
 - Left unresolved: English vocabulary content was preserved as the existing template; no grammar notes were added outside vocabulary tables.
+- Left unresolved: new grammar notes intentionally avoid tense tables and formal syntax-rule pages; verb details are kept in French and German conjugation sections.
 - Follow-up: none.
 
 

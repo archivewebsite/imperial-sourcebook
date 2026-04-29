@@ -9,6 +9,24 @@ This changelog is the required ledger for AI and agent work in this vault. Large
 Add new dated entries at the top of this section.
 
 
+## 2026-04-29
+
+### Changed
+- Task type: `note-update`
+- Created a top-level `Vocabulary` bucket with an Obsidian-compatible translated-word dictionary table.
+- Renamed the starter dictionary to `Vocabulary 1.md` and capped each numbered dictionary file at 100 vocabulary rows.
+- Removed the `Output` column from `Vocabulary 1.md`.
+
+### Workflow
+- Documented `Vocabulary` in the root `README.md` and `PATH.md` so future routing treats it as the vault's translated-word and glossary area.
+- Documented the `Vocabulary n.md` naming rule and 100-row rollover rule for future vocabulary additions.
+- Restricted `Vocabulary` guidance to Indonesian-English and English-Indonesian dictionaries only.
+
+### Notes
+- Counts: 1 folder created, 2 vocabulary notes added, 1 vocabulary file renamed, 1 vocabulary table simplified, and 2 root map docs updated.
+- Left unresolved: the dictionary starts with the visible sample words from the provided reference image; future vocabulary lists can be appended until `Vocabulary 1.md` reaches 100 vocabulary rows.
+- Follow-up: none.
+
 
 ## 2026-04-27
 

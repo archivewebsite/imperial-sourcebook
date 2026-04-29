@@ -1,3 +1,5 @@
+# Bunga tunggal dan bunga majemuk
+
 ## BAGIAN 1 — BUNGA TUNGGAL
 
 ### Pengertian
@@ -80,6 +82,24 @@ $$M_n = M_0(1 + t \cdot p) = 10.000.000\left(1 + 5 \cdot \frac{5}{100}\right) = 
 
 ---
 
+### Bunga Tunggal Setoran Berulang
+
+Bunga tunggal juga dapat muncul pada setoran berulang, misalnya ketika seseorang menabung jumlah yang sama setiap awal bulan.
+
+Jika seseorang menabung sebesar $A$ pada setiap awal bulan selama $n$ bulan dengan suku bunga tunggal $b$ per tahun, maka besar tabungan pada akhir bulan ke-$n$ dapat dihitung dengan:
+
+$$M_n = A \cdot n + A \cdot \frac{b}{12} \cdot \frac{n(n+1)}{2}$$
+
+Contoh: jika target akhir tabungan adalah Rp19.200.000 setelah 15 bulan dengan bunga tunggal 10% per tahun, maka:
+
+$$19.200.000 = A \cdot 15 + A \cdot \frac{0{,}10}{12} \cdot \frac{15 \times 16}{2}$$
+
+$$19.200.000 = 16A$$
+
+$$A = \text{Rp}1.200.000$$
+
+---
+
 ## BAGIAN 2 — BUNGA MAJEMUK
 
 ### Pengertian
@@ -110,6 +130,10 @@ $$i(n) = \left[(1+i)^n - (1+i)^{n-1}\right] \cdot Nt$$
 | Semesteran (2x/tahun) | $Na = Nt\left(1+\dfrac{i}{2}\right)^{2n}$ |
 | Kuartalan (4x/tahun) | $Na = Nt\left(1+\dfrac{i}{4}\right)^{4n}$ |
 | Bulanan (12x/tahun) | $Na = Nt\left(1+\dfrac{i}{12}\right)^{12n}$ |
+
+Jika suku bunga tahunan $b$ dihitung sebanyak $m$ kali dalam setahun selama $n$ tahun, rumus umumnya:
+
+$$M_n = M_0 \left(1 + \frac{b}{m}\right)^{m \cdot n}$$
 
 ---
 
@@ -146,7 +170,23 @@ $$i(10) = \left[(1{,}07)^{10} - (1{,}07)^{9}\right] \times 20.000.000 = [1{,}967
 
 ---
 
-## BAGIAN 3 — PERBANDINGAN BUNGA TUNGGAL DAN BUNGA MAJEMUK
+### Kelebihan dan Kekurangan Bunga Majemuk
+
+Kelebihan:
+
+1. Nilai investasi atau tabungan tumbuh lebih cepat dibanding bunga tunggal.
+2. Cocok untuk tujuan keuangan jangka panjang seperti deposito, investasi, atau dana pensiun.
+3. Efek bunga berbunga dapat melipatgandakan modal awal ketika waktunya cukup panjang.
+
+Kekurangan:
+
+1. Beban utang dapat bertambah cepat jika skema majemuk digunakan pada pinjaman.
+2. Biaya, inflasi, dan pajak dapat mengurangi hasil akhir.
+3. Perhitungan lebih sensitif terhadap frekuensi pembungaan dan lama periode.
+
+---
+
+## Bagian 3 - Perbandingan bunga tunggal dan bunga majemuk
 
 | Aspek | Bunga Tunggal | Bunga Majemuk |
 |:---|:---|:---|
@@ -419,3 +459,11 @@ Keuntungan Dika $= 13.310.000 - 10.000.000 = \text{Rp}3.310.000$
 ---
 
 *Catatan dibuat berdasarkan materi dari @privatalfaiz*
+
+## Sumber Retained From Duplicate Note
+
+- Ruangguru - Cara Menghitung Bunga Tunggal.
+- Ruangguru - Rumus Bunga Majemuk dan Cara Menghitungnya.
+- Detik Edu - Bunga Tunggal: Pengertian, Rumus, dan Contoh Soalnya.
+- Rumuspintar - Bunga Majemuk: Pengertian, Rumus, Kelebihan, Kekurangan, Contoh Soal.
+- StudioBelajar - Bunga Tunggal, Bunga Majemuk, Anuitas.

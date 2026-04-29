@@ -84,5 +84,5 @@ Thanks for reading.
 
 ---
 ## ?? Related Ideas
-- [[Irreplaceable in AI Era]]
+- [[Irreplaceable in the AI Era]]
 - [[Solopreneurs 1 Billion]]

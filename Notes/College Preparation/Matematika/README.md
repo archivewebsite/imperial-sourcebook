@@ -4,7 +4,7 @@
 
 ## What Belongs Here
 
-- notes such as `BUNGA TUNGGAL DAN BUNGA MAJEMUK`, `Catatan Eksponen dan Logaritma`, and `Rumus Segitiga`
+- notes such as `Bunga tunggal dan bunga majemuk`, `Eksponen dan Logaritma`, and `Rumus Segitiga`
 - compact formula and concept notes for recurring math question types
 
 ## How To Use It

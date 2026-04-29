@@ -39,52 +39,62 @@ When a Sourcebook note becomes an active commitment, move or link the operationa
 - **What belongs here:** English, French, German, and future language folders with vocabulary tables, translated word lists, and compact language-specific usage notes.
 - **Rule:** Keep vocabulary tables in plain Markdown under each language's `Vocabulary` folder; name dictionary files `Vocabulary n.md` and start the next numbered file after 100 vocabulary rows.
 
-### 4. Bahas Soal (Worked Practice)
+### 4. Glossary (Atomic Definitions)
+**Goal:** Keep one term, phrase, or technical concept per note with a concise definition.
+- **What belongs here:** durable term-definition entries that are not translations and do not need a full synthesis page.
+- **Rule:** Keep entries atomic. If a term grows into a broad explanation, move or split it into the relevant knowledge folder and leave a link from the glossary entry.
+
+### 5. People (Referenced People)
+**Goal:** Provide canonical pages for people who appear repeatedly across notes.
+- **What belongs here:** authors, mentors, scientists, founders, researchers, and other named people who need a stable vault home.
+- **Rule:** Keep pages focused on why the person matters to this vault and link the notes where they appear. Avoid speculative or time-sensitive biography unless it is sourced in the note.
+
+### 6. Bahas Soal (Worked Practice)
 **Goal:** Preserve worked examples, formula support, and problem-solving breakdowns.
 - **What belongs here:** solved exercises, quantitative breakdowns, recurring formula notes, and worked reasoning for practice material.
 - **Rule:** Keep the solution path visible. If a note becomes general theory rather than practice support, move it into `Notes` or `Learning & Skills`.
 
-### 5. Clippings (Source Intake)
+### 7. Clippings (Source Intake)
 **Goal:** Hold imported source material that belongs in Sourcebook but still needs cleanup, extraction, or routing.
 - **What belongs here:** source-specific article imports, web clippings, and raw reference captures that need later triage.
 - **Rule:** Preserve enough source context to trace the original, then route durable ideas into the right Sourcebook bucket.
 
-### 6. Inbox (Knowledge Intake)
+### 8. Inbox (Knowledge Intake)
 **Goal:** Provide a temporary landing area for material already destined for Sourcebook.
 - **What belongs here:** rough study notes, source fragments, and captures that are clearly reference material but not ready to file.
 - **Rule:** Use this as a short-term sorting area. General capture and operational ideas belong in `D:\Imperial Records\Inbox`.
 
-### 7. Collected Readings (Curated Texts)
+### 9. Collected Readings (Curated Texts)
 **Goal:** Keep selected readings, grouped excerpts, or texts together when the collection matters more than a single note.
 - **What belongs here:** curated reading sets, grouped passages, and texts meant to be revisited as a body.
 - **Rule:** Keep the curation principle clear so this does not become another generic notes folder.
 
-### 8. Curiosity Shelf (Visible Unknowns)
+### 10. Curiosity Shelf (Visible Unknowns)
 **Goal:** Keep books, topics, and references visible when they matter but still sit beyond current mastery.
 - **What belongs here:** unread or partially explored books, frontier topics, and lightweight reminders of what you still want to understand later.
 - **Rule:** Use this branch for visible unknowns, not operational backlog. Move material into `Learning & Skills`, `Notes`, or `Collected Readings` once it becomes active study or durable reference.
 
-### 9. Design (Design Knowledge And References)
+### 11. Design (Design Knowledge And References)
 **Goal:** Preserve design study material and references worth borrowing from later.
 - **What belongs here:** design class notes, UI references, palette examples, product screenshots, and reusable design observations.
 - **Rule:** Keep active design work in `D:\Imperial Records\Projects`; keep durable design lessons and references here.
 
-### 10. Personal Advice (Practical Guidance)
+### 12. Personal Advice (Practical Guidance)
 **Goal:** Keep rereadable advice, behavioral reminders, and applied self-management material in one place.
 - **What belongs here:** practical guidance, perspective pieces, and notes you expect to revisit during real decisions.
 - **Rule:** Favor utility over inspiration theater. Keep compact tactical reminders in `Personal Advice/Tips and Trick`; if a note is only motivational, move it to `Motivation`.
 
-### 11. Motivation (Reset Notes)
+### 13. Motivation (Reset Notes)
 **Goal:** Store short notes that restore perspective, energy, or willingness to continue.
 - **What belongs here:** compact reminders and perspective notes meant for low-energy rereading.
 - **Rule:** Keep these concise. If the note becomes practical guidance, move it to `Personal Advice`; if it becomes theory, move it to `Notes`.
 
-### 12. Tugas (Assignment Reference)
+### 14. Tugas (Assignment Reference)
 **Goal:** Preserve assignment outputs and school-task material that should remain useful as reference.
 - **What belongs here:** completed or near-complete assignment notes, school essays, and task outputs worth studying later.
 - **Rule:** Keep active task planning in `D:\Imperial Records\Projects`; keep reusable assignment content here.
 
-### 13. Attachments (Supporting Files)
+### 15. Attachments (Supporting Files)
 **Goal:** Store supporting files without turning them into the source of meaning.
 - **What belongs here:** images, PDFs, screenshots, and other non-markdown assets.
 - **Rule:** The interpretation belongs in markdown. Do not store standalone knowledge only as an attachment.

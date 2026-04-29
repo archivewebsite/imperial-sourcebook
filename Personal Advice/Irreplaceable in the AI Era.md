@@ -1,3 +1,5 @@
+# Irreplaceable in the AI Era
+
 Fair warning: this is not an easy read, not because it is complicated, but because it requires you to be brutally honest with yourself.
 The people who act on what follows will look back at this article as a turning point in their lives.
 Everyone else will just move on to the next piece of mindless content.
@@ -309,3 +311,20 @@ There's also a deeper trap: the proliferation of "cheap intelligence" — more t
 This means the people who **resist** the laziness trap — who still read deeply, still struggle through hard problems, still form original opinions — will become rarer and therefore **more valuable**, not less.
 
 The irony: the lazy AI users are actually training themselves out of the job market of the future, while the people who use AI as a *tool* while keeping their minds sharp become almost impossible to replace.
+
+---
+
+## Compact Operating Frame
+
+The duplicate note preserved the same argument in a shorter structure. Keep these as the fast reread:
+
+1. Shift from "Will AI take my job?" to "How do I use AI to make myself harder to replace?"
+2. Build practical AI skills through prompt engineering, tool stacking, agentic workflows, and domain-specific application.
+3. Protect the human moat: work ethic, taste, creativity, human connections, adaptability, and philosophical judgment.
+4. Treat networks as the distribution layer for opportunity.
+5. Use AI actively, then pass the "after the summary" test by questioning, extending, or applying the output.
+
+## Related Ideas
+
+- [[Win With AI]]
+- [[Menjadi Expert]]

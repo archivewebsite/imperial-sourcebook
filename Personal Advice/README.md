@@ -4,7 +4,7 @@
 
 ## What Belongs Here
 
-- advice-oriented notes such as `A Personal Roadmap for When You Do Not Know Where to Start`
+- advice-oriented notes such as `Personal Roadmap for When You Do Not Know Where to Start`
 - perspective pieces such as `Belajar dari Kegagalan` and `Defeat is Psychological`
 - compact tactical reminders collected under `Personal Advice/Tips and Trick`
 - guidance that is useful in practice, not just interesting in theory

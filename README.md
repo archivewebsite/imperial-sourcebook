@@ -21,11 +21,13 @@ Records points here through its `Resources` marker folder. Sourcebook points bac
 - `Collected Readings`: curated readings, grouped excerpts, and texts worth keeping together.
 - `Curiosity Shelf`: books, topics, and references worth keeping visible before mastery.
 - `Design`: design study notes, design class material, and visual or product references.
+- `Glossary`: atomic term-definition entries for concepts that need a canonical short definition.
 - `Inbox`: low-friction intake for material already meant for Sourcebook.
 - `Language`: language-specific dictionaries and compact reference notes, organized by language.
 - `Learning & Skills`: study notes, technical references, learning systems, and skill-building material.
 - `Motivation`: short notes that restore perspective or momentum.
 - `Notes`: broad source-driven notes, topical references, and `Notes/Random Questions` for open curiosities.
+- `People`: canonical pages for authors, mentors, scientists, and other repeatedly referenced people.
 - `Personal Advice`: practical guidance, self-management material, and `Personal Advice/Tips and Trick` for compact tactical reminders.
 - `Tugas`: assignment outputs and school-task material worth preserving as reference.
 - `Attachments`: supporting files only. Keep meaning, summaries, and decisions in markdown notes.
@@ -34,14 +36,15 @@ Records points here through its `Resources` marker folder. Sourcebook points bac
 
 1. Put operational capture, project plans, recurring systems, experiments, and future commitments in `D:\Imperial Records`.
 2. Put source-heavy or topical knowledge in `Notes`, `Clippings`, `Collected Readings`, or `Learning & Skills` based on its role.
-3. Keep language-specific vocabulary dictionaries and compact language references in `Language`.
-4. Keep worked exercises and formula support in `Bahas Soal`.
-5. Keep pre-mastery books, topics, and frontier references in `Curiosity Shelf` until they become active study or durable notes.
-6. Store design references and design study material in `Design`.
-7. Store practical rereadable guidance in `Personal Advice`, using `Personal Advice/Tips and Trick` for compact reminders and `Motivation` for short reset notes.
-8. Park unanswered knowledge questions in `Notes/Random Questions`.
-9. Use Sourcebook `Inbox` only for knowledge material already destined for this vault.
-10. Keep raw files in `Attachments`, but keep context, summaries, and decisions in markdown.
+3. Keep atomic term definitions in `Glossary`, and keep author or thinker reference pages in `People`.
+4. Keep language-specific vocabulary dictionaries and compact language references in `Language`.
+5. Keep worked exercises and formula support in `Bahas Soal`.
+6. Keep pre-mastery books, topics, and frontier references in `Curiosity Shelf` until they become active study or durable notes.
+7. Store design references and design study material in `Design`.
+8. Store practical rereadable guidance in `Personal Advice`, using `Personal Advice/Tips and Trick` for compact reminders and `Motivation` for short reset notes.
+9. Park unanswered knowledge questions in `Notes/Random Questions`.
+10. Use Sourcebook `Inbox` only for knowledge material already destined for this vault.
+11. Keep raw files in `Attachments`, but keep context, summaries, and decisions in markdown.
 
 ## Conventions
 

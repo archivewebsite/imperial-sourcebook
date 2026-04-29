@@ -1,1 +1,0 @@
-lingua franca -> bahasa perantara atau bahasa pengantar yang digunakan sebagai alat komunikasi bersama oleh penutur yang memiliki bahasa ibu berbeda.

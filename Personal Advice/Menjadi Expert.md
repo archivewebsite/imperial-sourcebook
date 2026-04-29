@@ -171,4 +171,4 @@ Selamat belajar dan tetap semangat, ya! 💖
 ---
 ## ?? Related Ideas
 - [[Zoom Kick-Off TO]]
-- [[Irreplaceable in AI Era]]
+- [[Irreplaceable in the AI Era]]

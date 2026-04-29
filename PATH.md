@@ -31,13 +31,13 @@ When a Sourcebook note becomes an active commitment, move or link the operationa
 
 ### 2. Learning & Skills (Competence Building)
 **Goal:** Store notes about learning, technical skill building, and references that support competence over time.
-- **What belongs here:** technical references, study outlines, learning retrospectives, language material, skill maps, and spaced-repetition source notes.
+- **What belongs here:** technical references, study outlines, learning retrospectives, language-learning methods, skill maps, and spaced-repetition source notes.
 - **Rule:** Keep the emphasis on how knowledge is learned and reused, not just what the knowledge says.
 
-### 3. Vocabulary (Translated Word Dictionary)
-**Goal:** Store Indonesian-English and English-Indonesian translated words, parts of speech, comprehension status, and review notes in Obsidian-readable Markdown tables.
-- **What belongs here:** Indonesian-English vocabulary lists, English-Indonesian vocabulary lists, single-word translation dictionaries, and review-ready word tables.
-- **Rule:** Keep tables in plain Markdown so they render in Obsidian and remain easy to edit; name files `Vocabulary n.md` and start the next numbered file after 100 vocabulary rows.
+### 3. Language (Language-Specific Reference)
+**Goal:** Store language-specific dictionaries and compact references in one folder per language.
+- **What belongs here:** English, French, German, and future language folders with vocabulary tables, translated word lists, and compact language-specific usage notes.
+- **Rule:** Keep vocabulary tables in plain Markdown under each language's `Vocabulary` folder; name dictionary files `Vocabulary n.md` and start the next numbered file after 100 vocabulary rows.
 
 ### 4. Bahas Soal (Worked Practice)
 **Goal:** Preserve worked examples, formula support, and problem-solving breakdowns.

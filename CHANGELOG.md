@@ -9,6 +9,28 @@ This changelog is the required ledger for AI and agent work in this vault. Large
 Add new dated entries at the top of this section.
 
 
+## 2026-04-30
+
+### Changed
+- Task type: `note-update`
+- Created the `Language` section documentation and added missing README coverage for English, French, German, and their vocabulary folders.
+- Added 67 beginner French-Indonesian rows and 67 beginner German-Indonesian rows using the English vocabulary table schema.
+- Replaced root top-level `Vocabulary` guidance with the new language-scoped structure in `README.md` and `PATH.md`.
+- Simplified all language vocabulary dictionaries to `Word | Translation | Part of Speech | Comprehension Level | To Review | Notes`.
+- Documented `Comprehension Level` and `To Review` options across the language READMEs.
+
+### Moved
+- Moved the existing English vocabulary README and starter dictionary from top-level `Vocabulary/` into `Language/English/Vocabulary/`.
+
+### Renamed
+- Renamed `Language/Germany` to `Language/German` so the folder uses the language name.
+
+### Notes
+- Counts: 8 new Language README or vocabulary notes added, 2 existing English vocabulary notes retained under `Language`, 134 vocabulary rows added, 3 vocabulary tables simplified, 1 folder renamed, and 2 root map docs updated.
+- Left unresolved: English vocabulary content was preserved as the existing template; no grammar notes were added outside vocabulary tables.
+- Follow-up: none.
+
+
 ## 2026-04-29
 
 ### Changed

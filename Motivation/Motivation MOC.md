@@ -10,7 +10,7 @@
 ## Notes
 
 - [[Becoming Your Best Self]]
-- [[small spark]]
+- [[Small Spark Reminder]]
 - [[The Architecture of Escape]]
 
 ## Related MOCs

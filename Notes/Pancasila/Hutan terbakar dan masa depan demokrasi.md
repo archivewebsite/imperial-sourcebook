@@ -1,25 +1,17 @@
 ---
-title: "Hutan yang Terbakar Belum Tentu Mati"
+
+title: "Hutan terbakar dan masa depan demokrasi"
 source: "https://medium.com/berbagi-berdampak/hutan-yang-terbakar-belum-tentu-mati-2d8d98922e5a"
 author:
   - "[[Ryandi Pratama]]"
 published: 2026-04-13
 created: 2026-04-27
-description: "MELIHAT KE BELAKANG, MELESAT KE DEPAN Hutan yang Terbakar Belum Tentu Mati Mencari pengganti sistem pemerintahan yang lebih baik dari demokrasi untuk Indonesia. Saya lahir di Pontianak, Kalimantan …"
 tags:
   - "clippings"
 ---
-## [Berbagi & Berdampak](https://medium.com/berbagi-berdampak?source=post_page---publication_nav-8f182c62f384-2d8d98922e5a---------------------------------------)
-
-[![Berbagi & Berdampak](https://miro.medium.com/v2/resize:fill:57:57/1*FkaWa3Je1HsBmyJulfe3Dg.jpeg)](https://medium.com/berbagi-berdampak?source=post_page---post_publication_sidebar-8f182c62f384-2d8d98922e5a---------------------------------------)
-
-Hidup terlalu singkat untuk dimiliki sendirian. Kami mengajak berbagi untuk memberikan dampak bersama. Tautan mendaftar sebagai penulis: [http://bit.ly/form-berbagi-berdampak](http://bit.ly/form-berbagi-berdampak)
-
 ## MELIHAT KE BELAKANG, MELESAT KE DEPAN
 
 ## Mencari pengganti sistem pemerintahan yang lebih baik dari demokrasi untuk Indonesia.
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*s5gmID_oLGnb8GP-Gr-8Ew.jpeg)
 
 Sumber: Antara News.
 
@@ -29,9 +21,7 @@ Belum tentu.
 
 Jauh sebelum perkebunan sawit, jauh sebelum HPH era Orde Baru, masyarakat Dayak di Kalimantan sudah membakar hutan. Bukan karena tidak peduli. Justru karena sangat paham.
 
-Sistem ini namanya [*ladang berpindah*](https://wri-indonesia.org/id/wawasan/tak-sekadar-ladang-berpindah-merumuskan-kembali-pendekatan-dalam-praktik-pembakaran) atau *pertanian gilir balik*.
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*FdbkL_eh7tHqH9yu3LIfug.png)
+Sistem ini namanya *ladang berpindah* atau *pertanian gilir balik*.
 
 Poster dibuat oleh Gemini Nano Banana 2 dengan inforamsi dari Forest Watch Indonesia.
 
@@ -47,7 +37,7 @@ Mereka hanya melihat abu. Bukan benih di bawahnya.
 
 Saya memikirkan semua ini gara-gara membaca esai Mas
 
-[Yopi Makdori](https://medium.com/u/a97aa20bb375?source=post_page---user_mention--2d8d98922e5a---------------------------------------)
+Yopi Makdori
 
 .
 
@@ -55,7 +45,7 @@ Saya memikirkan semua ini gara-gara membaca esai Mas
 
 Beberapa hari lalu, Mas Yopi menerbitkan esai ini:
 
-## [Demokrasi Tidak Sesempurna yang Kita Pikir, Dia Punya Cacat Fatal](https://medium.com/berbagi-berdampak/demokrasi-tidak-sesempurna-yang-kita-pikir-dia-punya-cacat-fatal-f5eb031611f1?source=post_page-----2d8d98922e5a---------------------------------------)
+## Demokrasi Tidak Sesempurna yang Kita Pikir, Dia Punya Cacat Fatal
 
 ### Mengambil Logika ‘Gagal Booting' pada Laptop untuk Pilpres 2019 dan 2024; Konsekuensi Salah Diagnosa?
 
@@ -113,8 +103,6 @@ Bukan sekadar permainan kata. Perubahan pertanyaan ini menciptakan perbedaan fun
 
 Seorang ekolog Kanada bernama C.S. Holling menghabiskan kariernya mengamati hutan, danau, dan ekosistem pesisir. Dari pengamatan puluhan tahun itu, dia menemukan pola yang berulang di mana-mana — pola yang kemudian dia sebut *siklus adaptif*.
 
-![](https://miro.medium.com/v2/resize:fit:1370/format:webp/1*ac0raZbTPD0u3g2OohNpEg.png)
-
 Siklus adaptif C.S. Holling. Sumber: Wolfgang zu Castell & Hannah Schrenk dari Nature.
 
 Ayo kita bikin gampang.
@@ -133,8 +121,6 @@ Bagi saya, temuan paling penting Holling bukan soal empat musim itu. Temuannya y
 Kenapa? Karena tanpa “musim ketiga” — tanpa guncangan, tanpa pelepasan — sistem mengeras. Sebuah ekosistem akan semakin kaku, semakin efisien, tapi juga semakin rapuh. Semua sumber daya terkunci di puncak. Tidak ada ruang untuk eksperimen. Tidak ada cahaya yang sampai ke tanah.
 
 Holling punya istilah untuk kondisi ini: *rigidity trap*. Jebakan kekakuan. Dari luar kelihatan stabil. Dari dalam, ia menjadi bom waktu.
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*lLbWaIJPK9d5d5SLKgH5gg.jpeg)
 
 Bayangin ketahanan alam itu kayak karet gelang yang fleksibel buat nahan berbagai macam gangguan. Tapi, kalau ditarik terlalu keras sampai ngelewatin batas wajarnya, ekosistem bakal rusak parah dan susah banget buat pulih. Kayak tanah kita, kalau terus-terusan salah urus, ujung-ujungnya bakal terjebak jadi tanah mati yang udah nggak subur lagi. Sumber: Coevolving.
 
@@ -156,18 +142,16 @@ Siklus adaptif Holling diterbitkan pertama kali tahun 1986. Tapi pola yang *pers
 
 ==Dalam== ==*Muqaddimah*== ==(1377) — sebuah buku yang sering disebut sebagai karya sosiologi pertama di dunia — Ibnu Khaldun merumuskan teori naik-turunnya peradaban. Konsep kunci dalam teori tersebut adalah== ==*asabiyyah*====, yang bisa diterjemahkan sebagai solidaritas kelompok, atau rasa senasib sepenanggungan.==
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*U-o1YpQmEKUaXI6xj_nJbw.png)
-
 Sumber: Semantic Scholar.
 
 Begini ceritanya.
 
 > Ada sekelompok orang yang hidup di pinggiran — di padang pasir, di perbatasan, di tempat yang keras. Hidup susah memaksa mereka untuk saling bantu. *Asabiyyah* mereka kuat sekali. Bayangkan gotong royong, tapi versi survival.
-> 
+>
 > Kelompok ini menggulingkan penguasa lama yang sudah terlalu nyaman. Mereka merebut kekuasaan. Generasi pertama masih ingat perjuangan — mereka memimpin dari depan, hidup sederhana, dekat dengan rakyat.
-> 
+>
 > Generasi kedua masih mendengar cerita perjuangan, tapi tidak merasakannya sendiri. Mereka mulai menikmati kemewahan istana.
-> 
+>
 > Generasi ketiga? Mereka hanya kenal AC, karpet tebal, dan perebutan tahta. *Asabiyyah* larut. Solidaritas jadi faksionalisme. Dan dari pinggiran, muncul kelompok baru yang lebih lapar, lebih solid. Siklus berulang.
 
 Perhatikan. Ibnu Khaldun tidak bilang generasi ketiga itu *jahat*. Dia bilang keruntuhan itu *struktural* — konsekuensi tak terhindarkan dari keberhasilan itu sendiri.
@@ -192,11 +176,9 @@ Dua orang yang hidup di benua berbeda, abad berbeda, mengamati subjek berbeda �
 
 Kalau Ibnu Khaldun mendeskripsikan siklusnya secara teori, dan masyarakat Dayak mempraktikkannya di darat, maka Bali mempraktikkannya di air.
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_ZwxzzwXkSmuDDQUhAdG7Q.jpeg)
-
 Subak di Desa Wisata Jatiluwih. Sumber: Kemeterian Pariwisata.
 
-Sistem irigasi *subak* sudah mengelola air sawah di Bali sejak abad ke-9. ==[UNESCO](https://whc.unesco.org/en/list/1194/)== ==mengakuinya sebagai World Heritage Site pada tahun 2012 dan menyebutnya== ==*“sistem yang demokratis dan egaliter.”*==
+Sistem irigasi *subak* sudah mengelola air sawah di Bali sejak abad ke-9. ==UNESCO== ==mengakuinya sebagai World Heritage Site pada tahun 2012 dan menyebutnya== ==*“sistem yang demokratis dan egaliter.”*==
 
 Yang membuat subak relevan untuk pembicaraan kita bukan umurnya. Tapi arsitekturnya dalam pengambilan sebuah keputusan.
 
@@ -204,7 +186,7 @@ Setiap subak itu otonom. Keputusan dibuat secara kolektif oleh petani setempat. 
 
 Filosofinya — *Tri Hita Karana* — menekankan keselarasan antara manusia dengan Tuhan, manusia dengan manusia, dan manusia dengan alam. Bukan sebagai sebuah konsep abstrak. Namun, menjadi petunjuk operasional harian.
 
-Pada 1970-an, pemerintah Indonesia dan Bank Dunia menerapkan [Revolusi Hijau](https://www.historia.id/article/terpukau-revolusi-hijau) di Bali. Jadwal tanam dikendalikan secara terpusat. Padi ditanam terus-menerus tanpa jeda. Pestisida menggantikan rotasi masa bera.
+Pada 1970-an, pemerintah Indonesia dan Bank Dunia menerapkan Revolusi Hijau di Bali. Jadwal tanam dikendalikan secara terpusat. Padi ditanam terus-menerus tanpa jeda. Pestisida menggantikan rotasi masa bera.
 
 Hasilnya adalah kekacauan pengairan, ledakan hama, kerugian panen sampai 50 persen. Studi Bank Dunia sendiri pada 1988 mengakui pestisida telah mencemari tanah dan air di seluruh pulau.
 
@@ -228,7 +210,7 @@ Semua bukti yang disajikan Mas Yopi — Caplan, Arrow, Lenz — menggugat satu m
 
 Dalam voting mayoritas, proses berakhir ketika satu pihak mendapat 50%+1 suara. Yang kalah ya kalah. Efisien, tapi ia mengeliminasi posisi minoritas — seperti monokultur yang menyingkirkan tanaman kecil.
 
-Dalam musyawarah, seperti didokumentasikan oleh [Kawamura](https://www.researchgate.net/publication/254425893_Consensus_and_Democracy_in_Indonesia_Musyawarah-Mufakat_Revisited) (2011), yang terjadi jauh berbeda:
+Dalam musyawarah, seperti didokumentasikan oleh Kawamura (2011), yang terjadi jauh berbeda:
 
 > *“Mayoritas dan minoritas saling mendekati dengan melakukan penyesuaian dalam pandangan masing-masing, atau lewat integrasi sudut pandang yang bertentangan menjadi sintesis konseptual baru.”*
 
@@ -322,7 +304,7 @@ Tradisi intelektual kita sudah memahami ini. Ibnu Khaldun sudah menulisnya. Peta
 
 **Yang menentukan adalah apa yang tersisa di bawah abu.**
 
-## [Melihat ke Belakang, Melesat ke Depan](https://medium.com/komunitas-blogger-m/melihat-ke-belakang-melesat-ke-depan-919f6b4fb362?source=post_page-----2d8d98922e5a---------------------------------------)
+## Melihat ke Belakang, Melesat ke Depan
 
 ### Strategi mengejar ketertinggalan ilmu pengetahuan dan teknologi Indonesia.
 

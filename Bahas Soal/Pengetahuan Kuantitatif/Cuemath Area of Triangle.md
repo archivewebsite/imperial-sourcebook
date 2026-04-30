@@ -1,4 +1,5 @@
 ---
+
 title: "Cuemath Area of Triangle"
 source: "https://www.cuemath.com/measurement/area-of-triangle/"
 author:
@@ -7,7 +8,6 @@ created: 2026-04-22
 tags:
   - "clippings"
 ---
-
 ## Area of Triangle
 
 The **area of a triangle** is defined as the total space occupied by the three sides of a triangle in a 2-dimensional plane. The basic formula for the area of a triangle is equal to half the product of its base and height, i.e., A = 1/2 × b × h. This formula is applicable to all types of triangles, whether it is a scalene triangle, an isosceles triangle, or an equilateral triangle. It should be remembered that the base and the height of a triangle are perpendicular to each other.
@@ -149,8 +149,8 @@ Read More
 	Therefore, the area of the triangle (A) = 25 in <sup>2</sup>
 2. **Example 2:** Find the area of an equilateral triangle with a side of 2 cm.
 	**Solution:**
-	We can calculate the area of an equilateral triangle using the area of triangle formula, Area of an equilateral triangle = (√3)/4 × side <sup>2</sup>  
-	  
+	We can calculate the area of an equilateral triangle using the area of triangle formula, Area of an equilateral triangle = (√3)/4 × side <sup>2</sup>
+
 	where 'a' is the length of one equal side. On substituting the values, we get, Area of an equilateral triangle = (√3)/4 × 2 <sup>2</sup>
 	Area = 1.73 cm <sup>2</sup>
 3. **Example 3:** Find the area of a triangle with a base of 8 cm and a height of 7 cm.
@@ -215,5 +215,5 @@ The formula for the area of a triangle depends on the dimensions that are known 
 - Area of an equilateral triangle = (√3)/4 × side <sup>2</sup>
 - Area of an isosceles triangle = 1/4 × b √4a2−b2 $4a2−b2$ $\sqrt {4{a^2} - {b^2}}$; where 'b' is the base and 'a' is the length of an equal side.
 
-Math worksheets and  
+Math worksheets and
 visual curriculum

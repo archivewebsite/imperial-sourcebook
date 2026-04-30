@@ -1,51 +1,35 @@
 ---
-title: "Mempertanyakan Tulisan “Hutan yang Terbakar Belum Tentu Mati”"
+
+title: "Awal mula demokrasi di Prancis"
 source: "https://medium.com/berbagi-berdampak/mempertanyakan-tulisan-hutan-yang-terbakar-belum-tentu-mati-b55dd0e14a17"
 author:
   - "[[Yopi Makdori]]"
 published: 2026-04-23
 created: 2026-04-27
-description: "Mempertanyakan Tulisan “Hutan yang Terbakar Belum Tentu Mati” (Bagian Pertama) Awal Mula Lahirnya Demokrasi di Prancis; Keruntuhan Sebuah Sistem yang Melahirkan Sistem Baru Ketika Arthur Young …"
 tags:
   - "clippings"
 ---
-## [Berbagi & Berdampak](https://medium.com/berbagi-berdampak?source=post_page---publication_nav-8f182c62f384-b55dd0e14a17---------------------------------------)
-
-[![Berbagi & Berdampak](https://miro.medium.com/v2/resize:fill:57:57/1*FkaWa3Je1HsBmyJulfe3Dg.jpeg)](https://medium.com/berbagi-berdampak?source=post_page---post_publication_sidebar-8f182c62f384-b55dd0e14a17---------------------------------------)
-
-Hidup terlalu singkat untuk dimiliki sendirian. Kami mengajak berbagi untuk memberikan dampak bersama. Tautan mendaftar sebagai penulis: [http://bit.ly/form-berbagi-berdampak](http://bit.ly/form-berbagi-berdampak)
-
 ## (Bagian Pertama) Awal Mula Lahirnya Demokrasi di Prancis; Keruntuhan Sebuah Sistem yang Melahirkan Sistem Baru
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*TlCQGU_4svxUz5Hm)
-
-Photo by Marco Oriolesi on Unsplash
-
-Ketika [Arthur Young](https://mega.nz/file/NVthGJJZ#1PalU7IeFKJ2eyJkPPvL0Wihk69NDQl37lYUy00lBtk) tiba di Limousin pada abad ke-18, ia menyaksikan bukan hanya hamparan ladang gandum hitam. Ia melihat wajah-wajah petani yang muram, seperti telah kehabisan harapan.
+Ketika Arthur Young tiba di Limousin pada abad ke-18, ia menyaksikan bukan hanya hamparan ladang gandum hitam. Ia melihat wajah-wajah petani yang muram, seperti telah kehabisan harapan.
 
 Dalam catatannya, Young menggambarkan para petani Prancis nyaris seperti orang-orangan sawah yang kurus dan kering, dengan anak-anak yang kelaparan dan berpakaian compang-camping. Raut itu bukan sekadar potret fisik, melainkan jejak dari sistem yang selama berabad-abad menekan mereka.
-
-![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*WJO8SVFvMFqP7Ht1XM1Itg.png)
 
 Travels in France: During the Years 1787, 1788, 1789/Arthur Young
 
 Dari luar, Prancis tampak digdaya karena kuat dalam militer dan gemilang dalam seni. Namun di bawah kegemilangan itu, fondasi sosial, ekonomi, hingga pemerintahannya rapuh. Ketidakadilan bagi sebagian besar rakyat bahkan terasa biasa, seperti noda oli di tangan seorang montir.
 
-[Mayoritas rakyat justru memikul hampir seluruh beban negara,](https://mega.nz/file/BRMkHbCZ#bJwuvMGTa3wyvyS4Rzq451R8Rb-nHnn-RP5h47qIRnY) padahal merekalah yang paling tidak mampu. Mereka membayar pajak tahunan kepada pemerintah, pajak penghasilan sekitar 20 persen, serta persepuluhan — 10 persen kepada gereja. Di luar itu, ada pula pungutan atas kebutuhan sehari-hari untuk garam, anggur, tembakau, sabun, kulit, hingga besi.
+Mayoritas rakyat justru memikul hampir seluruh beban negara, padahal merekalah yang paling tidak mampu. Mereka membayar pajak tahunan kepada pemerintah, pajak penghasilan sekitar 20 persen, serta persepuluhan — 10 persen kepada gereja. Di luar itu, ada pula pungutan atas kebutuhan sehari-hari untuk garam, anggur, tembakau, sabun, kulit, hingga besi.
 
 Beban itu bertambah bagi mereka yang menempati tanah milik bangsawan, praktik yang lazim pada masa itu. Mereka harus membayar sewa, menggunakan fasilitas seperti penggilingan gandum atau pemeras anggur dengan biaya tambahan, bahkan membayar tarif jembatan.
 
 Selain itu, mereka juga diwajibkan melakukan kerja rodi untuk merawat jalan, kewajiban yang bisa menyita berminggu-minggu waktu, bahkan saat musim panen.
 
-![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*255hqziDc0tSKNYiOTiVNw.png)
-
 Robespierre and the French Revolution in World History/Tom McGowen
 
 > *“Meskipun baru berusia 28 tahun, wanita tersebut tampak seperti berusia 60 atau 70 tahun dengan tubuh yang bungkuk akibat kerja keras dan wajah yang penuh kerutan.*
-> 
+>
 > *Young mencatat bahwa penampilan wanita tersebut mencerminkan kerja keras yang menghancurkan simetri tubuh dan tampilan feminin. Ia menyimpulkan bahwa kondisi ini disebabkan oleh pemerintahan yang buruk.”*
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*mflrbjKIh1jcrOyy8qiu7Q.png)
 
 Travels in France: During the Years 1787, 1788, 1789/Arthur Young
 
@@ -67,17 +51,13 @@ Mekanisme itu lewat *États généraux*, majelis yang sistem pemungutan suaranya
 
 Sementara, ada juga sebagian warga lain yang menganggap ketidakadilan itu sudah “takdir” Tuhan. Mereka termasuk golongan fatalis yang menganggap manusia hidup bagaikan sebuah daun yang terbawa arus.
 
-Mereka seperti ungkapan [Tan Malaka](https://rowlandpasaribu.wordpress.com/wp-content/uploads/2013/09/tan-malaka-madilog.pdf) ketika logika mistika diadopsi masyarakat, menerima kemiskinan karena harta dunia dianggap tidak berarti dibanding akhirat. Atau karena dunia itu justru dilihat sebagai “rantai karma” yang mesti diputus.
+Mereka seperti ungkapan Tan Malaka ketika logika mistika diadopsi masyarakat, menerima kemiskinan karena harta dunia dianggap tidak berarti dibanding akhirat. Atau karena dunia itu justru dilihat sebagai “rantai karma” yang mesti diputus.
 
 Sehingga ketika mereka miskin karena sistem yang menindas, mereka hanya pasrah. Justru tidak jarang, bukannya menyalahkan sistem desainan manusia, sebagian malahan menyalahkan Tuhan atas ketidakadilan yang menimpanya.
-
-![](https://miro.medium.com/v2/resize:fit:1382/format:webp/1*mFs6YT_8nNT6yryAdsiksQ.png)
 
 Madilog/Tan Malaka
 
 Terlebih lagi, rakyat Prancis meyakini kalau kekuasaan rajanya, Raja Louis XVI merupakan kehendak Tuhan yang tidak bisa diganggu-gugat. Ini yang membuat mereka tunduk absolut terhadap raja, meskipun sang raja merawat kebijakan yang menindas rakyatnya.
-
-![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*MuFk8uEeCgvF06eoc34HVA.png)
 
 Robespierre and the French Revolution in World History/Tom McGowen
 
@@ -117,7 +97,7 @@ Jika di era Prancis feodal, elite itu terdiri dari bangsawan dan rohaniwan; di m
 
 Dari sana ia berpikir, bagaimana bisa sistem yang selalu dielu-elukan publik justru melanggengkan kekayaan terkonsentrasi di segelintir orang? Sementara mayoritas sisanya hanya berebut remahan.
 
-Ini ternyata bukan hanya terjadi di Indonesia, melainkan juga fenomena global. [Thomas Piketty,](https://mega.nz/file/8Z8D0B5A#HHyAwzzI0xRN1Lc5ZZaIGNom1usCwClVGds53VnylY4) seorang ekonom Prancis mengonfirmasi itu, bahwa sistem kapitalisme yang selalu satu paket dengan demokrasi alamiahnya melanggengkan ketimpangan.
+Ini ternyata bukan hanya terjadi di Indonesia, melainkan juga fenomena global. Thomas Piketty, seorang ekonom Prancis mengonfirmasi itu, bahwa sistem kapitalisme yang selalu satu paket dengan demokrasi alamiahnya melanggengkan ketimpangan.
 
 Sebab orang kaya akan cenderung pasti bakal lebih kaya, sementara mereka yang miskin akan “dikutuk” sistem untuk selamanya miskin. Mekanisme kapitalisme mengukuhkan kepastian itu.
 
@@ -126,10 +106,8 @@ Orang kaya dengan modal berlimpah, meskipun tanpa kerja keras dan kompetensi, ba
 Makanya di sistem ini, lebih mudah menjadi *crazy rich* dengan menikahi orang kaya yang mempunyai aset berlimpah, ketimbang belajar dan bekerja keras. Piketty menggambarkan kondisi ini seperti yang ditulis Honoré de Balzac dalam karya-karyanya, semisal “ *Le Père Goriot*.”
 
 > *“Balzac menulis satu adegan di mana penjahat bernama Vautrin menjelaskan kepada pemuda miskin Rastignac bahwa sekeras apa pun ia belajar hukum dan menjadi pengacara, ia tidak akan pernah bisa hidup layak.*
-> 
+>
 > *Satu-satunya jalan menuju kemakmuran, demikian kata Vautrin, adalah menikahi perempuan yang mewarisi modal satu juta franc. Karena itu secara otomatis menghasilkan pendapatan pasif 50.000 franc per tahun dari bunga 5 persen.”*
-
-![](https://miro.medium.com/v2/resize:fit:1234/format:webp/1*Bpan45e0WV5bPF5IWgJahw.png)
 
 Capital in the Twenty-First Century/Thomas Piketty
 
@@ -149,21 +127,15 @@ Ketika elite modal semakin kaya, sementara sebagian besar rakyat tetap miskin, m
 
 Mereka mempunyai sumber daya untuk melakukan itu karena mampu membiayai partai-partai politik, kelompok penekan (*lobbying groups*), dan lembaga pemikir (*think tanks*) hingga media guna mendorong agenda pemerintahan agar sejalan dengan nafsunya. Mereka yang dalam konteks Indonesia dikenal sebagai *“bohir.”*
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*QwYDSMaf5m2f_mPusjx4gQ.png)
-
 Capital in the Twenty-First Century/Thomas Piketty
 
-Ketakutan Piketty telah terjadi di Amerika Serikat (AS), dan mungkin juga di negara kita. [Martin Gilens,](https://mega.nz/file/gE12nKwL#yTnGgZpRJunnHZrgPp7nVafouFOkOQ_-AnuVJXLnzNI) seorang pakar kebijakan publik Amerika, menemukan bahwa sistem politik di sana lebih banyak merespons tuntutan *bohir* ketimbang aspirasi massa.
+Ketakutan Piketty telah terjadi di Amerika Serikat (AS), dan mungkin juga di negara kita. Martin Gilens, seorang pakar kebijakan publik Amerika, menemukan bahwa sistem politik di sana lebih banyak merespons tuntutan *bohir* ketimbang aspirasi massa.
 
 Kebijakan yang diinginkan kelas menengah dan menengah ke bawah seringnya diabaikan jika kebijakan itu tidak sejalan dengan kepentingan elite. Jika ada aspirasi dari dua kelas terbawah tadi yang menjadi kebijakan, seringnya hanya karena kebetulan aspirasi mereka sejalan atau tidak mengganggu kepentingan para pemilik kekayaan.
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*V0WwE6sMTYvAIPTJ4TaHng.png)
 
 Affluence and Influence: Economic Inequality and Political Power in America/Martin Gilens
 
 Mantan Hakim Agung Louis Brandeis pernah menulis, **“K *ita bisa memiliki demokrasi, atau kita bisa memiliki kekayaan besar yang terkonsentrasi di tangan segelintir orang, tapi kita tidak bisa memiliki keduanya.”*** Dengan bahasa lain, konsep suara rakyat sama dengan suara Tuhan tidak akan pernah terwujud di tengah masyarakat dengan ketimpangan ekonomi seperti yang dialami negara kita.
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*H9phEN3hvMxfThoYth4RHA.png)
 
 Affluence and Influence: Economic Inequality and Political Power in America/Martin Gilens
 
@@ -185,17 +157,15 @@ Begitu juga dalam pemilihan presiden, para *bohir* tak jarang memberikan dukunga
 
 ==Sebagai balas jasa karena telah memberikan dukungan pendanaan==, elite ini meminta wakil rakyat atau pemerintah agar mendukung atau memblokir sebuah kebijakan. Ini yang membuat muncul fenomena seperti yang ditemukan Gilens.
 
-Pernyataan saya bukan karangan, [Jeffrey A. Winters](https://mega.nz/file/kYNRwa7Q#Xnd2cYfkeCx3PuzZkDHuxzuh3cDioSe4ndYXF9S8H_I), seorang Ilmuwan Politik Amerika, menemukan hal demikian.
+Pernyataan saya bukan karangan, Jeffrey A. Winters, seorang Ilmuwan Politik Amerika, menemukan hal demikian.
 
 > Seorang elite oligarki di Indonesia menyumbang hingga 10 juta dolar Amerika (sekitar Rp172 miliar) hanya untuk pemilihan presiden.
 
 Dan jumlahnya lebih banyak lagi jika ditambah dengan sumbangan ilegal untuk pemilihan legislatif.
 
 > *“Ketika ditanya mengapa ia memberi begitu banyak, oligark itu menjawab: “Saya punya banyak sekali kotoran yang bisa mereka bongkar.”*
-> 
+>
 > *Oligark yang bertanya lalu menimpali: “Apakah membayar memberi Anda jaminan tertentu?” “Tidak,” jawab oligark besar itu, “tetapi kalau tidak membayar, sudah pasti saya akan punya masalah.”*
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*L0bxLdDDgLVsEwmWq34Onw.png)
 
 Oligarchy/Jeffrey A. Winters
 
@@ -203,15 +173,15 @@ Ini baru satu sisi, di sisi lain dengan modal super besar yang dimiliki koalisi 
 
 Pemahaman dan pengalaman itu semua — meskipun tidak selalu sesimetris yang saya tuliskan (karena banyak pengalaman dan bacaan lain juga yang tidak terkait langsung, namun saling berkelindan secara narasi) — yang memunculkan catatan saya soal demokrasi. Catatan dengan argumen utama bahwa demokrasi memiliki cacat fatal. Kecacatan yang jarang dibicarakan banyak orang.
 
-[Demokrasi Tidak Sesempurna yang Kita Pikir, Dia Punya Cacat Fatal | by Yopi Makdori | Berbagi & Berdampak | Apr, 2026 | Medium](https://medium.com/berbagi-berdampak/demokrasi-tidak-sesempurna-yang-kita-pikir-dia-punya-cacat-fatal-f5eb031611f1)
+Demokrasi Tidak Sesempurna yang Kita Pikir, Dia Punya Cacat Fatal | by Yopi Makdori | Berbagi & Berdampak | Apr, 2026 | Medium
 
 Tulisan itu selanjutnya direspons
 
-[Ryandi Pratama](https://medium.com/u/e29dac90ee99?source=post_page---user_mention--b55dd0e14a17---------------------------------------)
+Ryandi Pratama
 
 dengan tajuk “Hutan yang Terbakar Belum Tentu Mati.”
 
-[Hutan yang Terbakar Belum Tentu Mati | by Ryandi Pratama | Berbagi & Berdampak | Apr, 2026 | Medium](https://medium.com/berbagi-berdampak/hutan-yang-terbakar-belum-tentu-mati-2d8d98922e5a)
+Hutan yang Terbakar Belum Tentu Mati | by Ryandi Pratama | Berbagi & Berdampak | Apr, 2026 | Medium
 
 Saya mengagumi tulisan Kak Ryan karena berhasil merajut tradisi praktik ladang berpindah di Kalimantan, kemudian siklus adaptifnya Holling, sampai ke siklus peradabannya Ibnu Khaldun — sejarawan-sosiolog Muslim idola saya — untuk menganalogikan pasang-surutnya sistem yang dibangun manusia.
 
@@ -257,7 +227,7 @@ Terlebih lagi ada pembenaran sejarah bahwa kedua sistem itu telah bertahan ribua
 
 ### Kekeliruan Kesimpulan
 
-Justru bagi saya, teori siklus adaptif ini bukan malah mengukuhkan demokrasi sebagai sistem terbaik. [Tetapi mengonfirmasi tanda tanya saya soal siklus sistem.](https://mega.nz/file/1NVSlIQK#Ksvhw7VRW48rptvi2ciP62XwdeDyZHHUS7GJ2rZUn2Q)
+Justru bagi saya, teori siklus adaptif ini bukan malah mengukuhkan demokrasi sebagai sistem terbaik. Tetapi mengonfirmasi tanda tanya saya soal siklus sistem.
 
 Kak Ryan tepat menjelaskan siklus itu, tentu saya sama sekali tidak meragukan kapasitasnya. Tapi ada fase yang terlewat dijabarkan secara utuh, sehingga menghasilkan kesimpulan kurang tepat.
 
@@ -265,11 +235,7 @@ Menurut teori ini siklus itu tidak melulu bergerak dari 1 hingga 4 kemudian kemb
 
 Artinya setelah terjadi keruntuhan (pelepasan), sistem memasuki fase reorganisasi, di mana terdapat peluang besar untuk munculnya kebaruan, inovasi, dan **sistem yang sama sekali berbeda.**
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vxcMsiRg6wu2zy53qGkLvA.png)
-
 Panarchy Understanding Transformations in Human and Natural Systems/Lance H. Gunderson and C. S. Holling
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ql_dLwqnAslwLge2Ai1hcw.png)
 
 Panarchy Understanding Transformations in Human and Natural Systems/Lance H. Gunderson and C. S. Holling
 
@@ -285,31 +251,4 @@ Saya membayangkan jika pemikiran ini diadopsi mayoritas warga Prancis kala itu, 
 
 (Ini bagian pertama dari rangkaian tulisan saya untuk menjawab tulisan Kak Ryan. Tulisan selanjutnya menyusul.)
 
-### Madilog berada di tautan terpisah di sini.[Last published 12 hours ago](https://medium.com/berbagi-berdampak/influencer-c3a4dcf8582f?source=post_page---post_publication_info--b55dd0e14a17---------------------------------------)
-
-Hidup terlalu singkat untuk dimiliki sendirian. Kami mengajak berbagi untuk memberikan dampak bersama. Tautan mendaftar sebagai penulis: [http://bit.ly/form-berbagi-berdampak](http://bit.ly/form-berbagi-berdampak)
-
-## Responses (5)
-
-Raja Premium 88
-
-==Sebagai balas jasa karena telah memberikan dukungan pendanaan==
-
-```c
-Jika tidak membalas, apa yang akan mereka lakukan atau semuanya sudah sesuai kesepakatan? 😁
-```
-
-==Bahkan kasus di Tunisia, Suriah, hingga Yaman lebih parah lagi. Demokrasi yang “akan” mekar justru gagal. Masih lebih banyak lagi contoh lainnya.==
-
-```c
-Ini udah campur tangan asing lo.. Alih alih cacat dalam demokrasi
-```
-
-==Tujuannya menekan pengeluaran karena penghasilan yang didapat orang tua remaja itu tidak sebanding dengan kebutuhannya. Ia lebih sering lagi melihat balita dengan kulit kusam, badan kur...==
-
-```c
-Ayolah kak Yopi.. 
-Jika mereka mau makan singkong. Dan sayuran tu juga murah, dan bergizi.. 
-
-Ini tidak hanya soal kemiskinan.. Tapi sebuah ke'abai'an
-```
+### Madilog berada di tautan terpisah di sini.Last published 12 hours ago

@@ -1,4 +1,5 @@
 ---
+
 title: "Cuemath Geometry Formulas"
 source: https://www.cuemath.com/geometry-formulas/
 created: 2026-04-22
@@ -109,12 +110,12 @@ Circumference of a Circle = 2πr
 
 **Example 2:** What is the area of a rectangular park whose length and breadth are 90 m and 60 m respectively?
 
-**Solution:**  
+**Solution:**
 To find the area of a rectangular park:
 
 Given: Length of the park = 90 m
 
-The breadth of the park = 60 m  
+The breadth of the park = 60 m
 Using the geometry formulas for a rectangle,
 
 Area of Rectangle = (Length × Breadth)
@@ -127,15 +128,15 @@ Area of Rectangle = (Length × Breadth)
 
 **Example 3:** Using geometry formulas of the cube, calculate the surface area and volume of a cube whose edge is 6 units.
 
-**Solution:**  
+**Solution:**
 To Find: The surface area and volume of a cube whose edge is 6 units
 
-Using geometry formulas of cube,  
-Surface area of cube is = A = 6a <sup>2</sup>  
-A = 6 (6) <sup>2</sup>  
-A = 6 × 36 = 216 units <sup>2</sup>  
-Volume of a cube, V = a <sup>3</sup>  
-V = (6) <sup>3</sup>  
+Using geometry formulas of cube,
+Surface area of cube is = A = 6a <sup>2</sup>
+A = 6 (6) <sup>2</sup>
+A = 6 × 36 = 216 units <sup>2</sup>
+Volume of a cube, V = a <sup>3</sup>
+V = (6) <sup>3</sup>
 V = 216 units <sup>3</sup>
 
 **Answer: The surface area of the cube is 216 units <sup>2</sup>. The volume of the cube is 216 units <sup>3</sup>**
@@ -207,5 +208,5 @@ Geometry formulas are useful to find the perimeter, area, volume, and surface ar
 
 All geometry formulas are given in detail above on this page for reference. These formulas can be learnt with practice when the students use them repeatedly. Another way to memorize the geometry formulas is that the students should make a chart of all these formulas and paste it on a place or wall where they usually study. This will help them glance through the formulas more often and this will passively be absorbed by them.
 
-Math worksheets and  
+Math worksheets and
 visual curriculum

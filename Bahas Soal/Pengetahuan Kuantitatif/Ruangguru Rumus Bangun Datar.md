@@ -1,4 +1,5 @@
 ---
+
 title: "Ruangguru Rumus Bangun Datar"
 source: https://www.ruangguru.com/blog/rumus-luas-dan-keliling-bangun-datar
 published: 2025-01-07

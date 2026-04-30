@@ -1,4 +1,5 @@
 ---
+
 title: "Cuemath Area of Trapezoid"
 source: "https://www.cuemath.com/measurement/area-of-trapezoid/"
 author:
@@ -7,7 +8,6 @@ created: 2026-04-22
 tags:
   - "clippings"
 ---
-
 ## Area of Trapezoid
 
 The **area of a trapezoid** is the number of unit squares that can be fit into it and it is measured in square units (like cm <sup>2</sup>, m <sup>2</sup>, in <sup>2</sup>, etc). For example, if 15 unit squares each of length 1 cm can be fit inside a trapezoid, then its area is 15 cm <sup>2</sup>. A trapezoid is a type of quadrilateral with one pair of parallel sides (which are known as bases). It means the other pair of sides can be non-parallel (which are known as legs). It is not always possible to draw unit squares and measure the area of a trapezoid. So, let us learn about the trapezoid area formula and learn how to find the area of a trapezoid without the height in this article.
@@ -184,5 +184,5 @@ If the height of the trapezoid is not given and all its sides are given, then we
 
 The formula that is used to find the area of a trapezoid is expressed as, Area of trapezoid = ½ (a + b) h; where a' and 'b' are the bases (parallel sides) and 'h' is the height of the trapezoid.
 
-Math worksheets and  
+Math worksheets and
 visual curriculum

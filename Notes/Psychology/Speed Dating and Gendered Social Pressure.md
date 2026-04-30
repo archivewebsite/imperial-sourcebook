@@ -1,25 +1,15 @@
 ---
-title: "Why My Friend and I Noped Out of Speed Dating Once We Glimpsed the Men"
+
+title: "Speed Dating and Gendered Social Pressure"
 source: "https://medium.com/the-virago/why-my-friend-and-i-noped-out-of-speed-dating-once-we-glimpsed-the-men-b4652720d27f"
 author:
   - "[[Laura Rosell]]"
 published: 2026-04-08
 created: 2026-04-27
-description: "Why My Friend and I Noped Out of Speed Dating Once We Glimpsed the Men On consent, transparency, and the commodification of women Last fall, my friend Ameliya and I were lamenting about how we wish …"
 tags:
   - "clippings"
 ---
-## [The Virago](https://medium.com/the-virago?source=post_page---publication_nav-4fa64c49202c-b4652720d27f---------------------------------------)
-
-[![The Virago](https://miro.medium.com/v2/resize:fill:76:76/1*Fd7Bv83o4fTYF0-Jieu2MQ.png)](https://medium.com/the-virago?source=post_page---post_publication_sidebar-4fa64c49202c-b4652720d27f---------------------------------------)
-
-We are a community of women who share our personal stories about how we’ve survived and thrived in our lives. We share our messages to heal and help others learn from our experiences.
-
 ## On consent, transparency, and the commodification of women
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*sHz2nuNzqvWU8VtjBVFxuQ.jpeg)
-
-Photo by Shane Ryan Herilalaina on Unsplash
 
 Last fall, my friend Ameliya and I were lamenting about how we wish our city offered more places to connect with single men without having to go to rowdy clubs, adopt hobbies we aren’t organically into, or sacrifice hours to apps. “One of my friends recently met a cool guy at a speed dating event. That might be a better way to find people,” I mused.
 
@@ -155,5 +145,5 @@ We spent the rest of our night at a chill bar across town, debriefing about *why
 
 … and don’t lie about their age.
 
-**About Laura Rosell  
-***From the US, living in Berlin. I write about meaning and human connection. If my writing has inspired you, you can tip me on* [*Ko-fi*](https://ko-fi.com/lmrosell)*!*
+**About Laura Rosell
+***From the US, living in Berlin. I write about meaning and human connection. If my writing has inspired you, you can tip me on* *Ko-fi**!*

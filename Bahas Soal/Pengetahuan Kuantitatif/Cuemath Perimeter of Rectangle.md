@@ -1,4 +1,5 @@
 ---
+
 title: "Cuemath Perimeter of Rectangle"
 source: "https://www.cuemath.com/measurement/perimeter-of-a-rectangle/"
 author:
@@ -7,7 +8,6 @@ created: 2026-04-22
 tags:
   - "clippings"
 ---
-
 ## Perimeter of Rectangle
 
 The **perimeter of a rectangle** is the total distance of its outer boundary. It is twice the sum of its length and width and it is calculated with the help of the formula: Perimeter = 2(length + width).
@@ -166,5 +166,5 @@ No, the area and the perimeter of a rectangle are different. The area of a recta
 
 If the area of a rectangle is given, we need to know either the length or the width of the rectangle to find its perimeter. For example, if the length and the area is known, the width can be calculated: Area = length × width. So, width = Area /length. Now, all the required values to calculate the perimeter of a rectangle are known. So, these values can be substituted in the formula: Perimeter = 2(length + width).
 
-Math worksheets and  
+Math worksheets and
 visual curriculum

@@ -1,4 +1,5 @@
 ---
+
 title: "Cuemath Perimeter of Square"
 source: "https://www.cuemath.com/measurement/perimeter-of-square/"
 author:
@@ -7,7 +8,6 @@ created: 2026-04-22
 tags:
   - "clippings"
 ---
-
 ## Perimeter of Square
 
 The **perimeter of a square** is defined as the total length that its boundary covers. The perimeter of any closed geometrical shape is calculated by finding the distance around that shape. For a square, the perimeter can be calculated by finding the sum of all the sides. Since all four sides are equal, it is four times the length of each side of a square. Let us learn about perimeter of square in detail in this article.
@@ -24,22 +24,22 @@ The perimeter of any shape is either a path that encompasses/surrounds/outlines 
 
 ### Perimeter of Square Formula
 
-The formula to calculate the perimeter of a square can be mathematically expressed as;  
+The formula to calculate the perimeter of a square can be mathematically expressed as;
 **Perimeter of square, (P) = 4 × Side**
 
 **Example:** Calculate the perimeter of a square with each side measuring 7 units.
 
-**Solution:** Given: Side length of square = 7 units.  
+**Solution:** Given: Side length of square = 7 units.
 We know, using the perimeter of a square formula,
 
-Perimeter of square = 4 × Side  
+Perimeter of square = 4 × Side
 ⇒ 4 × 7 = 28 units
 
 ## Derivation of Perimeter of Square Formula
 
 The perimeter of the square is defined as the total length of the boundary of a square. In order to calculate the perimeter of the square, we will find the sum of all of its sides. Since all sides of a square are equal for a square, with each side measuring "s" units, perimeter will thus be given as,
 
-Perimeter of square = s + s + s + s  
+Perimeter of square = s + s + s + s
 ⇒ Perimeter of square = 4s, where "s" is the side length of the square.
 
 ## How to Find Perimeter of a Square?
@@ -63,9 +63,9 @@ In this case, we generally find the perimeter by multiplication of side length w
 The perimeter of the square can also be calculated if the length of its diagonal is known to us. To find the perimeter of a square using the diagonal, we can follow the steps given below:
 
 - **Step 1:** Note down the measurement of the diagonal of the square.
-- **Step 2:** Calculate the side length using the diagonal.  
+- **Step 2:** Calculate the side length using the diagonal.
 	Side = diagonal/√2 = √2 × diagonal/ 2
-- **Step 3:** Multiply this obtained value of side length, (√2 × diagonal/ 2) by 4 and express the answer in units.  
+- **Step 3:** Multiply this obtained value of side length, (√2 × diagonal/ 2) by 4 and express the answer in units.
 	Perimeter = (√2 × diagonal/2) × 4 = (2√2 × diagonal) units.
 
 ### Perimeter of Square Using Area of Square
@@ -73,9 +73,9 @@ The perimeter of the square can also be calculated if the length of its diagonal
 We can find the perimeter of the square given the area. To find the perimeter of a square using the area, we can follow the steps given below:
 
 - **Step 1:** Note down the area of square.
-- **Step 2:** Calculate the side length using the area.  
+- **Step 2:** Calculate the side length using the area.
 	Side = √area
-- **Step 3:** Multiply this obtained value of side length, (√area) by 4 and express the answer in units.  
+- **Step 3:** Multiply this obtained value of side length, (√area) by 4 and express the answer in units.
 	Perimeter = (√area) × 4 = 4√area units.
 
 Let us have a look at a few solved examples to understand the perimeter of the square better.
@@ -87,28 +87,28 @@ Read More
 1. **Example 1:** If the perimeter of a square is 64 units, find its side.
 	**Solution:**
 	Given: Perimeter of square = 64 units.
-	Using the perimeter of a square formula,  
-	Perimeter = (4 × side) units  
-	Substituting the value of perimeter, we get,  
-	64 = 4 × side  
+	Using the perimeter of a square formula,
+	Perimeter = (4 × side) units
+	Substituting the value of perimeter, we get,
+	64 = 4 × side
 	⇒ Side = 64/4 = 16 units
 	**Answer: The side length of the given square measures 16 units.**
 2. **Example 2:** The area of a square is given as 225 square units. Using the perimeter of a square formula, calculate its perimeter.
 	**Solution:**
 	Given: Area of square = 225 square units.
-	We know, area of a square = (side) <sup>2</sup> square units  
-	⇒ 225 = (side) <sup>2</sup>  
+	We know, area of a square = (side) <sup>2</sup> square units
+	⇒ 225 = (side) <sup>2</sup>
 	⇒ side = **√** 225 = 15 units
-	Now, using perimeter of a square formula,  
-	Perimeter, P = 4 × side units  
+	Now, using perimeter of a square formula,
+	Perimeter, P = 4 × side units
 	⇒ P = 4 × 15 = 60 units
 	**Answer: The perimeter of the given square = 60 units.**
 3. **Example 3:** If the diagonal of a square measures 3√2 inches, what will be the perimeter of square?
 	**Solution:**
 	Given: Diagonal of square = 3√2 inches.
-	As we know that in terms of diagonal, the perimeter of square formula is P = (2√2 × diagonal) units.  
-	⇒ P = (2√2 × 3√2) inches  
-	P = 6 × 2 inches  
+	As we know that in terms of diagonal, the perimeter of square formula is P = (2√2 × diagonal) units.
+	⇒ P = (2√2 × 3√2) inches
+	P = 6 × 2 inches
 	p = 12 inches
 	**Answer: The perimeter of the given square = 12 inches.**
 
@@ -175,5 +175,5 @@ Q4: The diagonal of a square is 12 m. Find its perimeter.
 
 Q5: If the area of a square is 169 cm², what is the perimeter of the square?
 
-Math worksheets and  
+Math worksheets and
 visual curriculum

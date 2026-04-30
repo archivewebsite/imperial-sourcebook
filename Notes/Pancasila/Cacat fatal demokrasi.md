@@ -1,27 +1,17 @@
 ---
-title: "Demokrasi Tidak Sesempurna yang Kita Pikir, Dia Punya Cacat Fatal"
+
+title: "Cacat fatal demokrasi"
 source: "https://medium.com/berbagi-berdampak/demokrasi-tidak-sesempurna-yang-kita-pikir-dia-punya-cacat-fatal-f5eb031611f1"
 author:
   - "[[Yopi Makdori]]"
 published: 2026-04-05
 created: 2026-04-27
-description: "MEMBEDAH MITOS DALAM DEMOKRASI Demokrasi Tidak Sesempurna yang Kita Pikir, Dia Punya Cacat Fatal Mengambil Logika ‘Gagal Booting' pada Laptop untuk Pilpres 2019 dan 2024; Konsekuensi Salah …"
 tags:
   - "clippings"
 ---
-## [Berbagi & Berdampak](https://medium.com/berbagi-berdampak?source=post_page---publication_nav-8f182c62f384-f5eb031611f1---------------------------------------)
-
-[![Berbagi & Berdampak](https://miro.medium.com/v2/resize:fill:76:76/1*FkaWa3Je1HsBmyJulfe3Dg.jpeg)](https://medium.com/berbagi-berdampak?source=post_page---post_publication_sidebar-8f182c62f384-f5eb031611f1---------------------------------------)
-
-Hidup terlalu singkat untuk dimiliki sendirian. Kami mengajak berbagi untuk memberikan dampak bersama. Tautan mendaftar sebagai penulis: [http://bit.ly/form-berbagi-berdampak](http://bit.ly/form-berbagi-berdampak)
-
 ## MEMBEDAH MITOS DALAM DEMOKRASI
 
 ## Mengambil Logika ‘Gagal Booting' pada Laptop untuk Pilpres 2019 dan 2024; Konsekuensi Salah Diagnosa?
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*-PKMgg9qCl2DXXsT)
-
-Photo by Arnaud Jaegers on Unsplash
 
 H-2 lebaran hingga malam takbiran saya dipusingkan dengan laptop lama yang berkali-kali gagal *booting* (proses memuat sistem operasi atau OS). Di satu sisi saya senang karena mesin laptop kembali hidup, setelah sebelumnya divonis teknisi (teman yang ahli soal *beginian)* mengalami *chipset* terbakar.
 
@@ -43,8 +33,6 @@ Maka jika sistem berjalan normal *sequence* *booting-* nya seperti ini, Windows 
 
 Sehingga berbagai cara dilakukan, OS tetap menolak untuk dimuat karena sudah rusak. Oke karena sudah ketemu biang keroknya, saya mencoba mengubah urutan *booting* lewat BIOS. Tujuannya supaya SSD di posisi atas sebelum HDD karena OS yang tertanam di SSD belum ada masalah. Kalau saya kukuh membiarkan *booting order* apa adanya, maka sampai kapan pun OS tidak akan pernah bisa dimuat.
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_wuFVKQr0BwMgFFwBSdNSA.png)
-
 Booting Order/Ist.
 
 Ketika *booting order* telah saya ubah pada BIOS, maka secara teori mestinya semua akan normal. Tapi anehnya setelah *restart,* urutan itu kembali ke *default,* yaitu HDD di atas baru SSD.
@@ -56,12 +44,10 @@ Dari situ saya curiga pasti ada masalah lain, dan benar saja yang membuat pengat
 Karena sudah diketahui masalahnya, maka pilihannya hanya ada dua;
 
 > Pertama, saya mengganti baterai CMOS dulu; atau
-> 
+>
 > kedua menghapus *file booting* untuk OS di HDD.
 
 **Karena cara pertama lebih teknis, saya memilih cara kedua untuk mengeliminasi HDD dalam *booting order*. Kali ini bukan lewat BIOS, melainkan lewat *Command Prompt* (CMD) di Recovery System.**
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*mMSwqEtYf8zfXOJmrnq4hg.png)
 
 Disk Checking di CMD/Ist.
 
@@ -107,7 +93,7 @@ Mereka percaya pada “mitos” bahwa ketika masyarakat berada dalam level dewas
 
 > Ada asumsi yang tak terucap bahwa prasyarat membuat masyarakat dewasa dalam berdemokrasi adalah lewat pendidikan.
 
-**Konsep soal kedewasaan dalam berdemokrasi sebetulnya secara tidak langsung mencomot logika John Stuart Mill, salah satu dedengkot filsuf liberal klasik, soal “masyarakat terbelakang.” Lewat buku “** [**On Liberty**](https://mega.nz/file/ulRHDIjB#KZNyyUDMEr3bT7H3l-KkgFZjL9Tw9beZqJcM4Vi1IA4) **” dia secara eksplisit merumuskan hierarki masyarakat dalam berdemokrasi.**
+**Konsep soal kedewasaan dalam berdemokrasi sebetulnya secara tidak langsung mencomot logika John Stuart Mill, salah satu dedengkot filsuf liberal klasik, soal “masyarakat terbelakang.” Lewat buku “** **On Liberty** **” dia secara eksplisit merumuskan hierarki masyarakat dalam berdemokrasi.**
 
 *Cuman* bedanya, dalam buku itu Mill mengizinkan untuk membatasi kebebasan pada masyarakat yang belum dewasa (*nonage*) atau menurut dia masyarakat terbelakang. Sehingga menurut Mill, kebebasan itu eksklusif untuk “ras Eropa,” ras yang bagi dia sudah dewasa berpolitik.
 
@@ -161,7 +147,7 @@ Tapi bagaimana jika secara psikologis, seluruh peserta di ruangan itu merasa bah
 
 ## Rational Irrationality
 
-**Ekonom Bryan Caplan lewat “** [**The Myth of the Rational Voter**](https://mega.nz/file/cUYF2RzC#go8pD10nbb9sO38RZQHQZupL8Zyj8SkPYLAWV-lisOo) **” memberikan penjelasan mengapa orang memilih jawaban yang salah secara berjamaah.** Ekonom George Mason University itu mencetuskan *rational irrationality*, atau irasionalitas rasional.
+**Ekonom Bryan Caplan lewat “** **The Myth of the Rational Voter** **” memberikan penjelasan mengapa orang memilih jawaban yang salah secara berjamaah.** Ekonom George Mason University itu mencetuskan *rational irrationality*, atau irasionalitas rasional.
 
 Saya tidak akan menjelaskan secara *textbook*, kita langsung meloncat ke contoh;
 
@@ -227,7 +213,7 @@ Medan rebutan ini berisi “aspirasi populer” yang diidam-idamkan rakyat. Sehi
 
 Begitu kita memasukkan banyak isu sekaligus, seperti ekonomi, sosial, lingkungan, hingga kebijakan luar negeri; model itu langsung hancur.
 
-Kehancuran model ini bukan sekadar spekulatif, tetapi ada bukti matematisnya. **Matematikawan Kenneth Arrow membuktikan lewat** [***Impossibility Theorem***](https://plato.stanford.edu/entries/arrows-theorem/) **\-nya bahwa ketika ada lebih dari dua pilihan dalam isu yang multidimensi, kehendak mayoritas yang koheren pada dasarnya tidak ada.**
+Kehancuran model ini bukan sekadar spekulatif, tetapi ada bukti matematisnya. **Matematikawan Kenneth Arrow membuktikan lewat** ***Impossibility Theorem*** **\-nya bahwa ketika ada lebih dari dua pilihan dalam isu yang multidimensi, kehendak mayoritas yang koheren pada dasarnya tidak ada.**
 
 Misalnya ada tiga kelompok pemilih yang harus memilih tiga kebijakan, kita sebut A, B, dan C. Kelompok pertama lebih suka A daripada B, B daripada C. Kelompok kedua suka B daripada C, C daripada A.
 
@@ -245,7 +231,7 @@ Tapi memang untuk isu yang dekat dengan kehidupan sehari-hari, seperti anggaran 
 
 Artinya, mereka bakal menginginkan agenda-agenda populer (agenda bulat). Meskipun demikian, ternyata tetap tidak sekuat yang kita bayangkan.
 
-**Dalam “** [**Democracy for Realists**](https://mega.nz/file/sRgBkDwA#rCmDZFKIjjCzjNp3czWIWnLMXXC1m5vjSNpix7rwbm8) **” karya Christopher H. Achen dan Larry Bartels menyajikan contoh nyata tentang *framing effect*.**
+**Dalam “** **Democracy for Realists** **” karya Christopher H. Achen dan Larry Bartels menyajikan contoh nyata tentang *framing effect*.**
 
 Di Amerika Serikat, peneliti melakukan survei opini berskala besar.
 
@@ -311,46 +297,4 @@ Ketimpangan di negara demokrasi tidak ubahnya dengan ketimpangan ekonomi yang te
 
 Lalu, apa solusinya?
 
-==Adakah sistem lain yang lebih baik? Tulis keresahanmu di kolom komentar.==[Last published 12 hours ago](https://medium.com/berbagi-berdampak/influencer-c3a4dcf8582f?source=post_page---post_publication_info--f5eb031611f1---------------------------------------)
-
-Hidup terlalu singkat untuk dimiliki sendirian. Kami mengajak berbagi untuk memberikan dampak bersama. Tautan mendaftar sebagai penulis: [http://bit.ly/form-berbagi-berdampak](http://bit.ly/form-berbagi-berdampak)
-
-## Responses (10)
-
-Raja Premium 88[putrimelati\_123](https://medium.com/@putrimelati0873?source=post_page---post_responses--f5eb031611f1----0-----------------------------------)
-
-[
-
-Apr 5
-
-](https://medium.com/@putrimelati0873/aku-juga-pernah-menulis-bahwa-demokrasi-ternyata-bukan-sistem-terbaik-sebelum-pilpres-kemaren-0f5d0459fbc2?source=post_page---post_responses--f5eb031611f1----0-----------------------------------)
-
-==Adakah sistem lain yang lebih baik? Tulis keresahanmu di kolom komentar.==
-
-```c
-Aku juga pernah menulis bahwa demokrasi ternyata bukan sistem terbaik sebelum pilpres kemaren. 
-
-Menurutku sistem terbaik ya seperti zaman Rasulullah jadi khalifah.
-```
-
-3
-
-==Alih-alih mengevaluasi posisi itu secara kritis, pemilih ini secara psikologis mengubah pandangannya sendiri tentang jaminan sosial agar sesuai dengan opini kandidat idolanya.==
-
-```c
-Saya pernah menonton video yg menjelaskan tentang ini di channel YouTube Veritasium, dan kesimpulan yang saya tarik bahwa orang pintar sekalipun akan jadi "bodoh" begitu sudah membahas politik..
-```
-
-2
-
-==Supaya lebih membumi dan kontekstual, asumsikan begini 56 persen penduduk di suatu negara serempak memilih sepasang presiden dan wakilnya, bukan gara-gara kompetensi atau kinerjanya, ta...==
-
-```c
-Ada satu influencer wanita terkenal dengan "otak kosongnya" yang sekaligus menjadi nilai jualnya, ngomong bahwa dia memilih salah satu kandidat capres dan cawapres karena menurut dia mereka itu gemoy..
-
-Bayangkan berapa banyak orang yang terpengaruh gara-gara ucapannya di media sosial itu...
-
-Anyway, tulisan ini bagus sekali!
-```
-
-1
+==Adakah sistem lain yang lebih baik? Tulis keresahanmu di kolom komentar.==Last published 12 hours ago

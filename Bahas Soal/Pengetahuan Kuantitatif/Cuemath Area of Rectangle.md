@@ -1,4 +1,5 @@
 ---
+
 title: "Cuemath Area of Rectangle"
 source: "https://www.cuemath.com/measurement/area-of-rectangle/"
 author:
@@ -7,7 +8,6 @@ created: 2026-04-22
 tags:
   - "clippings"
 ---
-
 ## Area of Rectangle
 
 The **area of a rectangle** is the region occupied within the boundary of the rectangle. In other words, the amount of surface enclosed by a rectangle is called the area of the rectangle. This can be calculated using the area of rectangle formula and using various methods depending on the given dimensions. Let us learn how to find the area of a rectangle in this lesson.
@@ -240,5 +240,5 @@ The area of a rectangle can be calculated if the perimeter and one of its sides 
 - Step 2: Now, we have the length = 11 units, width = 4 units. So, we can find the area using the formula, Area of rectangle = l × w
 - Step 3: After substituting the values in the formula, we get, Area of rectangle = l × w = 11 × 4 = 44 square units
 
-Math worksheets and  
+Math worksheets and
 visual curriculum

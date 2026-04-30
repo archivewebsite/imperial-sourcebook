@@ -1,4 +1,5 @@
 ---
+
 title: "Cuemath Area of Square"
 source: "https://www.cuemath.com/measurement/area-of-square/"
 author:
@@ -7,7 +8,6 @@ created: 2026-04-22
 tags:
   - "clippings"
 ---
-
 ## Area of Square
 
 The **area of a square** is defined as the number of square units needed to fill this shape. In other words, the area of a square is the region occupied within its boundary. When we want to find the area of a square, we consider the length of its side. Since all the sides of the shape are equal, its area is the product of its two sides. The common units used to measure the area of the square are square meters, square feet, square inches, and square cm.
@@ -58,15 +58,15 @@ We can find the area of a square using different methods depending on the values
 
 **Example:** Find the area of a square park whose perimeter is 360 ft.
 
-**Solution:**  
-Given: Perimeter of the square park = 360 ft  
-We know that,  
-Perimeter of a square = 4 × side  
-⇒ 4 × side = 360  
-⇒ side = 360/4  
-⇒ side = 90 ft  
-Area of a square = side <sup>2</sup>  
-Hence, Area of the square park = 90 <sup>2</sup> = 90 × 90 = 8100 ft <sup>2</sup>  
+**Solution:**
+Given: Perimeter of the square park = 360 ft
+We know that,
+Perimeter of a square = 4 × side
+⇒ 4 × side = 360
+⇒ side = 360/4
+⇒ side = 90 ft
+Area of a square = side <sup>2</sup>
+Hence, Area of the square park = 90 <sup>2</sup> = 90 × 90 = 8100 ft <sup>2</sup>
 Thus, the area of a square park whose perimeter is 360 ft is 8100 ft <sup>2</sup>
 
 ### Area of Square When the Side of Square is Given
@@ -201,5 +201,5 @@ Q4: If the area of a square is 100 sq ft, find the ratio of the area to perimete
 
 Q5: The diagonal of a square is 110 m. The area of the square is \_\_\_
 
-Math worksheets and  
+Math worksheets and
 visual curriculum

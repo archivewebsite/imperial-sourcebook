@@ -1,17 +1,15 @@
 ---
-title: "In Obsidian, Titles Are Everything"
+
+title: "Obsidian Title Quality"
 source: "https://kurtis-redux.medium.com/in-obsidian-titles-are-everything-f173648b3ffc"
 author:
   - "[[Kurtis Redux]]"
 published: 2026-04-06
 created: 2026-04-29
-description: "the Vaguer They Are, the Less They’re Worth"
 tags:
   - "clippings"
 ---
 ## the Vaguer They Are, the Less They’re Worth
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*7ms2x58G_J_fGEzC56SCRg.png)
 
 Think back to that first weekend you spun up an Obsidian vault.
 
@@ -30,8 +28,6 @@ After a few years of this, I’m confident the root of the chaos starts at the v
 ## Why, in Obsidian, the Title Is Everything
 
 Traditional note apps leaned on tree-style folders — a carryover from older file systems. In Obsidian, the core mechanic is bidirectional links. That doesn’t mean folders and tags don’t matter; it means links are first-class citizens, and everything else supports how notes connect.
-
-![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qBwY2MogUyp-R4irCbmJqQ.png)
 
 But whether you rely on links, folders, or tags, your ability to connect notes is still tightly coupled to titles. Two years from now, when you’re hunting for a point to back a new article, the thing that will most likely reunite you with an old note is a title that happens to match the very term your brain naturally surfaces.
 
@@ -74,8 +70,6 @@ By my logic above, if you can state that conclusion, it’s because you’ve alr
 ## Trap 4: Abusing Zettelkasten IDs
 
 Beginners enamored with Luhmann’s Zettelkasten often prefix notes with timestamps, e.g., \[\[202403281423–Deliberate Practice\]\]. Obsidian even has a core plugin for this.
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*V5Z5TUQTe_65Vvp0oBntFg.png)
 
 Luhmann used numeric IDs because he had physical cards in a wooden box — he needed a way to anchor notes in physical space. We, however, have millisecond search.
 

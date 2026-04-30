@@ -1,0 +1,1 @@
+![[20260414 small spark.jpg]]

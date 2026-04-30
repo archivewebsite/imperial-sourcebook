@@ -1,4 +1,5 @@
 ---
+
 title: "Cuemath Circumference of Circle"
 source: "https://www.cuemath.com/geometry/circumference-of-a-circle/"
 author:
@@ -7,7 +8,6 @@ created: 2026-04-22
 tags:
   - "clippings"
 ---
-
 ## Circumference of Circle
 
 The **circumference of a circle** is the perimeter of the circle. It is the total length of the boundary of the circle. The circumference of a circle is the product of the constant π and the diameter of the circle. A person walking across a circular park, or a circular table to be bordered requires this metric of the circumference of a circle. The circumference is a linear value and its units are the same as the units of length.
@@ -156,5 +156,5 @@ The diameter of the circle is the longest chord that passes through the center o
 
 The circumference of the circle can be calculated if the diameter is known because the relationship between the circumference and diameter of the circle is expressed as, Circumference = π × Diameter, or, diameter = Circumference/π.
 
-Math worksheets and  
+Math worksheets and
 visual curriculum

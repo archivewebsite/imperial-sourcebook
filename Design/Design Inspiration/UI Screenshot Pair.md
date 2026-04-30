@@ -1,3 +1,3 @@
 UI/UX
-![[20260414_152528.jpg]]
-![[20260414_152530.jpg]]
+![[20260414 UI screenshot 1.jpg]]
+![[20260414 UI screenshot 2.jpg]]

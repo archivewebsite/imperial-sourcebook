@@ -1,4 +1,5 @@
 ---
+
 title: "Cuemath Area of Circle"
 source: "https://www.cuemath.com/geometry/area-of-a-circle/"
 author:
@@ -7,7 +8,6 @@ created: 2026-04-22
 tags:
   - "clippings"
 ---
-
 ## Area of a Circle
 
 The area of a circle is the space occupied by the circle in a two-dimensional plane. Alternatively, the space occupied within the boundary/circumference of a circle is called the area of the circle. The formula for the area of a circle is A = πr <sup>2</sup>, where r is the radius of the circle. The unit of area is the square unit, for example, m <sup>2</sup>, cm <sup>2</sup>, in <sup>2</sup>, etc.
@@ -346,5 +346,5 @@ Q4: If the radius of a circle is doubled by what factor does its area increase?
 
 Q5: If the ratio of the radii of two circles is given as 4:5, calculate the ratio of their areas.
 
-Math worksheets and  
+Math worksheets and
 visual curriculum

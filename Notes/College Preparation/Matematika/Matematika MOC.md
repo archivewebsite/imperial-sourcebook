@@ -4,7 +4,7 @@
 
 ## Start Here
 
-- [[Bunga tunggal dan bunga majemuk]]
+- [[Bunga Tunggal dan Bunga Majemuk]]
 - [[Rumus geometri|Rumus Geometri]]
 - [[Limit Definition of the Derivative|The Limit Definition of the Derivative]]
 
@@ -12,7 +12,7 @@
 
 - [[Aturan bilangan habis dibagi|Aturan Bilangan Habis Dibagi]]
 - [[Barisan dan deret|Barisan dan Deret]]
-- [[Bunga tunggal dan bunga majemuk]]
+- [[Bunga Tunggal dan Bunga Majemuk]]
 - [[Eksponen dan Logaritma]]
 - [[Formula operasi aljabar|Formula Operasi Aljabar]]
 - [[Fraction to Decimal Reference]]

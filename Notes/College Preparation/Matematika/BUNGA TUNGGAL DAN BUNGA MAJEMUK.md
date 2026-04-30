@@ -1,5 +1,3 @@
-# Bunga tunggal dan bunga majemuk
-
 ## BAGIAN 1 — BUNGA TUNGGAL
 
 ### Pengertian

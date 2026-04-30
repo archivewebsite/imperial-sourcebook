@@ -2,8 +2,8 @@
 
 These guidelines capture patterns from the example folders:
 
-- `Inbox/contoh soal penalaran matematika`
-- `Inbox/contoh soal pengetahuan kuantitatif`
+- `Bahas Soal/Templates/Contoh Soal Penalaran Matematika`
+- `Bahas Soal/Templates/Contoh Soal Pengetahuan Kuantitatif`
 
 Treat those folders as references for good practice-question style. Do not copy them as templates.
 

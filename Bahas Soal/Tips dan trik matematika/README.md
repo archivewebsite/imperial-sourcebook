@@ -34,6 +34,5 @@ Rujukan utama yang dipakai untuk menyusun kumpulan ini:
 - [OpenStax Calculus Volume 1 - Key Equations, Chapter 2](https://openstax.org/books/calculus-volume-1/pages/2-key-equations)
 - [OpenStax Calculus Volume 1 - Key Equations, Chapter 3](https://openstax.org/books/calculus-volume-1/pages/3-key-equations)
 - [OpenStax Calculus Volume 1 - Key Equations, Chapter 5](https://openstax.org/books/calculus-volume-1/pages/5-key-equations)
-- [Paul's Online Math Notes - Cheat Sheets](https://tutorial.math.lamar.edu/index.aspx/Extras/mystudents.aspx)
+- [Paul's Online Math Notes - Cheat Sheets & Tables](https://tutorial.math.lamar.edu/cheat_table.aspx)
 - [Wolfram MathWorld - Number Theory](https://mathworld.wolfram.com/NumberTheory.html)
-

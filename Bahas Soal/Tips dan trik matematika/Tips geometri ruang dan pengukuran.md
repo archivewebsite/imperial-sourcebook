@@ -139,6 +139,13 @@ Jebakan: pangkat satuan mengikuti dimensi, bukan sekadar tambah nol biasa.
 - Untuk permukaan dicat, tentukan apakah alas ikut dicat.
 - Untuk wadah terisi sebagian, cari tinggi cairan dari volume.
 
+## Jebakan umum
+
+- Rumus luas selimut prisma $K_{\text{alas}}\cdot t$ berlaku langsung untuk prisma tegak; prisma miring perlu informasi tinggi sisi tegaknya.
+- Jangan mencampur satuan panjang, luas, dan volume; konversi satuan harus mengikuti pangkat dimensinya.
+- Garis pelukis kerucut bukan tinggi kerucut.
+- Untuk setengah bola, pastikan apakah alas lingkarannya ikut dihitung sebagai permukaan.
+
 ## Terkait
 
 - [[Tips geometri bidang]]
@@ -147,5 +154,4 @@ Jebakan: pangkat satuan mengikuti dimensi, bukan sekadar tambah nol biasa.
 
 ## Sumber rujukan
 
-- [OpenStax Precalculus 2e - Key Equations, Chapter 10](https://openstax.org/books/precalculus-2e/pages/10-key-equations)
-
+- [OpenStax Prealgebra 2e - Geometric Formulas](https://openstax.org/books/prealgebra-2e/pages/c-geometric-formulas)

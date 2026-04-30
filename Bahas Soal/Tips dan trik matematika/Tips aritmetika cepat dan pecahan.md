@@ -151,11 +151,13 @@ Jangan kalikan semua jika hanya perlu membandingkan. Untuk $a\frac{b}{c}$, lihat
 
 Gunakan untuk membuang opsi yang terlalu jauh sebelum menghitung persis.
 
-## Jangan pakai jika
+## Jebakan umum
 
 - Soal meminta pembuktian, bukan hasil numerik.
 - Bilangan tidak dekat patokan dan trik justru menambah langkah.
 - Pecahan punya penyebut negatif; normalkan tanda dulu.
+- Pada pembulatan kompensasi, hasil perkiraan tetap harus dicek dengan batas atas dan batas bawah jika opsi berdekatan.
+- Trik digit terakhir hanya memeriksa satu digit; hasil yang digit akhirnya benar masih bisa salah.
 
 ## Terkait
 

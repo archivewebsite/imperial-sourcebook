@@ -15,6 +15,7 @@ Add new dated entries at the top of this section.
 - Task type: `note-update`
 - Created `Bahas Soal/Tips dan trik matematika/` with a topic-split Obsidian Markdown collection for math tips and tricks: arithmetic, percent/ratio, number theory, algebra, equations/functions, exponents/logs/radicals, sequences, plane geometry, solid geometry, coordinate geometry, trigonometry, combinatorics, probability, statistics, calculus, logic/sets, and word-problem strategy.
 - Replaced the old monolithic `Bahas Soal/Trik dan Tips Matematika.md` body with an index pointing to the new topic files, and refreshed `Bahas Soal/README.md` plus `Bahas Soal/Bahas Soal MOC.md` so the new collection is discoverable.
+- Audited the new math tips collection for Obsidian structure, wikilinks, MathJax delimiter balance, source URL reachability, and explicit arithmetic examples; added missing `Jebakan umum` sections to the arithmetic and solid-geometry notes and replaced the solid-geometry source with a more directly relevant OpenStax geometric-formulas reference.
 - Task type: `note-update`
 - Created `Bahas Soal/Trik dan Tips Matematika.md` as a comprehensive companion to `Trik Pembagian Persen dan Desimal.md`. Covers arithmetic shortcuts, divisibility, percentages, algebra identities, exponents/logs, surds, statistics, probability, combinatorics, number theory, plane and coordinate geometry, trigonometry, sequences/series, logic, calculus, word-problem patterns, estimation, UTBK strategy, and a quick-reference cheatsheet. Cross-linked to `Trik Pembagian Persen dan Desimal` and `Bahas Soal MOC`.
 - Task type: `global-practice-template-system`
@@ -102,6 +103,7 @@ Add new dated entries at the top of this section.
 
 ### Notes
 - Counts: 1 new tips folder, 1 folder README, 1 MOC, 17 topic Markdown notes, and 3 existing navigation notes updated.
+- Counts: review pass checked 19 notes, 21 internal-linking files, 17 unique external URLs, and 20 explicit arithmetic examples; 0 broken wikilinks, 0 unbalanced MathJax blocks, 0 failed URLs, and 0 failed arithmetic checks remain.
 - Left unresolved: the collection is broad school/UTBK/early-calculus coverage, not an olympiad-only or university-advanced compendium.
 - Counts: 1 global Templates folder created, 1 Templates README added, 1 guidelines note added, 6 global template files added, and 5 existing Bahas Soal guidance/template files updated.
 - Left unresolved: the Inbox example folders remain in Inbox as reference material and were not moved or converted.

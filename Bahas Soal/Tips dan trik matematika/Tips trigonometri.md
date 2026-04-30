@@ -151,5 +151,4 @@ $$
 ## Sumber rujukan
 
 - [OpenStax Precalculus 2e - Key Equations, Chapter 7](https://openstax.org/books/precalculus-2e/pages/7-key-equations)
-- [Paul's Online Math Notes - Trig Cheat Sheets](https://tutorial.math.lamar.edu/index.aspx/Extras/mystudents.aspx)
-
+- [Paul's Online Math Notes - Trig Cheat Sheets](https://tutorial.math.lamar.edu/cheat_table.aspx)

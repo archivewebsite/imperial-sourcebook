@@ -43,20 +43,22 @@ Perhatikan stimulus berikut untuk menjawab soal nomor 1 sampai [N].
 
 ### Nomor 1
 
-**Materi:** [Materi]  
+**Materi:** [Materi]
+
 **Format:** Pilihan Ganda
 
 [Question based on the stimulus]
 
-A. [Option A]  
-B. [Option B]  
-C. [Option C]  
-D. [Option D]  
+A. [Option A]
+B. [Option B]
+C. [Option C]
+D. [Option D]
 E. [Option E]
 
 ### Nomor 2
 
-**Materi:** [Materi]  
+**Materi:** [Materi]
+
 **Format:** Benar/Salah
 
 Klik pada kolom yang sesuai untuk tiap pernyataan berikut.
@@ -69,14 +71,16 @@ Klik pada kolom yang sesuai untuk tiap pernyataan berikut.
 
 ### Nomor 3
 
-**Materi:** [Materi]  
+**Materi:** [Materi]
+
 **Format:** Isian Singkat
 
 [Short-answer question based on the stimulus]
 
 ### Nomor 4
 
-**Materi:** [Materi]  
+**Materi:** [Materi]
+
 **Format:** Kecukupan Data
 
 [Data sufficiency question]
@@ -84,9 +88,8 @@ Klik pada kolom yang sesuai untuk tiap pernyataan berikut.
 1. [Statement 1]
 2. [Statement 2]
 
-A. Pernyataan (1) SAJA cukup untuk menjawab pertanyaan, tetapi pernyataan (2) SAJA tidak cukup.  
-B. Pernyataan (2) SAJA cukup untuk menjawab pertanyaan, tetapi pernyataan (1) SAJA tidak cukup.  
-C. DUA pernyataan BERSAMA-SAMA cukup untuk menjawab pertanyaan, tetapi SATU pernyataan SAJA tidak cukup.  
-D. Salah satu pernyataan SAJA cukup untuk menjawab pertanyaan.  
+A. Pernyataan (1) SAJA cukup untuk menjawab pertanyaan, tetapi pernyataan (2) SAJA tidak cukup.
+B. Pernyataan (2) SAJA cukup untuk menjawab pertanyaan, tetapi pernyataan (1) SAJA tidak cukup.
+C. DUA pernyataan BERSAMA-SAMA cukup untuk menjawab pertanyaan, tetapi SATU pernyataan SAJA tidak cukup.
+D. Salah satu pernyataan SAJA cukup untuk menjawab pertanyaan.
 E. Pernyataan (1) dan pernyataan (2) tidak cukup untuk menjawab pertanyaan.
-

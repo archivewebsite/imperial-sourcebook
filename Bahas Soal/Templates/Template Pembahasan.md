@@ -25,7 +25,8 @@ Generator rules:
 
 ### Nomor 1
 
-**Materi:** [Materi]  
+**Materi:** [Materi]
+
 **Ide utama:** [Main idea]
 
 1. [Reasoning step]
@@ -38,11 +39,11 @@ Generator rules:
 
 ### Nomor 2
 
-**Materi:** [Materi]  
+**Materi:** [Materi]
+
 **Ide utama:** [Main idea]
 
 1. [Reasoning step]
 2. [Reasoning step]
 
 **Jawaban akhir:** [Final answer]
-

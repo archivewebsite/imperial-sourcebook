@@ -13,6 +13,13 @@ Add new dated entries at the top of this section.
 
 ### Changed
 - Task type: `note-update`
+- Created `Bahas Soal/Trik dan Tips Matematika.md` as a comprehensive companion to `Trik Pembagian Persen dan Desimal.md`. Covers arithmetic shortcuts, divisibility, percentages, algebra identities, exponents/logs, surds, statistics, probability, combinatorics, number theory, plane and coordinate geometry, trigonometry, sequences/series, logic, calculus, word-problem patterns, estimation, UTBK strategy, and a quick-reference cheatsheet. Cross-linked to `Trik Pembagian Persen dan Desimal` and `Bahas Soal MOC`.
+- Task type: `global-practice-template-system`
+- Created `Bahas Soal/Templates/` with global Markdown templates for `Set`, `Kuis`, `Drill`, `Paket Stimulus`, `Pembahasan`, and `Kunci`, plus shared planning-header and quality-control guidance.
+- Added `Drill` as the rapid-repetition micro-skill practice type and `Paket Stimulus` as the UTBK-style stimulus-packet practice type.
+- Added practice-question guidelines based on `Inbox/contoh soal penalaran matematika` and `Inbox/contoh soal pengetahuan kuantitatif` as reference examples, not templates.
+- Updated `Bahas Soal/README.md`, `Bahas Soal/Bahas Soal MOC.md`, and the Matematika Dasar template guidance so future problem files can follow the global standard.
+- Task type: `note-update`
 - Created `Bahas Soal/Matematika Dasar/Bilangan Berpangkat dan Bentuk Akar/Set/Set 2.md` and `Set 3.md` with more open-ended practice on exponent laws, scientific notation, rational exponents, mixed root operations, and rationalization.
 - Task type: `template-enhancement`
 - Added `Fokus keterampilan`, `Jumlah soal`, `Estimasi waktu`, `Tujuan Latihan`, `Kisi-Kisi`, companion answer-file pointers, and hidden generator rules to the Matematika Dasar `Set` and `Kuis` templates.
@@ -91,6 +98,8 @@ Add new dated entries at the top of this section.
 - Replaced Sourcebook wikilinks to moved AI lab-reference notes with plain cross-vault context.
 
 ### Notes
+- Counts: 1 global Templates folder created, 1 Templates README added, 1 guidelines note added, 6 global template files added, and 5 existing Bahas Soal guidance/template files updated.
+- Left unresolved: the Inbox example folders remain in Inbox as reference material and were not moved or converted.
 - Counts: 2 Set practice files added, 40 student-facing questions created, and 0 answer or solution files added.
 - Left unresolved: companion `Set 2 - Pembahasan.md` and `Set 3 - Pembahasan.md` files were not created because this pass only asked for practice questions.
 - Counts: 2 templates enhanced, 1 current Set updated to the enhanced structure, 1 Matematika Dasar README refreshed, and 0 export-tool workflows added.

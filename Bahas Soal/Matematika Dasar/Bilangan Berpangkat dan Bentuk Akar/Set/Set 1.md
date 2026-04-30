@@ -1,8 +1,23 @@
 # Set 1 - Matematika Dasar
 
-Topik: Bilangan berpangkat dan bentuk akar  
-Tanggal: Kamis - 30/04/2026  
-Tingkat: easy-intermediate
+- Topik: Bilangan berpangkat dan bentuk akar
+- Fokus keterampilan: Menyederhanakan bentuk akar, operasi bentuk akar, dan rasionalisasi penyebut
+- Tanggal: Kamis - 30/04/2026
+- Tingkat: easy-intermediate
+- Jumlah soal: 20
+- Estimasi waktu: 30 menit
+- Pembahasan: `Set 1 - Pembahasan.md`
+
+## Tujuan Latihan
+
+Melatih penyederhanaan bentuk akar dari operasi dasar sampai kombinasi operasi dan rasionalisasi penyebut.
+
+## Kisi-Kisi
+
+| Tingkat | Fokus | Jumlah |
+|---|---|---:|
+| easy | Operasi dasar dan penyederhanaan bentuk akar | 10 |
+| intermediate | Kombinasi operasi, rasionalisasi, akar pangkat tiga, dan syarat bentuk akar | 10 |
 
 ## Soal
 
@@ -129,4 +144,3 @@ Tingkat: easy-intermediate
     $$
     \sqrt{2x-6}
     $$
-

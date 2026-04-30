@@ -12,6 +12,12 @@ Add new dated entries at the top of this section.
 ## 2026-04-30
 
 ### Changed
+- Task type: `note-update`
+- Created `Bahas Soal/Matematika Dasar/Bilangan Berpangkat dan Bentuk Akar/Set/Set 2.md` and `Set 3.md` with more open-ended practice on exponent laws, scientific notation, rational exponents, mixed root operations, and rationalization.
+- Task type: `template-enhancement`
+- Added `Fokus keterampilan`, `Jumlah soal`, `Estimasi waktu`, `Tujuan Latihan`, `Kisi-Kisi`, companion answer-file pointers, and hidden generator rules to the Matematika Dasar `Set` and `Kuis` templates.
+- Updated the current `Bilangan Berpangkat dan Bentuk Akar/Set/Set 1.md` with the enhanced Set metadata and planning sections.
+- Refreshed `Bahas Soal/Matematika Dasar/README.md` so future generated practice files use the enhanced Markdown template fields consistently.
 - Task type: `markdown-template-migration`
 - Replaced the Matematika Dasar LaTeX template workflow with Markdown-first `Template Set.md` and `Template Kuis.md` files.
 - Regenerated `Bahas Soal/Matematika Dasar/README.md` so `Set N` and `Kuis N` documentation uses Markdown as the core file format and no longer references TeXstudio, LaTeX, Pandoc, or Typst.
@@ -85,6 +91,9 @@ Add new dated entries at the top of this section.
 - Replaced Sourcebook wikilinks to moved AI lab-reference notes with plain cross-vault context.
 
 ### Notes
+- Counts: 2 Set practice files added, 40 student-facing questions created, and 0 answer or solution files added.
+- Left unresolved: companion `Set 2 - Pembahasan.md` and `Set 3 - Pembahasan.md` files were not created because this pass only asked for practice questions.
+- Counts: 2 templates enhanced, 1 current Set updated to the enhanced structure, 1 Matematika Dasar README refreshed, and 0 export-tool workflows added.
 - Counts: 2 Markdown templates added, 1 current Set converted to Markdown, 1 topic material folder normalized, 6 legacy LaTeX files removed, and 2 README files updated.
 - Counts: 1 `.gitignore` updated and 1 Matematika Dasar README build workflow section added.
 - Superseded later on 2026-04-30: existing generated LaTeX files in `Matematika Dasar` were removed during the Markdown migration.

@@ -44,14 +44,29 @@ Matematika Dasar/
 
 ## Problem Sheet Format
 
-Every file should start with a simple header:
+Every file should start with a simple header and a short generation plan:
 
 ```md
 # Set N - Matematika Dasar
 
-Topik: [Problem Topic]
-Tanggal: Hari - DD/MM/YYYY
-Tingkat: easy / intermediate / difficult
+- Topik: [Problem Topic]
+- Fokus keterampilan: [Skill focus]
+- Tanggal: Hari - DD/MM/YYYY
+- Tingkat: easy / intermediate / difficult
+- Jumlah soal: [N]
+- Estimasi waktu: [minutes] menit
+- Pembahasan: `Set N - Pembahasan.md`
+
+## Tujuan Latihan
+
+[One short sentence explaining what this set trains.]
+
+## Kisi-Kisi
+
+| Tingkat | Fokus | Jumlah |
+|---|---|---:|
+| easy | [Focus] | [N] |
+| intermediate | [Focus] | [N] |
 ```
 
 For `Kuis`, use:
@@ -59,11 +74,39 @@ For `Kuis`, use:
 ```md
 # Kuis N - Matematika Dasar
 
-Topik: [Problem Topic]
-Tanggal: Hari - DD/MM/YYYY
-Tipe: Pilihan ganda
-Tingkat: campuran intermediate-difficult
+- Topik: [Problem Topic]
+- Fokus keterampilan: [Skill focus]
+- Tanggal: Hari - DD/MM/YYYY
+- Tipe: Pilihan ganda
+- Tingkat: campuran intermediate-difficult
+- Jumlah soal: [N]
+- Estimasi waktu: [minutes] menit
+- Kunci: `Kuis N - Kunci.md`
+
+## Tujuan Latihan
+
+[One short sentence explaining what this quiz tests.]
+
+## Kisi-Kisi
+
+| Fokus | Jumlah |
+|---|---:|
+| [Focus area 1] | [N] |
+| [Focus area 2] | [N] |
+| Jebakan konsep umum | [N] |
 ```
+
+Keep `Tujuan Latihan` short. Use `Kisi-Kisi` to control question distribution before generating or editing the actual problems.
+
+## Required Fields
+
+- `Topik`: the exact math topic folder or subtopic.
+- `Fokus keterampilan`: the specific skill being trained, such as simplifying radicals, rationalizing denominators, or solving exponent rules.
+- `Tanggal`: generation or assignment date in `Hari - DD/MM/YYYY` format.
+- `Tingkat`: one difficulty level for uniform files, or a mixed range such as `easy-intermediate`.
+- `Jumlah soal`: the intended total number of questions.
+- `Estimasi waktu`: realistic student working time.
+- `Pembahasan` or `Kunci`: the companion answer file name, kept separate from the student-facing sheet.
 
 ## Set Rules
 
@@ -72,6 +115,7 @@ Tingkat: campuran intermediate-difficult
 - If one file intentionally contains multiple levels, split it with short sections such as `### Tingkat easy`, `### Tingkat intermediate`, and `### Tingkat difficult`.
 - Keep question numbering continuous unless a separate section needs its own numbering.
 - Use display math with `$$ ... $$` for expressions that should stand alone.
+- Make the number of questions match `Jumlah soal` and the `Kisi-Kisi` table.
 
 ## Kuis Rules
 
@@ -79,6 +123,9 @@ Tingkat: campuran intermediate-difficult
 - Mix intermediate to difficult questions unless a task explicitly asks for another range.
 - Keep options short and parallel when possible.
 - Do not include the answer key inside the student-facing sheet unless the file is explicitly marked as a key or solution version.
+- Make exactly one option correct.
+- Build distractors from common mistakes instead of random values.
+- Make the number of questions match `Jumlah soal` and the `Kisi-Kisi` table.
 
 ## Template Use
 
@@ -87,8 +134,13 @@ Use `Template Set.md` for open-ended practice and `Template Kuis.md` for multipl
 1. Copy the matching template into the correct topic and material folder.
 2. Rename it to `Set N.md` or `Kuis N.md`.
 3. Replace `N`, `[Problem Topic]`, the date, and the placeholder problems.
-4. Keep answers in a separate `Pembahasan` or `Kunci` file when they are needed.
-5. Check the note in Obsidian Reading view so the math renders cleanly.
+4. Fill `Fokus keterampilan`, `Jumlah soal`, `Estimasi waktu`, `Tujuan Latihan`, and `Kisi-Kisi` before generating the questions.
+5. Keep answers in a separate `Pembahasan` or `Kunci` file when they are needed.
+6. Check the note in Obsidian Reading view so the math renders cleanly.
+
+## Generator Rules
+
+Templates may include hidden Markdown comments for AI generation rules. Keep those comments short and practical. They should control generation behavior without adding visible clutter to the student-facing note.
 
 ## Markdown Math Rules
 

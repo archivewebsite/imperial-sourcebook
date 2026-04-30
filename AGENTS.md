@@ -24,11 +24,14 @@ These rules apply to any agent editing files under `D:\Imperial Sourcebook`.
 
 ## Naming Convention
 
-- Use title-case English note titles, sentence-case Indonesian note titles, and normal acronym casing such as `UTBK` or `AI`.
+- For every new file, user request to tidy up a filename, or filename edit, use Capitalized Case.
+- Minor words should be lowercase unless they start the filename or are part of a proper noun.
+- Full reduplications should be properly capitalized, such as `Kata-Kata`, not `KATA-KATA` or `kata-kata`.
+- Use normal acronym casing such as `UTBK`, `AI`, `ESA`.
 - Do not leave note titles or filenames in ALL-CAPS unless the whole title is an acronym.
-- Avoid leading articles such as `The`, `A`, and `An` when the title still reads naturally without them.
 - Final filed notes must not keep `(Inbox YYYY-MM-DD)` suffixes. Use a clearer topic title, a descriptive variant, or wikilink display text when a duplicate needs context.
 - Keep filenames readable, concise, and filesystem-safe. Prefer letters, numbers, spaces, and hyphens.
+- These rules apply to all languages and to all notes in this vault.
 
 ## Note Type Taxonomy
 

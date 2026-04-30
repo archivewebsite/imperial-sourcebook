@@ -9,6 +9,13 @@ This changelog is the required ledger for AI and agent work in this vault. Large
 Add new dated entries at the top of this section.
 
 
+## 2026-05-01
+
+### Changed
+- Task type: `vault-governance`
+- Updated `AGENTS.md` naming rules so new files, filename tidy-ups, and filename edits use Capitalized Case across all languages, with lowercase minor words, normal acronym casing, proper full reduplication capitalization, and no non-acronym ALL-CAPS filenames.
+
+
 ## 2026-04-30
 
 ### Changed

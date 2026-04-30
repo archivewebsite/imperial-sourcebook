@@ -16,47 +16,47 @@ Catatan ini merangkum rumus dasar geometri 2D yang saat ini sudah memiliki catat
 
 ## Persegi
 
-- [[Keliling Persegi]]
+- [[Keliling persegi|Keliling Persegi]]
 
 $$K = 4s$$
 
-- [[Luas Persegi]]
+- [[Luas persegi|Luas Persegi]]
 
 $$L = s^2$$
 
 ## Persegi Panjang
 
-- [[Keliling Persegi Panjang]]
+- [[Keliling persegi panjang|Keliling Persegi Panjang]]
 
 $$K = 2(p + l)$$
 
-- [[Luas Persegi Panjang]]
+- [[Luas persegi panjang|Luas Persegi Panjang]]
 
 $$L = p \times l$$
 
 ## Segitiga
 
-- [[Keliling Segitiga]]
+- [[Keliling segitiga|Keliling Segitiga]]
 
 $$K = a + b + c$$
 
-- [[Luas Segitiga]]
+- [[Luas segitiga|Luas Segitiga]]
 
 $$L = \frac{1}{2}at$$
 
 ## Trapesium
 
-- [[Luas Trapesium]]
+- [[Luas trapesium|Luas Trapesium]]
 
 $$L = \frac{1}{2}(a + b)t$$
 
 ## Lingkaran
 
-- [[Keliling Lingkaran]]
+- [[Keliling lingkaran|Keliling Lingkaran]]
 
 $$K = 2\pi r = \pi d$$
 
-- [[Luas Lingkaran]]
+- [[Luas lingkaran|Luas Lingkaran]]
 
 $$L = \pi r^2$$
 

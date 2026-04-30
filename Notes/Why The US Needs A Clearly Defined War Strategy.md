@@ -71,7 +71,7 @@ Tom Davis is a 1972 West Point graduate with a Master’s degree from Harvard Un
 
 ## Related Clippings
 <!-- managed-by-linking-obsidian-clippings:start -->
-- [[On The Bedminster Tape Trump Was Certainly Talking About A War Plan]]
-- [[The American Social Contract Is Fraying]]
-- [[The Pentagon Tried To Bully The Pope History Says Thats Cute]]
+- [[On the Bedminster Tape Trump Was Certainly Talking About a War Plan|On The Bedminster Tape Trump Was Certainly Talking About A War Plan]]
+- [[American Social Contract Is Fraying|The American Social Contract Is Fraying]]
+- [[Pentagon Tried to Bully the Pope History Says Thats Cute|The Pentagon Tried To Bully The Pope History Says Thats Cute]]
 <!-- managed-by-linking-obsidian-clippings:end -->

@@ -30,6 +30,8 @@ Add new dated entries at the top of this section.
 - Task type: `clipping-triage`
 - Task type: `sourcebook-organization`
 - Completed the current Inbox and Clippings organization pass, including short content-based filenames and path hygiene cleanup.
+- Task type: `sourcebook-organization`
+- Conservatively cleaned `Notes` filenames, merged confirmed duplicate note groups, and fixed confirmed MathJax rendering defects in math notes.
 
 ### Moved
 - Moved the existing English vocabulary README and starter dictionary from top-level `Vocabulary/` into `Language/English/Vocabulary/`.
@@ -43,9 +45,11 @@ Add new dated entries at the top of this section.
 - Renamed all current `Untitled*` and `no name` Inbox captures to unique content-based filenames.
 - Renamed the image-only font note in Inbox to `Font Inspiration Images.md` and left it in Inbox as a stub.
 - Renamed 3 underscore attachment filenames plus the existing all-caps or weak filenames `OPTIMISM IS NOT A STRATEGY.md`, `TUGAS ESAI BAHASA INDONESIA.md`, and `small spark.md`.
+- Normalized 62 `Notes` markdown filenames, including sentence-case Indonesian study notes, title-case English article notes, clarified persen/rasio/proporsi variants, and shortened long source-import titles.
 
 ### Removed
 - Removed the weaker duplicate notes after folding their unique material or confirming identical content.
+- Removed 4 weaker duplicate or overlap notes after preserving their content in the primary `Notes` records.
 
 ### Workflow
 - Added Review Rhythm guidance to existing semantic folder READMEs that were missing it.
@@ -54,6 +58,8 @@ Add new dated entries at the top of this section.
 - Updated the active Agent Policy folder-scope guidance to remove `Personal Wikipedia` and add `Glossary` and `People`.
 - Removed clipping `description` frontmatter, external markdown links and images, and obvious web-clipper publication boilerplate from the 17 moved clipping notes.
 - Refreshed affected Obsidian embeds and note links after the attachment and note renames.
+- Refreshed `Notes/README.md` so its child-bucket list matches the current `Notes` folder structure.
+- Refreshed affected Obsidian wikilinks after the `Notes` cleanup and duplicate merges.
 
 ### Notes
 - Counts: 8 new Language README or vocabulary notes added, 2 existing English vocabulary notes retained under `Language`, 134 vocabulary rows added, 3 vocabulary tables simplified, 1 folder renamed, and 2 root map docs updated.
@@ -61,12 +67,14 @@ Add new dated entries at the top of this section.
 - Counts: 2 root governance files added, 1 agent policy file expanded, 43 existing folder READMEs updated with review cadence guidance, and 2 installed agent skills updated.
 - Counts: 2 top-level folders added, 14 MOC notes added, 3 People pages added, 1 glossary entry created, 3 duplicate notes removed, and 5 root or folder guidance files updated.
 - Counts: 44 file operations applied, 17 clippings cleaned, 4 markdown files link-refreshed, 0 underscore filenames left, 0 over-limit paths left, and 0 `Untitled` or `no name` markdown notes left.
+- Counts: 62 `Notes` markdown files renamed, 4 duplicate notes folded into primaries and removed, 3 confirmed MathJax/Markdown defects fixed, and 1 folder README refreshed.
 - Left unresolved: English vocabulary content was preserved as the existing template.
 - Left unresolved: new grammar notes intentionally avoid tense tables and formal syntax-rule pages; verb details are kept in French and German conjugation sections.
 - Left unresolved: no frontmatter standard, templates, citation rule, archive behavior, or missing folder README was added in this pass.
 - Left unresolved: existing legacy tag drift was documented but not backfilled across old notes.
 - Left unresolved: `Inbox/Font Inspiration Images.md` remains in Inbox because it is still image-only and below the useful-content threshold.
 - Left unresolved: source-heavy math and biology variants were preserved separately instead of merged.
+- Left unresolved: source-import cleanup and same-line `$$...$$` formulas in `Notes` were intentionally left alone unless they were confirmed rendering defects.
 - Follow-up: none.
 
 

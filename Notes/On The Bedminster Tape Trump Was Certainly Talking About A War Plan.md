@@ -75,7 +75,7 @@ Among the other things disturbing in the Bedminster tape is the apparent lack of
 
 ## Related Clippings
 <!-- managed-by-linking-obsidian-clippings:start -->
-- [[Why The US Needs A Clearly Defined War Strategy]]
-- [[The American Social Contract Is Fraying]]
-- [[The Pentagon Tried To Bully The Pope History Says Thats Cute]]
+- [[Why the US Needs a Clearly Defined War Strategy|Why The US Needs A Clearly Defined War Strategy]]
+- [[American Social Contract Is Fraying|The American Social Contract Is Fraying]]
+- [[Pentagon Tried to Bully the Pope History Says Thats Cute|The Pentagon Tried To Bully The Pope History Says Thats Cute]]
 <!-- managed-by-linking-obsidian-clippings:end -->

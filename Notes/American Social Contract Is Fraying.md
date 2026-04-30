@@ -133,7 +133,7 @@ Tom Davis is a 1972 West Point graduate with a Master’s degree from Harvard Un
 
 ## Related Clippings
 <!-- managed-by-linking-obsidian-clippings:start -->
-- [[Tax The Rich]]
-- [[Why The US Needs A Clearly Defined War Strategy]]
-- [[The Gender War Within Gen Z Has The Wrong Enemy]]
+- [[Tax the Rich|Tax The Rich]]
+- [[Why the US Needs a Clearly Defined War Strategy|Why The US Needs A Clearly Defined War Strategy]]
+- [[Gender War Within Gen Z Has the Wrong Enemy|The Gender War Within Gen Z Has The Wrong Enemy]]
 <!-- managed-by-linking-obsidian-clippings:end -->

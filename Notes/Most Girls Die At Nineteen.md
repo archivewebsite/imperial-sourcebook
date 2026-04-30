@@ -39,7 +39,7 @@ From the other room I could hear my son-in-law laugh with a wet, phlegmy satisfa
 
 ## Related Clippings
 <!-- managed-by-linking-obsidian-clippings:start -->
-- [[The Receipt Under My Daughters Pillow And Her Shortcut To OnlyFans Culture]]
+- [[Receipt Under My Daughters Pillow and OnlyFans Culture|The Receipt Under My Daughters Pillow And Her Shortcut To OnlyFans Culture]]
 - [[The Polite Way Women Use Each Other]]
-- [[The Gender War Within Gen Z Has The Wrong Enemy]]
+- [[Gender War Within Gen Z Has the Wrong Enemy|The Gender War Within Gen Z Has The Wrong Enemy]]
 <!-- managed-by-linking-obsidian-clippings:end -->

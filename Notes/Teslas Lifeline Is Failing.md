@@ -61,6 +61,6 @@ Independent journalist covering global politics, climate change and technology. 
 
 ## Related Clippings
 <!-- managed-by-linking-obsidian-clippings:start -->
-- [[AI Will Destroy The Economy]]
-- [[You Do Not Understand Just How Big Of A Leap Starship V3 Needs To Be]]
+- [[AI Will Destroy the Economy|AI Will Destroy The Economy]]
+- [[Starship V3 Leap Requirement|You Do Not Understand Just How Big Of A Leap Starship V3 Needs To Be]]
 <!-- managed-by-linking-obsidian-clippings:end -->

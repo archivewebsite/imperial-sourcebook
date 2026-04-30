@@ -137,7 +137,7 @@ Not later. Not after you “handle it.” Now.
 
 ## Related Clippings
 <!-- managed-by-linking-obsidian-clippings:start -->
-- [[Most Girls Die At Nineteen]]
-- [[The Gender War Within Gen Z Has The Wrong Enemy]]
+- [[Most Girls Die at Nineteen|Most Girls Die At Nineteen]]
+- [[Gender War Within Gen Z Has the Wrong Enemy|The Gender War Within Gen Z Has The Wrong Enemy]]
 - [[The Polite Way Women Use Each Other]]
 <!-- managed-by-linking-obsidian-clippings:end -->

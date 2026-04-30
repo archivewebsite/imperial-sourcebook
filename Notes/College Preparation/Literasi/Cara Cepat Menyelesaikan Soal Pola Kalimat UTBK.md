@@ -51,7 +51,7 @@ Predikat menjelaskan **apa yang dilakukan subjek** (biasanya verba).
 - **Sering** ditandai dengan **preposisi**.
 - **Bisa diletakkan di mana saja** dalam kalimat (awal, tengah, akhir).
 
-**List Preposisi: [[Daftar Preposisi Bahasa Indonesia]]
+**List Preposisi: [[Daftar preposisi Bahasa Indonesia|Daftar Preposisi Bahasa Indonesia]]
 
 **Contoh fleksibilitas K**:
 - Nadiv bermain **di lapangan** (K).

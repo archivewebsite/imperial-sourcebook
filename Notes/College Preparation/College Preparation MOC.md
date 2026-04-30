@@ -5,7 +5,7 @@
 ## Start Here
 
 - [[Kerangka UTBK]]
-- [[Rencana Belajar]]
+- [[Rencana belajar tetap UTBK 2027|Rencana Belajar]]
 - [[Matematika MOC]]
 
 ## Subfolders
@@ -16,10 +16,10 @@
 ## Notes
 
 - [[Kerangka UTBK]]
-- [[Rencana Belajar]]
-- [[Rencana Belajar UTBK 2027 - Sistem Eksekusi]]
-- [[Skor Try Out Tidak Meningkat]]
-- [[Strategi Lulus UTBK Tanpa Bimbel Mahal]]
+- [[Rencana belajar tetap UTBK 2027|Rencana Belajar]]
+- [[Rencana belajar UTBK 2027 - sistem eksekusi|Rencana Belajar UTBK 2027 - Sistem Eksekusi]]
+- [[Skor tryout tidak meningkat|Skor Try Out Tidak Meningkat]]
+- [[Strategi lulus UTBK tanpa bimbel mahal|Strategi Lulus UTBK Tanpa Bimbel Mahal]]
 
 ## Related MOCs
 

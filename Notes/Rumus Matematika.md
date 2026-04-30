@@ -132,7 +132,7 @@ $$ a^8 - b^8 = (a^4 + b^4)(a^2 + b^2)(a + b)(a - b) $$
 - _Make your own shortcut tricks to learn the formulas._ With the tricks, it will become quite easy to learn the concepts of the formulas.
 # Sumber terkait
 
-- [[The 18 Maths Formulas Students Need To Learn For GCSE And How To Teach Them]]
-- [[The Most Important Math Formulas to Know in High School]]
+- [[GCSE Maths Formula Teaching Notes|The 18 Maths Formulas Students Need To Learn For GCSE And How To Teach Them]]
+- [[Most Important Math Formulas to Know in High School|The Most Important Math Formulas to Know in High School]]
 - [[Math Formulas Steps and Examples]]
 

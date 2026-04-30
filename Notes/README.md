@@ -4,9 +4,15 @@
 
 ## Current Buckets
 
-- `Kimia`: chemistry notes.
-- `Random Questions`: open questions and curiosities worth keeping close to the broader reference layer.
+- `Biologi`: biology notes and source-derived biology study material.
 - `College Preparation`: entrance-exam material with literacy and math branches.
+- `Fisika`: physics notes and compact physics references.
+- `Kimia`: chemistry notes.
+- `Pancasila`: civic, democracy, and Pancasila-related reference notes.
+- `Psychology`: psychology, decision-making, and behavior notes.
+- `Random Questions`: open questions and curiosities worth keeping close to the broader reference layer.
+- `Statistika`: statistics notes that are not only exam-formula references.
+- `The Islamic Religion`: Islamic study and practice notes.
 
 ## What Belongs Here
 

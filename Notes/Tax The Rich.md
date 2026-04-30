@@ -49,6 +49,6 @@ Artist, Poet, author, wife & mom — May my epitaph be "She reflected love into 
 
 ## Related Clippings
 <!-- managed-by-linking-obsidian-clippings:start -->
-- [[The American Social Contract Is Fraying]]
-- [[AI Will Destroy The Economy]]
+- [[American Social Contract Is Fraying|The American Social Contract Is Fraying]]
+- [[AI Will Destroy the Economy|AI Will Destroy The Economy]]
 <!-- managed-by-linking-obsidian-clippings:end -->

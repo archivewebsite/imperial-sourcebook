@@ -97,7 +97,7 @@ But as we’ve already discussed, that’s not how natural selection works outsi
 
 ## Related Clippings
 <!-- managed-by-linking-obsidian-clippings:start -->
-- [[The Gender War Within Gen Z Has The Wrong Enemy]]
+- [[Gender War Within Gen Z Has the Wrong Enemy|The Gender War Within Gen Z Has The Wrong Enemy]]
 - [[The Psychology Of Men Who Treat Their Birthday Like A Normal Day]]
 - [[I Would Never Date A Poor Man Again]]
 <!-- managed-by-linking-obsidian-clippings:end -->

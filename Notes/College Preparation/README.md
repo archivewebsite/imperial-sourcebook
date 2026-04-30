@@ -4,7 +4,7 @@
 
 ## Quick Links
 
-- [[Rencana Belajar]]
+- [[Rencana belajar tetap UTBK 2027|Rencana Belajar]]
 - [[Kerangka UTBK]]
 
 ## Current Buckets

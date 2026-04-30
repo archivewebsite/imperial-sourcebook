@@ -10,7 +10,7 @@
 
 ## Notes
 
-- [[Dampak Short Video pada Self-Control]]
+- [[Dampak short video pada self-control|Dampak Short Video pada Self-Control]]
 - [[Decision Biases Part 1 Four Villains]]
 - [[Decision Biases Part 2 WRAP Method]]
 - [[Decision Biases Part 3 Create Distance]]

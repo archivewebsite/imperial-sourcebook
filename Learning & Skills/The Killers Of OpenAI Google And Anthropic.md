@@ -146,6 +146,6 @@ The AI Battlefield Nobody Is Mapping The x-axis is the only axis that matters: h
 
 ## Related Clippings
 <!-- managed-by-linking-obsidian-clippings:start -->
-- [[AI Will Destroy The Economy]]
+- [[AI Will Destroy the Economy|AI Will Destroy The Economy]]
 - [[Teslas Lifeline Is Failing]]
 <!-- managed-by-linking-obsidian-clippings:end -->

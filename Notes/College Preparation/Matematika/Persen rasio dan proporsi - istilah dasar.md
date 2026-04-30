@@ -3081,7 +3081,7 @@ Jika harga akhir setelah diskon 20% adalah 160.000, maka harga awal:
 
 $$
 \frac{160.000}{0{,}8} = 200.000
-$$`
+$$
 
 Potongan 20% membuat harga akhir menjadi 80% dari harga awal.
 

@@ -157,5 +157,5 @@ Turning ideas into reality. Programmer by profession, Writer by passion. Finance
 <!-- managed-by-linking-obsidian-clippings:start -->
 - [[The Polite Way Women Use Each Other]]
 - [[The Psychology Of Men Who Treat Their Birthday Like A Normal Day]]
-- [[The Male Loneliness Epidemic Is Just Natural Selection In Action]]
+- [[Male Loneliness Epidemic Is Just Natural Selection in Action|The Male Loneliness Epidemic Is Just Natural Selection In Action]]
 <!-- managed-by-linking-obsidian-clippings:end -->

@@ -177,7 +177,7 @@ Award-winning author of 13 books. My latest: 10 AT 10: The Surprising Childhoods
 
 ## Related Clippings
 <!-- managed-by-linking-obsidian-clippings:start -->
-- [[On The Bedminster Tape Trump Was Certainly Talking About A War Plan]]
-- [[Why The US Needs A Clearly Defined War Strategy]]
-- [[The American Social Contract Is Fraying]]
+- [[On the Bedminster Tape Trump Was Certainly Talking About a War Plan|On The Bedminster Tape Trump Was Certainly Talking About A War Plan]]
+- [[Why the US Needs a Clearly Defined War Strategy|Why The US Needs A Clearly Defined War Strategy]]
+- [[American Social Contract Is Fraying|The American Social Contract Is Fraying]]
 <!-- managed-by-linking-obsidian-clippings:end -->

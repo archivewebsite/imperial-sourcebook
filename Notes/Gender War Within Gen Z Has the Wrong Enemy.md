@@ -161,7 +161,7 @@ M.*
 
 ## Related Clippings
 <!-- managed-by-linking-obsidian-clippings:start -->
-- [[The Male Loneliness Epidemic Is Just Natural Selection In Action]]
-- [[Most Girls Die At Nineteen]]
-- [[The Receipt Under My Daughters Pillow And Her Shortcut To OnlyFans Culture]]
+- [[Male Loneliness Epidemic Is Just Natural Selection in Action|The Male Loneliness Epidemic Is Just Natural Selection In Action]]
+- [[Most Girls Die at Nineteen|Most Girls Die At Nineteen]]
+- [[Receipt Under My Daughters Pillow and OnlyFans Culture|The Receipt Under My Daughters Pillow And Her Shortcut To OnlyFans Culture]]
 <!-- managed-by-linking-obsidian-clippings:end -->

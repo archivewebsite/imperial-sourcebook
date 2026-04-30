@@ -113,7 +113,7 @@ Alasannya, gradien membandingkan perubahan $y$ terhadap perubahan $x$. Tanda dan
 
 Jika sebuah garis melalui dua titik berbeda $P(x_P,y_P)$ dan $Q(x_Q,y_Q)$, maka gradien garis tersebut adalah:
 
-$$m
+$$
 m=\frac{y_Q-y_P}{x_Q-x_P}
 $$
 

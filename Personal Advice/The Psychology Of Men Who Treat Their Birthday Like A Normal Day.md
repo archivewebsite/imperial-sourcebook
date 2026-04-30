@@ -113,6 +113,6 @@ This doesn’t mean they need to pretend to enjoy something they don’t, but ==
 ## Related Clippings
 <!-- managed-by-linking-obsidian-clippings:start -->
 - [[I Would Never Date A Poor Man Again]]
-- [[The Male Loneliness Epidemic Is Just Natural Selection In Action]]
-- [[The Gender War Within Gen Z Has The Wrong Enemy]]
+- [[Male Loneliness Epidemic Is Just Natural Selection in Action|The Male Loneliness Epidemic Is Just Natural Selection In Action]]
+- [[Gender War Within Gen Z Has the Wrong Enemy|The Gender War Within Gen Z Has The Wrong Enemy]]
 <!-- managed-by-linking-obsidian-clippings:end -->

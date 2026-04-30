@@ -4,17 +4,17 @@
 
 ## Start Here
 
-- [[Atom dan Elektron Valensi]]
-- [[Konfigurasi Elektron]]
-- [[Sifat Fisika Hidrokarbon]]
+- [[Atom dan elektron valensi|Atom dan Elektron Valensi]]
+- [[Konfigurasi elektron|Konfigurasi Elektron]]
+- [[Sifat fisika hidrokarbon|Sifat Fisika Hidrokarbon]]
 
 ## Notes
 
-- [[Atom dan Elektron Valensi]]
-- [[Konfigurasi Elektron]]
-- [[Konfigurasi Elektron Pengertian Aturan Contoh Soal Dan Pembahasannya Lengkap]]
-- [[Pengertian Atom Lengkap]]
-- [[Sifat Fisika Hidrokarbon]]
+- [[Atom dan elektron valensi|Atom dan Elektron Valensi]]
+- [[Konfigurasi elektron|Konfigurasi Elektron]]
+- [[Konfigurasi elektron|Konfigurasi Elektron Pengertian Aturan Contoh Soal Dan Pembahasannya Lengkap]]
+- [[Pengertian atom lengkap|Pengertian Atom Lengkap]]
+- [[Sifat fisika hidrokarbon|Sifat Fisika Hidrokarbon]]
 
 ## Related MOCs
 

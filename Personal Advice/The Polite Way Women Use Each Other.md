@@ -124,6 +124,6 @@ medium.comRelationshipsFamilyPsychologySocietyCulture
 ## Related Clippings
 <!-- managed-by-linking-obsidian-clippings:start -->
 - [[I Would Never Date A Poor Man Again]]
-- [[The Gender War Within Gen Z Has The Wrong Enemy]]
-- [[Most Girls Die At Nineteen]]
+- [[Gender War Within Gen Z Has the Wrong Enemy|The Gender War Within Gen Z Has The Wrong Enemy]]
+- [[Most Girls Die at Nineteen|Most Girls Die At Nineteen]]
 <!-- managed-by-linking-obsidian-clippings:end -->

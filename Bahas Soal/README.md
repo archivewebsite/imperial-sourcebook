@@ -10,7 +10,7 @@
 
 ## Child Folders
 
-- `Matematika Dasar`: topic-grouped basic math practice material. Use its local README and LaTeX template when creating `Set N` or `Kuis N` files.
+- `Matematika Dasar`: topic-grouped basic math practice material. Use its local README and Markdown templates when creating `Set N` or `Kuis N` files.
 
 ## What Does Not
 

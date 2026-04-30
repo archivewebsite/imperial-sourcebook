@@ -12,6 +12,10 @@ Add new dated entries at the top of this section.
 ## 2026-04-30
 
 ### Changed
+- Task type: `markdown-template-migration`
+- Replaced the Matematika Dasar LaTeX template workflow with Markdown-first `Template Set.md` and `Template Kuis.md` files.
+- Regenerated `Bahas Soal/Matematika Dasar/README.md` so `Set N` and `Kuis N` documentation uses Markdown as the core file format and no longer references TeXstudio, LaTeX, Pandoc, or Typst.
+- Converted `Bahas Soal/Matematika Dasar/Bilangan Berpangkat dan Bentuk Akar/Set/Set 1.md` from the old LaTeX source while preserving the 20 current questions and difficulty grouping.
 - Task type: `workflow-documentation`
 - Added LaTeX build-artifact ignore rules and documented a cleaner TeXstudio `latexmk -outdir=build` workflow for `Matematika Dasar` problem files.
 - Task type: `template-documentation`
@@ -54,6 +58,7 @@ Add new dated entries at the top of this section.
 - Moved 9 AI lab-reference notes from `Learning & Skills` into `D:\Imperial Records\Labs\AI`.
 
 ### Renamed
+- Renamed `Bahas Soal/Matematika Dasar/Bilangan Berpangkat dan Bentuk Akar/SET` to `Set`.
 - Renamed `Language/Germany` to `Language/German` so the folder uses the language name.
 - Renamed the kept duplicate primaries to `Bunga tunggal dan bunga majemuk.md`, `Irreplaceable in the AI Era.md`, and `Personal Roadmap for When You Do Not Know Where to Start.md`.
 - Renamed all current `Untitled*` and `no name` Inbox captures to unique content-based filenames.
@@ -62,6 +67,7 @@ Add new dated entries at the top of this section.
 - Normalized 62 `Notes` markdown filenames, including sentence-case Indonesian study notes, title-case English article notes, clarified persen/rasio/proporsi variants, and shortened long source-import titles.
 
 ### Removed
+- Removed the old Matematika Dasar LaTeX template source and legacy `Set 1` LaTeX source/output files after converting the current set to Markdown.
 - Removed the weaker duplicate notes after folding their unique material or confirming identical content.
 - Removed 4 weaker duplicate or overlap notes after preserving their content in the primary `Notes` records.
 - Removed the empty `Obsidian Docs` bucket after its notes were moved into `Tools & Software Reference`.
@@ -79,10 +85,11 @@ Add new dated entries at the top of this section.
 - Replaced Sourcebook wikilinks to moved AI lab-reference notes with plain cross-vault context.
 
 ### Notes
+- Counts: 2 Markdown templates added, 1 current Set converted to Markdown, 1 topic material folder normalized, 6 legacy LaTeX files removed, and 2 README files updated.
 - Counts: 1 `.gitignore` updated and 1 Matematika Dasar README build workflow section added.
-- Left unresolved: existing generated LaTeX files were documented for cleanup but not deleted automatically.
+- Superseded later on 2026-04-30: existing generated LaTeX files in `Matematika Dasar` were removed during the Markdown migration.
 - Counts: 1 Matematika Dasar README created, 1 LaTeX template created, and 1 parent README updated.
-- Left unresolved: existing `SET/Set 1.*` files were left untouched; no topic folders were renamed or reorganized.
+- Superseded later on 2026-04-30: the existing `SET/Set 1.*` material was converted to Markdown and the folder was normalized to `Set`.
 - Counts: 1 Inbox study-plan note created and this changelog updated.
 - Left unresolved: the new note remains in `Inbox` for later routing; source links were preserved from the supplied planning material without a separate verification pass.
 - Counts: 2 top-level buckets added, 9 Sourcebook README/MOC notes created, 18 notes moved, and 10 Sourcebook navigation or context notes refreshed.

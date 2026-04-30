@@ -1,0 +1,94 @@
+% Template for Matematika Dasar practice files.
+% Copy this file into a topic folder and rename it as Set N.tex or Kuis N.tex.
+% Leave \kuisfalse for open-ended Sets. Change to \kuistrue for multiple-choice Kuis.
+
+\documentclass[12pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\usepackage{enumitem}
+
+\geometry{margin=2.4cm}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+
+\newif\ifkuis
+\kuisfalse
+
+\newcommand{\nomor}{N}
+\newcommand{\mapel}{Matematika Dasar}
+\newcommand{\topik}{Problem Topic}
+\newcommand{\tanggal}{Hari - DD/MM/YYYY}
+\newcommand{\setlevel}{easy / intermediate / difficult}
+
+\ifkuis
+	\newcommand{\jenis}{Kuis}
+	\newcommand{\metalevel}{Tipe: Pilihan ganda, campuran intermediate--difficult}
+\else
+	\newcommand{\jenis}{Set}
+	\newcommand{\metalevel}{Tingkat: \setlevel}
+\fi
+
+\newenvironment{soal}
+	{\begin{enumerate}[label=\arabic*., leftmargin=*, itemsep=1.1em, topsep=0.5em]}
+	{\end{enumerate}}
+
+\newenvironment{pilihan}
+	{\begin{enumerate}[label=\Alph*., leftmargin=2.5em, itemsep=0.2em, topsep=0.3em]}
+	{\end{enumerate}}
+
+\newcommand{\sheetheader}{
+	\begin{center}
+		{\Large\textbf{\jenis\ \nomor\ - \mapel}}\\[4pt]
+		{\large \topik}\\[4pt]
+		Tanggal: \tanggal
+	\end{center}
+	\vspace{0.4em}
+	\hrule
+	\vspace{0.8em}
+	\textbf{\metalevel}
+	\vspace{0.6em}
+}
+
+\begin{document}
+
+\sheetheader
+
+\ifkuis
+
+\begin{soal}
+	\item \textit{[Problem]}
+	\begin{pilihan}
+		\item \textit{[Option A]}
+		\item \textit{[Option B]}
+		\item \textit{[Option C]}
+		\item \textit{[Option D]}
+		\item \textit{[Option E]}
+	\end{pilihan}
+
+	\item \textit{[Problem]}
+	\begin{pilihan}
+		\item \textit{[Option A]}
+		\item \textit{[Option B]}
+		\item \textit{[Option C]}
+		\item \textit{[Option D]}
+		\item \textit{[Option E]}
+	\end{pilihan}
+\end{soal}
+
+\else
+
+\begin{soal}
+	\item \textit{[Open-ended problem]}
+
+	\item \textit{[Open-ended problem]}
+
+	\item \textit{[Open-ended problem]}
+\end{soal}
+
+\fi
+
+\end{document}

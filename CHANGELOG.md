@@ -12,6 +12,11 @@ Add new dated entries at the top of this section.
 ## 2026-04-30
 
 ### Changed
+- Task type: `workflow-documentation`
+- Added LaTeX build-artifact ignore rules and documented a cleaner TeXstudio `latexmk -outdir=build` workflow for `Matematika Dasar` problem files.
+- Task type: `template-documentation`
+- Added `Bahas Soal/Matematika Dasar/README.md` and `Bahas Soal/Matematika Dasar/Template Set Kuis.tex` to standardize topic-scoped `Set N` and `Kuis N` practice files.
+- Refreshed `Bahas Soal/README.md` with a child-folder pointer for `Matematika Dasar`.
 - Task type: `note-update`
 - Created `Inbox/Rencana 9 minggu fondasi sains dan matematika.md` as a complete 28 April-29 June 2026 foundation study plan for mathematics, physics, and chemistry.
 - Task type: `note-update`
@@ -74,6 +79,10 @@ Add new dated entries at the top of this section.
 - Replaced Sourcebook wikilinks to moved AI lab-reference notes with plain cross-vault context.
 
 ### Notes
+- Counts: 1 `.gitignore` updated and 1 Matematika Dasar README build workflow section added.
+- Left unresolved: existing generated LaTeX files were documented for cleanup but not deleted automatically.
+- Counts: 1 Matematika Dasar README created, 1 LaTeX template created, and 1 parent README updated.
+- Left unresolved: existing `SET/Set 1.*` files were left untouched; no topic folders were renamed or reorganized.
 - Counts: 1 Inbox study-plan note created and this changelog updated.
 - Left unresolved: the new note remains in `Inbox` for later routing; source links were preserved from the supplied planning material without a separate verification pass.
 - Counts: 2 top-level buckets added, 9 Sourcebook README/MOC notes created, 18 notes moved, and 10 Sourcebook navigation or context notes refreshed.

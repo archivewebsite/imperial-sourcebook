@@ -15,3 +15,17 @@ desktop.ini
 
 # Claude Code local state (not part of the vault)
 .claude/
+
+# LaTeX build output
+**/build/
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc

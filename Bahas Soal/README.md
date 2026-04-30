@@ -8,6 +8,10 @@
 - formula notes that directly support problem solving
 - practice-oriented material such as `Konfigurasi Elektron Pengertian Aturan Contoh Soal Dan Pembahasannya Lengkap`
 
+## Child Folders
+
+- `Matematika Dasar`: topic-grouped basic math practice material. Use its local README and LaTeX template when creating `Set N` or `Kuis N` files.
+
 ## What Does Not
 
 - broad theory notes that belong in `Notes`

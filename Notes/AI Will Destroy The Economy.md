@@ -73,6 +73,6 @@ Independent journalist covering global politics, climate change and technology. 
 
 ## Related Clippings
 <!-- managed-by-linking-obsidian-clippings:start -->
-- [[The Killers Of OpenAI Google And Anthropic]]
+- The Killers Of OpenAI Google And Anthropic (moved to `D:\Imperial Records\Labs\AI\Model`)
 - [[Teslas Lifeline Is Failing]]
 <!-- managed-by-linking-obsidian-clippings:end -->

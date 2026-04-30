@@ -13,6 +13,12 @@ Add new dated entries at the top of this section.
 
 ### Changed
 - Task type: `note-update`
+- Created `Inbox/Rencana 9 minggu fondasi sains dan matematika.md` as a complete 28 April-29 June 2026 foundation study plan for mathematics, physics, and chemistry.
+- Task type: `note-update`
+- Task type: `sourcebook-organization`
+- Created top-level `Tools & Software Reference` and `Science Reference` sections with MOC and README guidance.
+- Kept `Glossary` flat and documented that domain splits such as `Math Glossary` or `Bio Glossary` should wait until repeated entries justify them.
+- Task type: `note-update`
 - Created the `Language` section documentation and added missing README coverage for English, French, German, and their vocabulary folders.
 - Added 67 beginner French-Indonesian rows and 67 beginner German-Indonesian rows using the English vocabulary table schema.
 - Replaced root top-level `Vocabulary` guidance with the new language-scoped structure in `README.md` and `PATH.md`.
@@ -38,6 +44,9 @@ Add new dated entries at the top of this section.
 - Moved the old aggregate `Notes/Glossary.md` entry into `Glossary/Lingua Franca.md`.
 - Moved 20 complete Inbox notes into existing Sourcebook buckets for math, biology, learning, advice, motivation, statistics, and broad reference material.
 - Moved 17 cleaned clippings into `Bahas Soal/Pengetahuan Kuantitatif`, `Notes/Pancasila`, `Notes/Psychology`, and `Obsidian Docs/Editing and Formatting`.
+- Moved the former `Obsidian Docs/Editing and Formatting` notes into `Tools & Software Reference/Obsidian/Editing and Formatting`.
+- Moved `Git Commands.md` and `Perintah Git Esensial.md` from `Learning & Skills` into `Tools & Software Reference/CLI/Git`.
+- Moved 9 AI lab-reference notes from `Learning & Skills` into `D:\Imperial Records\Labs\AI`.
 
 ### Renamed
 - Renamed `Language/Germany` to `Language/German` so the folder uses the language name.
@@ -50,6 +59,7 @@ Add new dated entries at the top of this section.
 ### Removed
 - Removed the weaker duplicate notes after folding their unique material or confirming identical content.
 - Removed 4 weaker duplicate or overlap notes after preserving their content in the primary `Notes` records.
+- Removed the empty `Obsidian Docs` bucket after its notes were moved into `Tools & Software Reference`.
 
 ### Workflow
 - Added Review Rhythm guidance to existing semantic folder READMEs that were missing it.
@@ -60,8 +70,14 @@ Add new dated entries at the top of this section.
 - Refreshed affected Obsidian embeds and note links after the attachment and note renames.
 - Refreshed `Notes/README.md` so its child-bucket list matches the current `Notes` folder structure.
 - Refreshed affected Obsidian wikilinks after the `Notes` cleanup and duplicate merges.
+- Updated `README.md`, `PATH.md`, and affected folder READMEs/MOCs for the new tool, science, glossary, and AI-lab routing rules.
+- Replaced Sourcebook wikilinks to moved AI lab-reference notes with plain cross-vault context.
 
 ### Notes
+- Counts: 1 Inbox study-plan note created and this changelog updated.
+- Left unresolved: the new note remains in `Inbox` for later routing; source links were preserved from the supplied planning material without a separate verification pass.
+- Counts: 2 top-level buckets added, 9 Sourcebook README/MOC notes created, 18 notes moved, and 10 Sourcebook navigation or context notes refreshed.
+- Left unresolved: `Science Reference` is documentation-only in this pass; existing science, math, and `Bahas Soal` notes were intentionally not bulk-moved.
 - Counts: 8 new Language README or vocabulary notes added, 2 existing English vocabulary notes retained under `Language`, 134 vocabulary rows added, 3 vocabulary tables simplified, 1 folder renamed, and 2 root map docs updated.
 - Counts: 16 language-reference folders added, 32 new reference README or note files added, and 4 Language navigation README files updated for the new reference sections.
 - Counts: 2 root governance files added, 1 agent policy file expanded, 43 existing folder READMEs updated with review cadence guidance, and 2 installed agent skills updated.

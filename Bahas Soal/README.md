@@ -11,13 +11,14 @@
 ## What Does Not
 
 - broad theory notes that belong in `Notes`
+- standalone formulas, constants, theorems, laws, or science theory references that belong in `Science Reference`
 - active project work that belongs in `D:\Imperial Records\Projects`
 
 ## How To Use It
 
 - keep the solution path visible, not just the final answer
 - group related material by domain when the folder starts growing
-- move reusable theory into `Notes` or `Learning & Skills` when it stops being practice support
+- move reusable theory into `Science Reference`, `Notes`, or `Learning & Skills` when it stops being practice support
 
 ## Review Rhythm
 

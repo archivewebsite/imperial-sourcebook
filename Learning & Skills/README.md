@@ -1,6 +1,6 @@
 # Learning & Skills
 
-`Learning & Skills` stores study material, technical references, and notes about building competence over time.
+`Learning & Skills` stores study material, learning systems, and notes about building competence over time.
 
 ## Current Buckets
 
@@ -11,13 +11,15 @@
 
 ## What Belongs Here
 
-- study notes such as `How Neural Networks Actually Learn` and `Special Relativity Study Outline`
-- technical references such as `Git Commands`
+- study notes such as `Special Relativity Study Outline`
 - notes about learning strategy, knowledge systems, and deliberate practice
+- skill maps, learning retrospectives, and spaced-repetition source notes
 
 ## What Does Not
 
 - broad source notes that belong in `Notes`
+- stable tool manuals, CLI guides, and editor references that belong in `Tools & Software Reference`
+- AI prompts, model behavior notes, and agent workflow experiments that belong in `D:\Imperial Records\Labs\AI`
 - active deliverables that belong in `D:\Imperial Records\Projects`
 - experiments and prompt systems that belong in `D:\Imperial Records\Labs`
 
@@ -25,6 +27,7 @@
 
 - keep learning notes close to the skill or domain they support
 - split durable explanations into other resource buckets when they stop being learning-in-progress
+- route stable software lookup notes to `Tools & Software Reference`
 - keep operational practice plans in Records and reusable learning material here
 
 ## Review Rhythm

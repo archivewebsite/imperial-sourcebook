@@ -29,7 +29,9 @@ Records points here through its `Resources` marker folder. Sourcebook points bac
 - `Notes`: broad source-driven notes, topical references, and `Notes/Random Questions` for open curiosities.
 - `People`: canonical pages for authors, mentors, scientists, and other repeatedly referenced people.
 - `Personal Advice`: practical guidance, self-management material, and `Personal Advice/Tips and Trick` for compact tactical reminders.
+- `Science Reference`: compact formulas, constants, theorems, laws, and science theory notes.
 - `Tugas`: assignment outputs and school-task material worth preserving as reference.
+- `Tools & Software Reference`: Obsidian, VS Code, CLI, Git, and other software reference guides.
 - `Attachments`: supporting files only. Keep meaning, summaries, and decisions in markdown notes.
 
 ## How To Use This Vault
@@ -42,9 +44,11 @@ Records points here through its `Resources` marker folder. Sourcebook points bac
 6. Keep pre-mastery books, topics, and frontier references in `Curiosity Shelf` until they become active study or durable notes.
 7. Store design references and design study material in `Design`.
 8. Store practical rereadable guidance in `Personal Advice`, using `Personal Advice/Tips and Trick` for compact reminders and `Motivation` for short reset notes.
-9. Park unanswered knowledge questions in `Notes/Random Questions`.
-10. Use Sourcebook `Inbox` only for knowledge material already destined for this vault.
-11. Keep raw files in `Attachments`, but keep context, summaries, and decisions in markdown.
+9. Store reusable formulas, constants, theorems, laws, and science theory in `Science Reference` when they are not worked solutions.
+10. Store stable software guides in `Tools & Software Reference` rather than mixing tool manuals into learning notes.
+11. Park unanswered knowledge questions in `Notes/Random Questions`.
+12. Use Sourcebook `Inbox` only for knowledge material already destined for this vault.
+13. Keep raw files in `Attachments`, but keep context, summaries, and decisions in markdown.
 
 ## Conventions
 
@@ -52,6 +56,7 @@ Records points here through its `Resources` marker folder. Sourcebook points bac
 - Use the nearest folder `README.md` before creating a new bucket or filing ambiguous notes.
 - Let folders describe role; let note titles describe the specific material inside them.
 - Keep article-derived notes close to their source role, then refine them when they become durable.
+- Keep `Glossary` flat until repeated domain terms justify a split such as `Math Glossary` or `Bio Glossary`.
 - Keep future commitments in `D:\Imperial Records\Labs\Idea Backlog`, not in this reference vault.
 - Do not create new top-level buckets unless the existing map cannot hold the material clearly.
 

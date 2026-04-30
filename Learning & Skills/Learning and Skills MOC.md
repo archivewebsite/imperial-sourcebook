@@ -4,7 +4,6 @@
 
 ## Start Here
 
-- [[Artificial Intelligence Main Index]]
 - [[How Smart People Learn Difficult Things]]
 - [[The Need to Practice Retrieving From Memory]]
 
@@ -17,26 +16,23 @@
 
 ## Notes
 
-- [[Artificial Intelligence Main Index]]
-- [[Compromised AI-generated code]]
-- [[Dario Amodei Advice on AI Safety and Research]]
 - [[Dasar-Dasar Kelistrikan dan Muatan]]
 - [[Freely Available Resources for Research]]
-- [[Git Commands]]
-- [[How Neural Networks Actually Learn]]
 - [[How Smart People Learn Difficult Things]]
-- [[Karpathy AI Second Brain Workflow]]
-- [[LLM dan Efek Dunning-Kruger]]
-- [[Markdown is the new source code]]
 - [[MIT Mindset, Impostor Syndrome, and How Learning Works]]
 - [[Special Relativity Study Outline]]
 - [[Storytelling Skill Guide]]
 - [[The Engineer Mindset]]
-- [[The Killers Of OpenAI Google And Anthropic]]
 - [[The Need to Practice Retrieving From Memory]]
+
+## Cross-Vault References
+
+- AI lab-reference notes now live in `D:\Imperial Records\Labs\AI`.
+- Software lookup guides now live in [[Tools and Software Reference MOC]].
 
 ## Related MOCs
 
 - [[Language MOC]]
 - [[People MOC]]
 - [[Notes MOC]]
+- [[Tools and Software Reference MOC]]

@@ -26,11 +26,13 @@
 - active projects that belong in `D:\Imperial Records\Projects`
 - daily capture that belongs in `D:\Imperial Records\Inbox`
 - source imports that still need clipping cleanup in `Clippings`
+- compact formulas, constants, theorems, laws, or theory lookup notes that belong in `Science Reference` once intentionally promoted
 
 ## How To Use It
 
 - let this folder be broad, but not shapeless
 - split off clear domains into child folders once a topic starts repeating
+- route standalone theory references to `Science Reference` only after a deliberate review
 - keep operational context in Records and durable reference material here
 
 ## Review Rhythm

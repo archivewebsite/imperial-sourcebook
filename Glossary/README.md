@@ -18,9 +18,12 @@
 
 - title each note with the term itself, using normal capitalization
 - start with a one-paragraph definition
+- keep the folder flat until repeated domain terms make retrieval harder
+- split later into domain folders such as `Math Glossary` or `Bio Glossary` only when the folder has enough entries to justify it
 - link back to [[Glossary MOC]] and to any topic MOC that regularly uses the term
 
 ## Review Rhythm
 
 - Review when a glossary entry becomes too broad and should split into a longer concept note.
+- Review for domain splits only after repeated math, biology, language, or technical terms accumulate.
 - Merge duplicate term notes when they define the same thing.

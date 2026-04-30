@@ -11,6 +11,7 @@
 ## Child Folders
 
 - `Matematika Dasar`: topic-grouped basic math practice material. Use its local README and Markdown templates when creating `Set N` or `Kuis N` files.
+- `Tips dan trik matematika`: topic-split math shortcut notes for problem-solving support.
 - `Templates`: global Markdown templates and quality rules for new `Bahas Soal` practice files.
 
 ## Global Problem Standard

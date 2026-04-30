@@ -13,6 +13,9 @@ Add new dated entries at the top of this section.
 
 ### Changed
 - Task type: `note-update`
+- Created `Bahas Soal/Tips dan trik matematika/` with a topic-split Obsidian Markdown collection for math tips and tricks: arithmetic, percent/ratio, number theory, algebra, equations/functions, exponents/logs/radicals, sequences, plane geometry, solid geometry, coordinate geometry, trigonometry, combinatorics, probability, statistics, calculus, logic/sets, and word-problem strategy.
+- Replaced the old monolithic `Bahas Soal/Trik dan Tips Matematika.md` body with an index pointing to the new topic files, and refreshed `Bahas Soal/README.md` plus `Bahas Soal/Bahas Soal MOC.md` so the new collection is discoverable.
+- Task type: `note-update`
 - Created `Bahas Soal/Trik dan Tips Matematika.md` as a comprehensive companion to `Trik Pembagian Persen dan Desimal.md`. Covers arithmetic shortcuts, divisibility, percentages, algebra identities, exponents/logs, surds, statistics, probability, combinatorics, number theory, plane and coordinate geometry, trigonometry, sequences/series, logic, calculus, word-problem patterns, estimation, UTBK strategy, and a quick-reference cheatsheet. Cross-linked to `Trik Pembagian Persen dan Desimal` and `Bahas Soal MOC`.
 - Task type: `global-practice-template-system`
 - Created `Bahas Soal/Templates/` with global Markdown templates for `Set`, `Kuis`, `Drill`, `Paket Stimulus`, `Pembahasan`, and `Kunci`, plus shared planning-header and quality-control guidance.
@@ -98,6 +101,8 @@ Add new dated entries at the top of this section.
 - Replaced Sourcebook wikilinks to moved AI lab-reference notes with plain cross-vault context.
 
 ### Notes
+- Counts: 1 new tips folder, 1 folder README, 1 MOC, 17 topic Markdown notes, and 3 existing navigation notes updated.
+- Left unresolved: the collection is broad school/UTBK/early-calculus coverage, not an olympiad-only or university-advanced compendium.
 - Counts: 1 global Templates folder created, 1 Templates README added, 1 guidelines note added, 6 global template files added, and 5 existing Bahas Soal guidance/template files updated.
 - Left unresolved: the Inbox example folders remain in Inbox as reference material and were not moved or converted.
 - Counts: 2 Set practice files added, 40 student-facing questions created, and 0 answer or solution files added.

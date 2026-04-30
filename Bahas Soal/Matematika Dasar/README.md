@@ -2,6 +2,8 @@
 
 `Matematika Dasar` stores topic-grouped basic math practice material inside `Bahas Soal`. Markdown is the core file format for this folder so problem sets stay clean, readable, and easy to edit in Obsidian or any text editor.
 
+This folder follows the global `Bahas Soal/Templates` standard. Use the local `Template Set.md` and `Template Kuis.md` for Matematika Dasar-specific files; use the global templates when creating `Drill`, `Paket Stimulus`, `Kunci`, or `Pembahasan` files.
+
 ## What Belongs Here
 
 - topic folders such as `Bilangan Berpangkat dan Bentuk Akar`
@@ -49,13 +51,15 @@ Every file should start with a simple header and a short generation plan:
 ```md
 # Set N - Matematika Dasar
 
+- Bidang: Matematika Dasar
 - Topik: [Problem Topic]
 - Fokus keterampilan: [Skill focus]
 - Tanggal: Hari - DD/MM/YYYY
+- Tipe: Set
 - Tingkat: easy / intermediate / difficult
 - Jumlah soal: [N]
 - Estimasi waktu: [minutes] menit
-- Pembahasan: `Set N - Pembahasan.md`
+- Companion: `Set N - Pembahasan.md`
 
 ## Tujuan Latihan
 
@@ -74,14 +78,16 @@ For `Kuis`, use:
 ```md
 # Kuis N - Matematika Dasar
 
+- Bidang: Matematika Dasar
 - Topik: [Problem Topic]
 - Fokus keterampilan: [Skill focus]
 - Tanggal: Hari - DD/MM/YYYY
-- Tipe: Pilihan ganda
+- Tipe: Kuis
+- Format: Pilihan Ganda
 - Tingkat: campuran intermediate-difficult
 - Jumlah soal: [N]
 - Estimasi waktu: [minutes] menit
-- Kunci: `Kuis N - Kunci.md`
+- Companion: `Kuis N - Kunci.md`
 
 ## Tujuan Latihan
 
@@ -106,7 +112,7 @@ Keep `Tujuan Latihan` short. Use `Kisi-Kisi` to control question distribution be
 - `Tingkat`: one difficulty level for uniform files, or a mixed range such as `easy-intermediate`.
 - `Jumlah soal`: the intended total number of questions.
 - `Estimasi waktu`: realistic student working time.
-- `Pembahasan` or `Kunci`: the companion answer file name, kept separate from the student-facing sheet.
+- `Companion`: the companion answer file name, kept separate from the student-facing sheet.
 
 ## Set Rules
 

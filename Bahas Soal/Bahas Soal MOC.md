@@ -8,6 +8,7 @@
 
 ## Subfolders
 
+- `Templates`: global practice-file templates and question-quality guidelines.
 - `Penalaran Matematika`: worked reasoning for mathematical reasoning questions.
 - `Pengetahuan Kuantitatif`: quantitative knowledge practice material.
 

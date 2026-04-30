@@ -5,17 +5,17 @@ Generator rules:
 - Use clear Indonesian unless the task asks for another language.
 - Use display math for standalone expressions.
 - Split by difficulty when the set has mixed levels.
-- Keep the number of questions aligned with Jumlah soal and Kisi-Kisi.
+- Keep Jumlah soal aligned with Kisi-Kisi.
 -->
 
-# Set N - Matematika Dasar
+# Set N - [Bidang]
 
-- Bidang: Matematika Dasar
+- Bidang: [Matematika Dasar / Penalaran Matematika / Pengetahuan Kuantitatif / Other]
 - Topik: [Problem Topic]
 - Fokus keterampilan: [Skill focus]
 - Tanggal: Hari - DD/MM/YYYY
 - Tipe: Set
-- Tingkat: easy / intermediate / difficult
+- Tingkat: easy / intermediate / difficult / mixed
 - Jumlah soal: [N]
 - Estimasi waktu: [minutes] menit
 - Companion: `Set N - Pembahasan.md`
@@ -26,7 +26,7 @@ Generator rules:
 
 ## Kisi-Kisi
 
-| Tingkat | Fokus | Jumlah |
+| Tingkat | Materi/Fokus | Jumlah |
 |---|---|---:|
 | easy | [Focus] | [N] |
 | intermediate | [Focus] | [N] |
@@ -36,7 +36,9 @@ Generator rules:
 
 ### Tingkat easy
 
-1. [Open-ended problem]
+1. **Materi:** [Materi]
+
+   [Open-ended problem]
 
    $$
    [math expression]
@@ -44,16 +46,11 @@ Generator rules:
 
 ### Tingkat intermediate
 
-2. [Open-ended problem]
+2. **Materi:** [Materi]
+
+   [Open-ended problem]
 
    $$
    [math expression]
    $$
 
-### Tingkat difficult
-
-3. [Open-ended problem]
-
-   $$
-   [math expression]
-   $$

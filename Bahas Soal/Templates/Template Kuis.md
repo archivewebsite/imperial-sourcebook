@@ -5,19 +5,17 @@ Generator rules:
 - Exactly one option must be correct.
 - Distractors should reflect common mistakes, not random answers.
 - Do not include the answer key in this file.
-- Use clear Indonesian unless the task asks for another language.
-- Keep the number of questions aligned with Jumlah soal and Kisi-Kisi.
+- Keep Jumlah soal aligned with Kisi-Kisi.
 -->
 
-# Kuis N - Matematika Dasar
+# Kuis N - [Bidang]
 
-- Bidang: Matematika Dasar
+- Bidang: [Matematika Dasar / Penalaran Matematika / Pengetahuan Kuantitatif / Other]
 - Topik: [Problem Topic]
 - Fokus keterampilan: [Skill focus]
 - Tanggal: Hari - DD/MM/YYYY
 - Tipe: Kuis
-- Format: Pilihan Ganda
-- Tingkat: campuran intermediate-difficult
+- Tingkat: intermediate-difficult / mixed
 - Jumlah soal: [N]
 - Estimasi waktu: [minutes] menit
 - Companion: `Kuis N - Kunci.md`
@@ -28,7 +26,7 @@ Generator rules:
 
 ## Kisi-Kisi
 
-| Fokus | Jumlah |
+| Materi/Fokus | Jumlah |
 |---|---:|
 | [Focus area 1] | [N] |
 | [Focus area 2] | [N] |
@@ -36,7 +34,9 @@ Generator rules:
 
 ## Soal
 
-1. [Problem]
+1. **Materi:** [Materi]
+
+   [Problem]
 
    A. [Option A]
    B. [Option B]
@@ -44,7 +44,9 @@ Generator rules:
    D. [Option D]
    E. [Option E]
 
-2. [Problem]
+2. **Materi:** [Materi]
+
+   [Problem]
 
    A. [Option A]
    B. [Option B]
@@ -52,10 +54,3 @@ Generator rules:
    D. [Option D]
    E. [Option E]
 
-3. [Problem]
-
-   A. [Option A]
-   B. [Option B]
-   C. [Option C]
-   D. [Option D]
-   E. [Option E]

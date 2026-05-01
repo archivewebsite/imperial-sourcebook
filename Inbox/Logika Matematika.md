@@ -19,7 +19,7 @@ Contoh proposisi:
 - 7 adalah faktor dari 10.  
     Nilai kebenaran: salah.
     
-- 5 + 6 = 11.  
+- $5 + 6 = 11$.  
     Nilai kebenaran: benar.
     
 - 2 adalah bilangan prima.  
@@ -37,12 +37,12 @@ Bukan proposisi:
 - Bunda sedang apa?  
     Kalimat tanya.
     
-- (x - 8 < 7).  
-    Kalimat terbuka karena masih bergantung pada nilai (x).
+- $x - 8 < 7$.  
+    Kalimat terbuka karena masih bergantung pada nilai $x$.
     
 
 > [!warning] Koreksi penting  
-> Kalimat seperti (x - 8 < 7), (x) faktor dari 7, dan (y + 4 = 6) **bukan proposisi**, melainkan **kalimat terbuka**, karena nilai kebenarannya belum dapat ditentukan sebelum variabelnya diberi nilai.
+> Kalimat seperti $x - 8 < 7$, $x$ faktor dari 7, dan $y + 4 = 6$ **bukan proposisi**, melainkan **kalimat terbuka**, karena nilai kebenarannya belum dapat ditentukan sebelum variabelnya diberi nilai.
 
 ## Kalimat Terbuka
 
@@ -50,26 +50,26 @@ Bukan proposisi:
 
 Contoh:
 
-- (4x + 2 = 18)
+- $4x + 2 = 18$
     
 
-Jika (x = 4), maka:
+Jika $x = 4$, maka:
 
-[  
+$$
 4(4) + 2 = 18  
-]
+$$
 
 Pernyataan bernilai benar.
 
-Jika (x = 5), maka:
+Jika $x = 5$, maka:
 
-[  
+$$
 4(5) + 2 = 22  
-]
+$$
 
 Pernyataan bernilai salah.
 
-Jadi, (4x + 2 = 18) adalah kalimat terbuka karena nilai kebenarannya bergantung pada nilai (x).
+Jadi, $4x + 2 = 18$ adalah kalimat terbuka karena nilai kebenarannya bergantung pada nilai $x$.
 
 ## Nilai Kebenaran
 
@@ -90,38 +90,38 @@ Operator logika digunakan untuk membentuk pernyataan majemuk.
 
 |Operator|Simbol|Dibaca|Bentuk|
 |---|--:|---|---|
-|Negasi|(\neg p) atau (\sim p)|tidak (p)|ingkaran|
-|Konjungsi|(p \land q)|(p) dan (q)|dan|
-|Disjungsi inklusif|(p \lor q)|(p) atau (q)|atau|
-|Disjungsi eksklusif|(p \oplus q)|(p) atau (q), tetapi tidak keduanya|xor|
-|Implikasi|(p \to q)|jika (p), maka (q)|sebab-akibat logis|
-|Biimplikasi|(p \leftrightarrow q)|(p) jika dan hanya jika (q)|ekuivalensi dua arah|
+|Negasi|$\neg p$ atau $\sim p$|tidak $p$|ingkaran|
+|Konjungsi|$p \land q$|$p$ dan $q$|dan|
+|Disjungsi inklusif|$p \lor q$|$p$ atau $q$|atau|
+|Disjungsi eksklusif|$p \oplus q$|$p$ atau $q$, tetapi tidak keduanya|xor|
+|Implikasi|$p \to q$|jika $p$, maka $q$|sebab-akibat logis|
+|Biimplikasi|$p \leftrightarrow q$|$p$ jika dan hanya jika $q$|ekuivalensi dua arah|
 
 > [!note] Catatan simbol  
-> Dalam logika matematika, kata “atau” biasanya berarti **atau inklusif**, yaitu tetap benar jika kedua pernyataan sama-sama benar. Untuk “atau tetapi tidak keduanya”, gunakan **disjungsi eksklusif** atau (p \oplus q). Ya, satu kata “atau” saja bisa bikin repot. Bahasa manusia, luar biasa.
+> Dalam logika matematika, kata "atau" biasanya berarti **atau inklusif**, yaitu tetap benar jika kedua pernyataan sama-sama benar. Untuk "atau tetapi tidak keduanya", gunakan **disjungsi eksklusif** atau $p \oplus q$. Ya, satu kata "atau" saja bisa bikin repot. Bahasa manusia, luar biasa.
 
 ## Negasi
 
-Negasi dari proposisi (p) ditulis (\neg p).
+Negasi dari proposisi $p$ ditulis $\neg p$.
 
-Jika (p) benar, maka (\neg p) salah.  
-Jika (p) salah, maka (\neg p) benar.
+Jika $p$ benar, maka $\neg p$ salah.  
+Jika $p$ salah, maka $\neg p$ benar.
 
-| P   | (\neg p) |
+| P   | $\neg p$ |
 | --- | -------- |
 | B   | S        |
 | S   | B        |
 
 Contoh:
 
-- (p): 5 + 4 = 9  
-    (\neg p): 5 + 4 ≠ 9
+- $p$: $5 + 4 = 9$  
+    $\neg p$: $5 + 4 \ne 9$
     
-- (p): Neneng memakai baju putih  
-    (\neg p): Neneng tidak memakai baju putih
+- $p$: Neneng memakai baju putih  
+    $\neg p$: Neneng tidak memakai baju putih
     
-- (p): 2 + 5 > 9  
-    (\neg p): 2 + 5 ≤ 9
+- $p$: $2 + 5 > 9$  
+    $\neg p$: $2 + 5 \le 9$
     
 
 ## Konjungsi
@@ -130,13 +130,13 @@ Konjungsi adalah pernyataan majemuk yang menggunakan kata hubung **dan**.
 
 Bentuk:
 
-[  
+$$
 p \land q  
-]
+$$
 
 Konjungsi bernilai benar hanya jika **kedua proposisi benar**.
 
-|(p)|(q)|(p \land q)|
+|$p$|$q$|$p \land q$|
 |---|---|---|
 |B|B|B|
 |B|S|S|
@@ -145,20 +145,20 @@ Konjungsi bernilai benar hanya jika **kedua proposisi benar**.
 
 Contoh:
 
-- (p): 5 + 8 = 13
+- $p$: $5 + 8 = 13$
     
-- (q): 2 adalah bilangan prima
+- $q$: 2 adalah bilangan prima
     
 
 Maka:
 
-[  
+$$
 p \land q  
-]
+$$
 
-berarti “5 + 8 = 13 dan 2 adalah bilangan prima”.
+berarti "$5 + 8 = 13$ dan 2 adalah bilangan prima".
 
-Karena keduanya benar, maka (p \land q) bernilai benar.
+Karena keduanya benar, maka $p \land q$ bernilai benar.
 
 ## Disjungsi
 
@@ -168,13 +168,13 @@ Disjungsi adalah pernyataan majemuk yang menggunakan kata hubung **atau**.
 
 Bentuk:
 
-[  
+$$
 p \lor q  
-]
+$$
 
-Disjungsi inklusif bernilai benar jika **minimal salah satu** dari (p) atau (q) benar.
+Disjungsi inklusif bernilai benar jika **minimal salah satu** dari $p$ atau $q$ benar.
 
-|(p)|(q)|(p \lor q)|
+|$p$|$q$|$p \lor q$|
 |---|---|---|
 |B|B|B|
 |B|S|B|
@@ -183,23 +183,23 @@ Disjungsi inklusif bernilai benar jika **minimal salah satu** dari (p) atau (q) 
 
 Contoh:
 
-- (p): 3 + 5 = 8
+- $p$: $3 + 5 = 8$
     
-- (q): Metro terletak di Palembang
+- $q$: Metro terletak di Palembang
     
 
 Nilai kebenaran:
 
-- (p): benar
+- $p$: benar
     
-- (q): salah
+- $q$: salah
     
 
 Maka:
 
-[  
+$$
 p \lor q  
-]
+$$
 
 bernilai benar.
 
@@ -207,13 +207,13 @@ bernilai benar.
 
 Bentuk:
 
-[  
+$$
 p \oplus q  
-]
+$$
 
-Disjungsi eksklusif bernilai benar jika **tepat satu** dari (p) atau (q) benar.
+Disjungsi eksklusif bernilai benar jika **tepat satu** dari $p$ atau $q$ benar.
 
-|(p)|(q)|(p \oplus q)|
+|$p$|$q$|$p \oplus q$|
 |---|---|---|
 |B|B|S|
 |B|S|B|
@@ -224,74 +224,74 @@ Disjungsi eksklusif bernilai benar jika **tepat satu** dari (p) atau (q) benar.
 
 Implikasi adalah pernyataan majemuk berbentuk:
 
-[  
+$$
 p \to q  
-]
+$$
 
 Dibaca:
 
-- Jika (p), maka (q).
+- Jika $p$, maka $q$.
     
-- (p) mengakibatkan (q).
+- $p$ mengakibatkan $q$.
     
-- (p) adalah syarat cukup bagi (q).
+- $p$ adalah syarat cukup bagi $q$.
     
-- (q) adalah syarat perlu bagi (p).
+- $q$ adalah syarat perlu bagi $p$.
     
 
 Dalam implikasi:
 
-- (p) disebut **anteseden**, **hipotesis**, atau **sebab**.
+- $p$ disebut **anteseden**, **hipotesis**, atau **sebab**.
     
-- (q) disebut **konsekuen**, **konklusi**, atau **akibat**.
+- $q$ disebut **konsekuen**, **konklusi**, atau **akibat**.
     
 
-|(p)|(q)|(p \to q)|
+|$p$|$q$|$p \to q$|
 |---|---|---|
 |B|B|B|
 |B|S|S|
 |S|B|B|
 |S|S|B|
 
-Implikasi hanya salah ketika (p) benar tetapi (q) salah.
+Implikasi hanya salah ketika $p$ benar tetapi $q$ salah.
 
 Contoh:
 
-- (p): 7 adalah bilangan prima.
+- $p$: 7 adalah bilangan prima.
     
-- (q): 7 habis dibagi 2.
+- $q$: 7 habis dibagi 2.
     
 
 Maka:
 
-[  
+$$
 p \to q  
-]
+$$
 
 berbunyi:
 
-“Jika 7 adalah bilangan prima, maka 7 habis dibagi 2.”
+"Jika 7 adalah bilangan prima, maka 7 habis dibagi 2."
 
-Karena (p) benar dan (q) salah, maka implikasi tersebut bernilai salah.
+Karena $p$ benar dan $q$ salah, maka implikasi tersebut bernilai salah.
 
 ## Biimplikasi
 
 Biimplikasi adalah pernyataan majemuk berbentuk:
 
-[  
+$$
 p \leftrightarrow q  
-]
+$$
 
 Dibaca:
 
-- (p) jika dan hanya jika (q).
+- $p$ jika dan hanya jika $q$.
     
-- (p) ekuivalen dengan (q).
+- $p$ ekuivalen dengan $q$.
     
 
-Biimplikasi bernilai benar jika (p) dan (q) memiliki nilai kebenaran yang sama.
+Biimplikasi bernilai benar jika $p$ dan $q$ memiliki nilai kebenaran yang sama.
 
-|(p)|(q)|(p \leftrightarrow q)|
+|$p$|$q$|$p \leftrightarrow q$|
 |---|---|---|
 |B|B|B|
 |B|S|S|
@@ -300,22 +300,22 @@ Biimplikasi bernilai benar jika (p) dan (q) memiliki nilai kebenaran yang sama.
 
 Contoh:
 
-- (p): 10 adalah bilangan genap.
+- $p$: 10 adalah bilangan genap.
     
-- (q): 10 habis dibagi 2.
+- $q$: 10 habis dibagi 2.
     
 
 Keduanya benar, maka:
 
-[  
+$$
 p \leftrightarrow q  
-]
+$$
 
 bernilai benar.
 
 ## Tabel Kebenaran Utama
 
-|(p)|(q)|(\neg p)|(p \land q)|(p \lor q)|(p \oplus q)|(p \to q)|(p \leftrightarrow q)|
+|$p$|$q$|$\neg p$|$p \land q$|$p \lor q$|$p \oplus q$|$p \to q$|$p \leftrightarrow q$|
 |---|---|---|---|---|---|---|---|
 |B|B|S|B|B|S|B|B|
 |B|S|S|S|B|B|S|S|
@@ -324,103 +324,103 @@ bernilai benar.
 
 ## Ingkaran Pernyataan Majemuk
 
-Negasi pernyataan majemuk tidak boleh asal menambahkan kata “tidak”. Ada aturannya. Mengejutkan sekali, matematika tidak menerima improvisasi bebas.
+Negasi pernyataan majemuk tidak boleh asal menambahkan kata "tidak". Ada aturannya. Mengejutkan sekali, matematika tidak menerima improvisasi bebas.
 
 ### Ingkaran Konjungsi
 
-[  
+$$
 \neg(p \land q) \equiv \neg p \lor \neg q  
-]
+$$
 
 Contoh:
 
-- (p): Rudi sedang makan.
+- $p$: Rudi sedang makan.
     
-- (q): Rudi sedang mendengarkan lagu.
+- $q$: Rudi sedang mendengarkan lagu.
     
 
 Pernyataan:
 
-[  
+$$
 p \land q  
-]
+$$
 
-“Rudi sedang makan dan mendengarkan lagu.”
+"Rudi sedang makan dan mendengarkan lagu."
 
 Negasinya:
 
-[  
+$$
 \neg p \lor \neg q  
-]
+$$
 
-“Rudi tidak sedang makan atau Rudi tidak sedang mendengarkan lagu.”
+"Rudi tidak sedang makan atau Rudi tidak sedang mendengarkan lagu."
 
 ### Ingkaran Disjungsi
 
-[  
+$$
 \neg(p \lor q) \equiv \neg p \land \neg q  
-]
+$$
 
 Contoh:
 
-“Mahasiswa membawa pulpen atau pensil.”
+"Mahasiswa membawa pulpen atau pensil."
 
 Negasinya:
 
-“Mahasiswa tidak membawa pulpen dan tidak membawa pensil.”
+"Mahasiswa tidak membawa pulpen dan tidak membawa pensil."
 
 ### Ingkaran Implikasi
 
-[  
+$$
 \neg(p \to q) \equiv p \land \neg q  
-]
+$$
 
 Contoh:
 
 Pernyataan:
 
-“Jika saya belajar, maka saya lulus.”
+"Jika saya belajar, maka saya lulus."
 
 Negasinya:
 
-“Saya belajar dan saya tidak lulus.”
+"Saya belajar dan saya tidak lulus."
 
 ### Ingkaran Biimplikasi
 
-[  
+$$
 \neg(p \leftrightarrow q) \equiv (p \land \neg q) \lor (\neg p \land q)  
-]
+$$
 
-Artinya, (p) dan (q) memiliki nilai kebenaran yang berbeda.
+Artinya, $p$ dan $q$ memiliki nilai kebenaran yang berbeda.
 
 ## Konvers, Invers, dan Kontraposisi
 
 Dari implikasi:
 
-[  
+$$
 p \to q  
-]
+$$
 
 dapat dibentuk tiga pernyataan baru.
 
 |Bentuk|Rumus|Nama|
 |---|---|---|
-|Implikasi awal|(p \to q)|implikasi|
-|Konvers|(q \to p)|konvers|
-|Invers|(\neg p \to \neg q)|invers|
-|Kontraposisi|(\neg q \to \neg p)|kontraposisi|
+|Implikasi awal|$p \to q$|implikasi|
+|Konvers|$q \to p$|konvers|
+|Invers|$\neg p \to \neg q$|invers|
+|Kontraposisi|$\neg q \to \neg p$|kontraposisi|
 
 Hubungan penting:
 
-[  
+$$
 p \to q \equiv \neg q \to \neg p  
-]
+$$
 
 Implikasi ekuivalen dengan kontraposisinya.
 
-[  
+$$
 q \to p \equiv \neg p \to \neg q  
-]
+$$
 
 Konvers ekuivalen dengan inversnya.
 
@@ -428,7 +428,7 @@ Contoh:
 
 Pernyataan awal:
 
-“Jika harga BBM naik, maka harga beras naik.”
+"Jika harga BBM naik, maka harga beras naik."
 
 - Konvers: Jika harga beras naik, maka harga BBM naik.
     
@@ -445,9 +445,9 @@ Kuantor digunakan untuk mengubah kalimat terbuka menjadi pernyataan.
 
 Kuantor universal ditulis:
 
-[  
+$$
 \forall  
-]
+$$
 
 Dibaca:
 
@@ -460,23 +460,23 @@ Dibaca:
 
 Bentuk umum:
 
-[  
+$$
 (\forall x \in S), P(x)  
-]
+$$
 
 Artinya:
 
-“Untuk semua (x) dalam semesta (S), berlaku (P(x)).”
+"Untuk semua $x$ dalam semesta $S$, berlaku $P(x)$."
 
 Contoh:
 
-[  
+$$
 (\forall x \in \mathbb{R}), x^2 \ge 0  
-]
+$$
 
 Artinya:
 
-“Untuk setiap bilangan real (x), berlaku (x^2 \ge 0).”
+"Untuk setiap bilangan real $x$, berlaku $x^2 \ge 0$."
 
 Pernyataan ini benar.
 
@@ -487,9 +487,9 @@ Pernyataan ini benar.
 
 Kuantor eksistensial ditulis:
 
-[  
+$$
 \exists  
-]
+$$
 
 Dibaca:
 
@@ -502,71 +502,71 @@ Dibaca:
 
 Bentuk umum:
 
-[  
+$$
 (\exists x \in S), P(x)  
-]
+$$
 
 Artinya:
 
-“Ada paling sedikit satu (x) dalam semesta (S) sehingga (P(x)) benar.”
+"Ada paling sedikit satu $x$ dalam semesta $S$ sehingga $P(x)$ benar."
 
 Contoh:
 
-[  
+$$
 (\exists x \in \mathbb{Z}), x^2 = x  
-]
+$$
 
-Pernyataan ini benar karena (x = 0) dan (x = 1) memenuhi persamaan tersebut.
+Pernyataan ini benar karena $x = 0$ dan $x = 1$ memenuhi persamaan tersebut.
 
 ## Ingkaran Pernyataan Berkuantor
 
 ### Ingkaran Kuantor Universal
 
-[  
+$$
 \neg(\forall x), P(x) \equiv (\exists x), \neg P(x)  
-]
+$$
 
 Artinya:
 
-“Tidak benar bahwa semua (x) memenuhi (P(x))” sama dengan “Ada (x) yang tidak memenuhi (P(x)).”
+"Tidak benar bahwa semua $x$ memenuhi $P(x)$" sama dengan "Ada $x$ yang tidak memenuhi $P(x)$."
 
 Contoh:
 
 Pernyataan:
 
-“Semua siswa telah pulang.”
+"Semua siswa telah pulang."
 
 Negasi:
 
-“Ada siswa yang belum pulang.”
+"Ada siswa yang belum pulang."
 
 ### Ingkaran Kuantor Eksistensial
 
-[  
+$$
 \neg(\exists x), P(x) \equiv (\forall x), \neg P(x)  
-]
+$$
 
 Artinya:
 
-“Tidak ada (x) yang memenuhi (P(x))” sama dengan “Semua (x) tidak memenuhi (P(x)).”
+"Tidak ada $x$ yang memenuhi $P(x)$" sama dengan "Semua $x$ tidak memenuhi $P(x)$."
 
 Contoh:
 
 Pernyataan:
 
-[  
+$$
 (\exists x \in \mathbb{Z}), x^2 = 9  
-]
+$$
 
 Negasinya:
 
-[  
+$$
 (\forall x \in \mathbb{Z}), x^2 \ne 9  
-]
+$$
 
 > [!warning] Koreksi penting  
-> Negasi dari ((\exists x \in \mathbb{Z}), x^2 = 9) bukan ((\exists x \in \mathbb{Z}), x^2 \ne 9), melainkan ((\forall x \in \mathbb{Z}), x^2 \ne 9).  
-> Dalam catatan mentah juga muncul kalimat “tidak sama dengan 25”, padahal pernyataan awalnya (x^2 = 9). Itu harus diganti menjadi “tidak sama dengan 9”.
+> Negasi dari $(\exists x \in \mathbb{Z}), x^2 = 9$ bukan $(\exists x \in \mathbb{Z}), x^2 \ne 9$, melainkan $(\forall x \in \mathbb{Z}), x^2 \ne 9$.  
+> Dalam catatan mentah juga muncul kalimat "tidak sama dengan 25", padahal pernyataan awalnya $x^2 = 9$. Itu harus diganti menjadi "tidak sama dengan 9".
 
 ## Tautologi, Kontradiksi, dan Kontingensi
 
@@ -576,16 +576,16 @@ Tautologi adalah pernyataan majemuk yang selalu bernilai benar untuk semua kemun
 
 Contoh:
 
-[  
+$$
 p \lor \neg p  
-]
+$$
 
-|(p)|(\neg p)|(p \lor \neg p)|
+|$p$|$\neg p$|$p \lor \neg p$|
 |---|---|---|
 |B|S|B|
 |S|B|B|
 
-Karena selalu benar, maka (p \lor \neg p) adalah tautologi.
+Karena selalu benar, maka $p \lor \neg p$ adalah tautologi.
 
 ### Kontradiksi
 
@@ -593,16 +593,16 @@ Kontradiksi adalah pernyataan majemuk yang selalu bernilai salah.
 
 Contoh:
 
-[  
+$$
 p \land \neg p  
-]
+$$
 
-|(p)|(\neg p)|(p \land \neg p)|
+|$p$|$\neg p$|$p \land \neg p$|
 |---|---|---|
 |B|S|S|
 |S|B|S|
 
-Karena selalu salah, maka (p \land \neg p) adalah kontradiksi.
+Karena selalu salah, maka $p \land \neg p$ adalah kontradiksi.
 
 ### Kontingensi
 
@@ -610,18 +610,18 @@ Kontingensi adalah pernyataan majemuk yang kadang bernilai benar dan kadang bern
 
 Contoh:
 
-[  
+$$
 p \to q  
-]
+$$
 
-|(p)|(q)|(p \to q)|
+|$p$|$q$|$p \to q$|
 |---|---|---|
 |B|B|B|
 |B|S|S|
 |S|B|B|
 |S|S|B|
 
-Karena ada nilai benar dan ada nilai salah, maka (p \to q) adalah kontingensi.
+Karena ada nilai benar dan ada nilai salah, maka $p \to q$ adalah kontingensi.
 
 ## Ekuivalensi Logis
 
@@ -629,113 +629,113 @@ Dua pernyataan disebut ekuivalen secara logis jika keduanya memiliki nilai keben
 
 Ditulis:
 
-[  
+$$
 p \equiv q  
-]
+$$
 
 ## Hukum-Hukum Logika
 
 ### Hukum Identitas
 
-[  
+$$
 p \lor S \equiv p  
-]
+$$
 
-[  
+$$
 p \land B \equiv p  
-]
+$$
 
 ### Hukum Dominasi
 
-[  
+$$
 p \lor B \equiv B  
-]
+$$
 
-[  
+$$
 p \land S \equiv S  
-]
+$$
 
 ### Hukum Negasi
 
-[  
+$$
 p \lor \neg p \equiv B  
-]
+$$
 
-[  
+$$
 p \land \neg p \equiv S  
-]
+$$
 
 ### Hukum Idempoten
 
-[  
+$$
 p \lor p \equiv p  
-]
+$$
 
-[  
+$$
 p \land p \equiv p  
-]
+$$
 
 ### Hukum Negasi Ganda
 
-[  
+$$
 \neg(\neg p) \equiv p  
-]
+$$
 
 ### Hukum Komutatif
 
-[  
+$$
 p \lor q \equiv q \lor p  
-]
+$$
 
-[  
+$$
 p \land q \equiv q \land p  
-]
+$$
 
 ### Hukum Asosiatif
 
-[  
+$$
 p \lor (q \lor r) \equiv (p \lor q) \lor r  
-]
+$$
 
-[  
+$$
 p \land (q \land r) \equiv (p \land q) \land r  
-]
+$$
 
 ### Hukum Distributif
 
-[  
+$$
 p \lor (q \land r) \equiv (p \lor q) \land (p \lor r)  
-]
+$$
 
-[  
+$$
 p \land (q \lor r) \equiv (p \land q) \lor (p \land r)  
-]
+$$
 
 ### Hukum De Morgan
 
-[  
+$$
 \neg(p \land q) \equiv \neg p \lor \neg q  
-]
+$$
 
-[  
+$$
 \neg(p \lor q) \equiv \neg p \land \neg q  
-]
+$$
 
 ### Hukum Implikasi
 
-[  
+$$
 p \to q \equiv \neg p \lor q  
-]
+$$
 
 ### Hukum Biimplikasi
 
-[  
+$$
 p \leftrightarrow q \equiv (p \to q) \land (q \to p)  
-]
+$$
 
-[  
+$$
 p \leftrightarrow q \equiv (p \land q) \lor (\neg p \land \neg q)  
-]
+$$
 
 ## Inferensi Logika
 
@@ -743,32 +743,32 @@ Inferensi logika adalah proses menarik kesimpulan dari premis-premis.
 
 Sebuah argumen dikatakan **valid** jika bentuk implikasi berikut adalah tautologi:
 
-[  
+$$
 (p_1 \land p_2 \land \cdots \land p_n) \to q  
-]
+$$
 
 dengan:
 
-- (p_1, p_2, \ldots, p_n) sebagai premis.
+- $p_1, p_2, \ldots, p_n$ sebagai premis.
     
-- (q) sebagai kesimpulan.
+- $q$ sebagai kesimpulan.
     
 
 ## Silogisme Hipotetis
 
 Bentuk umum:
 
-[  
+$$
 p \to q  
-]
+$$
 
-[  
+$$
 q \to r  
-]
+$$
 
-[  
+$$
 \therefore p \to r  
-]
+$$
 
 Contoh:
 
@@ -783,17 +783,17 @@ Contoh:
 
 Bentuk umum:
 
-[  
+$$
 p \to q  
-]
+$$
 
-[  
+$$
 p  
-]
+$$
 
-[  
+$$
 \therefore q  
-]
+$$
 
 Contoh:
 
@@ -810,17 +810,17 @@ Modus ponens adalah bentuk argumen valid.
 
 Bentuk umum:
 
-[  
+$$
 p \to q  
-]
+$$
 
-[  
+$$
 \neg q  
-]
+$$
 
-[  
+$$
 \therefore \neg p  
-]
+$$
 
 Contoh:
 
@@ -832,29 +832,29 @@ Contoh:
     
 
 > [!warning] Koreksi penting  
-> Bentuk “Jika saya makan maka saya kenyang. Saya tidak makan. Jadi saya tidak kenyang” **tidak valid**. Itu disebut kesalahan **denying the antecedent**. Dari tidak makan, belum tentu tidak kenyang, karena bisa saja kenyang karena minum susu, makan sebelumnya, atau karena semesta memang hobi membuat kasus tepi.
+> Bentuk "Jika saya makan maka saya kenyang. Saya tidak makan. Jadi saya tidak kenyang" **tidak valid**. Itu disebut kesalahan **denying the antecedent**. Dari tidak makan, belum tentu tidak kenyang, karena bisa saja kenyang karena minum susu, makan sebelumnya, atau karena semesta memang hobi membuat kasus tepi.
 
 ## Simplifikasi
 
 Bentuk umum:
 
-[  
+$$
 p \land q  
-]
+$$
 
-[  
+$$
 \therefore p  
-]
+$$
 
 atau:
 
-[  
+$$
 p \land q  
-]
+$$
 
-[  
+$$
 \therefore q  
-]
+$$
 
 Contoh:
 
@@ -874,17 +874,17 @@ Atau:
 
 Bentuk umum:
 
-[  
+$$
 p  
-]
+$$
 
-[  
+$$
 q  
-]
+$$
 
-[  
+$$
 \therefore p \land q  
-]
+$$
 
 Contoh:
 
@@ -899,13 +899,13 @@ Contoh:
 
 Bentuk umum:
 
-[  
+$$
 p  
-]
+$$
 
-[  
+$$
 \therefore p \lor q  
-]
+$$
 
 Contoh:
 
@@ -922,17 +922,17 @@ Secara logika bentuk ini valid, meskipun secara bahasa terdengar seperti alasan 
 
 Bentuk keliru:
 
-[  
+$$
 p \to q  
-]
+$$
 
-[  
+$$
 q  
-]
+$$
 
-[  
+$$
 \therefore p  
-]
+$$
 
 Contoh:
 
@@ -949,17 +949,17 @@ Kesimpulan tidak valid, karena jalan bisa basah karena disiram, banjir, atau tet
 
 Bentuk keliru:
 
-[  
+$$
 p \to q  
-]
+$$
 
-[  
+$$
 \neg p  
-]
+$$
 
-[  
+$$
 \therefore \neg q  
-]
+$$
 
 Contoh:
 
@@ -977,9 +977,9 @@ Kesimpulan tidak valid.
 |Kalimat|Jenis|Nilai Kebenaran|
 |---|---|---|
 |Jawa Barat terletak di Pulau Sumatra|proposisi|salah|
-|3 + 7 ≤ 4 + 5|proposisi|salah|
+|$3 + 7 \le 4 + 5$|proposisi|salah|
 |Semoga lekas sembuh|bukan proposisi|tidak ada|
-|(x > 10)|kalimat terbuka|bergantung pada (x)|
+|$x > 10$|kalimat terbuka|bergantung pada $x$|
 |3 adalah faktor dari 15|proposisi|benar|
 |Mari kita belajar|bukan proposisi|tidak ada|
 
@@ -988,7 +988,7 @@ Kesimpulan tidak valid.
 |Pernyataan|Negasi|
 |---|---|
 |10 adalah bilangan bulat positif|10 bukan bilangan bulat positif|
-|10 + 6 ≤ 15|10 + 6 > 15|
+|$10 + 6 \le 15$|$10 + 6 > 15$|
 |Semua guru memakai baju putih|Ada guru yang tidak memakai baju putih|
 |Ada burung yang tidak bisa terbang|Semua burung bisa terbang|
 |Semua siswa lulus ujian|Ada siswa yang tidak lulus ujian|
@@ -998,21 +998,21 @@ Kesimpulan tidak valid.
 > [!warning] Bagian yang perlu diperbaiki  
 > Beberapa bagian catatan mentah perlu dikoreksi agar tidak menyesatkan ketika dipakai belajar.
 
-- Kalimat (x - 8 < 7), (x) faktor dari 7, dan (y + 4 = 6) harus diklasifikasikan sebagai **kalimat terbuka**, bukan proposisi.
+- Kalimat $x - 8 < 7$, $x$ faktor dari 7, dan $y + 4 = 6$ harus diklasifikasikan sebagai **kalimat terbuka**, bukan proposisi.
     
-- Negasi dari ((p \land q)) adalah (\neg p \lor \neg q), bukan (\neg(p \lor q)).
+- Negasi dari $p \land q$ adalah $\neg p \lor \neg q$, bukan $\neg(p \lor q)$.
     
-- Negasi dari ((p \lor q)) adalah (\neg p \land \neg q), bukan (\neg(p \land q)).
+- Negasi dari $p \lor q$ adalah $\neg p \land \neg q$, bukan $\neg(p \land q)$.
     
-- Negasi dari ((\exists x)P(x)) adalah ((\forall x)\neg P(x)), bukan tetap memakai (\exists).
+- Negasi dari $(\exists x)P(x)$ adalah $(\forall x)\neg P(x)$, bukan tetap memakai $\exists$.
     
 - Untuk membuktikan pernyataan universal, satu contoh tidak cukup.
     
-- Modus tollens harus berbentuk (p \to q), (\neg q), maka (\neg p). Bukan (p \to q), (\neg p), maka (\neg q).
+- Modus tollens harus berbentuk $p \to q$, $\neg q$, maka $\neg p$. Bukan $p \to q$, $\neg p$, maka $\neg q$.
     
-- Pada implikasi (p \to q), (p) adalah **syarat cukup** bagi (q), sedangkan (q) adalah **syarat perlu** bagi (p).
+- Pada implikasi $p \to q$, $p$ adalah **syarat cukup** bagi $q$, sedangkan $q$ adalah **syarat perlu** bagi $p$.
     
-- Gunakan simbol (p \oplus q) untuk disjungsi eksklusif agar tidak tertukar dengan disjungsi inklusif (p \lor q).
+- Gunakan simbol $p \oplus q$ untuk disjungsi eksklusif agar tidak tertukar dengan disjungsi inklusif $p \lor q$.
     
 
 ## Latihan Singkat
@@ -1026,7 +1026,7 @@ Kesimpulan tidak valid.
     
 - Pergi saja kamu dari sini.
     
-- (6 + x > 9).
+- $6 + x > 9$.
     
 - 35 habis dibagi 2.
     
@@ -1042,15 +1042,15 @@ Kesimpulan tidak valid.
     
 - Jika saya belajar, maka saya lulus.
     
-- (p \land q).
+- $p \land q$.
     
-- (p \to q).
+- $p \to q$.
     
 
 > [!question] Latihan  
 > Tentukan konvers, invers, dan kontraposisi dari pernyataan berikut.
 
-“Jika saya lapar, maka saya makan.”
+"Jika saya lapar, maka saya makan."
 
 ## Jawaban Ringkas
 
@@ -1061,7 +1061,7 @@ Kesimpulan tidak valid.
 |Gunung Bromo terletak di Jawa Tengah|proposisi|
 |Nabi Muhammad adalah utusan Allah|proposisi|
 |Pergi saja kamu dari sini|bukan proposisi|
-|(6 + x > 9)|kalimat terbuka|
+|$6 + x > 9$|kalimat terbuka|
 |35 habis dibagi 2|proposisi|
 |Semoga kamu berhasil|bukan proposisi|
 
@@ -1072,18 +1072,18 @@ Kesimpulan tidak valid.
 |Semua mahasiswa hadir|Ada mahasiswa yang tidak hadir|
 |Ada siswa yang tidak mengumpulkan tugas|Semua siswa mengumpulkan tugas|
 |Jika saya belajar, maka saya lulus|Saya belajar dan saya tidak lulus|
-|(p \land q)|(\neg p \lor \neg q)|
-|(p \to q)|(p \land \neg q)|
+|$p \land q$|$\neg p \lor \neg q$|
+|$p \to q$|$p \land \neg q$|
 
 ### Konvers, Invers, dan Kontraposisi
 
 Pernyataan awal:
 
-[  
+$$
 p \to q  
-]
+$$
 
-“Jika saya lapar, maka saya makan.”
+"Jika saya lapar, maka saya makan."
 
 |Bentuk|Pernyataan|
 |---|---|

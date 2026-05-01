@@ -20,6 +20,8 @@ Add new dated entries at the top of this section.
 - Completed a targeted organization pass across `Inbox`, `Clippings`, `Bahas Soal`, and `Notes` while keeping `Rencana 9 Minggu Fondasi Sains dan Matematika.md` inside Sourcebook.
 - Task type: `note-update`
 - Created `Bahas Soal/Matematika Dasar/Himpunan dan Logika Matematika/Set/Set 1.md` through `Set 5.md` as five student-facing open-ended practice sets for Himpunan dan Logika Matematika, covering foundations, operations and Venn regions, cardinality, truth tables, and inference rules.
+- Task type: `note-update`
+- Cleaned `Inbox/Logika Matematika.md` so formulas, logic notation, display equations, and math-heavy table cells use Obsidian-compatible MathJax delimiters.
 
 ### Moved
 - Routed all current complete Inbox captures into Sourcebook buckets for math, design inspiration, psychology, college preparation, and motivation.
@@ -43,6 +45,7 @@ Add new dated entries at the top of this section.
 - Left unresolved: `Inbox` and `Clippings` now contain only their README scaffolding; no path-length, unnamed-note, or lowercase-start issues remain in the requested folders.
 - Counts: 1 topic folder, 1 `Set` folder, 5 Set files, and 100 open-ended questions added for Himpunan dan Logika Matematika.
 - Left unresolved: companion `Set N - Pembahasan.md` files were not created because this pass only requested latihan soal.
+- Counts: 1 Inbox note updated for Obsidian MathJax compatibility; no routing, renaming, or content split was done.
 
 ## 2026-04-30
 

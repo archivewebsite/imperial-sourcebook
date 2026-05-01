@@ -1,0 +1,3270 @@
+Logika Matematika dan Himpunan
+
+
+
+
+             Syariful Fahmi
+      Soffi Widyanesti Priwantoro
+                         Sanksi Pelanggaran Pasal 113
+                     Undang-Undang Nomor 28 Tahun 2014
+                             Tentang Hak Cipta
+
+1. Setiap orang yang dengan tanpa hak melakukan pelanggaran hak ekonomi
+   sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf i untuk penggunaan secara
+   komersial dipidana dengan pidana penjara paling lama 1 (satu) tahun dan/atau
+   pidana denda paling banyak Rp. 100.000.000 (seratus juta rupiah).
+2. Setiap orang yang dengan tanpa hak dan/atau tanpa izin Pencipta atau pemegang
+   Hak Cipta melakukan pelanggaran hak ekonomi Pencipta sebagaimana dimaksud
+   dalam Pasal 9 ayat (1) huruf c, huruf d, huruf f, dan/atau huruf h untuk penggunaan
+   secara komersial dipidana dengan pidana penjara paling lama 3 (tiga) tahun
+   dan/atau pidana denda paling banyak Rp. 500.000.000,00 (lima ratus juta rupiah).
+3. Setiap orang yang dengan tanpa hak dan/atau tanpa izin Pencipta atau pemegang
+   Hak Cipta melakukan pelanggaran hak ekonomi Pencipta sebagaimana dimaksud
+   dalam Pasal 9 ayat (1) huruf a, huruf b, huruf e, dan/atau huruf g untuk penggunaan
+   secara komersial dipidana dengan pidana penjara paling lama 4 (empat) tahun
+   dan/atau pidana denda paling banyak Rp. 1000.000.000,00 (satu miliar rupiah).
+4. Setiap orang yang memenuhi unsur sebagaimana dimaksud pada ayat (3) yang
+   dilakukan dalam bentuk pembajakan, dipidana penjara paling lama 10 (sepuluh)
+   tahun dan/atau pidana denda paling banyak Rp. 4000.000.000,00 (empat miliar
+   rupiah).
+Logika Matematika dan Himpunan
+
+
+
+
+             Syariful Fahmi
+       Soffi Widyanesti Priwantoro
+Logika Matematika dan Himpunan
+Copyright © 2021 Syariful Fahmi, Soffi Widyanesti Priwantoro
+
+ISBN: 978-602-0737-69-0
+e-ISBN: 978-602-0737-70-6
+16 x 24 cm, viii + 96 hlm
+Cetakan Pertama, Juli 2021
+
+Penulis:
+Syariful Fahmi
+Soffi Widyanesti Priwantoro
+
+Editor: Dyah Intan P.
+Layout: Dyah Intan P.
+Cover: Hafidz Irfana
+
+Diterbitkan oleh:
+UAD PRESS
+(Anggota IKAPI dan APPTI)
+
+Alamat Penerbit:
+Kampus II Universitas Ahmad Dahlan
+Jl. Pramuka No.46, Sidikan, Umbulharjo, Yogyakarta
+Telp. (0274) 563515, Phone (+62) 882 3949 9820
+
+All right reserved. Semua hak cipta © dilindungi undang-undang. Tidak
+diperkenankan memproduksi ulang atau mengubah dalam bentuk apa pun melalui
+cara elektronik, mekanis, fotocopy, atau rekaman sebagian atau seluruh buku ini
+tanpa izin tertulis dari pemilik hak cipta.
+                            PRAKATA
+
+    Alhamdulillah penulis sampaikan ke Allah SWT atas terselesaikannya
+buku ajar ini. Materi buku ajar ini berisi teori tentang logika matema-
+tika dan himpunan sebagai buku ajar untuk mata kuliah Logika Ma-
+tematika dan Himpunan. Buku ini dirancang dengan menggunakan
+banyak contoh sehingga akan memudahkan pembaca untuk memahami
+konsep dalam logika matematika dan himpunan.
+    Materi Logika Matematika dan Himpunan tidak hanya sekedar
+membahas teori tentang logika matematika, akan tetapi lebih menitikbe-
+ratkan pada proses penalaran dan pembuktian melalui materi operasi pa-
+da himpunan, fungsi, dan relasi. Pembaca atau mahasiswa diharapkan
+dapat berpikir logis, kritis, dan sistematis. Oleh karena itu, penulis
+menyusun buku ajar ini dengan dilengkapi contoh dan latihan supaya
+mudah dipelajari.
+    Akhir kata, penulis mengucapkan terima kasih kepada semua pihak
+yang telah banyak membantu, sehingga pembuatan buku ini dapat terse-
+lesaikan. Saran dan kritik dari pembaca selalu penulis tunggu untuk per-
+baikan kualitas buku ini.
+
+                                            Yogyakarta, Agustus 2018
+
+
+
+
+                                                     Penulis
+
+
+
+
+                                   v
+vi
+                       Daftar Isi
+
+
+
+       Prakata ……………………………………………... v
+     Daftar Isi ……………………………………………... vii
+        Bab 1
+                Pernyataan atau Proposisi ………………….. 1
+        Bab 2
+                Pernyataan Majemuk dan Tabel Kebenaran… 5
+        Bab 3
+                Menentukan Nilai Kebenaran Suatu Pernyataan
+                Majemuk ………………………………….. 21
+        Bab 4
+                Himpunan dan Subhimpunan …………….. 41
+        Bab 5
+                Fungsi ……………………………………... 61
+        Bab 6
+                Relasi ……………………………………… 79
+Daftar Pustaka …………………………………………….. 95
+
+
+
+
+                            vii
+viii
+                          Logika Matematika Dan Himpunan
+
+
+
+
+ BAB 1
+               Pernyataan atau Proposisi
+
+
+   Manusia diberi akal oleh Allah untuk menjadi khalifah di muka bumi.
+Dengan akal tersebut, manusia dapat mengemukakan pendapat atau
+memberikan suatu pernyataan. Dengan akal itu pula manusia dapat me-
+nilai suatu pernyataan itu bernilai benar atau bernilai salah.
+   Menurut Anda, adakah suatu pernyataan bernilai benar dan sekaligus
+bernilai salah?
+   Perhatikan kalimat-kalimat di bawah ini.
+   a. Banjarnegara berada di Jawa Tengah.
+   b. 3 + 1 = 4
+   c. Garis y = 2 x + 5 sejajar dengan garis 2 = 6x − 7 .
+   d. Al Qur'an buatan Nabi Muhammad.
+   e. Siapa pencipta alam semesta?
+   f. 4 adalah bilangan genap.
+   g. Tolong, belikan saya ayam goreng!
+   h. Semoga kamu selamat dalam perjalananmu.
+
+   Dari kalimat-kalimat di atas, tentukanlah mana kalimat yang bernilai
+benar dan mana kalimat yang bernilai salah. Adakah kalimat yang berni-
+
+
+
+                                        1
+Logika Matematika Dan Himpunan
+
+
+lai benar dan sekaligus bernilai salah? Ada pulakah kalimat yang tidak da-
+pat ditentukan nilai kebenarannya?
+    Kalimat-kalimat yang dapat ditentukan nilai kebenarannya disebut
+pernyataan atau kalimat deklaratif. Kalimat yang tidak dapat ditentukan
+nilai kebenarannya, tidak dapat disebut pernyataan.
+    Dalam Logika Matematika, tidak akan membicarakan kalimat-kali-
+mat seperti contoh-contoh berikut ini, misalnya:
+    1. Apakah kamu sudah makan? (Kalimat tanya)
+    2. Bagus sekali rumah ini! (Kalimat yang mengungkapkan suatu pera-
+       saan)
+    3. Belikan ayah nasi goreng! (Kalimat perintah)
+    4. Mudah-mudahan IPK-mu lebih dari 3. (Kalimat yang berisi hara-
+       pan)
+
+           Secara umum bisa dijelaskan melalui bagan berikut:
+
+                                                    Benar
+                                 Pernyataan
+                                 (Proposisi)        Salah
+           Kalimat
+
+                                 Bukan Pernyataan
+
+Latihan 1
+Tentukan nilai kebenaran dari pernyataan berikut.
+1. Yogyakarta pernah menjadi ibukota Republik Indonesia.
+2. Lapisan ozon di atmosfer bumi semakin menipis.
+3. Presiden Republik Indonesia saat ini adalah Susilo Bambang Yudho-
+    yono.
+4. Harga sebuah durian lebih mahal dari harga sebuah pisang.
+5. Bunga melati berwarna merah.
+6. Tidak ada mahasiswa yang masih belajar di SMP.
+
+2|
+                                                           Bab 1 | Pernyataan atau Proposisi
+
+
+7.   Bilangan yang berakhir dengan angka 6 dapat habis dibagi 3.
+8.   Tahun 1982 adalah tahun kabisat.
+9.   Hipotenusa segitiga siku-siku lebih panjang daripada sisi-sisi lain-
+     nya.
+10. Grafik y = x 2 − 2 x + 1 memotong sumbu X di dua titik berbeda.
+11. 3 log 45 − 3 log 5 = 2
+12. 113 adalah bilangan genap.
+13. Grafik y = 2 x 2 + 3 x + 5 tidak pernah menyentuh sumbu X.
+14. 2 4 ⋅ 2 2 = 2 8
+15. 3 log( 4 ⋅ 2) = 3 log 4 ⋅3 log 2
+16. Grafik y = 2 x 2 − 2 x + 7 berpotongan dengan grafik y = x 2 + x + 6 .
+    35
+17. 2 = 3 3
+    3
+18. Grafik y = 2 x 2 − 3 x + 2 berpotongan dengan grafik y = x 2 + x − 1
+    di dua titik yang sama.
+19. Diskriminan suatu fungsi kuadrat yang mempunyai dua akar kem-
+    bar adalah 0.
+20. Pak guru masih sakit dan sudah sembuh.
+21. Luas permukaan balok adalah 4x(panjang + lebar + tinggi).
+22. Belah ketupat mempunyai 4 sisi yang sama panjang.
+23. Volume kerucut dengan jari-jari 8 cm dan tinggi 2 cm sama dengan
+    volume tabung dengan jari-jari 8 cm dan tinggi 2 cm.
+                                             1
+24. Garis y = 6 x + 7 tegak lurus garis y = − x + 7 .
+                                             6
+          2
+    1
+25.   = 0,625
+    4
+
+
+       Info
+       Kalimat yang mengandung variabel, misalnya 5 = x + 2 adalah
+       kalimat terbuka, yaitu kalimat yang belum mempunyai nilai kebenaran.
+       Kalimat ini bernilai benar untuk x = 3 dan bernilai salah untuk x = 4
+
+
+                                                                                       |3
+Logika Matematika Dan Himpunan
+
+
+
+
+4|
+                           Logika Matematika dan Himpunan
+
+
+
+
+ BAB 2
+ Pernyataan Majemuk dan Tabel Kebenaran
+
+
+   Pada pembahasan ini dan seterusnya, kita hanya membicarakan per-
+nyataan-pernyataan saja. Pernyataan-pernyataan sederhana digandakan
+menjadi pernyataan majemuk (tersusun) dengan menggunakan kata-kata
+perangkai (penghubung). Kata-kata perangkai itu adalah:
+   1. “atau” dengan symbol “∨”
+   2. “dan” dengan symbol “&” atau “∧”
+   3. “apabila… maka…” dengan symbol “”
+   4. “bila dan hanya bila” dengan symbol “⇔”
+   Sedangkan negasi (sangkalan) suatu pernyataan menggunakan kata-
+kata “tidak benar bahwa” yang diberi simbol “-” di depan pernyataan
+yang disangkal (diingkar). Pernyataan-pernyataan diberi simbol dengan
+huruf alfabet kecil: a, b, c, d,…, sedangkan nilai “Benar” atau “Salah” su-
+atu pernyataan disingkat berturut-turut dengan “B” atau “S”.
+
+A. Negasi (Sangkalan/Ingkaran)
+   Definisi 1:
+      Negasi suatu pernyataan ialah suatu pernyataan yang bernilai salah
+   apabila pernyataan semula bernilai benar, dan bernilai benar apabila
+   pernyataan semula bernilai salah.
+
+                                         5
+Logika Matematika dan Himpunan
+
+
+        Jika p suatu pernyataan, ingkaran p atau negasi p dinyatakan de-
+     ngan simbol ~ p atau p .
+
+
+       Info
+       ~ p atau p dibaca:
+                   •      Tidak p, atau
+                   •      Bukan p, atau
+                   •      Tidak benar bahwa p
+
+
+     Perhatikan nilai kebenaran pernyataan-pernyataan berikut.
+        1) p     : 3 adalah bilangan prima. (B)
+           ~ p : 3 bukan bilangan prima. (S)
+         2) p          : 3 + 3 = 7 . (S)
+              ~ p : 3 + 3 ≠ 7 . (B)
+
+
+       Simpulkan
+       Jika p bernilai benar, maka ~ p bernilai …
+       Jika p bernilai salah, maka ~ p bernilai …
+
+
+        Kesimpulan tersebut dapat disajikan dalam tabel (yang disebut ta-
+     bel kebenaran) sebagai berikut:
+
+     Salin dan Lengkapilah
+     Tabel kebenaran pernyataan
+           p          ~ p
+              B                  …
+              S                  …
+
+
+     Uji Pemahaman
+     Tentukan ingkaran dan nilai kebenaran dari pernyataan-pernyataan
+     berikut.
+     1. Massa bumi lebih besar daripada massa matahari.
+
+6|
+                                          Bab 2 | Pernyataan Majemuk dan Tabel Kebenaran
+
+
+2.   Bulan dapat memancarkan cahayanya sendiri.
+3.   Presiden Indonesia dapat membubarkan DPR-RI.
+4.   Tumbuhan monokotil adalah tumbuhan berkeping dua.
+5.   Papua New Guenia adalah bagian dari Indonesia.
+6.   Jabatan Gubernur Bank Indonesia setingkat dengan menteri.
+7.   Jaksa bertugas membela terdakwa dalam persidangan.
+8.   Besi merupakan suatu senyawa.
+9.   Nilai minimum y = −3 cos x adalah − 3 .
+10. Daerah asal fungsi f ( x) = x − 1 adalah { x | x ∈ R} .
+11. Grafik y = 2 x 2 − 3x + 2 berpotongan dengan garis y = − 1 di
+     dua titik berbeda.
+12. (a + b) 2 = a 2 + ab + b 2
+13. (2 − 5 )(2 + 5 ) = −1
+14. Persegi mempunyai 4 sisi yang sama panjang.
+15. 2 log(4 − 3) = 2 log 4 − 2 log 3
+16. (5 2 ) 3 = 55
+17. Gradien garis yang melalui titik (− 2 ,7 ) dan ( 3, 4 ) adalah 6.
+18. Grafik y = 3 x + 7 tegak lurus grafik y = − 3 x − 7
+19. Volume kubus dengan sisi r adalah r 3 .
+20. Luas lingkaran dengan jari-jari r sama dengan luas bola dengan
+    jari-jari r.
+21. Grafik y = 2 x 2 + 7 berpotongan dengan grafik y = 2 x − 3 di
+    dua titik berbeda.
+22. Sudut-sudut yang saling berhadapan pada jajaran genjang sama
+    besar.
+23. Diagonal-diagonal belah ketupat saling tegak lurus.
+24. Persegi panjang mempunyai 2 sisi sama panjang.
+25. Sudut-sudut suatu segitiga sama sisi adalah sama besar.
+
+
+
+
+                                                                                   |7
+Logika Matematika dan Himpunan
+
+
+B. Konjungsi Dua Pernyataan
+   Contoh 1:
+      “Jono kaya dan bahagia” merupakan singkatan dari “Jono kaya dan
+   Jono bahagia”. Apabila “a” menyatakan “Jono kaya” dan “b” menyata-
+   kan Jono bahagia’. Pernyataan-pernyataan “a” maupun “b” masing-
+   masing disebut pernyataan tunggal (pernyataan prima/pernyataan
+   atom). Sedangkan “a & b” disebut konjungsi a dan b.
+
+     Definisi 2:
+        Konjungsi dua pernyataan a dan b ditulis “a & b” (dibaca “a dan
+     b”) bernilai B (benar). Hanya apabila kedua pernyataan tunggalnya
+     bernilai B, dan untuk nilai-nilai kebenaran adan b lainnya, maka “a &
+     b” bernilai S (salah).
+        Definisi tersebut dapat dinyatakan dalam suatu tabel kebenaran
+     (tabel 1) konjungsi dua pernyataan a dan b.
+
+   Tabel 1. Tabel nilai kebenaran Konjungsi Dua Pernyataan a dan b
+                                 a   b           a&b
+                                 B   B            B
+                                 B   S            S
+                                 S   B            S
+                                 S   S            S
+
+
+     Catatan:
+     Nilai kebenaran konjungsi dua pernyataan ditentukan oleh nilai-nilai
+     kebenaran pernyataan-pernyataan tunggalnya, dan tidak perlu mem-
+     perhatikan ada tidaknya hubungan pernyataan-pernyataan tunggal-
+     nya.
+
+     Contoh 2:
+     1) “Jakarta ialah ibukota Negara Republik Indonesia dan 3 x 4 = 12”
+        adalah suatu konjungsi yang bernilai B, sebab kedua pernyataan
+
+
+8|
+                                          Bab 2 | Pernyataan Majemuk dan Tabel Kebenaran
+
+
+     tunggalnya bernilai B, meskipun tak ada hubungan antara pernya-
+     taan-pernyataan tunggalnya.
+  2) Ingatlah definisi irisan dua himpunan A dan B yang menggunakan
+     kalimat konjungsi, definisinys dapat dilukiskan sebagai berikut:
+                         A∩B = {x ∣ x ∊ A & x ∊ B}
+  3) Apabila x dan y menyatakan bilangan-bilangan nyata apakah syarat
+     bagi x dan y agar 𝑥 + 𝑦 = 0? Agar 𝑥 + 𝑦 = 0 haruslah dipenuhi
+     bahwa x = 0 & y = 0. Syarat agar 𝑥 + 𝑦 = 0, ternyata mengguna-
+     kan kalimat konjungsi.
+
+C. Diskonjungsi Dua Pernyataan
+   Definisi 3:
+     Disjungsi dua pernyataan a dan b ditulis “a ∨ b” (dibaca: “a atau
+  b”) bernilai S hanya apabila dua pernyataan tunggalnya bernilai S, se-
+  dangkan untuk nilai-nilai kebenaran a dan b lainya, maka a ∨ b” ber-
+  nilai B.
+      Definisi ini dapat dinyatakan dalam suatu tabel kebenaran disjung-
+  si dua pernyataan a dan b (tabel 2) sebagai berikut:
+
+  Tabel 2. Tabel nilai kebenaran Disjungsi Dua Pernyataan a dan b
+                     a             b             a∨b
+                     B             B              B
+                     B             S              B
+                     S             B              B
+                     S             S              S
+
+
+     Definisi 3 dapat pula dikatakan bahwa disjungsi dua pernyataan
+  bernilai B, apabila sekurang-kurangnya satu dari pernyataan tunggal-
+  nya bernilai B.
+  Contoh 3:
+  1) “7 adalah bilangan prima atau 7 lebih besar dari 8” adalah disjungsi
+     yang bernilai benar (sesuai baris kedua dari tabel 2).
+
+
+                                                                                   |9
+Logika Matematika dan Himpunan
+
+
+    2) “5 adalah bilangan prima atau 5 membagi habis 20” adalah suatu
+       disjungsi yang bernilai benar.
+    3) “6 adalah faktor dari 9 atau 4 + 7 = 10” adalah suatu disjungsi yang
+       bernilai salah.
+    4) Apabila x bilangan nyata, maka (x – 1) (x – 5) = 0 dipenuhi jika x
+         = 1 ∨ x = 5.
+
+       Disjungsi dua pernyataan yang didefinisikan sesuai dengan tabel 2
+    disebut disjungsi inklusif. Disjungsi jenis lain disebut disjungsi
+    eksklusif. Disjungsi eksklusif dua pernyataan a dan b disimbolkan se-
+    bagai “a ⊻ b” (dibaca atau a atau b”) dan didefinisikan sesuai dengan
+    tabel 2 dalam buku ini, apabila ditentukan suatu disjungsi tanpa kete-
+    rangan sps-sps, maka yang dimaksud adalah disjungsi inklusif.
+
+    Contoh 4:
+       Pada jam 06.30, Badu sedang mandi atau sedang makan pagi. Dua
+    pernyataan ini tidak dapat diselesaikan oleh Badu dalam saat yang ber-
+    samaan. Menurut katentuan di atas dikatakan: “Atau Badu sedang
+    mandi atau Badu sedang makan pagi’.
+
+Tabel 3. Tabel nilai Kebenaran Disjungsi Eksklusif dari a dan b.
+                                 a   b          a⊻b
+                                 B   B           S
+                                 B   S           B
+                                 S   B           B
+                                 S   S           S
+
+
+D. Implikasi (Kondisional) Dua Pernyataan
+       Implikasi dua pernyataan a dan b diberi simbol “ab” (dibaca
+    “apabila a maka b”). a disebut pendahulu (antecedent) dan b disebut
+    pengikut (consequent).
+
+
+
+10 |
+                                        Bab 2 | Pernyataan Majemuk dan Tabel Kebenaran
+
+
+Definisi 4:
+    Implikasi “ab” bernilai S hanya apabila pendahulu a bernilai b
+dan pengikut b bernilai S, untuk nilai-nilai kebenaran a dan b lainnya,
+maka implikasi “ab” bernilai B.
+   Definisi tersebut dapat dinyatakan dalam suatu tabel kebenaran
+implikasi ab (tabel 4) berikut.
+
+
+         Tabel 4. Tabel Nilai Kebenaran Implikasi ab
+                   A               b           ab
+                   B               B            B
+                   B               S            S
+                   S               B            B
+                   S               S            B
+
+
+   Dalam percakapan sehari-hari pernyataan majemuk “apabila …
+maka …” biasanya ada suatu hubungan antara pendahulu dan pengi-
+kut.
+
+Contoh 5:
+1) Apabila kamu lulus ujian, maka saya membelikan sepeda motor
+   untukmu (suatu janji).
+2) Apabila bel berdering tiga kali, maka pertanda kuliah diakhiri (sua-
+   tu pertanda).
+3) Apabila Anda biasa terlambat makan, maka Anda akan menderita
+   penyakit perut (sebab akibat).
+4) Apabila dua segitiga siku-siku sama kaki, maka dua segitiga itu se-
+   bangun (pengikut diturunkan dari pendahulu).
+
+   Pada contoh 5, pendahulu dan pengikut suatu implikasi itu mem-
+punyai hubungan yang ditunjukan dengan kata-kata dalam kurung di
+belakang tiap-tiap kalimat. Dalam matematika, hubungan antara pen-
+dahulu dan pengikut tidak disyaratkan, walaupun adanya hubungan
+
+
+                                                                               | 11
+Logika Matematika dan Himpunan
+
+
+    diperbolehkan pula. Berarti atau tidaknya implikasi hanya bergantung
+    pada berarti atau tidaknya pendahulu atau pengikut dari implikasi itu.
+    Begitu pula nilai kebenaran suatu implikasi hanya didasarkan atas ni-
+    lai-nilai kebenaran dari pendahulu dan pengikutnya.
+
+    Contoh 6:
+       Apabila matahari terbit dari barat, maka Siti lulus ujian.
+       Kalimat ini sering kita dengar, dan dimaksudkan bahwa mustahil
+    Siti akan lulus dalam menempuh ujiannya. Meskipun dalam implikasi
+    itu tidak ada hubungan antara pendahulu (matahari terbit dari barat)
+    dan pengikut (Siti lulus ujian). Implikasi itu bernilai benar, sebab pen-
+    dahulunya bernilai salah.
+       Perhatikan tabel nilai kebenaran implikasi (tabel 4), maka kita da-
+    pat menyimpulkan:
+    1) Implikasi selalu bernilai Benar, apabila pendahulunya bernilai Salah,
+       tanpa memperhatikan nilai kebenaran pengikutnya (sesuai baris ke 3
+       dan 4 dalam tabel 4). Nilai kebenaran pengikutnya, baik Benar
+       atau Salah, jika pendahulunya bernilai Salah, maka implikasi terse-
+       but bernilai Benar.
+    2) Implikasi selalu bernilai Benar, apabila pengikutnya bernilai Benar,
+       tanpa memperhatikan nilai kebenaran dari pendahulunya (sesuai ba-
+       ris ke 2 dan 3). Tanpa mengetahui nilai kebenaran pendahulu, jika
+       diketahui pengikutnya bernilai Benar, maka implikasi bernilai Be-
+       nar.
+
+       Implikasi yang dipelajari dalam Matematika adalah implikasi yang
+    didefinisikan seperti dalam tabel 4. Implikasi semacam ini disebut im-
+    plikasi material, sedangkan implikasi yang dijumpai dalam percakap-
+    an sehari-hari disebut implikasi biasa (ordinary implication).
+
+
+    Apabila diketahui bahwa “ab” bernilai benar maka:
+    (1) a disebut syarat cukup bagi b, atau
+
+12 |
+                                       Bab 2 | Pernyataan Majemuk dan Tabel Kebenaran
+
+
+(2) b disebut syarat perlu bagi a.
+
+Perhatikan bahwa suatu syarat perlu belum tentu merupakan syarat
+cukup.
+
+Contoh 7:
+   Segi empat ABCD belah ketupat  diagonal-diagonalnya potong-
+memotong di tengah-tengah.
+   Implikasi ini jelas bernilai benar. Syarat perlu segi empat ABCD
+merupakan belah ketupat ialah diagonal-diagonalnya potong-memo-
+tong di tengah-tengah. Namun, walaupun segi empat ABCD merupa-
+kan belah ketupat ialah diagonal-diagonalnya potong-memotong di
+tengah-tengah (syarat perlu), tetapi belum cukup untuk menghasilkan
+ABCD suatu belah ketupat, yaitu ada segi empat yang diagonal-diago-
+nalnya berpotongan di tengah-tengahnya, tetapi segi empat tersebut
+bukan suatu belah ketupat.
+
+Contoh 8:
+    Apabila keempat sisi segitiga ABCD sama panjang, maka ABCD
+suatu jajar genjang.
+    Implikasi ini bernilai benar. Syarat cukupnya ialah “keempat sisi
+segi empat ABCD sama panjang” dan syarat perlunya ialah “ABCD
+suatu jajar genjang”. Perhatikan bahwa syarat cukup tidak harus me-
+rupakan syarat perlu. Pada contoh ini, memang pendahulu “keempat
+sisi segi empat ABCD sama panjang” merupakan syarat cukup untuk
+mengakibatkan “ABCD suatu jajar genjang” (pengikut). ABCD suatu
+jajar genjang (pengikut) mutlak diperlukan, karena ada suatu jajar
+genjang yang keempat sisinya tidak sama panjang.
+
+Contoh 9:
+   Apabila segitiga ABCD sama kaki maka sudut-sudut alasnya sama
+besar.
+
+                                                                              | 13
+Logika Matematika dan Himpunan
+
+
+        Jelas implikasi ini bernilai benar. Segitiga ABC sama kaki (penda-
+    hulu) merupakan syarat cukup bagi pengikut (sudut alasnya sama be-
+    sar). Sebaliknya pengikut juga merupakan syarat cukup bagi pendahu-
+    lu. Sehingga pendahulu merupakan syarat perlu pula bagi pengikut.
+    Dikatakan bahwa pendahulu merupakan syarat cukup dan perlu bagi
+    pengikut. Hal seperti ini akan dibicarakan lebih detail dalam biimpli-
+    kasi.
+
+    Definisi 5:
+           Apabila diketahui “ab” maka
+           (1) b a disebut konvers dari ab
+           (2) -a -b disebut invers dari ab
+           (3) -b-a disebut kontraposisi (kontrapositif) dari ab
+
+    Definisi 3.5 ini dapat dinyatakan dengan skema sebagai berikut:
+
+
+
+
+       Tabel 6 adalah tabel nilai kebenaran suatu implikasi beserta kon-
+    vers, invers, dan kontraposisinya.
+       Apabila memperhatikan tabel 6 ini, kita dapat menarik beberapa
+    kesimpulan, yaitu:
+
+
+14 |
+                                          Bab 2 | Pernyataan Majemuk dan Tabel Kebenaran
+
+
+  (1) Implikasi mula-mula (ab) dan konversnya tidak selalu mempu-
+      nyai nilai kebenaran yang sama.
+  (2) Implikasi mula-mula dan inversnya tidak selalu mempunyai nilai
+      kebenaran yang sama.
+  (3) Implikasi mula-mula selalu mempunyai nilai kebenaran yang sama
+     dengan kontraposisinya, dikatakan bahwa “ab ekuivalen dengan
+     -b -a” dan ditulis
+                             ab ek -b -a
+
+Tabel 6. Tabel Nilai Kebenaran Implikasi ab besarta Konvers, Invers
+                        dan Kontraposisinya
+            A    B    -a   -b     ab        ba           -a -b          -b -a
+            B    B    S    S       B          B               B               B
+            B    S    S    B       S          B               B               S
+            S    B    B    S       B          S               S               B
+            S    S    B    B       B          B               B               B
+
+
+     Apakah -a-b merupakan kontraposisi dari ba? Dan bagaima-
+  nakah tentang nilai-nilai kebenarannya? Kesimpulan ketiga di atas ba-
+  nyak digunakan sebagai suatu teknik untuk membuktikan secara tidak
+  langsung beberapa teorema. Perhatikan contoh berikut:
+
+  Contoh 10:
+    Apakah kuadrat suatu bilangan bulat adalah ganjil, maka bilangan
+  bulat itu ganjil pula. Atau ditulis: 𝑥 suatu bilangan ganjil 𝑥 bilang-
+  an ganjil.
+
+     Untuk membuktikan kebenaran pernyataan ini ditempuh cara ti-
+  dak langsung, yaitu pembuktian kontraposisinya.
+  Kontraposisi dari implikasi itu ialah:
+       𝑥 bukan suatu bilangan ganjil 𝑥 bukan suatu bilangan ganjil.
+       Atau, 𝑥 suatu bilangan genap.
+
+                                                                                 | 15
+Logika Matematika dan Himpunan
+
+
+    Karena 𝑥 suatu bilangan genap, maka 𝑥 = 2𝑛 (𝑛 suatu bilangan bulat),
+    sehingga 𝑥 = 4𝑛 . Terlihat bahwa 𝑥 memuat faktor 2, berarti 𝑥
+    suatu bilangan genap.
+    Jadi 𝑥 suatu bilangan genap 𝑥 suatu bilangan genap. Sehingga be-
+    nar pula bahwa:
+    𝑥 suatu bilangan ganjil 𝑥 suatu bilangan ganjil.
+
+E. Biimplikasi (Bikodisional)
+   Definisi 6:
+       Biimplikasi a dan b (disimbolkan dengan “a⇔b”) bernilai benar
+    apabila kedua pernyataan tunggalnya mempunyai nilai kebenaran
+    yang sama, dan mempunyai bernilai salah apabila kedua pernyataan
+    tunggalnya mempunyai nilai kebenaran yang berbeda.
+
+       Definisi 6 ini dapat dinyatakan dalam suatu tabel nilai kebenaran
+    (tabel 7) sebagai berikut:
+
+          Tabel 7. Tabel Nilai Kebenaran Biimplikasi dari a dan b.
+                                 A   B           a⇔b
+                                 B   B            B
+                                 B   S            S
+                                 S   B            S
+                                 S   S            B
+
+
+    Teorema 1:
+           a⇔b ek (ab) & (ba)
+
+    Bukti: Untuk membuktikan kebenaran teorema itu diperlihatkan ta-
+    bel kebenarannya sebagai berikut:
+
+
+
+
+16 |
+                                        Bab 2 | Pernyataan Majemuk dan Tabel Kebenaran
+
+
+                            Tabel 8.
+  A      B      a⇔b        ab         b a          (ab) & (b a)
+  B      B       B          B            B                 B
+  B      S       S          S            B                 S
+  S      B       S          B            S                 B
+  S      S       B          B            B                 B
+  1      2       3          4            5                 6
+
+
+Terlihat bahwa urutan nilai kebenaran pada kolom 3 sama dengan
+urutan nilai kebenaran pada kolom 6, berarti:
+                    a⇔b ek (ab) & (ba)
+Pada implikasi ab, a adalah syarat cukup bagi b, dan pada implikasi
+ba, a adalah syarat perlu bagi b. sehingga a⇔b berarti a adalah sya-
+rat cukup dan perlu bagi b dan sebaliknya.
+
+Contoh 11:
+1) Segi empat ABCD suatu jajar genjang bila dan hanya bila diagonal-
+   diagonalnya saling berpotongan di tengah-tengah.
+2) Segitiga ABC sama sisi bila dan hanya bila sudut-sudutnya sama
+   besar.
+3) Segi empat ABCD suatu persegi bila dan hanya bila diagonal-dia-
+   gonalnya sama panjang.
+4) 𝑥 = 3 𝑥 = 9.
+   Nilai kebenaran dari contoh biimplikasi-biimplikasi 1), 2), 3), dan
+4) berturut-turut adalah B, B, S, dan S.
+
+Apabila kita hendak membuktikan kebenaran pernyataan majemuk
+a⇔b ditempuh langkah-langkah sebagai berikut:
+(i) Dibuktikan ab, yaitu pernyataan a diambil sebagai ketentuan
+    dan dibutuhkan kebenaran pernyataan b.
+(ii) Dibuktikan ba, yaitu pernyataan b diambil sebagai ketentuan
+     dan dibuktikan kebenaran pernyataan a.
+
+
+                                                                               | 17
+Logika Matematika dan Himpunan
+
+
+
+
+         Jika kedua langkah ini terselesaikan, barulah disimpulkan bahwa
+    a⇔b terbukti.
+
+        Dari pembicaraan di atas jelas bahwa dalam Matematika, antara
+    implikasi dan biimplikasi harus dibedakan secara tajam. Kedua peng-
+    artian ini tidak boleh dicampuradukkan. Dalam buku-buku Matema-
+    tika ada suatu kekecualian, yaitu dalam setiap rumusan definisi terda-
+    pat ungkapan “apabila…maka…” dimaksudkan “…bila dan hanya
+    bila…”.
+
+    Contoh 12:
+       Apabila ketiga sisi segitiga sama panjang maka segitiga itu sama sisi.
+    Dimaksudkan bahwa “ketiga sisi segitiga sama panjang bila dan hanya
+    bila segitiga itu sama sisi”.
+       Selanjutnya kata perangkai “bila dan hanya bila” disingkat “bhb”
+    kita telah menggunakan singkatan “ek” untuk “ekuivalen”. Dua per-
+    nyataan dikatakan ekuivalen apabila nilai-nilai kebenarannya sama.
+    Bandingkan a⇔b dengan a ek b.
+      Kedua pernyataan ini mempunyai nilai kebenaran sama.
+
+F. Negasi-negasi dari Konjungsi, Disjungsi, Implikasi, dan Biimpli-
+   kasi
+   Untuk menentukan negasi-negasi konjungsi, disjungsi, implikasi, dan
+   biimplikasi, disusun tabel-tabel kebenarannya dalam suatu tabel (tabel
+   9) sebagai berikut.
+
+                                       Tabel 9
+    A       B     -a      -b     a&b a∨b ab     -(a&b)   -(a ∨b)   -(a b)
+    B       B     S       S       B   B    B        B        S          S
+    B       S     S       B       S   B    S        B        S          B
+    S       B     B       S       S   B    B        B        S          S
+
+
+18 |
+                                           Bab 2 | Pernyataan Majemuk dan Tabel Kebenaran
+
+
+  S    S    B     B    S     S       B      B                B                S
+  1    2    3     4    5     6       7      8                9                10
+
+
+     Misalkan kita akan menentukan negasi dari (a&b), yaitu -(a&b),
+  nilai-nilai kebenaranya terlihat pada kolom ke-8. Nilai-nilai kebenar-
+  an pada kolom itu terdiri atas satu S dan diikuti berturut-turut tiga B.
+  hal ini hanya terjadi pada penyataan majemuk dengan kata Penghu-
+  bung “∨”, yaitu -a ∨ -b.
+      Jadi - (a &b) ek -a∨ -b
+  Nilai-nilai kebenaran dari - (a ∨b) berturut terdiri atas tiga S dan satu
+  B (lihat kolom 9). Hal ini hanya terjadi pada pernyataan majemuk de-
+  ngan kata penghubung “&”, yaitu -a& -b.
+      Jadi -(a ∨b) ek -a& -b.
+  Nilai-nilai kebenaran dari -(a b) terdiri atas tiga S dan satu B (lihat
+  kolom 10). Hal ini hanya terjadi pada nilai-nilai kebenaran pernyata-
+  an majemuk dengan kata penghubung “&”, yaitu a& -b.
+      Jadi -(a b) ek a& -b.
+
+
+  Kita telah mengetahui bahwa a⇔b ek (ab) & (ba).
+  Maka -(a ⇔b) ek –((ab) & (ba))
+                ek –((ab) ∨ (ba))
+                ek ((a&- b) ∨ (b& -a))
+  Maka -(a ⇔b) ek ((a&- b) ∨ (b& -a)).
+
+Rangkuman:
+                - (a &b) ek -a∨ -b
+                - (a ∨b) ek -a& -b
+                - (a b) ek a& -b
+             - (a ⇔b) ek (a&- b) ∨ (b& -a).
+    Selanjutnya untuk menghindari banyaknya tanda kurung yang di-
+  gunakan dalam penulisan simbol-simbol dalam pernyataan majemuk,
+
+
+                                                                                   | 19
+Logika Matematika dan Himpunan
+
+
+    maka diadakan perjanjian tentang urutan kekuatan menghubung dari
+    kata-kata penghubung sebagai berikut:
+    ⇔ sebagai penghubung paling kuat, diikuti oleh  selanjutnya dii-
+    kuti & dan ∨ yang mempunyai kekuatan penghubung sama, dan
+    akhirnya – (negasi) merupakan penghubung yang paling lemah.
+
+Contoh 13:
+           a&b𝑐 dimaksudkan (a&b) 𝑐
+           a⇔b𝑐 dimaksudkan a⇔(b𝑐)
+           -a∨b -𝑐&𝑑 dimaksudkan -(a)∨(b)  ((-𝑐) &𝑑)
+           a∨b(𝑐⇔a&-e) dimaksudkan (a∨b)(𝑐⇔ (d& (-e)))
+           a∨b(𝑐⇔d&e) dimaksudkan ((a∨b) 𝑐) ⇔ (d&e).
+
+
+
+
+20 |
+                           Logika Matematika dan Himpunan
+
+
+
+
+ BAB 3
+       Menentukan Nilai Kebenaran Suatu
+             Pernyataan Majemuk
+
+
+    Selain menggunakan tabel kebenaran, cara lain untuk menentukan ni-
+lai kebenaran suatu pernyataan majemuk adalah dengan menggunakan
+prosedur aritmetika. Berikut prosedurnya:
+
+                Pernyataan Majemuk Prosedur Aritmetika
+                        −a                           1+ a
+                       a &b                       a + b + ab
+                       a∨b                            ab
+                       ab                         (1+ a) b
+                       a ⇔b                           a+b
+
+   Apabila suatu pernyataan majemuk mempunyai nilai kebenaran B
+atau S, maka hasil perhitungan dengan prosedur aritmetika diperoleh
+berturut-turut 0 dan 1. Selanjutnya, prosedur perhitungan dalam aritme-
+tika seperti pada lazimnya, kecuali 1 + 1 = 0 . Dengan ketentuan-ketentu-
+an di atas dan mengingat totologi sederhana dapat dimengerti bahwa da-
+lam prosedur aritmetika berlaku bahwa a2 = a, 2a = 0, a(a +1) = 0 untuk se-
+tiap pernyataan a . Ingat bahwa a ∨ a ek a , dalam prosedur aritmetika
+
+                                        21
+Logika Matematika dan Himpunan
+
+
+dinyatakan sebagai aa = a, a ⇔ a dalam prosedur aritmetika dinyata-
+kan sebagai a + a atau 2a , mengingat bahwa a ⇔ a selalu bernilai B,
+maka 2a = 0, a(a + 1 = 0) sebab a ∨ −a suatu totologi.
+
+Contoh 1:
+    Tentukan nilai kebenaran dari (a  (b  c))  (a & b  c) de-
+ngan menggunakan prosedur aritmetika.
+   Penyelesaian:
+            (a  (b  c))  (a & b  c)
+            (1 + (a  (b  c)))(a & b  c)
+            (1 + (1 + a)(b  c)) ((1 + (a & b)) c)
+            (1 + (1 + a)(1 + b) c) ((1 + a + b + ab) c) =
+            (1 + (1 + a + b + ab) c) ((1 + a + b + ab) c) =
+            (1 + a + b + ab) c + (1 + a + b + ab)2 c 2 =
+            (1 + a + b + ab) c + (1 + a + b + ab) c = 0
+
+Contoh 2:
+    Tunjukkan bahwa (a  b & −b)  −a adalah suatu totologi! Guna-
+kan prosedur aritmetika untuk menentukan nilai kebenarannya!
+   Penyelesaian:
+            (a  b & −b)  −a
+            (1 + (a  b & −b))(1 + a)
+            (1 + (1 + a)(b & −b))(1 + a)
+            (1 + (1 + a) (b + (1 + b) + (1 + b)b))(1 + a) =
+            (1 + (1 + a)(2b + 1 + 0))(1 + a ) =
+            (1 + (1 + a)(0 + 1))(1 + a ) =
+            (1 + (1 + a))(1 + a) = 0
+
+
+22 |
+                                  Bab 3 | Menentukan Nilai Kebenaran Suatu Pernyataan Majemuk
+
+
+Latihan 3
+1. Bentuk-bentuk pernyataan berikut, manakah yang merupakan totolo-
+   gi?
+   1. a ⇔ b
+   2. (a  b ⇔ b)  a
+   3. (a ⇔ a) ⇔ a
+   4. a  (− a  b)
+   5. a  (b  (b  a))
+   6. a & b  ((a & −a  b ∨ −b) & (b  b))
+2. Bentuk pernyataan − p ∨ q adalah totologi kondisional dengan ben-
+   tuk-bentuk pernyataan mana saja di antara:
+    1. p
+   2. q  p
+   3. pq
+   4. − q  − p
+   5. − p & q
+
+3. p adalah totologi biimplikasi dengan bentuk-bentuk pernyataan ma-
+   na saja di antara:
+    1. p ∨ q
+   2.   p ∨ −p
+   3.   p& p
+   4. p p
+   5. − p  p
+   6. p  − p
+   7. q ∨ − q
+
+4. Tuliskanlah dengan notasi fungsi, bentuk-bentuk pernyataan berikut
+   ini dan tentukanlah nilai kebenaranya, jika diketahui pernyataan-per-
+   nyataan p , q , r , dan s berturut-turut bernilai B, S, S, dan B.
+
+
+                                                                                      | 23
+Logika Matematika dan Himpunan
+
+
+
+     1.     p  (q  r ) ⇔ q  ( p  r )
+     2.     p ∨ r  r & (s ∨ − p )
+     3. ( p  q)  (s & − p  q)
+     4. ( p  q)  ((q  r )  (r  s ))
+     5. ( p  −q)  (s ⇔ r )
+
+5. Tunjukkanlah bahwa bentuk-bentuk pernyataan-pernyataan berikut
+   adalah totologi (dengan prosedur dalam matriks).
+     1. (a  b & −b)  −a
+     2. (a  (b  c))  (a & b  c)
+     3. a  (b  a & b)
+     4. (a  b) & (c  b)  (a ∨ c  b)
+     5. (a  b)  ((b  c)  (a  c))
+
+6. Tentukanlah nilai-nilai kebenaran bentuk-bentuk pernyataan berikut
+   dengan menggunakan prosedur dalam aritmetika?
+     1.     p  (− p ∨ q)
+     2. ( p & −q)  (− p ∨ q)
+     3. p & (− q  p) & − (( p ⇔ −q)  (q ∨ − p))
+     4. ( p ∨ (q  −r )) & ((− p ∨ r ) ⇔ −q)
+
+   Selanjutnya untuk menyingkat penulisan dalam memberikan alasan
+dinyatakan tiga aturan sebagai berikut:
+   1. Aturan p: Suatu pernyataan tunggal atau pernyataan majemuk
+      yang ditentukan adalah premis (disingkat “p”).
+   2. Aturan t: Pernyataan tunggal atau pernyataan majemuk A1, A2, ...,
+      An sebagai pendahulu diturunkannya C sedemikian sehingga
+      A1 & A2 & ... & An  C suatu totologi disingkat “t”.
+
+
+
+
+24 |
+                                   Bab 3 | Menentukan Nilai Kebenaran Suatu Pernyataan Majemuk
+
+
+   3. Aturan cp: Jika C ialah suatu kesimpulan dari premis-premis A1,
+      A2, ..., An dan D maka D  C merupakan suatu kesimpulan dari
+      premis-premis A1, A2, ..., An. Aturan ini disebut aturan bukti
+      bersyarat (the rule of conditional proof) dan disingkat “cp”.
+
+   Selanjutnya konstruksi keabsahan argumen pada contoh 5.6 di atas
+dapat ditulis lebih singkat menjadi:
+             (1) 1. c  (d  e)         p
+              (2)   2.   −g∨c                   p
+              (3)   3.   d                      p
+              (4)   4.   g                      p (premis tambahan)
+           (2, 4)   5.   c                      2, 4 t
+        (1, 2, 4)   6.   d e                   1, 5 t
+     (1, 2, 3, 4)   7.   e                      3, 6 t
+        (1, 2, 3)   8.   g e                   4, 7 cp.
+
+   Ingat bahwa aturan cp hanya digunakan apabila kesimpulan berben-
+tuk kondisional (implikasi). Pembentukan kondisional (penggunaan atu-
+ran cp) pada baris 8, pendahulu harus diambil dari baris 4, yaitu premis
+tambahan. Dengan menggunakan premis tambahan sebagai pendahulu
+suatu implikasi dengan pengikut kesimpulan yang diturunkan dari pre-
+mis-premis (1), (2), (3), dan (4), berarti implikasi yang terbentuk sebagai
+kesimpulan terakhir itu hanya menggunakan premis-premis (1), (2), dan
+(3) saja (sesuai teorema 5.2). Memang kita dapat menuliskan pada baris
+8 dengan g  e yang bernilai benar pula, tetapi implikasi ini diturun-
+kan tidak dengan aturan cp, melainkan diturunkan dari premis-premis
+(1), (2), (3), dan (4).
+   Kadang-kadang kesimpulan suatu argumen tidak berbentuk suatu im-
+plikasi, misalkan berbentuk disjungsi. Jika kita ingin mengkonstruksikan
+keabsahan argumen itu dengan menggunakan aturan cp, maka disjungsi
+tersebut dapat diubah menjadi suatu implikasi yang ekuivalen dengan
+disjungsi itu.
+
+                                                                                       | 25
+Logika Matematika dan Himpunan
+
+
+               c∨d         ek    −c d
+
+Contoh 3:
+  Konstruksikan penurunan kesimpulan dari argumen:
+             a ∨ e, a  c , e  d         |=   c∨d
+
+
+    Penyelesaian:
+    Argumen tersebut ekuivalen dengan argumen:
+        a ∨ e, a  c , e  d         |=    −c d
+
+
+    Konstruksi keabsahan argumen ini adalah sebagai berikut:
+                (1)      1. a ∨ e              p
+                (2)      2. a  c              p
+                (3)      3. e  d              p
+                (4)      4. − c                p (premis tambahan)
+             (2, 4)      5. − a                2, 4 t
+          (1, 2, 4)      6. e                  1, 5 t
+       (1, 2, 3, 4)      7. d                  3, 6 t
+          (1, 2, 3)      8. − c  d            4, 7 cp.
+          (1, 2, 3)      9. c ∨ d              8 t.
+
+   Kita dapat pula mengkonstruksikan keabsahan argumen pada contoh
+5.7 ini tanpa menggunakan aturan cp. Konstruksi keabsahannya adalah
+sebagai berikut:
+                 (1)    1. a ∨ e                 p
+                 (2)    2. a  c                 p
+                 (3)    3. e  d                 p
+                 (1)    4. e ∨ a                 1t
+                 (1)    5. − e  a               4t
+              (1, 2)    6. − e  c               2, 5 t
+              (1, 2)    7. − c  e               6t
+           (1, 2, 3)    8. − c  d               3, 7 t
+
+26 |
+                                      Bab 3 | Menentukan Nilai Kebenaran Suatu Pernyataan Majemuk
+
+
+          (1, 2, 3)         9.   c∨d                             8 t.
+
+Contoh 4:
+  Tunjukkan bahwa pernyataan berikut suatu totologi!
+          (w ∨ p  i) & (i  c ∨ e) & (e  u) & (− c & −u)  −w
+
+   Penyelesaian:
+   Untuk menunjukkan bahwa pernyataan majemuk ini suatu totologi,
+karena terdapat 6 pernyataan tunggal maka diperlukan 64 baris untuk
+menyusun tabel kebenarannya. Oleh karena itu, suatu cara penyelesaian
+yang singkat apabila kita dapat menyatakan pernyataan majemuk terse-
+but menjadi suatu argumen dan seterusnya menunjukkan keabsahan pe-
+nurunan kesimpulan dari argumen itu. Pernyataan majemuk itu ekuiva-
+len dengan argumen berikut:
+          (w ∨ p  i), (i  c ∨ e), (e  u), (− c & −u) |= − w
+
+Konstruksi keabsahan argumen ini adalah sebagai berikut:
+               (1)    1.   w∨ p  i               p
+               (2)    2.   i  c∨e                p
+               (3)    3.   eu                    p
+               (4)    4.   − c & −u               p
+               (4)    5.   −u                     4t
+            (3, 4)    6.   −e                     3, 5 t
+               (4)    7.   −c                     4t
+            (3, 4)    8.   −c&e                   6, 7 t
+            (3, 4)    9.   − (c ∨ e)              8t
+          (2, 3, 4)   10.        −i                               2, 9 t
+       (1, 2, 3, 4)   11.        − (w ∨ p )                       1, 10 t
+       (1, 2, 3, 4)   12.        − w& p                           11 t
+       (1, 2, 3, 4)   13.        −w                               12 t
+
+
+
+                                                                                          | 27
+Logika Matematika dan Himpunan
+
+
+Jadi w ∨ p  i, i  c ∨ e, e  u, − c & −u |= − w suatu argumen yang absah,
+berarti pernyataan majemuk (w ∨ p  i) & (i  c ∨ e) & (e  u) & (− c & −u)  −w
+merupakan suatu totologi.
+
+Contoh 5:
+  Konstruksikan penurunan kesimpulan dalam argumen:
+               a  b ∨ c, b  −a, d  −c, |= a  −d
+
+Penyelesaian:
+  1.     a b∨c
+  2.     b  −a
+  3.     d  −c
+  4.     a
+  5.     b∨c
+  6.     −b
+  7.     c
+  8.     −d
+  9.     a  −d
+
+
+   Sebagai latihan, lengkapilah penurunan kesimpulan dari premis-pre-
+misnya dengan nomor premis pada kolom terdepan dan alasannya pada
+kolom terakhir.
+
+Contoh 6:
+   Konstruksikan keabsahan penurunan kesimpulan dalam argumen be-
+rikut!
+   Apabila hujan lebat dan angin kencang, maka terjadilah banjir. Jika
+   terjadi banjir maka petani tidak panen padi. Anginnya kencang dan
+   petani panen padi.
+   Kesimpulan: Tidak hujan lebat.
+
+
+
+
+28 |
+                                  Bab 3 | Menentukan Nilai Kebenaran Suatu Pernyataan Majemuk
+
+
+  Penyelesaian:
+  Misalkan h = hujan lebat, a = angin kencang
+              b = terjadi banjir, p = petani panen padi.
+  Argumen di atas dapat dinyatakan dengan bahasa lambang sebagai
+  berikut:
+                   h & a  b, b  − p, a & p, |= − h
+               (1)     1. h & a  b               p
+               (2)     2. b  − p                 p
+               (3)      3.   a& p                             p
+                (3)     4.   p                                3t
+             (2, 3)     5.   −b                               2, 4 t
+          (1, 2, 3)     6.   − (h & a)                        1, 5 t
+          (1, 2, 3)     7.   − h ∨ −a                         6t
+                (3)     8.   a                                3t
+          (1, 2, 3)     9.   −h                               7, 8 t
+
+Contoh 7:
+   Buktikanlah bahwa argumen berikut absah dengan mengkonstruksi-
+kan kesimpulannya.
+
+  Jika harga barang di toko itu rendah (r), maka (akan) banyak pembeli-
+  nya (b). Toko itu terletak ditengah pemukiman penduduk (d) atau ti-
+  dak banyak pembelinya. Toko itu tidak terletak di tengah pemukiman
+  penduduk.
+  Kesimpulan: Harga barang di toko itu tidak rendah.
+
+   Penyelesaian: Dengan bahasa lambang argumen itu dapat dituliskan
+sebagai berikut:
+                r  b, d ∨ −b, − d |= − r
+                1. r  b
+                2. d ∨ − b
+
+                                                                                      | 29
+Logika Matematika dan Himpunan
+
+
+                          3.     −d
+                          4.     −b
+                          5.     −r
+
+   Lengkapilah penurunan kesimpulan dari premis-premisnya dengan
+nomor-nomor premis pada kolom terdepan dan alasannya pada kolom
+terakhir.
+
+Latihan 4
+1. Periksalah keabsahan penurunan kesimpulan dalam setiap argumen
+   berikut!
+        i.    p, r, q & p  − r |= − q
+              ii.    p, p  r, r |= p ∨ q  r
+             iii.    q & p  −r, p  r |= − ( p & q)
+
+
+2. Lengkapilah kontruksi penurunan kesimpulan dalam setiap argumen
+   berikut dengan nomor-nomor premis yang digunakan tiap-tiap baris,
+   nomor langkah dan alasan totologinya.
+
+        i.               a  b, − (b ∨ c) |= − a
+                          ab
+                         − (b ∨ c)
+                         − b & −c
+                         −b
+                          −a
+
+       ii.              (a & b) ∨ (c & d ), a  −a |= c
+                         (a & b) ∨ (c & d )
+                         a  −a
+                         −a
+                         − a ∨ −b
+                         − (a & b)
+
+30 |
+                                  Bab 3 | Menentukan Nilai Kebenaran Suatu Pernyataan Majemuk
+
+
+              c&d
+              c
+
+Konsistensi Sekumpulan Premis dan Bukti Tak Langsung
+    Telah dibicarakan mengenai mengkonstruksikan keabsahan suatu ar-
+gumen. Namun, apa yang terjadi jika ternyata kita tidak berhasil mem-
+buktikan keabsahan penurunan suatu kesimpulan dari sekumpulan pre-
+mis yang ditentukan? Atau dengan kata lain, apa yang terjadi jika sekum-
+pulan premis tidak mencukupi untuk menghasilkan kesimpulan yang di-
+harapkan? Ketidakberhasilan dalam pembuktian keabsahan suatu argu-
+men, mungkin karena kita kurang mampu untuk membuktikan atau
+mungkin premis-premisnya tidak mencukupi untuk memperoleh kesim-
+pulan yang diharapkan. Sekumpulan premis yang demikian disebut in-
+konsisten. Sekumpulan premis dikatakan inkonsisten apabila di antara
+premis-premis itu ada yang bernilai S.
+    Untuk memeriksa apakah sekumpulan premis itu konsisten atau in-
+konsisten, kita andaikan bahwa semua premis bernilai B. Apabila dari
+premis-premis yang diandaikan bernilai B itu dapat diturunkan secara lo-
+gis suatu kontradiksi, maka sekumpulan premis tersebut inkonsisten.
+Aturan-aturan penurunan (penyimpulan) untuk memperoleh kontradik-
+si sama seperti aturan-aturan yang digunakan untuk memperoleh kesim-
+pulan tertentu. Perbedaannya, pada penurunan untuk mendapatkan ke-
+simpulan tertentu, kita berhenti setelah mendapatkan kesimpulan itu, se-
+dangkan penurunan untuk kontradiksi, kita berhenti setelah diperoleh
+suatu kontradiksi. Contoh 9 memperlihatkan aturan-aturan penyimpul-
+an logis yang digunakan untuk menunjukkan bahwa suatu kumpulan
+premis yang inkonsisten.
+
+Contoh 8:
+  Selidikilah bahwa premis-premis berikut inkonsisten?
+                  a  b, b  c, d  −c, a & d
+
+
+                                                                                      | 31
+Logika Matematika dan Himpunan
+
+
+    Penyelesaian:
+                         (1)          1.   ab              p
+                         (2)          2.   b c             p
+                         (3)          3.   d  −c           p
+                         (4)          4.   a&d              p
+                         (4)          5.   a                4t
+                      (1, 2)          6.   ac              1, 2 t
+                   (1, 2, 4)          7.   c                5, 6 t
+                         (4)          8.   d                4t
+                      (3, 4)          9.   −c               3, 8 t
+                (1, 2, 3, 4)         10.   c & −c           7, 9 t
+
+   Perhatikan bahwa penurunan dari 4 premis pada contoh ini mempe-
+roleh suatu kontradiksi. Ini menunjukkan bahwa keempat premis terse-
+but inkonsisten.
+   Cara lain untuk menyelidiki konsisten sekumpulan premis ialah de-
+ngan membentuk pernyataan majemuk dari premis-premis itu yang
+dihubungkan dengan perangkai “&” serta menganggap bahwa setiap pre-
+mis sebagai pernyataan yang bernilai B. Berdasarkan anggapan ini disu-
+sun tabel kebenaran sehingga tiap-tiap pernyataan tunggalnya akan dike-
+tahui nilai kebenarannya dan tampak pula kontradiksinya (lihat tabel 1).
+
+                             Tabel 1.
+                (a  b) & (b  c) & (d  – c) & (a & d)
+ Langkah
+   Ke
+
+
+       1               B                   B            B                B
+       2                                                             B       B
+       3        B                                   B
+       4                         B                          B
+       5                              B                         S
+       6                                        B
+
+32 |
+                                    Bab 3 | Menentukan Nilai Kebenaran Suatu Pernyataan Majemuk
+
+
+
+
+    Dengan mengambil pengandaian bahwa semua premis bernilai B, da-
+pat ditentukan nilai kebenaran setiap pernyataan tunggalnya. Premis a &
+d bernilai B, maka pernyataan tunggal a dan d masing-masing bernilai B.
+Pernyataan a  b bernilai B dan a bernilai B, maka b bernilai B. Pernya-
+taan d  − c bernilai B dan d bernilai B, maka − c bernilai B sehingga
+c bernilai S. Pernyataan b  c bernilai B dan b bernilai B maka c berni-
+lai B. Sehingga pernyataan c mempunyai nilai B dan S, kontradiksi terja-
+di. Oleh karena itu pengandaian harus diingkar, berarti tidak semua pre-
+mis bernilai B.
+    Kecuali dengan cara-cara di atas, konsistensi sekumpulan premis itu
+dapat ditunjukkan dengan membuat tabel kebenaran dari pernyataan
+majemuk yang dibentuk dari premis-premis yang dirangkai dengan pe-
+rangkai “&” seperti pernyataan majemuk pada cara kedua di atas. Apabila
+pernyataan majemuk itu selalu bernilai S untuk setiap nilai kebenaran da-
+ri pernyataan-pernyataan tunggalnya (premis-premis), maka sekumpulan
+premis itu inkonsisten. Tetapi jika sekurang-kurangnya ada satu baris da-
+lam pernyataan majemuk (tabel kebenarannya) bernilai B, maka kumpul-
+an premis itu konsisten untuk pernyataan tunggal-pernyataan tunggal
+yang nilai kebenarannya terletak pada baris itu. Pembaca dipersilakan
+mencoba menyusun tabel kebenaran dari:
+                   (a  b) & (b  c) & (d  −c) & (a & d )
+   Benarkah bahwa pernyataan majemuk ini suatu totologi?
+
+Teorema 5.4:
+Himpunan pernyataan A1, A2, ..., Am inkonsisten apabila dari himpunan
+pernyataan itu dapat diturunkan suatu kontradiksi.
+
+Bukti:
+Misalkan A1, A2, ..., Am |= C & – C untuk suatu pernyataan C merupa-
+kan argumen yang absah. Maka A1 & A2 & ...& Am  C & – C suatu
+totologi. C & – C adalah suatu kontradiksi, berarti pernyataan itu selalu
+
+                                                                                        | 33
+Logika Matematika dan Himpunan
+
+
+bernilai S untuk setiap nilai kebenaran dari pernyataan C. Oleh karena
+itu pendahulu dari implikasi itu mesti bernilai S. Berarti sekurang-ku-
+rangnya ada satu di antara pernyataan-pernyataan A1, A2, ..., Am bernilai
+S. Sehingga A1, A2, ..., Am inkonsisten.
+
+Contoh 9:
+  Tunjukkan bahwa premis-premis berikut inkonsisten!
+             a  b, b  c, − c ∨ d, − a  d, − d
+
+
+    Penyelesaian:
+                          1.     ab
+                          2.     bc
+                          3.     −c∨d
+                          4.     −a d
+                          5.     −d
+                          6.     − (− a)
+                          7.     a
+                          8.     b
+                          9.     c
+                          10.    d
+                          11.    −d&d
+
+
+   Lengkapilah penyelesaian ini dengan nomor-nomor premis dan alasan
+penurunan untuk setiap baris!
+
+   Selanjutkan kita akan menggunakan aturan cp (bukti bersyarat) dan
+pengertian himpunan premis yang inkonsisten untuk mengantarkan su-
+atu metode pembuktian yang penting dalam matematika yang biasa dise-
+but bukti tak langsung (bukti dengan kontradiksi atau bukti reductio ad
+absurdum). Sebagai ilustrasi akan dibuktikan keabsahan argumen pada
+contoh 5.9 dengan bukti reductio ad absurdum).
+
+
+34 |
+                                 Bab 3 | Menentukan Nilai Kebenaran Suatu Pernyataan Majemuk
+
+
+Contoh 10:
+   Buktikan keabsahan srgumen berikut dengan bukti reductio ad
+absurdum.
+              a  b ∨ c, b  −a, d  −c |= a  −d
+
+
+  Bukti: Ingat bahwa − (a  −d ) ek a & d . Kita harus menunjukkan
+bahwa premis-premis: a  b ∨ c, b  −a, d  −c, a & d adalah sekumpul-
+an premis yang inkonsisten.
+             (1) 1.     a b∨c                    p
+             (2) 2.     b  −a                    p
+             (3) 3.     d  −c                    p
+             (4) 4.     a&d                       p (premis tambahan)
+             (4) 5.     a                         4t
+          (1, 4) 6.     b∨c                       1, 5 t
+             (4) 7.     d                         4t
+          (3, 4) 8.     −c                        3, 7 t
+       (1, 3, 4) 9.     b                         6, 8 t
+    (1, 2, 3, 4) 10. − a                          5, 9 t
+       (1, 2, 3) 11. a & − a                      5, 10 t
+       (1, 2, 3) 12. a & d  a & − a              4, 11 t
+       (1, 2, 3) 13. − (a & d )                   12 t
+      (1, 2, 3) 14.    a  −d                     13 t
+
+Langkah-langkah pembuktian dengan metode bukti reductio ad
+absurdum dapat disusun secara berurutan sebagai berikut:
+1. Ingkarlah konklusinya dan digunakan sebagai premis baru.
+2. Premis baru ini bersama-sama dengan premis-premis yang ditentu-
+   kan, turunkanlah suatu kontradiksi.
+3. Apabila kontradiksi telah tercapai, maka konklusi yang diingkar itu
+   sebagai kesimpulan logis dari premis-premis ditentukan.
+
+
+
+
+                                                                                     | 35
+Logika Matematika dan Himpunan
+
+
+Cara pembuktian ini berdasarkan teorema sebagai berikut:
+Teorema 5.5:
+A1, A2, ..., Am |= C suatu argumen yang absah, jika dari A1, A2, ..., Am
+dan – C dapat diturunkan suatu kontradiksi.
+
+Bukti:
+Misalkan A1, A2, ..., Am, – C |= D & – D untuk suatu pernyataan D ada-
+lah suatu argumen yang absah.
+Maka A1, A2, ..., Am |= – C  D & – D pun suatu argumen yang absah.
+Ingat bahwa semua premis dari argumen yang absah bernilai B dan – C
+  D & – D pun bernilai B. Karena D & – D bernilai S maka – C harus
+bernilai S. Jadi C bernilai B.
+Sehingga A1, A2, ..., Am |= C adalah argumen yang absah.
+Berikut ini suatu contoh penggunaan teorema itu (pembuktian keabsah-
+an suatu argumen dengan metode reductio ad absurdum).
+
+Contoh 11:
+   Jika saya datang pertama kali di sekolah, maka saya harus bangun pagi-
+pagi, dan jika malamnya saya nonton bioskop, maka saya akan tidur ter-
+lambat. Jika saya tidur terlambat dan harus bangun pagi-pagi, maka saya
+hanya tidur selama 5 jam. Kenyataan, saya tidak tidur hanya selama 5
+jam.
+Kesimpulan: Saya tidak datang pertama kali di sekolah atau tidak nonton
+bioskop.
+
+Buktikan keabsahan argumen tersebut dengan bukti reductio ad
+absurdum?
+
+
+
+
+36 |
+                                  Bab 3 | Menentukan Nilai Kebenaran Suatu Pernyataan Majemuk
+
+
+Bukti:
+Misalkan a = Saya datang pertama kali di sekolah. b = Saya harus bangun
+pagi-pagi. c = Malam itu saya nonton bioskop. d = Saya (akan) tidur ter-
+lambat. e = Saya hanya tidur selama 5 jam.
+Dengan pemberian simbol-simbol untuk tiap pernyataan itu, maka pre-
+mis-premis dan kesimpulannya dapat dituliskan sebagai berikut:
+Premis 1. (a  b) & (c  d )
+          2. d & b  e
+          3. − e
+
+Kesimpulan: − a ∨ −c
+            (1) 1.   (a  b) & (c  d )                p
+            (2) 2.   d &b e                           p
+            (3) 3.   −e                                p
+            (4) 4.   − (− a ∨ −c)                      P (premis tambahan)
+            (4) 5.   a&c                               4t
+            (1) 6.   ab                               1t
+            (4) 7.   a                                 5t
+            (4) 8.   c                                 5t
+            (1) 9.   c d                              1t
+         (1, 4) 10. b                                  6, 7 t
+         (1, 4) 11. d                                  8, 9 t
+         (1, 4) 12. d & b                              10, 11 t
+      (1, 2, 4) 13. e                                  2, 12 t
+   (1, 2, 3, 4) 14. − e & e                            3, 13 t
+      (1, 2, 3) 15. − (− a ∨ −c)  −e & e              4, 14 cp
+     (1, 2, 3) 16.    − a ∨ −c                         15 t
+
+   Dengan menggunakan nilai-nilai kebenaran dari premis-premis dan
+kesimpulannya dapat ditunjukkan keabsahan argumen itu, sebagai beri-
+kut:
+
+
+                                                                                      | 37
+Logika Matematika dan Himpunan
+
+
+    Andaikan kesimpulan − a ∨ −c bernilai S, berarti − a dan − c ma-
+sing-masing bernilai S, sehingga a dan c masing-masing bernilai B. Ingat
+setiap premis bernilai B. Pada premis pertama dapat ditentukan bahwa b
+dan d masing-masing bernilai B sebab a dan c masing-masing bernilai B.
+Seterusnya dari premis kedua dapat dipastikan bahwa e bernilai B, sebab
+d & b bernilai B. Padahal – e bernilai B (premis ketiga), sehingga dicapai
+suatu kontradiksi. Oleh karena itu pengandaian di atas harus diingkar,
+berarti − a ∨ −c bernilai B yang merupakan kesimpulan dari premis-pre-
+mis yang ditentukan.
+
+Latihan 5
+1. Buktikanlah bahwa argumen-argumen berikut tidak absah dengan
+   menentukan nilai-nilai kebenaran setiap pernyataan tunggalnya!
+     1.    (a  b) & (c  d ), − (a & c)  e |= t
+     2. p  q, q  r, − p ∨ −q |= − q ∨ −r
+     3. a  (b  c) & (d  b) & (d  p), e ∨ c, u  −v, (x  u ) & (v  y) |= d  e
+     4. − (− q ∨ p), p ∨ −r, q  r |= r
+     5. a  (b ∨ c), b  d & e, (d  e)  u, a ∨ u |= p ⇔ r
+
+2. Tulislah argumen-argumen berikut dalam bahasa lambang sesuai de-
+   ngan lambang dalam kurung dan buktikanlah bahwa argumen-argu-
+   men tersebut tidak absah dengan menentukan nilai-nilai kebenaran
+   setiap pernyataan tunggalnya.
+    1. Hutan yang gundul (g) sama artinya dengan timbul banjir (b).
+        Apabila timbul banjir maka kesuburan tanah berkurang (t). Kesu-
+        buran tanah tidak berkurang atau orang hutan merasa bahagia
+        (h). Apabila hutan tidak gundul maka otang hutan merasa baha-
+        gia. Orang hutan tidak bahagia.
+        Kesimpulan: Hutan itu gundul.
+    2. Jika orang itu kaya (k), maka ia dapat hidup mewah (h) dan tidak
+        miskin. Jika orang itu miskin (m), maka ia selalu merasa keku-
+
+
+38 |
+                            Bab 3 | Menentukan Nilai Kebenaran Suatu Pernyataan Majemuk
+
+
+rangan (r). Apabila orang itu serakah (s), maka jika ia selalu mera-
+sa kekurangan, maka ia tidak bahagia.
+Kesimpulan: Orang itu kaya sama saja dengan orang itu miskin.
+
+
+
+
+                                                                                | 39
+Logika Matematika dan Himpunan
+
+
+
+
+40 |
+                          Logika Matematika dan Himpunan
+
+
+
+
+ BAB 4
+            Himpunan dan Subhimpunan
+
+
+A. Himpunan
+   Konsep himpunan adalah suatu konsep mendasar dalam semua ca-
+bang ilmu matematika. Secara intutif, sebuah himpunan adalah setiap
+daftar, kumpulan atau kelas objek-objek yang didefinisi secara jelas. Ob-
+jek-objek dalam himpunan-himpunan sebagaimana akan kita lihat dari
+contoh-contoh yang diberikan, dapat berupa apa saja: bilangan, orang,
+surat, sungai, dan sebagainya. Objek-objek ini disebut elemen-elemen
+atau anggota-anggota dari himpunan.
+   Meskipun kelak akan kita pelajari himpunan sebagai kesatuan-kesatu-
+an abstrak, di sini kita daftarkan sepuluh contoh khusus mengenai him-
+punan.
+   Contoh 1 : Bilangan-bilangan 1, 3, 7 dan 10
+   Contoh 2    : Jawab-jawab dari persamaan 𝑥 − 3𝑥 − 2 = 0
+   Contoh 3    : Huruf-huruf hidup dari alfabet: a, e, I, o, dan u
+   Contoh 4    : Penduduk bumi
+   Contoh 5    : Siswa yang bernama Tom, Dick, dan Harry
+   Contoh 6    : Siswa yang tidak hadir di sekolah
+   Contoh 7    : Negara-negara Inggris, Prancis, dan Denmark
+   Contoh 8    : Ibukota-ibukota dari benua Eropa
+
+
+                                       41
+Logika Matematika dan Himpunan
+
+
+    Contoh 9 : Bilangan-bilangan 2, 4, 6, 8, ….
+    Contoh 10 : Sungai-sungai di Amerika Serikat
+
+    Perhatikan bahwa himpunan-himpunan dalam contoh-contoh di atas
+yang bernomor ganjil didefinisikan, maksudnya diberikan dengan men-
+daftarkan anggota-anggotanya secara jelas; dan himpunan-himpunan da-
+lam contoh-contoh bernomor genap didefinisikan dengan menyatakan
+sifat-sifatnya, yaitu aturan-aturan yang menetapkan apakah suatu objek
+tertentu adalah anggota dari sebuah himpunan atau tidak.
+
+1. Notasi
+      Himpunan-himpunan akan selalu dinyatakan dengan huruf-huruf
+   besar.
+                               A, B, X, Y, ……..
+      Elemen-elemen dalam himpunan-himpunan ini akan selalu dinya-
+   takan dengan huruf-huruf kecil.
+                              a, b, x, y, ……….
+      Bila kita mendefinisikan suatu himpunan tertentu dengan menya-
+   takan secara jelas anggota-anggota, misalnya, A terdiri atas bilangan-
+   bilangan 1, 3, 7, dan 10, maka kita menulis
+                            A = 1, 3, 7, 10
+      Yaitu, elemen-elemen dipisahkan oleh koma-koma dan ditutup da-
+   lam tanda-kurung       . Kita menyebut bentuk ini bentuk pendaftar-
+   an (Tabular form) dari himpunan. Tetapi bila kita mendefinisikan su-
+   atu himpunan tertentu dengan menyatakan sifat-sifat yang harus dipe-
+   nuhi oleh elemen-elemennya, misalnya, B adalah himpunan dari se-
+   mua bilangan-bilangan genap, maka kita pergunakan suatu huruf, bia-
+   sanya x, untuk menyatakan sebarang elemen dan kita tulis.
+                              B = 𝑥 | 𝑥 𝑔𝑒𝑛𝑎𝑝
+      Yang berbunyi “B adalah himpunan dari bilangan-bilangan 𝑥 di
+   mana 𝑥 bilangan genap”. Kita menyebut bentuk ini bentuk pemba-
+
+
+42 |
+                                                         Bab 4 | Himpunan dan Subhimpunan
+
+
+ngun-himpunan/rincian (set-buider form) dari himpunan. Perhatikan
+bahwa garis vertikal "|" dibaca “di mana”.
+    Untuk memberikan gambaran penggunaan notasi di atas, kita tu-
+liskan kembali himpunan-himpunan dalam contoh 1-10 kita nyata-
+kan masing-masing himpunan dengan 𝐴 , 𝐴 ,…, 𝐴
+Contoh 2.1: 𝐴 = 1, 3, 7, 8
+Contoh 2.2: 𝐴 = 𝑥 − 3𝑥 − 2 = 0
+Contoh 2.3: 𝐴 = a, e, I, o, u
+Contoh 2.4: 𝐴 = 𝑥 | 𝑥 𝑎𝑑𝑎𝑙𝑎ℎ penduduk bumi
+Contoh 2.5: 𝐴 = Tom, Dick, dan Harry
+Contoh 2.6: 𝐴 = 𝑥 | 𝑥 𝑎𝑑𝑎𝑙𝑎ℎ 𝑠𝑒𝑜𝑟𝑎𝑛𝑔 Siswa dan 𝑥 tidak hadir
+Contoh 2.7: 𝐴 = Inggris, Prancis, dan Denmark
+Contoh 2.8: 𝐴 = 𝑥 | 𝑥 𝑎𝑑𝑎𝑙𝑎ℎ sebuah ibu kota dan x terdapat di Eropa
+Contoh 2.9: 𝐴 = 2, 4, 6, 8, … .
+Contoh 2.10: 𝐴 = 𝑥 | 𝑥 𝑎𝑑𝑎𝑙𝑎ℎ sebuah Sungai dan x terdapat di di Amerika Serikat
+
+   Jika suatu objek 𝑥 adalah elemen dari sebuah himpunan A, artinya
+A mengandung 𝑥 sebagai salah satu dari elemen-elemennya, maka kita
+tulis:
+                                𝑥𝜀𝐴
+   Yang juga dapat dibaca “𝑥 termaksud A” atau “𝑥 di dalam A”. Jika
+di pihak lain, suatu objek 𝑥 bukanlah anggota dari sebuah himpunan
+A, artinya A tidak mengandung 𝑥 sebagai salah satu dari elemen-ele-
+mennya, maka kita tulis:
+                                 𝑥𝜀𝐴
+   Adalah suatu kebiasaan yang umum dalam matematika untuk me-
+nuliskan sebuah garis tegak “ | ” atau “ \ ” melalui suatu lambang un-
+tuk menyatakan arti kebalikan atau sanggahan dari arti lambang terse-
+but.
+Contoh 3.1:
+   Misalkan A = a, e, i, o, u , maka 𝑎 𝜀𝐴, 𝑏 𝜀 𝐴, 𝑒 𝜀 𝐴, 𝑓 𝜀 𝐴
+
+
+                                                                                  | 43
+Logika Matematika dan Himpunan
+
+
+    Contoh 3.2:
+      Misalkan B = 𝑥 | 𝑥 𝑎𝑑𝑎𝑙𝑎ℎ 𝑔𝑒𝑛𝑎𝑝 maka 3 𝜀 𝐵, 6 𝜀 𝐵, 11 𝜀 𝐵, 14 𝜀 𝐵
+
+2. Himpunan-himpunan Berhingga dan Tak Terhingga
+      Himpunan-himpunan dapat berhingga atau tak terhingga, secara
+   intutif, sebuah himpunan adalah berhingga bila ia terdiri dari sejum-
+   lah tertentu elemen-elemen yang berbeda, artinya, bila kita menghi-
+   tung elemen-elemen yang berbeda dari himpunan ini, maka proses
+   perhitungannya dapat berakhir. Bila tidak demikian, maka himpun-
+   annya adalah tak terhingga. Kelak dalam salah satu bab akan kita beri-
+   kan definisi yang tepat dari himpuan-himpunan berhingga dan tak
+   terhingga.
+   Contoh 4.1:
+      Misalkan M adalah himpunan dari hari-hari dalam seminggu, ma-
+      ka M berhingga.
+   Contoh 4.2: Misalkan N = 2, 4, 6, 8, … Maka N tak berhingga
+   Contoh 4.3:
+      Misalkan 𝑃 = 𝑥 | 𝑥 𝑎𝑑𝑎𝑙𝑎ℎ 𝑠𝑒𝑏𝑢𝑎ℎ 𝑠𝑢𝑛𝑔𝑎𝑖 𝑑𝑖 𝐵𝑢𝑚𝑖 , meski-
+      pun sulit menghitung jumlah sungai-sungai di bumi, tetapi P ber-
+      hingga.
+
+3. Kesamaan Himpunan-Himpunan
+      Himpunan A sama dengan himpunan B jika keduanya bersama-
+   sama memiliki anggota-anggota yang sama, jika setiap elemen yang
+   termasuk A juga termasuk B dan jika setiap elemen yang termasuk B
+   juga termasuk A. Kita menyatakan kesamaan himpunan-himpunan A
+   dan B dengan:
+                                 𝐴=𝐵
+   Contoh 5.1:
+      Misalkan A = 1, 2, 3, 4 dan B = 3, 1, 4, 2 . Maka 𝐴 = 𝐵 yaitu,
+       1, 2, 3, 4 = 3, 1, 4, 2 , karena tiap-tiap elemen 1,2,3 dan 4 dari
+      A termasuk B dan tiap-tiap elemen 3,1,4 dan 2 dari B termasuk A.
+
+44 |
+                                                 Bab 4 | Himpunan dan Subhimpunan
+
+
+    Karena itu perhatikan bahwa sebuah himpunan tidak berubah apa-
+    bila elemen-elemennya disusun kembali.
+  Contoh 5.2:
+    Misalkan C = 5, 6, 5, 7 dan D = 7, 5, 7, 6 maka C = D yaitu,
+     5, 6, 5, 7 = 7, 5, 7, 6 karena tiap-tiap elemen D termasuk C.
+    Perhatikan bahwa sebuah himpunan tidaklah berubah apabila ele-
+    men-elemennya diulangi. Juga himpunan 5, 6, 7 sama dengan C
+    dan D.
+  Contoh 5.3:
+    Misalkan 𝐸 = 𝑥 |𝑥 − 3𝑥 = −2 , 𝐹 = 2, 1              dan 𝐺 =
+       1, 2, 2, 1 , maka 𝐸 = 𝐹 = 𝐺
+
+4. Himpunan Nol
+      Himpunan nol adalah baik untuk memperkenalkan konsep him-
+   punan nol, yaitu, suatu himpunan yang tidak mengandung elemen-
+   elemen. Himpunan ini kadang-kadang disebut himpunan nol. Kita
+   mengatakan bahwa himpunan demikian adalah hampa atau kosong
+   dan tidak menyatakannya dengan lambang ∅.
+   Contoh 6.1:
+      Misalkan A adalah himpunan dari orang-orang di dunia yang lebih
+      tua daripada usia 200. Menurut statistika a adalah himpunan ko-
+      song.
+   Contoh 6.2:
+      Misalkan 𝐵 = 𝑥 | 𝑥 = 4 , 𝑥 𝑎𝑑𝑎𝑙𝑎ℎ 𝑔𝑎𝑛𝑗𝑖𝑙 , maka B adalah
+      himpunan kosong
+
+5. Subhimpunan
+      Jika semua elemen sebuah himpunan A adalah juga sebuah him-
+   punan B, maka A disebut sub himpunan dari B atau lebih khusus lagi,
+   A adalah sub himpunan dari B berarti jika 𝑥 𝜀 𝐴 maka. Kita nyatakan
+   hubungan ini dengan menuliskan:
+                              𝐴 ⊂𝐵
+
+                                                                          | 45
+Logika Matematika dan Himpunan
+
+
+      yang juga dapat dibaca “A terkandung dalam B”.
+     Contoh 7.1: himpunan C = 1,3,5 adalah sub himpunan dari
+                 D= 5,4,3,2,1 , karena tiap-tiap bilangan 1,3 dan 5
+                 yang termasuk C juga termasuk D.
+     Contoh 7.2: himpunan E= 2,4,6 adalah sub himpunan dari
+                 F= 6,2,4, karena tiap-tiap bilangan 2, 4, dan 6 yang
+                 termasuk E juga termasuk F. Perhatikan bahwa pada
+                 khususnya E=F. Dengan cara yang sama dapat diperli-
+                 hatkan bahwa setiap himpunan adalah sub himpunan
+                 dari dirinya sendiri.
+     Contoh 7.3:
+      Misalkan G= 𝑥 | 𝑥 𝑎𝑑𝑎𝑙𝑎ℎ 𝑔𝑒𝑛𝑎𝑝 , artinya G= 2, 4, 6, … , , dan
+      misalkan F= 𝑥 | 𝑥 𝑎𝑑𝑎𝑙𝑎ℎ 𝑠𝑒𝑏𝑢𝑎ℎ 𝑏𝑖𝑙𝑎𝑛𝑔𝑎𝑛 𝑝𝑜𝑠𝑖𝑡𝑖𝑓 𝑑𝑎𝑟𝑖 2
+      artinya 𝐹 = 2, 4, 8, 16, … , Maka 𝐹 ⊂ 𝐺 artinya F terkandung
+      dalam G.
+
+       Dengan definisi sub himpunan di atas, maka kita dapat nyatakan
+    kembali definisi kesamaan dua himpunan.
+    Definisi 1.1: dua himpunan A dan B adalah sama, yaitu A= B, jika
+    dan hanya jika A ⊂ B dan B ⊂ A
+       Jika A subhimpunan dari B, maka kita dapat pula menulis
+                                      𝐵⊃𝐴
+       Yang dibaca “B adalah sub himpunan dari A” atau “B mengandung
+       A”. Selanjutnya, kita menulis:
+                                  𝐴 ⊂ 𝐵 atau 𝐵 ⊃ 𝐴
+                       Jika A bukanlah sub himpunan 𝐵.
+       Sebagai kesimpulannya, kita menyatakan:
+       Pernyataan 1.1: himpunan nol ∅ dipandang sebagai sub himpunan
+                       dari setiap himpunan.
+       Pernyataan 1.2: jika 𝐴 bukanlah sub himpunan 𝐵, yaitu, jika A⊂B,
+                       maka ada sekurang-kurangnya satu elemen A yang
+                       bukan anggota 𝐵
+
+46 |
+                                                 Bab 4 | Himpunan dan Subhimpunan
+
+
+6. Sub Himpunan Sejati
+      Karena setiap himpunan A adalah sub himpunan dari dirinya sen-
+   diri, maka kita menyebut B besar himpunan sejati dari A jika, perta-
+   ma, B adalah sub himpunan A dan, kedua, B tidak sama dengan A.
+   Secara lebih singkat, B adalah sub himpunan sejati dari A, jika:
+                              𝐵 ⊂ 𝐴 dan 𝐵 ≠ 𝐴
+      Dalam beberapa buku sebutan “B sub himpunan A” dinyatakan
+   oleh:
+                                   𝐵 ⊆𝐴
+      Dan “B subhimpunan sejati A” dinyatakan oleh:
+                                   𝐵 ⊂𝐴
+
+      Kita akan tetap mempergunakan notasi terdahulu di mana kita ti-
+   dak membedakan antara sub himpunan dan sub himpunan sejati.
+
+7. Hal Dapat-Diperbandingkan
+       Dua himpunan 𝐴 dan 𝐵 dikatakan dapat diperbandingkan
+   (comparable) jika:
+                             𝐴 ⊂ 𝐵 dan 𝐵 ⊂ 𝐴
+   yaitu, jika salah satu himpunan adalah sub himpunan dari himpunan
+   lainnya. Lebih lanjut, dua himpunan A dan B dikatakan tidak dapat
+   diperbandingkan jika:
+                            𝐴 ⊂ 𝐵 dan 𝐵 ⊂ 𝐴
+       Perhatikan bahwa jika A tidak dapat-diperbandingkan dengan B,
+   maka ada elemen A yang tidak terdapat dalam B dan juga ada elemen
+   B yang tidak terdapat dalam A.
+
+  Contoh 8.1:
+    Misalkan A = 𝑎, 𝑏 Dan B = 𝑎, 𝑏, 𝑐 maka A dapat diperbanding-
+    kan dengan B karena A adalah sub himpunan B.
+
+
+
+
+                                                                          | 47
+Logika Matematika dan Himpunan
+
+
+    Contoh 8.2:
+      Misalkan R = a, b dan b = a, b, c karena A dapat diperbanding-
+      kan dengan B karena 𝑎 𝜀 𝑅 dan 𝑎 𝜀 𝑆 dan 𝑒 𝜀 𝑆 dan 𝑒 𝜀 𝑅
+
+8. Teorema dan Bukti
+       Dalam matematika, kebanyakan pernyataan-pernyataan dapat di-
+   buktikan benar dengan menggunakan anggapan-anggapan dan defini-
+   si-definisi sebelumnya. Pada kenyataannya, inti matematika terdiri
+   atas teorema-teorema dan pembuktian-pembuktiannya. Kita sekarang
+   membuktikan teorema kita yang pertama.
+
+    Teorema 1.1: jika A adalah sub himpunan B dan AB subhimpunan C
+                  maka A adalah sub himpunan C, yaitu jika:
+                   𝐴 ⊂ 𝐵 dan 𝐵 ⊂ 𝐶 maka artinya 𝐴 ⊂ 𝐶
+       Bukti (perhatikan bahwa kita harus memperhatikan bahwa setiap
+    elemen A adalah juga elemen C). Misalnya x suatu elemen A, yaitu
+    𝑥 𝜀 𝐴. Karena A adalah sub himpunan B. maka x juga termasuk B, ya-
+    itu 𝑥 𝜀 𝐵 tetapi, menurut hipotesis, 𝐵 ⊂ 𝐶 oleh karena itu setiap ele-
+    men B termasuk x, adalah juga anggota C. kita telah memperhatikan
+    bahwa jika 𝑥 𝜀 𝐴 maka 𝑥 𝜀 𝐶. Dengan demikian menurut definisi,
+    𝐴 ⊂𝐶.
+
+9. Himpunan dari Himpunan-himpunan
+      Kerap kali terjadi objek-objek sebuah himpunan adalah sebuah
+   himpunan-himpunan, sebagai contoh, himpunan dari sebuah sub-
+   himpunan A. untuk menghindari sebuah “himpunan dari himpunan-
+   himpunan”, maka biasanya secara praktis disebut “keluarga himpun-
+   an-himpunan” atau “kelas himpunan-himpunan” maka dalam keada-
+   an ini dan untuk menghindari kekeliruan, kita akan menggunakan
+   huruf-huruf tulisan tangan (script):
+                                    A, B
+
+
+48 |
+                                                 Bab 4 | Himpunan dan Subhimpunan
+
+
+    Untuk menyatakan keluarga-keluarga atau kelas-kelas dari him-
+  punan-himpunan, karena huruf-huruf besar telah menyatakan unsur-
+  unsurnya.
+  Contoh 9.1: Dalam ilmu ukur kita biasanya menyatakan “suatu ke-
+              luarga garis-garis” atau “suatu keluarga kurva-kurva” ka-
+              rena garis-garis dan kurva-kurva mereka ini sendiri ada-
+              lah himpunan-himpunan dari titik-titik.
+  Contoh 9.2: Himpunan 2, 3 , 2 , 5, 6 adalah keluarga himpun-
+                an-himpunan. Anggota-anggotanya adalah himpunan-
+                himpunan 2, 3 , 2 , 𝑑𝑎𝑛 5, 6
+     Secara teoritis, dapat terjadi bahwa sebuah himpunan mempunyai
+  beberapa anggota yang mana mereka sendiri adalah himpunan-him-
+  punan dan beberapa anggota lainnya bukanlah himpunan-himpunan,
+  meskipun dalam setiap pemakaian teori himpunan kasus ini jarang
+  muncul.
+  Contoh 9.3:
+     Misalkan 𝐴 = 2, 1, 3 , 4 2, 5 maka A bukanlah keluarga
+     himpunan-himpunan; di sini beberapa elemen A adalah himpun-
+     an-himpunan dan beberapa tidak.
+
+10. Himpunan Semesta
+      Dalam setiap pemakaian teori himpunan, semua himpunan yang
+   ditinjau adalah subhimpunan dari sebuah himpunan tertentu. Him-
+   punan ini disebut himpunan semesta atau semesta dari uraian (uni-
+   verse of discourse). Kita nyatakan himpunan ini dengan 𝑈.
+   Contoh 10.1: Dalam ilmu ukur bidang, himpunan semesta terdiri da-
+                    ri sebuah titik-titik dalam bidang.
+   Contoh 10.2: Dalam studi kependudukan, himpunan semesta terdiri
+                   dari semua orang di dunia.
+
+
+
+
+                                                                          | 49
+Logika Matematika dan Himpunan
+
+
+11. Himpunan Kuasa
+      Keluarga dari semua subhimpunan sebuah himpunan S dikatakan
+   himpunan kuasa dari S. kita nyatakan himpunan kuasa dari S dengan
+   Contoh 11.1: Misalkan 𝑀 = 𝑎, 𝑏 , maka
+                        2 = 𝑎, 𝑏 . 𝑎 , 𝑏 ∅
+     Contoh 11.2: Misalkan 𝑇 = 4, 7, 8 , maka
+                   2 = 𝑇, 4, 7 . 4, 8 , 7, 8 , 4 , 7 , 8 ∅
+
+       Jika sebuah himpunan S besar adalah terbatas, katakanlah S mem-
+    punyai n elemen, maka himpunan-himpunan kuasa dari S dapat di-
+    perlihatkan mempunyai elemen-elemen seebanyak 2 ini adalah salah
+    satu alasan mengapa kelas dari subhimpunan-subhimpunan S disebut
+    himpunan kuasa dari S dan dinyatakan 2 .
+
+12. Himpunan-Himpunan Terpisah
+      Jika himpunan-himpunan A dan B tidak mempunyai elemen-ele-
+   men yang dimiliki bersama, artinya jika tidak ada elemen A yang ter-
+   dapat dalam B dan tidak ada elemen B yang terdapat dalam A, maka
+   kita katakan bahwa A dan B terpisah.
+   Contoh 12.1:
+      Misalkan A = 1,3, 7, 8 dan 𝐵 = 2, 4, 7, 9 , maka A dan B ti-
+                 daklah terpisah karena 7 terdapat dalam dua himpunan,
+                 yaitu 7 𝜀 𝐴 dan 7 𝜀 𝐵
+   Contoh 12.2:
+      Misalkan A adalah bilangan-bilangan positif dan B bilangan-bi-
+                 langan negatif, maka A dan B terpisah karena tidak ada
+                 bilangan yang serempak positif dan negatif.
+   Contoh 12.3:
+      Misalkan 𝐸 = 𝑥, 𝑦, 𝑧 dan 𝐹 = 𝑟, 𝑠, 𝑡 , maka E dan F terpisah.
+
+
+
+
+50 |
+                                                  Bab 4 | Himpunan dan Subhimpunan
+
+
+13. Diagram-Diagram Venn-Euler
+      Suatu cara yang sederhana dan instruktif untuk menggambarkan
+   hubungan antara himpunan-himpunan adalah dengan menggunakan
+   apa yang disebut diagram-diagram venn-euler, atau secara singkat dia-
+   gram-diagram venn. Di sini kita nyatakan sebuah himpunan dengan
+   suatu daerah bidang, biasanya dibatasi oleh sebuah lingkaran.
+   Contoh 13.1: Andaikan 𝐴 ⊂ 𝐵 dan, katakan, 𝐴 ≠ 𝐵, maka A dan B
+                 dapat dinyatakan dengan salah satu diagram berikut:
+
+
+
+
+   Contoh 13.2: Andaikan 𝐴 dan 𝐵 tidak dapat diperbandingkan. Maka
+               A dan B dapat dinyatakan diagram sebelah kanan jika
+               mereka terpisah, atau diagram sebelah kiri jika mereka
+               tidak terpisah.
+
+
+
+
+                                                                           | 51
+Logika Matematika dan Himpunan
+
+
+    Contoh 13.3:
+      Misalkan A = 𝑎, 𝑏, 𝑐, 𝑑 dan B = 𝑐, 𝑑, 𝑒, 𝑓 . Maka kita menggam-
+                 barkan diagram ini dengan suatu diagram Venn yang
+                 berbentuk
+
+
+
+
+       Dalam ilmu berhitung kita belajar menjumlahkan, mengurangkan
+    dan mengalikan, yaitu kita menetapkan untuk setiap pasangan bilang-
+    an-bilangan 𝑥 dan 𝑦 suatu bilangan 𝑥 + 𝑦 yang disebut penjumlahan
+    𝑥 dan 𝑦, 𝑥 − 𝑦 yang disebut selesi 𝑥 dan 𝑦, dan bilangan 𝑥𝑦 yang dise-
+    but perkalian-perkalian bilangan-bilangan. Dalam bab ini kita defini-
+    sikan operasi-operasi perpanduan, perpotongan dan selisih himpun-
+    an-himpunan, yaitu kita akan menetapkan himpunan-himpunan ba-
+    ru untuk pasangan himpunan-himpunan A dan B. Kelak suatu bab
+    kita akan lihat bahwa operasi-operasi himpunan ini berkelakuan
+    hampir sama dengan operasi-operasi pada bilangan-bilangan di atas.
+
+14. Perpaduan
+      Perpaduan himpunan-himpunan A dan B adalah himpunan dari
+   semua elemen-elemen yang termaksuk dalam A dan B atau keduanya.
+   Kita nyatakan perpaduan A dan B dengan
+                               A∪B
+   Yang bisanya dibaca “perpaduan A dan B”.
+
+    Contoh 1.1: Dalam diagram-Venn pada Gambar 2-1, kita telah mem-
+                 beri arsiran untuk A ∪ B, yakni daerah A dan daerah B.
+
+52 |
+                                             Bab 4 | Himpunan dan Subhimpunan
+
+
+
+
+            Gambar 2-1. A ∪ B yang diberi arsiran
+
+Contoh 1.2:
+  Misalkan 𝑆 = 𝑎, 𝑏, 𝑐, 𝑑 dan 𝑇 = 𝑓, 𝑏, 𝑑, 𝑔 .
+                            Maka
+                     𝑆 ∪ 𝑇 = 𝑎, 𝑏, 𝑐, 𝑑, 𝑓, 𝑔
+
+Contoh 1.3:
+  Misalkan P himpunan bilangan-bilangan rill positif dan 𝑄 him-
+            punan bilangan-bilangan ril negatif. Maka 𝑃 ∪ 𝑄, yaitu
+            perpanduan 𝑃 dan 𝑄, terdiri dari semua bilangan-bi-
+            langan rill kecuali bilangan nol.
+  Perpaduan A dan B dapat didefinisikan secara ringkas oleh
+                𝐴 ∪ 𝐵 = 𝑥 𝑥 𝜀 𝐴 𝑎𝑡𝑎𝑢 𝑥 𝜀 𝐵
+   Pernyataan 2.1: sesuai dengan definisi perpanduan dua buah him-
+punan maka 𝐴 ∪ 𝐵 dan 𝐵 ∪ 𝐴 adalah sama. Jadi berarti:
+                       𝐴 ∪𝐵 = 𝐵 ∪𝐴
+   Pernyataan 2.2: A dan B kedua-duanya selalu berupa subhimpun-
+an-subhimpunan dari 𝐴 ∪ 𝐵, yaitu:
+                  𝐴 ⊂ 𝐴 ∪ 𝐵 dan 𝐵 ⊂ 𝐴 ∪ 𝐵
+   Dalam beberapa buku, perpaduan A dan B dinyatakan oleh A + B
+dan disebutkan penjumlahan himpunan teoretik A dan B atau, secara
+singkat, penjumlahan A dan B.
+
+
+
+                                                                      | 53
+Logika Matematika dan Himpunan
+
+
+15. Perpotongan
+      Perpotongan himpunan-himpunan A dan B adalah himpunan dari
+   elemen-elemen yang dimiliki berasama oleh A dan B, yaitu elemen-
+   elemen yang termasuk A dan juga termasuk B. kita nyatakan perpo-
+   tongan A dan B dengan
+                                𝐴 ∩𝐵
+   Yang dibaca “perpotongan A dan B”
+   Contoh 2.1: Dalam diagram-Venn pada Gambar 2-3, kita telah beri
+              arsiran untuk A-B, yaitu didaerah yang dimiliki bersama
+              oleh A dan B.
+
+
+
+
+                           Gambar 2-2. 𝐴 ∩ 𝐵 yang diberi arsiran
+
+     Contoh 2.2:
+       Misalkan 𝑆 = 𝑎, 𝑏, 𝑐, 𝑑 dan 𝑇 = 𝑓, 𝑏, 𝑑, 𝑔 , maka
+                            𝑆 ∩ 𝑇 = 𝑏, 𝑑
+     Contoh 2.3:
+       Mislkan 𝑉 = 2, 4, 6, … . , yaitu kelipatan dari 2 ; dan misalkan
+                   𝑊 = 3, 6, 9, … . , yaitu kelipatan dari 3, maka
+                        𝑉 ∩ 𝑊 = 6, 12, 18, …
+       Perpotongan A dan B dapat juga didefenisikan secara ringkas oleh
+                        𝐴 ∩ 𝐵 = 𝑥 | 𝑥 𝜀 𝐴, 𝑥 𝜀 𝐵
+       Di sini, tanda koma mempunyai arti yang sama dengan “dan”.
+       Pernyataan 2.3: Sesuai dengan defenisi perpotongan dua buah
+    himpunan, maka:
+                             𝐴 ∩𝐵 =𝐵 ∩𝐴
+
+54 |
+                                                  Bab 4 | Himpunan dan Subhimpunan
+
+
+      Pernyataan 2.4: Setiap himpunan-himpunan A dan B mengan-
+   dung 𝐴 ∩ 𝐵 sebagai subhimpunan, jadi,
+                       𝐴 ∩𝐵 ⊂𝐴 = 𝐴 ∩𝐵 ⊂𝐵
+      Pernyataan 2.5: Jika himpunan-hmpunan A dan B tidak mempu-
+   nyai elemen-elemen yang dimiliki bersama, jadi berarti A dan B terpi-
+   sah maka perpotongan A dan B adalah himpunan kosong, yaitu 𝐴 ∩
+   𝐵 = ∅.
+      Dalam beberapa buku, terutama menegnai teori kemungkinan
+   (probabilitas), maka perpotongan A dan B dinyatakan dengan AB dan
+   disebut perkalian himpunan teoretik A dan B atau, secara singkat A
+   kali B.
+
+16. Selisih
+      Selisih himpunan-himpunan A dan B himpunan elemen-elemen
+   yang termasuk A tetapi tidak termasuk B. Kita nyatakan selisih A dan
+   B dengan
+                                 A–B
+   Yang dibaca “selisih A dan B” atau, secara singkat “A kurang B”.
+
+   Contoh 3.1: Dalam diagram-Venn dalam Gambar 2-3, kita telah beri
+              arsiran untuk A – B. yaitu daerah di dalam A yang adalah
+              bukan bagian dari B.
+
+
+
+
+                  Gambar 2-3. A – B yang diberi arsiran
+
+
+
+                                                                           | 55
+Logika Matematika dan Himpunan
+
+
+     Contoh 3.3:
+      Misalkan R himpunan bilangan-bilangan rill dan 𝑄 himpunan bi-
+                langan-bilangan rasional;, maka R _Q terdiri dari bilang-
+                an-bilangan irasional
+      Selisih A dan B dapat juga didefinisikan secara ringkas oleh
+                       𝐴 − 𝐵 = 𝑥 | 𝑥 𝜀 𝐴, 𝑥 𝜀 𝐵
+      Pernyataan 2.6: Himpunan A mengandung A – B sebagai subhim-
+                         punan, jadi berarti
+                               𝐴−𝐵 ⊂𝐴
+      Pernyataan 2.7: Himpunan-himpunan 𝐴 − 𝐵 , 𝐴 ∩ 𝐵 dan
+                        𝐵 − 𝐴 saling terpisah, artinya perpotongan seti-
+                       ap dua buah himpunan diatas adalah himpunan
+                       nol.
+      Selisih dari A dan B kadang-kadang dinyatakan oleh A/B atau
+      𝐴~𝐵
+
+17. Komplemen
+       Komplemen dari sebuah himpunan A adalah himpunan dari ele-
+   men-elemen yang tidak termasuk A, yaitu, selisih dari himpunan se-
+   mesta ∪ dan 𝐴. Kita nyatakan komplemen dari A dengan
+                                  𝐴
+       Contoh 4.1: Dalam diagram Venn dalam gambar 2-4, kita beri ar-
+   siran untuk komplemen dari A, yaitu daerah di luar A. Di sini kita
+   menganggap bahwa himpunan semesta ∪ terdiri dari daerah empat
+   persegi panjang.
+
+
+
+
+                                 Gambar 2-4. 𝐴 yang diarsir
+
+56 |
+                                              Bab 4 | Himpunan dan Subhimpunan
+
+
+
+
+Contoh 4.2:
+  Misalkan himpunan semesta ∪ adalah alphabet Inggris dan
+                   𝑇 = 𝑎, 𝑏, 𝑐 . Maka,
+                  𝑇 = 𝑑, 𝑒, 𝑓, … , 𝑦, 𝑧
+
+ Contoh 4.3:
+   Misalkan 𝐸 = 2,4, 6, … , yaitu bilangan-bilangan genap. Maka
+            𝐸 = 1, 3, 5, … , yaitu bilangan-bilangan ganjil. Di sini
+            kita menganggap himpinan semesta adalah bilangan-bi-
+            langan asli 1, 2, 3, …
+   Komplemen A dapat juga didefenisikan secara singkat oleh
+                      𝐴 = 𝑥| 𝑥 𝜀 ∪, 𝑥 𝜀 𝐴
+   Atau secara singkat
+                           𝐴 = 𝑥| 𝑥 𝜀 𝐴
+   Kita nyatakan beberapa pernyataan mengenai himpunan-himpun-
+an yang merupakan akibat langsung dari definisi komplemen him-
+punan.
+Pernyataan 2.8: Penggabungan sebarang himpunan A dan komple-
+                   men 𝐴 adalah himpunan semesta, yaitu:
+                            𝐴 ∪ 𝐴 =∪
+Selanjutnya, himpunan A komplemen 𝐴 terpisah, yaitu
+                             𝐴 ∩ 𝐴 = ∅
+Pernyataan 2.9: Komplemen himpunan ∪ adalah komplemen him-
+                  punan nol ∅, dan begitu pula sebaliknya, yaitu
+                           𝑈 = ∅ dan ∅ = 𝑈
+Pernyataan 2.10: Komplemen dari komplemen himpunan A adalah
+                  himpunan A sendiri. Secara lebih singkat
+                                𝐴 =𝐴
+
+Pernyataan kita yang berikut memperlihatkan bagaimana selisih dua
+buah himpunan dapat didefinisikan dalam komplemen subuah him-
+
+                                                                       | 57
+Logika Matematika dan Himpunan
+
+
+    punan dan perpotongan dua buah himpunan. Lebih terinci, kita pero-
+    leh hubungan mendasar berikut:
+
+    Pernyataan 2.11: Selisih A dan B sama dengan perpotongan A dan
+                      komplemen B.
+                            𝐴−𝐵 =𝐴 ∩𝐵
+    Bukti dari pernyataan 2.11 sebagai akibat langsung dari definisi:
+     𝐴 − 𝐵 = 𝑥 | 𝑥 𝜀 𝐴 ,𝑥 𝜀 𝐵 = 𝑥 | 𝑥 𝜀 𝐴 ,𝑥 𝜀 𝐵 = 𝐴 ∩ 𝐵
+
+18. Operasi-Operasi pada Himpunan-himpunan yang Dapat Di-
+     bandingkan
+      Operasi-operasi perpaduan, perpotongan, selisih, komplemen
+   mempunyai sifat-sifat yang sederhana apabila himpunan-himpunan
+   ditinjau dapat diperbandingkan. Teorema-teorema berikut dapat di-
+   buktikan:
+      Teorema 2.1: Misalkan A subhimpunan B, maka perpotongan A
+   dan B adalah A, jadi, bila:
+                           𝐴 ⊂ 𝐵 maka 𝐴 ∩ 𝐵 = 𝐴
+      Teorema 2.2: Misalkan A subhimpunan B, maka perpaduan A dan
+   B adalah B, jadi, bila:
+                           𝐴 ⊂ 𝐵 maka 𝐴 ∪ 𝐵 = 𝐵
+      Teorema 2.3: Misalkan A sebuah subhimpunan B, maka 𝐵 adalah
+   subhimpunan 𝐴 , yaitu jika, 𝐴 ⊂ 𝐵 maka 𝐵 ⊂ 𝐴
+      Kita gambarkan Teorema 2.3 dengan diagram Venn dalam Gam-
+   bar 2-5 dan 2-6. Perhatikan bagaimana daerah dari 𝐵 terkandung da-
+   lam daerah 𝐴
+
+
+
+
+58 |
+                                          Bab 4 | Himpunan dan Subhimpunan
+
+
+
+
+ Gambar 2-5. 𝐵 yang diarsir      Gambar 2-6. 𝐴 yang diarsir
+
+  Teoreman 2.4: Misalkan A sebuah himpunan dari B. maka perpa-
+duan A dan (B – A) adalah B, yaitu, bila:
+               𝐴 ⊂ 𝐵 maka 𝐴 ∪ 𝐵 − 𝐴 = 𝐵
+
+
+
+
+                                                                   | 59
+Logika Matematika dan Himpunan
+
+
+
+
+60 |
+                         Logika Matematika dan Himpunan
+
+
+
+
+ BAB 5
+                               Fungsi
+
+
+A. Definisi Fungsi
+   Andaikan untuk tiap-tiap elemen dalam sebuah himpunan 𝐴 ditetap-
+kan melalui beberapa macam cara, sebuah elemen tunggal dari himpunan
+𝐵. Kita menyebut penetapan demikian suatu fungsi. Jika kita memisah-
+kan 𝑓 menyatakan penetapan ini, maka kita tuliskan
+                                𝑓: 𝐴 → 𝐵
+   Yang berbunyi “𝑓 adalah fungsi dari 𝐴 ke dalam 𝐵”. himpunan 𝐴 dise-
+but ranah (domain) dari fungsi 𝑓 dan 𝐵 disebut ko-ranah (co-domain)
+dari 𝑓. Selanjutnya, jika 𝑎 ∈ 𝐴 maka elemen dalam 𝐵 yang sama ditetap-
+kan untuk 𝑎 disebut bayangan (image) dari 𝑎 dinyatakan oleh:
+                                  𝑓(𝑎)
+Yang berbunyi “𝑓 dari 𝑎”.
+
+Kita daftarkan sejumlah contoh-contoh instruktif dari fungsi-fungsi.
+Contoh 1.1: Misalkan 𝑓 menetapkan tiap-tiap bilangan riil kuadratnya,
+             yaitu untuk setiap bilangan riil, 𝑓(𝑥) = 𝑥 . Ranah dan ko-
+             ranah dari 𝑓 kedua-duanya adalah bilangan-bilangan riil,
+                                     𝑓: 𝑅# → 𝑅#
+
+
+
+                                      61
+Logika Matematika dan Himpunan
+
+
+            Bayangan dari −3 adalah 9; oleh karena itu kita dapat pula
+            menulis 𝑓 (−3) = 9 atau 𝑓: −3 → 9.
+Contoh 1.2: Misalkan 𝑓 menetapkan ibukota tiap-tiap negara di dunia
+            ini. di sini, ranah 𝑓 adalah himpuan dari negara-negara di
+            dunia; dan ko-ranah 𝑓 adalah daftar ibukota-ibukota di du-
+            nia. Bayangan dari negara Perancis adalah Paris, yaitu, 𝑓
+            (Prancis)=Paris.
+Contoh 1.3: Ambilkan 𝐴 = {𝑎, 𝑏, 𝑐, 𝑑} dan𝐵 = {𝑎, 𝑏, 𝑐}. Definisikan
+            sebuah fungsi 𝑓 dari 𝐴 ke dalam 𝐵 melalui korespondensi
+            𝑓 (𝑎) = 𝑏, 𝑓 (𝑏) = 𝑐, 𝑓 (𝑐) = 𝑐 dan 𝑓 (𝑑) = 𝑏. Ber-
+            dasarkan definisi ini maka bayangan 𝑏 misalnya adalah 𝑐.
+Contoh 1.4: Ambilkan 𝐴 = {−1,1}. Misalkan f menetapkan tiap-tiap
+                     bilangan rasional dalam 𝑅# bilangan 1 dan untuk tiap-tiap
+                     bilangan irasional dalam 𝑅# bilangan −1. Maka 𝑓: 𝑅# →
+                     𝐴 dan 𝑓 dapat di definisikan secara ringkas oleh:
+
+                                              1 jika 𝑥 rasional
+                                 𝑓(𝑥) =
+                                             −1 jika 𝑥 irasional
+
+Contoh 1.5: Ambilkan 𝐴 = {𝑎, 𝑏, 𝑐, 𝑑}dan 𝐵 = {𝑥, 𝑦, 𝑧}. Misalkan
+            𝑓: 𝐴 → 𝐵 didefinisikan oleh diagram:
+
+
+
+
+    Perhatikan bahwa fungsi-fungsi dalam Contoh-contoh 1.1 dan 1.4
+didefinisikan oleh rumus-rumus yang tertentu. Tetapi cara ini tidaklah
+selalu perlu, seperti ditunjukkan oleh contoh-contoh lainnya. Aturan-
+
+62 |
+                                                               Bab 5 | Fungsi
+
+
+aturan korespondensi yang mendefinisikan fungsi-fungsi dapat dinyata-
+kan melalui diagram seperti pada Contoh 1.5 atau dinyatakan berdasar-
+kan geografis seperti Contoh 1.2 atau apabila ranahnya berhingga, maka
+korespondensi itu dapat dinyatakan untuk tiap-tiap elemen dalam ranah
+seperti dalam Contoh 1.3.
+
+1. Pemetaan, Operator Dan Transformasi
+      Jika 𝐴 dan 𝐵 adalah himpunan-himpunan yang pada umumnya
+   tak perlu berupa himpunan-himpunan bilangan riil, maka sebuah
+   fungsi f dari A ke dalam B sering disebut peta dari 𝐴 ke dalam 𝐵; dan
+   notasi:
+                                𝑓: 𝐴 → 𝐵
+   Dengan demikian berbunyi “𝑓 memetakan 𝐴 ke dalam 𝐵”. Kita dapat
+   pula menyatakan sebuah peta atau fungsi 𝑓 dari 𝐴 ke dalam 𝐵 dengan
+   diagram:
+
+
+
+
+      Jika ranah dan ko-ranah sebuah fungsi f kedua-duanya adalah him-
+   punan yang sama, katakan:
+                               𝑓: 𝐴 → 𝐴
+   maka f sering kali disebut dengan operator atau transformasi pada A
+   sebagaimana akan kita lihat kemudian, operator-operator adalah ka-
+   sus-kasus khusus yang penting dari fungsi-fungsi.
+
+2. Fungsi-Fungsi Yang Sama
+      Jika f dan g adalah fungsi-fungsi yang didefinisikan pada ranah D
+   yang sama dan jika 𝑓 (𝑎) = 𝑔 (𝑎) untuk setiap 𝑎 𝜀 𝐷, maka fungsi
+   𝑓 dan 𝑔 adalah sama kita tulis:
+
+
+                                                                      | 63
+Logika Matematika dan Himpunan
+
+
+                                 𝑓 = 𝑔
+    Contoh 2.1:
+         Misalkan 𝑓(𝑥) = 𝑥 di mana 𝑥 sebuah bilangan riil. Misalkan
+         𝑔(𝑥) = 𝑥 di mana 𝑥 adalah sebuah bilangan kompleks. Maka
+         fungsi 𝑓 tidaklah sama dengan g karena mereka memiliki ranah
+         yang berbeda.
+
+    Contoh 2.2:
+      Misalkan fungsi 𝑓 didefinisikan oleh diagram:
+
+
+
+
+         Misalkan sebuah fungsi 𝑔 didefinisikan oleh rumus 𝑔(𝑥) = 𝑥 di
+         mana ranah 𝑔 adalah himpunan{1,2}. Maka 𝑓 = 𝑔 karena kedu-
+         anya memiliki ranah yang sama dan karena 𝑓 dan 𝑔 menetapkan
+         bayangan yang sama untuk tiap-tiap elemen dalam ranah.
+
+    Contoh 2.3:
+         Misalkan𝑓: 𝑅# → 𝑅# dan 𝑔: 𝑅# → 𝑅# . Andaikan 𝑓 didefinisikan
+         oleh 𝑓(𝑥) = 𝑥 dan 𝑔 oleh 𝑔(𝑦) = 𝑦 . Maka 𝑓 dan 𝑔 adalah
+         fungsi-fungsi yang sama yakni 𝑓 = 𝑔. Perhatikan bahwa 𝑥 dan
+         𝑦 hanyalah variabel-variabel dumi (dummy) dalam rumus-rumus
+         yang mendefinisikan fungsi-fungsi ini.
+
+3. Jangkauan Dari Fungsi
+      Misalkan 𝑓 suatu peta dari 𝐴 ke dalam B, yaitu misalkan𝑓: 𝐴 → 𝐵.
+   Tiap-tiap elemen dalam 𝐵 tak perlu muncul sebagai bayangan dari
+   elemen 𝐴. kita definisikan jangkauan (range) dari 𝑓 terdiri dari ele-
+   men-elemen 𝐵 yang tepat muncul sebagai bayangan dari sekurang-ku-
+
+
+64 |
+                                                                 Bab 5 | Fungsi
+
+
+   rangnya satu elemen 𝐴 kita nyatakan jangkauan dari 𝑓: 𝐴 → 𝐵
+   dengan:
+                               𝑓(𝐴)
+   Perhatikan bahwa 𝑓(𝐴) adalah subhimpunan dari 𝐵.
+
+   Contoh 3.1:
+     Misalkan fungsi 𝑓: 𝑅# → 𝑅# didefinisikan oleh rumus 𝑓(𝑥) = 𝑥 .
+     Maka jangkauan f terdiri dari bilangan-bilangan riil positif dan nol.
+   Contoh 3.2:
+     Misalkan 𝑓: 𝐴 → 𝐵 adalah fungsi dari Contoh 1.3. Maka 𝑓(𝐴) =
+     {𝑏, 𝑐}.
+
+4. Fungsi Satu-Satu
+       Misalkan 𝑓 memetakan 𝐴 ke dalam 𝐵. Maka 𝑓 disebut suatu fung-
+   si satu-satu (one-one function) jika elemen-elemen yang berbeda dalam
+   𝐵 ditetapkan dengan elemen-elemen berbeda dalam 𝐴, yaitu jika tak
+   ada dua buah elemen 𝐴 yang mempunyai bayangan yang sama. Secara
+   lebih singkat,𝑓: 𝐴 → 𝐵adalah satu-satu jika 𝑓(𝑎) = 𝑓(𝑎 ) ma-ka 𝑎 =
+   𝑎′ atau yang ekuivalen dengannya yaitu jika 𝑎 ≠ 𝑎′ maka 𝑓(𝑎) ≠
+   𝑓(𝑎 ).
+
+   Contoh 4.1:
+     Misalkan fungsi 𝑓: 𝑅# → 𝑅# didefinisikan oleh rumus 𝑓(𝑥) = 𝑥 .
+     Maka 𝑓 bukan fungsi satu-satu karena 𝑓(2) = 𝑓(−2) = 4 yaitu
+     bayangan dari dua bilangan riil yang berbeda yakni 2 dan −2, ada-
+     lah bilangan yang sama, yaitu 4.
+   Contoh 4.2:
+      Misalkan fungsi 𝑓: 𝑅# → 𝑅# didefinisikan oleh rumus 𝑓(𝑥) = 𝑥 .
+      Maka 𝑓 adalah peta satu-satu karena pangkat-tiga dari dua bilang-
+      an riil yang berbeda juga berbeda.
+
+
+
+                                                                        | 65
+Logika Matematika dan Himpunan
+
+
+    Contoh 4.3:
+      Fungsi 𝑓 yang menetapkan ibukota-ibukota tiap-tiap negara di du-
+      nia adalah satu-satu karena negara-negara yang berbeda mempu-
+      nyai ibukota-ibukota yang berbeda, yaitu, tidak ada kota yang ada-
+      lah ibukota dari dua negara yang berbeda.
+
+5. Fungsi Pada
+      Misalkan 𝑓 suatu fungsi dari 𝐴 ke dalam 𝐵. Maka jangkauan 𝑓(𝐴)
+   dari fungsi 𝑓 adalah subhimpunan 𝐵, yaitu𝑓(𝐴) ⊂ 𝐵.Jika 𝑓(𝐴) = 𝐵,
+   yaitu, jika setiap anggota 𝐵 muncul sebagai bayangan dari sekurang-
+   kurangnya satu elemen 𝐴, maka kita katakan “𝑓 adalah suatu fungsi
+   dari 𝐴 pada 𝐵”, atau “𝑓 memetakan 𝐴 pada 𝐵”, atau “𝑓 adalah suatu
+   fungsi pada (onto function)”.
+
+     Contoh 5.1:
+       Misalkan fungsi 𝑓: 𝑅# → 𝑅# didefinisikan oleh rumus𝑓(𝑥) = 𝑥 .
+       Maka 𝑓 bukan suatu fungsi pada karena bilangan-bilangan negatif
+       tak muncul dalam jangkauan dari 𝑓, yaitu tidak ada bilangan nega-
+       tif yang merupakan kuadrat sebuah bilangan riil.
+     Contoh 5.2:
+       Misalkan 𝑓: 𝐴 → 𝐵 adalah sebuah fungsi dalam Contoh 1.3. Per-
+       hatikan bahwa 𝑓 (𝐴) = {𝑏, 𝑐}. Karena 𝐵 = {𝑎, 𝑏, 𝑐}, jangkau-an
+       dari 𝑓 tidak sama dengan ko-ranah yang berarti 𝑓 tidak pada.
+     Contoh 5.3:
+       Misalkan 𝑓: 𝐴 → 𝐵 adalah fungsi dalam Contoh 1.5. Perhatikan
+       bahwa:
+                             𝑓(𝐴) = {𝑥, 𝑦, 𝑧} = 𝐵
+       yaitu, jangkauan 𝑓 sama dengan ko-ranah 𝐵. Jadi 𝑓 memetakan 𝐴
+       dan 𝐵, yang berarti 𝑓 suatu peta pada.
+
+
+
+
+66 |
+                                                                  Bab 5 | Fungsi
+
+
+6. Fungsi Satuan
+      Misalkan 𝐴 sebarang himpunan. Misalkan fungsi 𝑓: 𝐴 → 𝐴 didefi-
+   nisikan oleh rumus 𝑓(𝑥) = 𝑥 yaitu, misalkan 𝑓 menetapkan tiap-tiap
+   elemen dalam 𝐴 elemen yang bersangkutan itu sendiri. Maka 𝑓 dise-
+   but fungsi satuan (identity function) atau transformasi satuan (identity
+   transformation) pada 𝐴. Kita nyatakan fungsi ini dengan 1 atau de-
+   ngan 1 .
+
+7. Fungsi Konstan
+      Suatu fungsi 𝑓 dari 𝐴 ke dalam 𝐵 disebut fungsi konstan jika ele-
+   men 𝑜 𝜀 𝐵 yang sama ditetapkan untuk setiap elemen dalam 𝐴. De-
+   ngan kata lain, 𝑓: 𝐴 → 𝐵 adalah suatu fungsi konstan jika jangkauan
+   dari 𝑓 hanya terdiri dari satu elemen.
+
+   Contoh 6.1:
+     Misalkan fungsi 𝑓 didefinisikan oleh diagram:
+
+
+
+
+      Maka 𝑓 bukan fungsi konstan karena jangkauan dari 𝑓 terdiri dari
+      1 dan 2.
+
+   Contoh 6.2:
+     Misalkan fungsi f didefinisikan oleh diagram :
+
+
+
+
+                                                                         | 67
+Logika Matematika dan Himpunan
+
+
+         Maka 𝑓 adalah fungsi konstan karena 3 ditetapkan untuk setiap
+         elemen 𝐴.
+
+    Contoh 6.3:
+         Misalkan 𝑓: 𝑅# → 𝑅# didefinisikan oleh rumus 𝑓(𝑥) = 5. Maka 𝑓
+         adalah fungsi konstan karena 5 ditetapkan untuk setiap elemen.
+
+8. Hasil Kali Fungsi
+      Misalkan 𝑓 suatu fungsi 𝐴 ke dalam 𝐵 dan 𝑔 dari 𝐵 ke dalam 𝐶 di
+   mana 𝐵 adalah ko-ranah dari 𝑓. Kita ilustrasikan fungsi-fungsi ini se-
+   bagai berikut.
+
+
+
+
+        Misalkan 𝑎 ∈ 𝐴; maka bayangannya yaitu 𝑓 (𝑎) berada dalam 𝐵
+    di mana 𝐵 adalah ranah dari 𝑔. Oleh sebab itu, kita dapat memperoleh
+    bayangan dari 𝑓(𝑎) di bawah peta 𝑔, yaitu 𝑔(𝑓(𝑎)). Jadi kita mem-
+    punyai aturan yang menetapkan tiap-tiap elemen𝑎 ∈ 𝐴 dengan suatu
+    elemen yang terangkaikan dengannya yaitu 𝑔(𝑓(𝑎)) ∈ 𝐶. Dengan
+    perkataan lain, kita mempunyai suatu fungsi dari 𝐴 ke dalam 𝐶. Fung-
+    si baru ini disebut hasil kali fungsi (product function) atau fungsi kom-
+    posisi dari f dan g yang dinyatakan oleh (𝑔 ○ 𝑓) atau (𝑔𝑓).
+        Secara lebih singkat, jika 𝑓: 𝐴 → 𝐵 dan 𝑔: 𝐵 → 𝐶 maka kita
+    definisikan suatu fungsi (𝑔 ○ 𝑓): 𝐴 → 𝐶 dengan:
+
+                                 (𝑔 ○ 𝑓)(𝑎) ≡ 𝑔(𝑓(𝑎))
+
+       Di sini ≡ digunakan untuk mengartikan sama menurut definisi.
+    Kita sekarang dapat lengkapi diagram di atas.
+
+
+
+68 |
+                                                         Bab 5 | Fungsi
+
+
+
+
+Contoh7.1:
+  Misalkan 𝑓: 𝐴 → 𝐵dan𝑔: 𝐵 → 𝐶 didefinisikan oleh diagram-dia-
+  gram:
+
+
+
+
+  Kita menghitung (𝑔 ○ 𝑓): 𝐴 → 𝐶menurut definisinya :
+                   (𝑔 ○ 𝑓)(𝑎) ≡ 𝑔 𝑓(𝑎) = 𝑔(𝑦) = 𝑡
+                   (𝑔 ○ 𝑓)(𝑏) ≡ 𝑔 𝑓(𝑏) = 𝑔(𝑧) = 𝑟
+                   (𝑔 ○ 𝑓)(𝑐) ≡ 𝑔 𝑓(𝑐) = 𝑔(𝑦) = 𝑡
+
+  Perhatikan bahwa fungsi (𝑔 ○ 𝑓) adalah ekuivalen dengan “me-
+  ngikuti anak-panah-anak-panah” dari 𝐴 ke 𝐶 dalam diagram-dia-
+  gram dari fungsi-fungsi 𝑓 dan 𝑔.
+
+Contoh 7.2:
+  Untuk tiap-tiap bilangan riil, misalkan 𝑓 menetapkan kuadratnya
+  yaitu 𝑓(𝑥) = 𝑥 . Untuk tiap-tiap bilangan riil, misalnya 𝑔 mene-
+  tapkan bilangan yang bersangkutan di tambah 3, yaitu berarti
+  𝑔(𝑥) = 𝑥 3. Maka:
+              (𝑓 ○ 𝑔)(2) ≡ 𝑓 𝑔(2) = 𝑓(5) = 25
+               (𝑔 ○ 𝑓)(2) ≡ 𝑔 𝑓(2) = 𝑓(4) = 7
+
+
+
+
+                                                                | 69
+Logika Matematika dan Himpunan
+
+
+         Perhatikan bahwa hasil kali fungsi (𝑓 ○ 𝑔) dan (𝑔 ○ 𝑓) bukanlah
+         fungsi yang sama. Kita menghitung suatu pernyataan umum untuk
+         hasil kali fungsi ini:
+                        (𝑓 ○ 𝑔)(𝑥) ≡ 𝑓 𝑔(𝑥) = 𝑓(𝑥 3) = (𝑥 3)
+                                      =𝑥    6𝑥 9
+                            (𝑔 ○ 𝑓) ≡ 𝑔 𝑓(𝑥) = 𝑔(𝑥 ) = 𝑥 3
+
+
+
+    Pernyataan 4.1: Misalkan 𝑓: 𝐴 → 𝐵. Maka
+                          1 ○ 𝑓 = 𝑓 dan 𝑓 ○ 1 = 𝑓
+                  yaitu, hasilkali dari sebarang fungsi dan fungsi satuan
+                  adalah fungsi itu sendiri.
+
+9. Sifat Asosiatif Dari Hasil Kali Fungsi-fungsi
+       Misalkan 𝑓: 𝐴 → 𝐵, 𝑔: 𝐵 → 𝐶 dan ℎ: 𝐶 → 𝐷. Maka, sebagaimana
+   diilustrasikan dalam Gambar 4-1, kita dapat membentuk hasil kali
+   fungsi 𝑔 ○ 𝑓: 𝐴 → 𝐶 dan kemudian fungsi ℎ ○ (𝑔 ○ 𝑓): 𝐴 → 𝐷.
+
+
+
+
+       Dengan cara yang sama, sebagaimana diilustrasikan dalam Gambar
+    4-2, kita dapat membentuk hasil kali fungsi ℎ ○ 𝑔: 𝐵 → 𝐷 dan kemu-
+    dian (ℎ ○ 𝑔) ○ 𝑓: 𝐴 → 𝐷.
+
+
+
+
+70 |
+                                                              Bab 5 | Fungsi
+
+
+     Baik ℎ ○ (𝑔 ○ 𝑓) maupun (ℎ ○ 𝑔) ○ 𝑓 adalah fungsi-fungsi dari 𝐴
+  ke dalam 𝐷. Suatu teorema dasar mengenai fungsi-fungsi menyatakan
+  bahwa fungsi-fungsi ini sama. Tegasnya,
+
+    Teorema 4.1: Misalkan 𝑓: 𝐴 → 𝐵, 𝑔: 𝐵 → 𝐶 dan ℎ: 𝐶 → 𝐷. Maka
+                   (ℎ ○ 𝑔) ○ 𝑓 = ℎ ○ (𝑔 ○ 𝑓)
+                 Mengingat Teorema 4.1, kita dapat menulis
+                        ℎ ○ 𝑔 ○ 𝑓: 𝐴 → 𝐷
+                  tanpa tanda kurung apa pun.
+
+10. Invers dari Fungsi
+     Misalkan 𝑓 suatu fungsi dari 𝐴 ke dalam 𝐵, dan misalkan 𝑏 𝜀 𝐵.
+   Maka invers dari 𝑏, dinyatakan oleh:
+                               𝑓 (𝑏)
+     Yang terdiri dari elemen-elemen 𝐴 yang dipetakan pada 𝑏, yaitu
+  elemen-elemen dalam 𝐴 yang memiliki 𝑏 sebagai bayangannya. Secara
+  lebih singkat, jika 𝑓: 𝐴 → 𝐵 maka:
+                       𝑓 (𝑏) = {𝑥|𝑥𝜀𝐴, 𝑓(𝑥) = 𝑏}
+
+     Perhatikan bahwa 𝑓    (𝑏) adalah selalu sebuah subhimpunan dari
+  𝐴. Kita membaca 𝑓     sebagai “𝑓 invers”.
+
+  Contoh 8.1:
+    Misalkan fungsi 𝑓: 𝐴 → 𝐵 didefinisikan oleh diagram:
+
+
+
+
+     Maka 𝑓    (𝑥) = {𝑏, 𝑐}, karena baik 𝑏 maupun 𝑐 keduanya memi-
+     liki 𝑥 sebagai titik bayangan mereka. Juga, 𝑓   (𝑦) = {𝑎}, karena
+
+
+                                                                     | 71
+Logika Matematika dan Himpunan
+
+
+         hanya 𝑎 yang dipetakan kepada 𝑦. Invers dari 𝑧, 𝑓 (𝑧), adalah
+         himpunan nol ∅, karena tak ada elemennya 𝐴 yang dipetakan ke-
+         pada 𝑧.
+
+     Contoh 8.2:
+         Misalkan 𝑓: 𝑅# → 𝑅# , bilangan-bilangan riil yang didefinisikan
+         oleh bentuk 𝑓(𝑥) = 𝑥 . Maka 𝑓 (4) = {2, −1}, karena 4 ada-
+         lah bayangan dari baik 2 maupun −2 dan tidak ada bilangan riil
+         lain yang kuadratnya adalah 4. Perhatikan bahwa 𝑓 (−3) = ∅,
+         karena tak ada unsur dalam 𝑅# yang kuadratnya adalah −3.
+
+     Contoh8.3:
+       Misalkan 𝑓 suatu fungsi dari bilangan-bilangan kompleks ke dalam
+       bilangan-bilangan kompleks, di mana 𝑓 didefinisikan oleh bentuk
+         𝑓(𝑥) = 𝑥 . Maka 𝑓 (−3) = {√3𝑖, −√3𝑖}, karena kuadrat dari
+         tiap-tiap bilangan ini adalah −3.
+
+       Perhatikan bahwa fungsi-fungsi dalam Contoh 8.2 dan 8.3 ber-
+    beda meskipun mereka didefinisikan oleh bentuk yang sama.
+
+      Sekarang kita perluas definisi invers dari fungsi. Misalkan 𝑓: 𝐴 →
+    𝐵 dan misalkan 𝐷 suatu subhimpunan dari 𝐵, yaitu𝐷 ⊂ 𝐵. Maka in-
+    vers dari 𝐷 di bawah peta 𝑓 yang dinyatakan oleh 𝑓 (𝐷), terdiri dari
+    elemen-elemen dalam 𝐴 yang dipetakan pada beberapa elemen dalam
+    𝐷. Secara lebih singkat,
+                       𝑓 (𝐷) = {𝑥|𝑥𝜀𝐴, 𝑓(𝑥)𝜀𝐷}
+
+    Contoh 9.1:
+      Misalkan fungsi𝑓: 𝐴 → 𝐵 didefinisikan oleh diagram:
+
+
+
+
+72 |
+                                                             Bab 5 | Fungsi
+
+
+
+
+     Maka 𝑓     ({𝑟, 𝑠}) = {𝑦}, karena hanya 𝑦 yang dipetakan kepada
+     𝑟 atau 𝑠. Juga 𝑓 ({𝑟, 𝑡}) = {𝑥, 𝑦, 𝑧} = 𝐴, karena tiap-tiap ele-
+     men dalam 𝐴 memiliki 𝑟 atau 𝑡 sebagai inversnya.
+
+  Contoh 9.2:
+    Misalkan 𝑓: 𝑅# → 𝑅# didefinisikan oleh𝑓(𝑥) = 𝑥 , dan ambilkan
+                       𝐷 = 4,9 = {𝑥|4 𝑥 9}
+                                    Maka:
+                 𝑓 (𝐷) = {𝑥| − 3 𝑥 −2 atau 2 𝑥 3}
+                                         ``
+  Contoh 9.3:
+    Misalkan 𝑓: 𝐴 → 𝐵 adalah sebarang fungsi. Maka 𝑓 (𝐵) = 𝐴,
+     karena setiap elemen dalam 𝐴 memiliki bayangannya dalam 𝐵. Jika
+     𝑓(𝐴) menyatakan jangkauan dari fungsi 𝑓, maka:
+                           𝑓 𝑓(𝐴) = 𝐴
+     Selanjutnya, jika 𝑏 ∈ 𝐵, maka:
+                         𝑓 (𝑏) = 𝑓 ({𝑏})
+     Di sini 𝑓 mempunyai dua arti, yaitu sebagai invers dari sebuah
+     elemen 𝐵 dan sebagai invers dari subhimpunan 𝐵.
+
+11. Fungsi Invers
+     Misalkan 𝑓 suatu fungsi dari 𝐴 ke dalam 𝐵. Pada umumnya,
+  𝑓 (𝑏) dapat terdiri dari lebih dari satu elemen atau mungkin adalah
+  himpunan kosong ∅. Jika sekarang 𝑓: 𝐴 → 𝐵 adalah suatu fungsi satu-
+  satu dan suatu fungsi pada, maka untuk tiap-tiap 𝑏 𝜀 𝐵, invers 𝑓 (𝑏)
+  akan terdiri dari sebuah elemen tunggal dalam 𝐴. Dengan demikian,
+
+                                                                    | 73
+Logika Matematika dan Himpunan
+
+
+    kita mempunyai suatu aturan yang menetapkan untuk tiap-tiap 𝑏 𝜀 𝐵,
+    suatu elemen tunggal 𝑓 (𝑏) dalam 𝐴. Oleh sebab itu, 𝑓         adalah
+    suatu fungsi dari 𝐵 ke dalam 𝐴 dan kita dapat menulis:
+                                 𝑓 :𝐵 → 𝐴
+         Dalam keadaan ini, bila 𝑓: 𝐴 → 𝐵 adalah satu-satu dan pada, maka
+    kita menyebut 𝑓              fungsi invers dari 𝑓.
+
+    Contoh 10.1:
+      Misalkan fungsi 𝑓: 𝐴 → 𝐵 didefinisikan oleh diagram:
+
+
+
+
+         Perhatikan bahwa 𝑓 adalah satu-satu dan pada. Dengan demikian
+         𝑓 , yaitu fungsi invers, ada. Kita menggambarkan 𝑓      :𝐵 → 𝐴
+         dengan diagram:
+
+
+
+
+         Perhatikan selanjutnya, bahwa jika kita arahkan anak-panah-anak-
+         panah dalam arah yang terbalik dari diagram 𝑓 maka kita pada da-
+         sarnya memperoleh diagram dari 𝑓                .
+
+     Contoh10.2:
+       Misalkan fungsi 𝑓: 𝐴 → 𝐵 didefinisikan oleh diagram:
+
+
+
+
+74 |
+                                                                  Bab 5 | Fungsi
+
+
+      Karena 𝑓(𝑎) = 𝑦 dan 𝑓(𝑐) = 𝑦 , maka fungsi 𝑓 tidak satu-satu.
+      Dengan demikian fungsi invers 𝑓 tidak ada. Jika 𝑓 (𝑦) =
+      {𝑎, 𝑐}, maka kita tidak dapat menetapkan 𝑎 dan 𝑐 kedua-duanya
+      untuk elemen 𝑦 𝜀 𝐵.
+
+  Contoh 10.3:
+      Misalkan 𝑓: 𝑅# → 𝑅# , bilangan-bilangan riil yang didefinisikan
+      oleh 𝑓(𝑥) = 𝑥 . Perhatikan bahwa 𝑓 adalah satu-satu dan pada.
+      Oleh karena itu 𝑓 : 𝑅# → 𝑅# ada. Pada kenyataannya kita mem-
+      punyai suatu bentuk yang mendefinisikan fungsi invers ini, yaitu
+      𝑓   (𝑥) = √𝑥 .
+
+12. Teorema-Teorema Mengenai Fungsi Invers
+     Misalkan suatu fungsi 𝑓: 𝐴 → 𝐵 mempunyai            fungsi       invers
+  𝑓   : 𝐵 → 𝐴. Maka kita melihat dari diagram berikut:
+
+
+
+
+  Bahwa kita dapat membentuk hasil kali fungsi (𝑓 ○ 𝑓) yang meme-
+  takan 𝐴 ke dalam 𝐴, dan kita melihat dari diagram berikut:
+
+
+
+
+  Bahwa kita dapat membentuk hasil kali fungsi (𝑓 ○ 𝑓 ) yang meme-
+  takan 𝐵 ke dalam 𝐵. Kita sekarang menyatakan teorema dasar menge-
+  nai fungsi invers.
+
+
+                                                                         | 75
+Logika Matematika dan Himpunan
+
+
+    Teorema 4.2:
+      Misalkan fungsi 𝑓: 𝐴 → 𝐵 adalah satu-satu dan pada yang berarti
+    fungsi invers 𝑓  : 𝐵 → 𝐴 ada. Maka hasil kali fungsi:
+                           (𝑓 ○ 𝑓): 𝐴 → 𝐴
+    Adalah fungsi satuan pada 𝐴, dan hasil kali fungsi:
+                           (𝑓 ○ 𝑓 ): 𝐵 → 𝐵
+    Adalah fungsi satuan pada 𝐵.
+
+    Teorema 4.3:
+      Misalkan 𝑓: 𝐴 → 𝐵 dan 𝑔: 𝐵 → 𝐴 maka 𝑔 adalah fungsi invers da-
+      ri 𝑓 yang berarti 𝑔 = 𝑓 , jika hasilkali fungsi (𝑔 ○ 𝑓): 𝐴 → 𝐴
+      adalah fungsi satuan pada 𝐴 dan (𝑓 ○ 𝑔): 𝐵 → 𝐵 adalah fungsi sa-
+         tuan pada 𝐵.
+         Kedua persyaratan dalam Teorema 4.3 adalah perlu sebagaimana
+         kita akan lihat dari
+
+    Contoh 11.1:
+      Misalkan 𝐴 = {𝑥, 𝑦} dan𝐵 = {𝑎, 𝑏, 𝑐}. Definisikan suatu fungsi
+      𝑓: 𝐴 → 𝐵 dengan diagram (𝑎) di bawah.
+
+
+
+
+         Sekarang definisikan suatu fungsi 𝑔: 𝐵 → 𝐴 dengan diagram (𝑏)
+         di atas.
+         Kita menghitung (𝑔 ○ 𝑓): 𝐴 → 𝐴,
+                                 (𝑔 ○ 𝑓)(𝑥) = 𝑔 𝑓(𝑥) = 𝑔(𝑐) = 𝑥
+                                 (𝑔 ○ 𝑓)(𝑦) = 𝑔 𝑓(𝑦) = 𝑔(𝑎) = 𝑦
+
+76 |
+                                                           Bab 5 | Fungsi
+
+
+Dengan demikian fungsi hasil kali (𝑔 ○ 𝑓) adalah fungsi satuan
+pada 𝐴. tetapi 𝑔 bukan fungsi invers dari 𝑓 karena fungsi hasil kali
+(𝑓 ○ 𝑔) bukan fungsi satuan pada 𝐵, jadi 𝑓 bukan fungsi pada.
+
+
+
+
+                                                                  | 77
+Logika Matematika dan Himpunan
+
+
+
+
+78 |
+                          Logika Matematika dan Himpunan
+
+
+
+
+ BAB 6
+                                 Relasi
+
+
+A. Fungsi Proposisi dan Kalimat Terbuka
+    Suatu fungsi proposisi yang didefinisikan pada hasil kali Kartesis 𝐴 ×
+𝐵 dari dua buah himpunan A dan B adalah sebuah ungkapan yang dinya-
+takan oleh.
+                                 𝑝 (𝑥, 𝑦)
+Ungkapan ini memiliki sifat bahwa 𝑝(𝑎, 𝑏), di mana 𝑎 dan 𝑏 disisipkan
+untuk masing-masing variabel x dan y dalam 𝑝(𝑥, 𝑦), adalah benar atau
+salah untuk sebarang pasangan terurut (𝑎, 𝑏)𝜀 𝐴 × 𝐵. misalnya, jika A
+adalah himpunan dari para penggubah drama dan B himpunan dari dra-
+ma-drama, maka:
+                        𝑝(𝑥, 𝑦) = “𝑥 menulis 𝑦 “
+adalah suatu fungsi proposisi pada ... pada khususnya,
+
+       P (Shakespeare, Hamlet) = “Shakespeare menulis Hamlet”
+       P (Shakespeare, Faust) = “Shakespeare menulis Faust”
+masing-masing adalah benar dan salah.
+
+
+
+
+                                       79
+Logika Matematika dan Himpunan
+
+
+   Ungkapan 𝑝(𝑥, 𝑦) sendiri disebut suatu kalimat terbuka dalam dua
+variabel atau secara singkat, suatu kalimat terbuka. Contoh-contoh lain
+dari kalimat-kalimat terbuka adalah sebagai berikut:
+   Contoh 1.1: “𝑥 lebih kecil dari pada 𝑦“
+   Contoh 1.2: “𝑥 beratnya 𝑦 pon”
+   Contoh 1.3: “𝑥 habis dibagi oleh 𝑦“
+   Contoh 1.4: “𝑥 adalah suami 𝑦“
+   Contoh 1.5: “kuadrat dari 𝑥 ditambah dengan kuadrat dari 𝑦 adalah
+                enam belas“, yaitu “𝑥 + 𝑦 = 16”
+    Contoh 1.6: “segitiga 𝑥 sama dan sebangun dengan segitiga 𝑦“
+
+   Dalam semua contoh-contoh kita di atas terdapat dua buah variabel.
+Tetapi adalah mungkin terdapat pula kalimat-kalimat terbuka dalam satu
+variabel seperti “x dalam Perserikatan Bangsa-bangsa” atau dalam lebih
+daripada dua buah variabel seperti “x kali y sama dengan z”.
+
+1. Relasi
+      Suatu relasi 𝑅 terdiri dari:
+   a. Sebuah himpunan 𝐴
+   b. Sebuah himpunan 𝐵
+   c. Suatu kalimat terbuka 𝑝(𝑥, 𝑦) di mana 𝑝(𝑎, 𝑏) adalah benar atau
+      salah untuk sebarang pasangan terurut (𝑎, 𝑏) yang termasuk da-
+      lam.
+
+       Maka kita menyebut 𝑅 suatu relasi dari 𝐴 ke 𝐵 dan menyatakannya
+    dengan:
+                           𝑅 = (𝐴, 𝐵, 𝑃(𝑥, 𝑦))
+       Selanjutnya, jika 𝑃(𝑎, 𝑏) adalah benar kita tulis:
+                                    𝑎𝑅𝑏
+       Yang berbunyi “𝑎 berhubungan dengan 𝑏”. Pada pihak lain, jika
+    𝑃(𝑎, 𝑏) tidak benar, kita tulis:
+                                      𝑎𝑅𝑏
+
+80 |
+                                                                Bab 6 | Relasi
+
+
+      Yang berbunyi “𝑎 tidak berhubungan dengan 𝑏”.
+
+Contoh 2.1: Misalkan 𝑅 = (𝑅# , 𝑅# , 𝑃(𝑥, 𝑦)) di mana 𝑃(𝑥, 𝑦) ber-
+            bunyi “𝑥 lebih kecil daripada 𝑦”. Maka 𝑅 adalah suatu
+            relasi karena 𝑃(𝑎, 𝑏) yakni “𝑎 < 𝑏” adalah benar atau sa-
+            lah untuk sebarang pasangan terurut (𝑎, 𝑏) dari bilangan-
+            bilangan riil. Selain itu, karena 𝑃(2, 𝜋)adalah benar kita
+            dapat menulis
+                                   2𝑅
+            dan karena 𝑝(5, √2) salah kita dapat menulis
+                                5 𝑅 √2)
+Contoh 2.2: Misalkan 𝑅 = (𝐴, 𝐵, 𝑃(𝑥, 𝑦)) di mana 𝐴 adalah himpun-
+            an dari kaum pria, 𝐵 himpunan dari kaum wanita,
+            dan 𝑃(𝑥, 𝑦) berbunyi “𝑥 adalah suami dari 𝑦”. Maka
+            𝑅 adalah suatu relasi.
+Contoh 2.3: Misalkan 𝑅 = (𝑁, 𝑁 𝑃(𝑥, 𝑦)) di mana 𝑁 adalah bilang-
+            an-bilangan asli dan 𝑃(𝑥, 𝑦) berbunyi “𝑦 habis dibagi oleh
+            𝑥”. Maka 𝑅 adalah suatu relasi. Selanjutnya,
+                   3 𝑅 12, 2 𝑅 7, 5 𝑅 15, 6 𝑅 13
+Contoh 2.4: Misalkan𝑅 = (𝐴, 𝐵 𝑃(𝑥, 𝑦)) di mana 𝐴 adalah himpun-
+            an dari kaum pria, 𝐵 himpunan dari kaum wanita dan
+             𝑃(𝑥, 𝑦) berbunyi “𝑦 habis dibagi oleh 𝑥”. Maka 𝑅 bu-
+            kanlah suatu relasi karena 𝑃(𝑎, 𝑏) tidak mempunyai arti
+            jika 𝑎 adalah seorang pria dan 𝑏 seorang wanita.
+Contoh 2.5: Misalkan 𝑅 = (𝑁, 𝑁 𝑝(𝑥, 𝑦)) di mana N adalah bilang-
+            an-bilangan asli dan 𝑝(𝑥, 𝑦) berbunyi “x lebih kecil daripa-
+            da y”. Maka 𝑅 adalah suatu relasi.
+            Perhatikan bahwa 𝑅 dan𝑅 bukanlah relasi yang sama
+            meskipun kalimat terbuka yang sama dipergunakan untuk
+            mendefinisikan masing-masing relasi.
+
+
+
+                                                                      | 81
+Logika Matematika dan Himpunan
+
+
+            Misalkan 𝑅 = (𝐴, 𝐵, 𝑃(𝑥, 𝑦)) adalah suatu relasi. Maka
+            kita katakan bahwa kalimat terbuka 𝑃(𝑥, 𝑦) mendefinisikan
+            suatu relasi dari 𝐴 ke 𝐵. Selanjutnya, jika 𝐴 = 𝐵, maka kita
+            katakan bahwa 𝑃(𝑥, 𝑦) mendefinisikan suatu relasi di da-
+            lam 𝐴.
+Contoh 2.6: Kalimat terbuka 𝑃(𝑥, 𝑦), yang berbunyi “𝑥 lebih kecil dari-
+            pada 𝑦”, mendefinisikam suatu relasi dalam bilangan-bi-
+            langan rasional.
+Contoh 2.7: Kalimat terbuka “𝑥 suaminya 𝑦” mendefinisikan suatu re-
+            lasi dari himpunan kaum pria ke himpunan kaum wanita.
+
+       Terminologi: Beberapa pengarang menyebut 𝑃(𝑥, 𝑦) suatu relasi.
+    Mereka kemudian secara implisit menganggap bahwa variabel-varia-
+    bel 𝑥 dan 𝑦 masing-masing menjangkau beberapa himpunan 𝐴 dan
+    𝐵, yaitu bahwa 𝑃(𝑥, 𝑦) adalah sebuah fungsi proposisi yang didefinisi-
+    kan pada beberapa hasilkali himpunan 𝐴 × 𝐵 kita akan tetap menga-
+    nut terminologi terdahulu di mana 𝑃(𝑥, 𝑦) hanyalah suatu kalimat
+    terbuka dan oleh karena itu suatu relasi terdiri atas 𝑃(𝑥, 𝑦) dan dua
+    buah himpunan 𝐴 dan 𝐵 yang diberikan.
+
+2. Himpunan Jawaban dan Grafik Relasi
+      Misalkan 𝑅 = (𝐴, 𝐵, 𝑃(𝑥, 𝑦)) adalah suatu relasi. Himpunan ja-
+   waban 𝑅∗ dari relasi 𝑅 terdiri atas elemen-elemen (𝑎, 𝑏) dalam 𝐴 ×
+   𝐵 untuk 𝑃(𝑎, 𝑏) adalah benar. Dengan kata lain,
+           𝑅∗ = {(𝑎, 𝑏)|𝑎 𝜀 𝐴, 𝑏 𝜀 𝐵, 𝑃(𝑎, 𝑏) 𝑎𝑑𝑎𝑙𝑎ℎ 𝑏𝑒𝑛𝑎𝑟}
+      Perhatikan bahwa 𝑅 ∗ himpunan jawaban suatu relasi 𝑅 dari 𝐴 ke
+   𝐵, adalah subhimpunan dari 𝐴 × 𝐵. Oleh karena itu, 𝑅∗ dapat diper-
+   lihatkan yaitu digambar atau disketsa pada diagram koordinat dari
+   𝐴 × 𝐵.
+
+
+
+
+82 |
+                                                                   Bab 6 | Relasi
+
+
+     Grafik suatu relasi 𝑅 dari 𝐴 ke 𝐵 terdiri atas titik-titik pada diagram
+  koordinat dari 𝐴 × 𝐵 yang termasuk dalam himpunan jawaban dari
+  𝑅.
+Contoh 3.1: Misalkan 𝑅 = (𝐴, 𝐵, 𝑃(𝑥, 𝑦)) di mana 𝐴 = {2, 3, 4},
+             dan 𝐵 = { 3, 4, 5, 6} dan, 𝑃(𝑥, 𝑦) berbunyi “𝑦 habis di-
+             bagi oleh 𝑥”. Maka himpunan jawaban dari R adalah
+                        𝑅∗ = {2, 4}, {2, 6}, {3, 3}, {3, 6}, {4, 4}
+              Himpunan jawaban dari 𝐴 × 𝐵 diperlihatkan pada dia-
+              gram koordinat dari 𝐴 × 𝐵 dalam gambar 6-1 di bawah.
+
+
+
+
+Contoh 3.2: Misalkan 𝑅 adalah relasi dalam bilangan-bilangan riil yang
+            didefinisikan oleh:
+                                     𝑦 <𝑥+1
+            Daerah arsiran dalam diagram koordinat dari 𝑅# × 𝑅#
+            yang diperlihatkan dalam Gambar 6-2 di atas terdiri dari
+            titik-titik yang termasuk 𝑅 ∗ , himpunan jawaban dari 𝑅, ya-
+            itu grafik dari 𝑅.
+            Perhatikan bahwa 𝑅∗ terdiri dari titik-titik yang berada di
+            bawah garis 𝑦 = 𝑥 + 1. Garis 𝑦 = 𝑥 + 1 diberi arsiran un-
+            tuk memperlihatkan bahwa titik-titik pada garis ini tidak
+            termasuk dalam 𝑅∗ .
+
+3. Relasi Sebagai Himpunan Dari Pasangan-Pasangan Terurut
+      Misalkan 𝑅 ∗ sebarang subhimpunan dari 𝐴 × 𝐵. Kita dapat men-
+   definisikan suatu relasi 𝑅 = (𝐴, 𝐵, 𝑃(𝑥, 𝑦)) di mana 𝑃(𝑥, 𝑦) berbu-
+   nyi:
+
+                                                                         | 83
+Logika Matematika dan Himpunan
+
+
+                 “pasangan teruntuk (𝑥, 𝑦) termasuk dalam 𝑅 ∗ ”
+       Himpunan jawaban dari relasi 𝑅 ini adalah himpunan semula 𝑅∗ .
+    Jadi untuk setiap relasi 𝑅 = (𝐴, 𝐵, 𝑃(𝑥, 𝑦)) terdapat sebuah himpu-
+    nan jawaban tunggal 𝑅∗ yang mana adalah subhimpunan dari 𝐴 × 𝐵,
+    dan untuk setiap subhimpunan 𝑅∗ dari 𝐴 × 𝐵 terdapat suatu relasi
+    𝑅 = (𝐴, 𝐵, 𝑃(𝑥, 𝑦)) yang mana 𝑅∗ adalah himpunan-jawabannya.
+    Mengingat korespondensi satu-satu ini antara relasi-relasi 𝑅 =
+    (𝐴, 𝐵, 𝑃(𝑥, 𝑦)) dan subhimpunan-subhimpunan 𝑅∗ dari 𝐴 × 𝐵, ma-
+    ka kita mendefinisikan kembali suatu relasi menurut
+
+Definisi 6.1 Suatu relasi 𝑅 dari 𝐴 dan 𝐵adalah subhimpunan dari 𝐴 ×
+𝐵.
+      Meskipun Definisi 6.1 untuk relasi kelihatannya dibuat-buat, teta-
+   pi keuntungannya adalah bahwa dalam definisi relasi ini, tidak diper-
+   gunakan konsep-konsep “kalimat terbuka” dan “variabel” yang tak di-
+   terangkan artinya itu.
+
+Contoh 4.1: Misalkan 𝐴 = {1, 2, 3} dan𝐵 = {𝑎, 𝑏}. Maka
+                      𝑅 = {(1, 𝑎), (1, 𝑏), (3, 𝑎)}
+            adalah suatu relasi dari 𝐴 ke 𝐵. Selanjutnya,
+                    1 𝑅 𝑎, 2 𝑅 𝑏, 3 𝑅𝑎, 3 𝑅 𝑏
+Contoh 4.2: Misalkan 𝑊 = {𝑎, 𝑏, 𝑐}. Maka
+                   𝑅 = {(𝑎, 𝑏), (𝑎, 𝑐), (𝑐, 𝑐), (𝑐, 𝑏)}
+            adalah suatu relasi dalam 𝑊. Dan lagi,
+                    𝑎 𝑅 𝑎, 𝑏 𝑅 𝑎, 𝑐 𝑅 𝑐, 𝑎 𝑅 𝑏
+Contoh 4.3: Misalkan 𝑅 = {(𝑥, 𝑦)| 𝑥 𝜀 𝑅# , 𝑦 𝜀 𝑅# , 𝑦 < 𝑥 }
+            Maka 𝑅 adalah sebuah himpunan pasangan-terurut dari bi-
+                    langan-bilangan riil, yaitu sebuah subhimpunan dari 𝑅# ×
+                     𝑅# × oleh karena itu, 𝑅 adalah suatu relasi dalam bilang-
+                    an-bilangan riil yang dapat juga didefinisikan oleh:
+                                 𝑅 = 𝑅# , 𝑅# , 𝑃(𝑥, 𝑦)
+
+
+84 |
+                                                                 Bab 6 | Relasi
+
+
+              Di mana 𝑃(𝑥, 𝑦) berbunyi “𝑦 lebih kecil daripada 𝑥”.
+
+Pernyataan 6.1: Misalkan himpunan 𝐴 mempunyai 𝑚 buah elemen dan
+                himpunan 𝐵 mempunyai 𝑛 buah elemen. Maka ada ter-
+                dapat 2 buah relasi dari 𝐴 ke 𝐵yang berbeda, karena
+                𝐴 × 𝐵 yang mempunyai 𝑚𝑛buah elemen memiliki
+                2 buah elemen yang berbeda.
+
+4. Relasi Invers
+     Setiap relasi 𝑅dari 𝐴 ke 𝐵 mempunyai suatu relasi invers 𝑅 dari
+  𝐵 ke 𝐴 yang didefinisikan oleh:
+                        𝑅 = {(𝑏, 𝑎)|(𝑎, 𝑏) 𝜀 𝑅}
+     Dengan perkataan lain, relasi invers 𝑅 terdiri atas pasangan-pa-
+  sangan terurut yang bila di balik, yaitu dipertukarkan, termasuk dalam
+  𝑅.
+Contoh 5.1: Misalkan 𝐴 = {1, 2, 3} dan 𝐵 = {𝑎, 𝑏}.Maka
+                      𝑅 = {(1, 𝑎), (1, 𝑏), (3, 𝑎)}
+             adalah suatu relatif dari 𝐴 ke 𝐵. Relasi invers dari 𝑅 adalah
+                     𝑅 = {(𝑎, 1), (𝑏, 1), (𝑎, 3)}
+Contoh 5.2: Misalkan 𝑊 = {𝑎, 𝑏, 𝑐}. Maka
+                   𝑅 = {(𝑎, 𝑏), (𝑎, 𝑐), (𝑐, 𝑐), (𝑐, 𝑏)}
+             adalah suatu relasi dalam 𝑊. Relasi invers dari 𝑅 adalah
+                    𝑅 = {(𝑏, 𝑎), (𝑐, 𝑎), (𝑐, 𝑐), (𝑏, 𝑐)}
+
+5. Relasi Refleksif
+      Misalkan 𝑅 = 𝐴, 𝐴 , 𝑃 (𝑥, 𝑦) adalah suatu relasi dalam sebuah
+   himpunan 𝐴, yaitu, misalkan R sebuah subhimpunan dari 𝐴 × 𝐴 ma-
+   ka R disebut suatu relasi refleksif jika, untuk setiap 𝑎 𝜀 𝐴,
+                                 (𝑎, 𝑎) 𝜀 𝑅
+   Dengan kata lain, relasi invers 𝑅 terdiri dari pasangan-pasangan
+   terurut yang bila dibalik, yaitu dipertukarkan, termasuk dalam 𝑅.
+
+
+                                                                       | 85
+Logika Matematika dan Himpunan
+
+
+Contoh 6.1: Misalkan 𝑉 = {1, 2, 3, 4} dan
+                         𝑅 = {(1, 1), (2, 4), (3, 3), (4, 1), (4, 4)}
+            Maka 𝑅 bukanlah suatu relasi refleksif karena (2,2) tidak
+            termasuk dalam 𝑅 perhatikan bahwa semua pasangan ter-
+            urut (𝑎, 𝑎) haruslah termasuk dalam 𝑅 agar 𝑅 menjadi re-
+            fleksif.
+Contoh 6.2: Misalkan 𝐴 himpunan segitiga-segitiga dalam bidang Eu-
+            clid. Relasi 𝑅 dalam 𝐴 yang didefinisikan oeh kalimat ter-
+            buka “𝑥 sama dan sebangun dengan 𝑦” adalah suatu relasi
+            refleksif karena setiap segitiga adalah sama dan sebangun
+            dengan dirinya sendiri.
+Contoh 6.3: Misalkan 𝑅 suatu relasi dalam bilangan-bilangan riil yang
+            didefinisikan oleh kalimat terbuka “𝑥 lebih kecil daripada
+            𝑦”, yaitu “𝑥 < 𝑦”. maka 𝑅 tidaklah refleksif karena 𝑎 ≮
+            𝑎 untuk setiap bilangan riil 𝑎.
+Contoh 6.4: Misalkan A suatu keluarga himpunan-himpunan, dan mi-
+            salkan ... adalah relasi dalam A yang didefinisikan oleh “x
+            adalah suatu subhimpunan dari y”. Maka ... adalah suatu
+            relasi refleksif karena setiap himpunan adalah subhimpu-
+            nan dari dirinya sendiri.
+
+6. Relasi Simetris
+      Misalkan 𝑅 sebuah subhimpunan dari 𝐴 × 𝐴, yaitu 𝑅 adalah
+   suatu relasi dalam 𝐴. Maka 𝑅disebut suatu relasi simetris jika:
+                       (𝑎, 𝑏) 𝜀 𝑅 maka berarti (𝑏, 𝑎) 𝜀 𝑅
+      Yaitu, jika 𝑎 berhubungan dengan 𝑏 maka 𝑏 juga berhubungan de-
+   ngan 𝑎.
+
+Contoh 7.1:Misalkan 𝑆 = {1, 2, 3, 4}, dan misalkan
+                𝑅 = {(1, 3), (4, 2), (2, 4), (2, 3), (3, 1)}
+           Maka 𝑅 bukanlah suatu relasi simetris karena
+                (2, 4) 𝜀 𝑅 tetapi (3, 2) 𝜀 𝑅
+
+86 |
+                                                                Bab 6 | Relasi
+
+
+Contoh 7.2: Misalkan 𝐴 suatu himpunan segitiga-segitiga dalam bidang
+            Euclid, dan misalkan 𝑅 adalah relasi dalam 𝐴 yang didefini-
+            sikan oleh kalimat terbuka “𝑥 sebangun dengan 𝑦”. Maka
+            𝑅 adalah simetris, karena jika segitiga 𝑎 sama dan sebangun
+            dengan segitiga 𝑏 maka 𝑏 juga sama dan sebangun dengan
+            𝑎.
+Contoh7.3: Misalkan 𝑅 suatu relasi dalam bilangan-bilangan asli 𝑁
+            yang didefinisikan oleh “𝑦 habis dibagi oleh 𝑥”. Maka
+            𝑅 adalah tidak simetris karena 4 habis dibagi oleh 2 tetapi
+            2 tidak habis dibagi oleh 4. Dengan perkataan lain,
+                 (2, 4) 𝜀 𝑅 tetapi (4, 2) 𝜀 𝑅
+
+Pernyataan 6.2: Karena bila (𝑎, 𝑏) 𝜀 𝑅 maka (b,a) termasuk dalam relasi
+                  invers 𝑅 , jadi 𝑅 adalah suatu relasi simetris jika dan
+                  hanya jika
+                               𝑅= 𝑅
+
+7. Relasi Anti-Simetris
+      Suatu relasi R dalam sebuah himpunan A, yaitu sebuah subhim-
+   punan dari 𝐴 × 𝐴, disebut suatu relasi antisimetris jika
+                (𝑎, 𝑏) 𝜀 𝑅 dan (𝑏, 𝑎) 𝜀 𝑅maka berarti 𝑎 = 𝑏
+      Dengan perkataan lain, jika𝑎 ≠ 𝑏 maka mungkin 𝑎 berhubungan
+   dengan 𝑏 dan mungkin 𝑏 berhubungan dengan 𝑎, tetapi tidak pernah
+   kedua-duanya.
+Contoh 8.1: Misalkan 𝑁 adalah bilangan-bilangan asli dan misalkan
+             𝑅 adalah relasi dalam 𝑁 yang didefinisikan oleh “𝑦 habis
+             dibagi oleh 𝑥”. Maka 𝑅 adalah anti-simetris karena
+                   𝑏 habis dibagi oleh 𝑎 dan 𝑎 habis dibagi oleh berarti
+                                         𝑎 = 𝑏.
+Contoh 8.2: Misalkan 𝑊 = {1,2,3,4}, dan misalkan
+                       𝑅 = {(1, 3), (4, 2), (4, 4), (2, 4)}
+
+
+                                                                      | 87
+Logika Matematika dan Himpunan
+
+
+            Maka 𝑅 adalah bukan suatu relasi anti-simetris dalam 𝑊
+            karena
+                          (4,2) 𝜀 𝑅 dan (2,4) 𝜀 𝑅
+Contoh 8.3: Misalkan A adalah sebuah keluarga himpunan-himpunan,
+            dan misalkan 𝑅 relasi dalam A yang didefinisikan oleh “𝑥
+            adalah sebuah subhimpunan dari 𝑦”. Maka 𝑅 adalah anti-
+            simetris karena jika
+               𝐴 ⊂ 𝐵 dan 𝐵 ⊂ 𝐴           maka 𝐴 = 𝐵
+
+Pernyataan 6.3: Misalkan 𝐷 menyatakan garis diagonal dari A × A,
+                yaitu himpunan dari semua pasangan terurut
+                (𝛼, 𝛼) 𝜀 𝐴 × 𝐴. Maka suatu relasi R dalam A adalah
+                anti-simetris jika dan hanya jika
+                                 𝑅 ∩𝑅   ⊂𝐷
+
+8. Relasi Transitif
+     Suatu relasi 𝑅 dalam sebuah himpunan 𝐴 adalah relasi transitif jika
+               (𝛼, 𝑏) 𝜀 𝑅 dan (𝑏, 𝑐) 𝜀 𝑅maka(𝛼, 𝑐) 𝜀 𝑅
+     Dengan perkataan lain, jika 𝑎 berhubungan dengan 𝑏 dan 𝑏 ber-
+   hubungan dengan 𝑐, maka 𝑎 berhubungan dengan 𝑐.
+Contoh 9.1: Misalkan 𝐴 adalah himpunan dari penduduk bumi. Misal-
+             kan 𝑅 suatu relasi dalam 𝐴 yang didefinisikan oleh kalimat
+             terbuka “𝑥 mencintai 𝑦”. Jika 𝑎 mencintai 𝑏 dan
+             𝑏 mencintai 𝑐 belum tentu berarti bahwa 𝑎 mencintai 𝑐.
+             Oleh sebab itu, 𝑅 bukanlah suatu relasi transitif.
+Contoh 9.2: Misalkan 𝑅 adalah relasi dalam bilangan-bilangan riil yang
+             didefinisikan oleh “𝑥 lebih kecil daripada 𝑦”. Maka seba-
+             gaimana diperlihatkan terdahulu, jika
+                       𝑎 < 𝑏 dan 𝑏 < 𝑐        maka berarti 𝛼 < 𝑐
+             Jadi 𝑅 adalah suatu relasi transitif.
+
+
+
+88 |
+                                                                Bab 6 | Relasi
+
+
+Contoh 9.3: Misalkan𝑊 = {𝛼, 𝑏, 𝑐}, dan misalkan
+                               𝑅 = {(𝑎, 𝑏), (𝑐, 𝑏), (𝑏, 𝑎), (𝑎, 𝑐)}
+            Maka 𝑅 bukanlah suatu relasi transitif karena
+                   (𝑐, 𝑏) 𝜀 𝑅 dan (𝑏, 𝑎)𝜀 𝑅 tetapi (𝑐, 𝑎) 𝜀 𝑅
+Contoh 9.4: Misalkan A sebuah keluarga himpunan-himpunan dan
+            𝑅 adalah relasi dalam A yang didefinisikan oleh “𝑥 adalah
+            sebuah subhimpunan dari 𝑦”. Maka 𝑅 adalah suatu relasi
+            transitif karena jika
+                   A ⊂ 𝐵 dan 𝐵 ⊂ 𝐶 dan 𝐴 ⊂ 𝐶
+
+9. Relasi Ekuivalen
+      Suatu relasi R dalam himpunan A adalah suatu relasiekuivalen jika
+   a. 𝑅 adalah refleksif, yaitu, untuk setiap 𝑎 𝜀 𝐴, (𝑎, 𝑎) 𝜀R,
+   b. 𝑅 adalah simetris, yaitu, jika (𝑎, 𝑏) 𝜀 𝑅 maka (𝑏, 𝑎) 𝜀 𝑅,
+   c. 𝑅 adalah transitif, yaitu, jika (𝑎, 𝑏) 𝜀 𝑅, dan (𝑏, 𝑐) 𝜀 𝑅 maka
+      (𝑎, 𝑐)𝜀 𝑅.
+
+      Kelak dalam suatu bab, akan kita pelajari secara lebih lengkap me-
+   ngenai relasi-relasi ekuivalen dalam himpunan-himpunan. Sekarang
+   kita hanya memberikan dua buah contoh dari relasi-relasi ekuivalen.
+
+Contoh 10.1: Misalkan 𝐴 himpunan dari segitiga-segitiga dalam bidang
+             Euclid. Misalkan 𝑅 adalah relasi pada 𝐴 yang didefinisi-
+             kan oleh “𝑥 sebangun dengan 𝑦”. Maka sebagaimana di-
+             buktikan dalam geometri, 𝑅 adalah refleksif, simetris dan
+             transitif. Jadi 𝑅 adalah suatu relasi ekuivalen.
+Contoh 10.2: Contoh yang paling penting dari suatu relasi ekuivalen
+             adalah mengenai “kesamaan”. Untuk sebarang unsur da-
+             lam sebarang himpunan:
+                    (1) 𝑎 = 𝑎,
+                    (2) 𝑎 = 𝑏 maka 𝑏 = 𝑐
+                    (3) 𝑎 = 𝑏 dan 𝑏 = 𝑐 maka 𝑎 = 𝑐
+
+                                                                      | 89
+Logika Matematika dan Himpunan
+
+
+10. Ranah dan Jangkauan Dari Suatu Fungsi
+      Misalkan 𝑅 suatu relasi dari 𝐴 ke 𝐵, yaitu misalkan 𝑅 subhimpu-
+   nan dari 𝐴 × 𝐵. Ranah (dominan) 𝐷 dari relasi 𝑅 adalah himpunan
+   dari semua elemen pertama dalam pasangan-pasangan terurut yang
+   termasuk 𝑅, yaitu
+                     𝐷 = {𝑎 | 𝑎 𝜀 𝐴, (𝑎, 𝑏 𝜀 𝑅}
+      Jangkauan (range) 𝐸 dari relasi 𝑅 terdiri dari semua elemen kedua
+   yang muncul dalam pasangan-pasangan terurut dalam R, yaitu:
+
+
+
+
+                        𝐸 = { 𝑏 | 𝑏 𝜀 𝐵, (𝑎, 𝑏)𝜀 𝑅}
+      Perhatikan bahwa ranah suatu relasi dari 𝐴 ke 𝐵 adalah subhimpu-
+    nan dari 𝐴 dan jangkauannya adalah subhimpunan dari 𝐵.
+
+Contoh 11.1: Misalkan 𝐴 = {1,2,3,4}, 𝐵 = {𝑎, 𝑏, 𝑐}, dan
+                     𝑅 = {(2, 𝑎), (4, 𝑎), (4, 𝑐)}
+             Maka ranah dari 𝑅 adalah himpunan{2,4},dan jangkauan
+             dari 𝑅 adalah himpunan {𝑎, 𝑐}.
+Contoh 11.2: Misalkan relasi 𝑅 dalam bilangan-bilangan riil didefinisi-
+                      kan oleh kalimat terbuka “4x + 9y = 36”. 𝑅 dipertun-
+                      jukkan pada diagram koordinat 𝑅# × 𝑅# sebagaimana di-
+                      perlihatkan dalam gambar disebelah kanan. Ranah dari 𝑅
+                      adalah selang tertutup −3,3 , dan jangkauan dari 𝑅 ada-
+                      lah selang tertutup −2,2 .
+
+
+
+90 |
+                                                                  Bab 6 | Relasi
+
+
+Pernyataan 6.4: Misalkan suatu relasi 𝑅 dari 𝐴 × 𝐵 diperlihatkan pada
+               diagram koordinat dari 𝐴 × 𝐵. Maka𝑎 𝜀 𝐴 berada da-
+               lam ranah dari 𝑅 jika dan hanya jika garis vertikal yang
+               melalui 𝑎 mengandung sebuah titik dari grafiknya 𝑅.
+               Juga 𝑏 𝜀 𝐵 berada dalam jangkauan dari 𝑅 jika dan ha-
+               nya jika garis horizontal yang melalui 𝑏 mengandung se-
+               buah titik dari grafiknya 𝑅.
+
+11. Relasi dan Fungsi
+Definisi 5.1: Suatu fungsi 𝑓 dari 𝐴 ke dalam 𝐵 adalah subhimpunan dari
+               𝐴 × 𝐵 di mana tiap-tiap 𝑎 𝜀 𝐴 muncul dalam satu dan
+               hanya satu pasangan terurut yang termasuk 𝑓.
+       Karena setiap subhimpunan dari 𝐴 × 𝐵 adalah suatu relasi, maka
+   fungsi adalah hal khusus dari relasi. Pada kenyataannya, istilah-istilah
+   “ranah” dan “jangkauan” muncul bersama-sama dalam pembahasan
+   fungsi dan relasi.
+       Persoalan penting dalam matematika adalah menentukan apakah
+   relasi 𝑅 dalam bilangan-bilangan riil yang didefinisikan oleh persama-
+   an berbentuk
+                               𝐹 (𝑥, 𝑦) = 0
+       adalah suatu fungsi. Dengan perkataan lain, apakah relasi yang di-
+   definisikan oleh
+                               𝐹 (𝑥, 𝑦) = 0
+       Mendefinisikan suatu fungsi 𝑦 = 𝑓(𝑥) ataukah tidak?
+       Pada umumnya, persoalan ini sangat sulit. Di sini, kita hanya dapat
+   menjawab pertanyaan ini untuk persamaan-persamaan yang sangat se-
+   derhana.
+
+Contoh 12.1: Misalkan 𝑅 relasi dalam bilangan-bilangan riil yang dide-
+             finisikan oleh
+                             𝑥 + 𝑦 = 25
+
+
+                                                                        | 91
+Logika Matematika dan Himpunan
+
+
+                      𝑅 diperlihatkan pada diagram koordinat 𝑅# × 𝑅# seperti
+                      dalam Gambar 6-3.
+
+                      Perhatikan bahwa 𝑅 adalah          lingkaran    berjari-jari
+                      5 dengan pusat di titik asal.
+
+
+
+
+             Perhatikan, selanjutnya bahwa garis-garis vertikal me-
+             ngandung lebih daripada satu titik dari 𝑅. Khususnya,
+             ( 3, 4) 𝜖 𝑅 dan (3, −4) 𝜖 𝑅 jadi relasi 𝑅 bukanlah suatu
+             fungsi.
+Contoh 12.2: Misalkan 𝐴 = −5,5 , 𝐵 = 0, ∞), dan 𝑅 adalah relasi
+             dari 𝐴 ke 𝐵 yang didefinisikan oleh
+                                     𝑥 + 𝑦 = 25
+                      𝑅 diperlihatkan pada diagram koordinat 𝐴 × 𝐵 dalam
+                      Gambar 6-4 di bawah.
+
+
+
+
+                      Perhatikan bahwa 𝑅 adalah bagian atas dari separuh ling-
+                      karan. Perhatikan selanjutnya, bahwa tiap-tiap garis verti-
+
+
+92 |
+                                                                Bab 6 | Relasi
+
+
+               kal mengandung satu dan hanya satu titik dari 𝑅; dengan
+               demikian 𝑅 adalah suatu fungsi.
+
+Contoh 12.3: Misalkan 𝑅 adalah relasi dalam bilangan-bilangan riil
+             yang didefinisikan oleh
+                           2𝑥 − 3𝑦 = 6
+             𝑅 diperlihatkan pada diagram koordinat 𝑅# × 𝑅# dalam
+             gambar 6-5 di atas. Perhatikan bahwa 𝑅 adalah sebuah
+             garis lurus dan bahwa setiap garis vertikal mengandung
+             satu dan hanya satu titik dari 𝑅; jadi 𝑅 adalah suatu fung-
+             si. Selanjutnya, dengan memecahkan persamaan di atas
+             untuk menyatakan 𝑦 dalam 𝑥, maka kita peroleh bentuk
+             rumus yang mendefinisikan fungsi 𝑅:
+                              𝑦 = 𝑓(𝑥) =
+
+
+
+
+                                                                      | 93
+Logika Matematika dan Himpunan
+
+
+
+
+94 |
+                                                              Daftar Pustaka
+
+
+
+                    DAFTAR PUSTAKA
+Sukirman. 2006. Logika dan Himpunan. Yogyakarta: Hanggar Kreator.
+
+Torski, A.. 1990. Introduction to Logic. Oxford, UK: Oxford-Press.
+
+Siang, Jong Lek. 2014. Logika Matematika: Soal dan Penyelesaian Logika,
+    Himpunan, Relasi, Fungsi. Penerbit Andi: Yogyakarta.
+
+
+
+
+                                                                     | 95
+Daftar Pustaka
+
+
+
+
+96 |
+

@@ -150,10 +150,9 @@ dengan $r$ dalam persen per tahun.
 
 - [[Tips aritmetika cepat dan pecahan]]
 - [[Tips soal cerita dan strategi ujian]]
-- [[Trik Pembagian Persen dan Desimal]]
+- [[Trik dan Tips Matematika|Trik pembagian persen dan desimal]]
 
 ## Sumber rujukan
 
 - [Khan Academy - Converting between percents, fractions, and decimals](https://www.khanacademy.org/math/cc-sixth-grade-math/x0267d782%3Acc-6th-rates-and-percentages/x0267d782%3Aequivalent-representations-of-percent-problems/a/converting-between-percents-fractions-decimals)
 - [OpenStax Algebra and Trigonometry 2e - Key Equations, Chapter 6](https://openstax.org/books/algebra-and-trigonometry-2e/pages/6-key-equations)
-

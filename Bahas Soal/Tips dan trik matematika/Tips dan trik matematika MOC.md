@@ -51,6 +51,5 @@
 
 ## Lihat juga
 
-- [[Trik Pembagian Persen dan Desimal]]
+- [[Trik dan Tips Matematika|Trik pembagian persen dan desimal]]
 - [[Bahas Soal MOC]]
-

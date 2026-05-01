@@ -4,10 +4,20 @@
 
 Catatan monolitik lama sudah dipecah menjadi file-file materi di [[Tips dan trik matematika MOC]] supaya lebih mudah dicari, ditautkan, dan dipakai saat membahas soal.
 
+## Trik langsung
+
+### Pembagian persen dan desimal
+
+- Ketika persen dibagi persen, tanda `%` saling habis karena satuannya sama.
+  - `60% / 30% = 60 / 30 = 2`
+- Untuk pembagian desimal dengan jumlah angka di belakang koma yang sama, coret koma di kedua bilangan lalu bagi seperti bilangan bulat.
+  - `0,9 / 0,3 = 9 / 3 = 3`
+- Jika jumlah angka di belakang koma belum sama, samakan dulu dengan nol.
+  - `1,20 / 0,30 = 120 / 30 = 4`
+
 ## Mulai dari sini
 
 - [[Tips dan trik matematika MOC]]
-- [[Trik Pembagian Persen dan Desimal]]
 
 ## Materi utama
 
@@ -38,4 +48,3 @@ Catatan monolitik lama sudah dipecah menjadi file-file materi di [[Tips dan trik
 ## Lihat juga
 
 - [[Bahas Soal MOC]]
-

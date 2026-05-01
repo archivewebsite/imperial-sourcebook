@@ -12,6 +12,8 @@ Add new dated entries at the top of this section.
 ## 2026-05-01
 
 ### Changed
+- Task type: `note-merge`
+- Merged `Bahas Soal/Trik Pembagian Persen dan Desimal.md` into `Bahas Soal/Trik dan Tips Matematika.md`, kept the percent and decimal division shortcut as a dedicated section, and retargeted internal wikilinks to the kept note with display text where useful.
 - Task type: `vault-governance`
 - Updated `AGENTS.md` naming rules so new files, filename tidy-ups, and filename edits use Capitalized Case across all languages, with lowercase minor words, normal acronym casing, proper full reduplication capitalization, and no non-acronym ALL-CAPS filenames.
 - Task type: `sourcebook-organization`

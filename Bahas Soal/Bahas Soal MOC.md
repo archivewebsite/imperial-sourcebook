@@ -6,7 +6,6 @@
 
 - [[Tips dan trik matematika MOC]]
 - [[Trik dan Tips Matematika]]
-- [[Trik Pembagian Persen dan Desimal]]
 
 ## Subfolders
 
@@ -19,7 +18,6 @@
 ## Notes
 
 - [[Trik dan Tips Matematika]]
-- [[Trik Pembagian Persen dan Desimal]]
 
 ## Related MOCs
 

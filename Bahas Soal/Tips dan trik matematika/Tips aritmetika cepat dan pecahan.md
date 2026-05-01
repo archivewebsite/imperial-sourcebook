@@ -163,7 +163,7 @@ Gunakan untuk membuang opsi yang terlalu jauh sebelum menghitung persis.
 
 - [[Tips persen rasio dan proporsi]]
 - [[Tips bilangan dan teori bilangan]]
-- [[Trik Pembagian Persen dan Desimal]]
+- [[Trik dan Tips Matematika|Trik pembagian persen dan desimal]]
 
 ## Sumber rujukan
 

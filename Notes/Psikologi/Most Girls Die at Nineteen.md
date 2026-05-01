@@ -1,12 +1,15 @@
 ---
 title: Most Girls Die At Nineteen
+mata_pelajaran: Psikologi
+tanggal: 30 April 2026
+materi: Most Girls Die At Nineteen
+tags:
+- clippings
 source: https://medium.com/kurious-mind/most-girls-die-at-nineteen-3022c45ddc5c
 author:
 - '[[Sofia K]]'
 published: 2026-04-08
 created: 2026-04-17
-tags:
-- clippings
 ---
 
 “Kurious Minds” is a publication offering personal essays on life, growth, and happiness. We publish original writing that offers clear lessons, drawing on experiences, examples, and practical takeaways. Welcome to submit your original works and impactful stories.

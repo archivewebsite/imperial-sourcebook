@@ -1,3 +1,10 @@
+---
+title: Converting an improper fraction to a mixed number
+mata_pelajaran: Matematika
+tanggal: 30 April 2026
+materi: Converting an improper fraction to a mixed number
+tags: []
+---
 # Converting an improper fraction to a mixed number
 
 $$ \require{enclose} \begin{array}{r} \text{Quotient} \\[-3pt] \text{Divisor} \enclose{longdiv}{\text{Dividend}}\kern-.2ex \\[-3pt] \overline{\phantom{\text{Divisor}}\text{Remainder}} \end{array} $$

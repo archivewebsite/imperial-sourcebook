@@ -1,13 +1,16 @@
 ---
-
 title: "Hutan terbakar dan masa depan demokrasi"
+mata_pelajaran: Pancasila
+tanggal: 1 Mei 2026
+materi: Hutan terbakar dan masa depan demokrasi
+tags:
+  - "clippings"
+
 source: "https://medium.com/berbagi-berdampak/hutan-yang-terbakar-belum-tentu-mati-2d8d98922e5a"
 author:
   - "[[Ryandi Pratama]]"
 published: 2026-04-13
 created: 2026-04-27
-tags:
-  - "clippings"
 ---
 ## MELIHAT KE BELAKANG, MELESAT KE DEPAN
 

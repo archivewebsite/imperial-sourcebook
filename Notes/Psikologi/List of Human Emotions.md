@@ -1,3 +1,10 @@
+---
+title: List of Human Emotions
+mata_pelajaran: Psikologi
+tanggal: 16 April 2026
+materi: List of Human Emotions
+tags: []
+---
 * Joy
   * Delight
     * Happy

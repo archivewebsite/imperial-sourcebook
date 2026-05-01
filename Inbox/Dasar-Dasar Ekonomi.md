@@ -1,3 +1,10 @@
+---
+title: Dasar-Dasar Ekonomi
+mata_pelajaran: Ekonomi
+tanggal: 1 Mei 2026
+materi: Dasar-Dasar Ekonomi
+tags: []
+---
 # Dasar-Dasar Ekonomi
 
 ## 1. Pengertian Ekonomi

@@ -1,3 +1,10 @@
+---
+title: Sifat Fisika Hidrokarbon
+mata_pelajaran: Kimia
+tanggal: 24 April 2026
+materi: Sifat Fisika Hidrokarbon
+tags: []
+---
 # Sifat Fisika Hidrokarbon
 
 > [!info] Ringkasan

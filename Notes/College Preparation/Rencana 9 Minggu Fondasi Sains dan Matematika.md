@@ -1,3 +1,10 @@
+---
+title: Rencana 9 Minggu Fondasi Sains dan Matematika
+mata_pelajaran: UTBK
+tanggal: 1 Mei 2026
+materi: Rencana 9 Minggu Fondasi Sains dan Matematika
+tags: []
+---
 # Rencana 9 Minggu Fondasi Sains dan Matematika
 
 Periode: 28 April-29 Juni 2026.

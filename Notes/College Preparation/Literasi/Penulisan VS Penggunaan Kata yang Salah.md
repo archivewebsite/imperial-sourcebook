@@ -1,3 +1,10 @@
+---
+title: Penulisan vs penggunaan kata yang salah
+mata_pelajaran: Literasi
+tanggal: 15 April 2026
+materi: Penulisan vs penggunaan kata yang salah
+tags: []
+---
 Dalam ujian seleksi masuk perguruan tinggi negeri, memahami perbedaan antara kesalahan penulisan dan penggunaan kata sangatlah krusial. Berikut adalah panduan lengkap pengecekan secara berurutan:
 
 A. Penulisan Kata

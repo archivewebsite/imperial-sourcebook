@@ -1,5 +1,8 @@
 ---
 title: Bentuk Akar
+mata_pelajaran: Matematika
+tanggal: 30 April 2026
+materi: Bentuk Akar
 tags:
   - matematika
   - aljabar

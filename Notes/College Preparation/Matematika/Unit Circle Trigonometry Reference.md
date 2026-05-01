@@ -1,3 +1,10 @@
+---
+title: Unit Circle Trigonometry Reference
+mata_pelajaran: Matematika
+tanggal: 25 April 2026
+materi: Unit Circle Trigonometry Reference
+tags: []
+---
 ![[Pasted image 20260425123133.png]]
 
 This is the **Unit Circle** — a fundamental diagram in trigonometry often called the "One Circle to Rule Them All" because nearly every trigonometric concept flows from it.

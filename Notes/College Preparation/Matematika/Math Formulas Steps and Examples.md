@@ -1,5 +1,9 @@
 ---
 title: Math Formulas - Math Steps, Examples & Questions
+mata_pelajaran: Matematika
+tanggal: 1 Mei 2026
+materi: "Math Formulas - Math Steps, Examples & Questions"
+tags: []
 source: https://thirdspacelearning.com/us/math-resources/topic-guides/algebra/math-formulas/
 published: 2023-05-04
 created: 2026-04-22

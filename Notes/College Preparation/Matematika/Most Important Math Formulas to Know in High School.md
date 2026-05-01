@@ -1,12 +1,15 @@
 ---
 title: The Most Important Math Formulas to Know in High School
+mata_pelajaran: Matematika
+tanggal: 22 April 2026
+materi: The Most Important Math Formulas to Know in High School
+tags:
+  - clippings
 source: https://blog.agradeahead.com/post/the-most-important-math-formulas-to-know-in-high-school/
 author:
   - "[[Nate Baltzer]]"
 published: 2019-03-26
 created: 2026-04-22
-tags:
-  - clippings
 ---
 All High School mathematics students are familiar with learning and memorizing new formulas. There are hundreds of formulas, postulates, and theorems that they are expected to understand and implement on homework, quizzes, and tests. But should students memorize all of them? What are the most important math formulas to know?
 

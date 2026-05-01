@@ -1,3 +1,10 @@
+---
+title: Statistika deskriptif dan inferensial
+mata_pelajaran: Statistika
+tanggal: 30 April 2026
+materi: Statistika deskriptif dan inferensial
+tags: []
+---
 Statistika deskriptif dan statistika inferensial adalah dua cabang utama dalam statistika. Statistika deskriptif dipakai untuk **menggambarkan data yang ada**, sedangkan statistika inferensial dipakai untuk **menarik kesimpulan yang lebih luas dari data sampel ke populasi**.
 
 ## 1. Pengertian, Definisi, dan Konsep Dasar

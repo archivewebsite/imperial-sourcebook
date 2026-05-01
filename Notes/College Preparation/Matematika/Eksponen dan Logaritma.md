@@ -1,3 +1,10 @@
+---
+title: Eksponen dan Logaritma
+mata_pelajaran: Matematika
+tanggal: 15 April 2026
+materi: Eksponen dan Logaritma
+tags: []
+---
 **Sumber:** Cerdas Matematika  
 **Struktur:** Selaras dengan bab “Eksponen dan Logaritma” pada file referensi.
 

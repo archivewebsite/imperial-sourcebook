@@ -1,3 +1,10 @@
+---
+title: Why People Prefer Talking to ChatGPT
+mata_pelajaran: Psikologi
+tanggal: 1 Mei 2026
+materi: Why People Prefer Talking to ChatGPT
+tags: []
+---
 ## My friend was angry with me because I wasn’t angry enough
 
 Recently, I had a mildly annoying work situation. ==I’m the type of person who likes talking things out with others to relieve stress.==

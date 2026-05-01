@@ -1,3 +1,10 @@
+---
+title: Keliling Persegi
+mata_pelajaran: Matematika
+tanggal: 22 April 2026
+materi: Keliling Persegi
+tags: []
+---
 # Keliling Persegi
 
 ## Inti Konsep

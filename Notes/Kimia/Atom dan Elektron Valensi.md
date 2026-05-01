@@ -1,3 +1,10 @@
+---
+title: Atom dan elektron valensi
+mata_pelajaran: Kimia
+tanggal: 16 April 2026
+materi: Atom dan elektron valensi
+tags: []
+---
 ## Daftar Isi
 
 1. [Pengertian Atom](https://claude.ai/chat/7029b1d0-181b-4359-ab43-9bfef745713d#1-pengertian-atom)

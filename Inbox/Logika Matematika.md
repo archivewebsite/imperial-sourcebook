@@ -1,3 +1,10 @@
+---
+title: Logika Matematika
+mata_pelajaran: Matematika
+tanggal: 1 Mei 2026
+materi: Logika Matematika
+tags: []
+---
 > [!abstract] Ringkasan  
 > Logika matematika mempelajari cara menentukan kebenaran suatu pernyataan, membentuk pernyataan majemuk, menegasikan pernyataan, memakai kuantor, serta menarik kesimpulan yang valid dari beberapa premis.
 

@@ -1,3 +1,10 @@
+---
+title: Luas Persegi
+mata_pelajaran: Matematika
+tanggal: 22 April 2026
+materi: Luas Persegi
+tags: []
+---
 # Luas Persegi
 
 ## Inti Konsep

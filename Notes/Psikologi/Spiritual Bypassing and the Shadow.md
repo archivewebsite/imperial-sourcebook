@@ -1,3 +1,10 @@
+---
+title: Spiritual Bypassing and the Shadow
+mata_pelajaran: Psikologi
+tanggal: 1 Mei 2026
+materi: Spiritual Bypassing and the Shadow
+tags: []
+---
 ![[Pasted image 20260430023616.png]]
 
 

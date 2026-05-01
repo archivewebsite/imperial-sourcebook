@@ -1,12 +1,15 @@
 ---
 title: The Gender War Within Gen Z Has The Wrong Enemy
+mata_pelajaran: Psikologi
+tanggal: 1 Mei 2026
+materi: The Gender War Within Gen Z Has The Wrong Enemy
+tags:
+- clippings
 source: https://medium.com/fourth-wave/the-gender-war-within-gen-z-has-the-wrong-enemy-4537b821ede3
 author:
 - '[[Martina H]]'
 published: 2026-04-09
 created: 2026-04-17
-tags:
-- clippings
 ---
 
 Let’s start something

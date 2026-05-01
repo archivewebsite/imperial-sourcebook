@@ -1,4 +1,8 @@
 ---
+title: "Persen, Rasio, dan Proporsi"
+mata_pelajaran: Matematika
+tanggal: 30 April 2026
+materi: "Persen, Rasio, dan Proporsi"
 tags:
   - matematika
   - aritmetika

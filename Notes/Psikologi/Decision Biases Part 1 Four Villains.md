@@ -1,12 +1,15 @@
 ---
 title: "Decision Biases Part 1 Four Villains"
+mata_pelajaran: Psikologi
+tanggal: 1 Mei 2026
+materi: Decision Biases Part 1 Four Villains
+tags:
+  - "clippings"
 source: "https://followmentalgarden.substack.com/p/decisive-chip-dan-heath-1?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true"
 author:
   - "[[Álvaro García]]"
 published: 2026-02-02
 created: 2026-04-25
-tags:
-  - "clippings"
 ---
 **It’s happened to you before.**
 

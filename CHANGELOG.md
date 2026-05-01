@@ -22,6 +22,8 @@ Add new dated entries at the top of this section.
 - Created `Bahas Soal/Matematika Dasar/Himpunan dan Logika Matematika/Set/Set 1.md` through `Set 5.md` as five student-facing open-ended practice sets for Himpunan dan Logika Matematika, covering foundations, operations and Venn regions, cardinality, truth tables, and inference rules.
 - Task type: `note-update`
 - Cleaned `Inbox/Logika Matematika.md` so formulas, logic notation, display equations, and math-heavy table cells use Obsidian-compatible MathJax delimiters.
+- Task type: `academic-frontmatter-backfill`
+- Backfilled strict academic notes with Obsidian properties for `title`, `mata_pelajaran`, `tanggal`, `materi`, and `tags`, preserving existing source metadata and excluding practice, language, assignment, advice, motivation, tool, people, clipping, and design buckets.
 
 ### Moved
 - Routed all current complete Inbox captures into Sourcebook buckets for math, design inspiration, psychology, college preparation, and motivation.
@@ -46,6 +48,7 @@ Add new dated entries at the top of this section.
 - Counts: 1 topic folder, 1 `Set` folder, 5 Set files, and 100 open-ended questions added for Himpunan dan Logika Matematika.
 - Left unresolved: companion `Set N - Pembahasan.md` files were not created because this pass only requested latihan soal.
 - Counts: 1 Inbox note updated for Obsidian MathJax compatibility; no routing, renaming, or content split was done.
+- Counts: 90 strict academic notes verified with the full property set; 89 notes were updated and `Inbox/Untitled 15.md` already matched the target properties.
 
 ## 2026-04-30
 

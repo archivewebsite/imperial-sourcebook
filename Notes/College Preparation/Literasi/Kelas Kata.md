@@ -1,3 +1,10 @@
+---
+title: Kelas kata
+mata_pelajaran: Literasi
+tanggal: 15 April 2026
+materi: Kelas kata
+tags: []
+---
 *Materi Lengkap dari Thread @fauzanalrasyid*
 
 **Sumber Thread:** https://x.com/fauzanalrasyid/status/1903953324321505670  

@@ -1,3 +1,10 @@
+---
+title: Skor tryout tidak meningkat
+mata_pelajaran: UTBK
+tanggal: 24 April 2026
+materi: Skor tryout tidak meningkat
+tags: []
+---
 Penyebab Skor Try Out Stuck!
 1. Belajar tanpa evaluasi
 2. Kurang latihan soal

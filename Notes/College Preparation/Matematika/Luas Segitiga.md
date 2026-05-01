@@ -1,3 +1,10 @@
+---
+title: Luas Segitiga
+mata_pelajaran: Matematika
+tanggal: 22 April 2026
+materi: Luas Segitiga
+tags: []
+---
 # Luas Segitiga
 
 ## Inti Konsep

@@ -1,3 +1,10 @@
+---
+title: Hubungan antarkalimat
+mata_pelajaran: Literasi
+tanggal: 15 April 2026
+materi: Hubungan antarkalimat
+tags: []
+---
 ## 1. Penambahan
 **Kuncinya**:  
 SUBJEK kedua kalimat **SAMA** (ngomongin hal yang sama), tetapi **PREDIKAT** dan **OBJEK** nya **BERBEDA**.

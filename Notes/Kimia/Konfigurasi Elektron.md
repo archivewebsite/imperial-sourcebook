@@ -1,3 +1,10 @@
+---
+title: Konfigurasi elektron
+mata_pelajaran: Kimia
+tanggal: 30 April 2026
+materi: Konfigurasi elektron
+tags: []
+---
 ![[Pasted image 20260415224708.png]]
 ![[Pasted image 20260415224716.png]]
 

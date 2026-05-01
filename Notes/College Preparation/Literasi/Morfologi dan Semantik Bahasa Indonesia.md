@@ -1,3 +1,10 @@
+---
+title: "Morfologi dan Semantik Bahasa Indonesia: Panduan Lengkap untuk Seleksi Masuk Perguruan Tinggi Negeri"
+mata_pelajaran: Literasi
+tanggal: 15 April 2026
+materi: "Morfologi dan Semantik Bahasa Indonesia: Panduan Lengkap untuk Seleksi Masuk Perguruan Tinggi Negeri"
+tags: []
+---
 Setelah kata “adalah”, “merupakan”, atau “menjadi” pasti diikuti PELENGKAP, bukan objek. Dalam linguistik, “adalah”, “merupakan”, atau “menjadi” adalah apa yang disebut sebagai kopula, yaitu verba penghubung antara subjek dengan pelengkap dalam sebuah kalimat.
 1. Bahasa (S) adalah (P) sarana utama (Pel.) dalam pengembangan dan penyebaran ilmu pengetahuan (K)
 2. Bahasa (S) juga merupakan (P) alat komunikasi (Pel.) untuk mengungkapkan perasaan, sikap, dan pikiran seiring dengan masuknya globalisasi di berbagai negara (K)

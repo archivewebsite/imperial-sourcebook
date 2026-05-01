@@ -1,12 +1,15 @@
 ---
 title: Teslas Lifeline Is Failing
+mata_pelajaran: Ekonomi
+tanggal: 30 April 2026
+materi: Teslas Lifeline Is Failing
+tags:
+- clippings
 source: https://wlockett.medium.com/teslas-lifeline-is-failing-565e095adb90
 author:
 - '[[Will Lockett]]'
 published: 2026-03-16
 created: 2026-04-17
-tags:
-- clippings
 ---
 
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*3c_1rTqcjDy-PI16)

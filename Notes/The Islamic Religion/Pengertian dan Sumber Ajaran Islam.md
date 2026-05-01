@@ -1,3 +1,10 @@
+---
+title: "Catatan: Pengertian dan Sumber Ajaran Islam"
+mata_pelajaran: Agama Islam
+tanggal: 18 April 2026
+materi: "Catatan: Pengertian dan Sumber Ajaran Islam"
+tags: []
+---
 # Catatan: Pengertian dan Sumber Ajaran Islam
 
 ## A. Pengertian Agama dan Islam

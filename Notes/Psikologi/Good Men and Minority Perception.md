@@ -1,13 +1,16 @@
 ---
-
 title: "Good Men and Minority Perception"
+mata_pelajaran: Psikologi
+tanggal: 1 Mei 2026
+materi: Good Men and Minority Perception
+tags:
+  - "clippings"
+
 source: "https://medium.com/fourth-wave/do-good-men-know-they-feel-like-the-minority-not-the-majority-86326e5966a6"
 author:
   - "[[Linda Caroll]]"
 published: 2026-04-20
 created: 2026-04-27
-tags:
-  - "clippings"
 ---
 ## Too many men would pass the rape academy eye test
 

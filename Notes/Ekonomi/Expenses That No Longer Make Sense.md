@@ -1,5 +1,9 @@
 ---
 title: "Expenses That No Longer Make Sense"
+mata_pelajaran: Ekonomi
+tanggal: 1 Mei 2026
+materi: Expenses That No Longer Make Sense
+tags: []
 author: "Sanjeev P."
 site: "Investor’s Handbook"
 published: 2026-04-24T15:14:24Z

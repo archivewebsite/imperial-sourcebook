@@ -1,3 +1,10 @@
+---
+title: Tata Cara Mandi Wajib
+mata_pelajaran: Agama Islam
+tanggal: 22 April 2026
+materi: Tata Cara Mandi Wajib
+tags: []
+---
 # Tata Cara Mandi Wajib
 1. Niat mandi wajib di awal (dalam hati).
 2. Cuci kedua tangan 3×.

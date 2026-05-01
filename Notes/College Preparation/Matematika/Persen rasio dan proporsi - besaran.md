@@ -1,3 +1,10 @@
+---
+title: "Persen, Rasio, dan Proporsi"
+mata_pelajaran: Matematika
+tanggal: 27 April 2026
+materi: "Persen, Rasio, dan Proporsi"
+tags: []
+---
 # Persen, Rasio, dan Proporsi
 
 ## Besaran dan Satuan

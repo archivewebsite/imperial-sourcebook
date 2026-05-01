@@ -1,4 +1,8 @@
 ---
+title: The Limit Definition of the Derivative
+mata_pelajaran: Matematika
+tanggal: 25 April 2026
+materi: The Limit Definition of the Derivative
 tags: [math, calculus, derivatives, limits, differential-calculus]
 date: 2026-04-25
 aliases: [Derivative Definition, Limit Definition of Derivative, df/dt]

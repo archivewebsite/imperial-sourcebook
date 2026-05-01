@@ -1,3 +1,10 @@
+---
+title: BUTIR-BUTIR PENGAMALAN PANCASILA
+mata_pelajaran: Pancasila
+tanggal: 18 April 2026
+materi: BUTIR-BUTIR PENGAMALAN PANCASILA
+tags: []
+---
 # BUTIR-BUTIR PENGAMALAN PANCASILA
 
 **Versi 36 Butir** (Tap MPR No. II/MPR/1978)  

@@ -1,3 +1,10 @@
+---
+title: Self-Help Claims and Research Reality
+mata_pelajaran: Psikologi
+tanggal: 1 Mei 2026
+materi: Self-Help Claims and Research Reality
+tags: []
+---
 ## The self-help industry read the studies. It published the opposite.
 
 ## Author’s Note

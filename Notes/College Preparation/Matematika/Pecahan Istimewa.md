@@ -1,3 +1,10 @@
+---
+title: Pecahan istimewa
+mata_pelajaran: Matematika
+tanggal: 20 April 2026
+materi: Pecahan istimewa
+tags: []
+---
 ### n/2
 
 | Pecahan | Persentase | Desimal |

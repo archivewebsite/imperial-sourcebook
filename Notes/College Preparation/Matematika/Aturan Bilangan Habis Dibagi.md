@@ -1,3 +1,10 @@
+---
+title: Aturan bilangan habis dibagi
+mata_pelajaran: Matematika
+tanggal: 25 April 2026
+materi: Aturan bilangan habis dibagi
+tags: []
+---
 ## Habis Dibagi 1
 
 Semua bilangan bulat habis dibagi 1.

@@ -1,3 +1,10 @@
+---
+title: "Merged Key Points: *A 12 Minute Guide To Starting a Retail Business*"
+mata_pelajaran: Ekonomi
+tanggal: 24 April 2026
+materi: "Merged Key Points: *A 12 Minute Guide To Starting a Retail Business*"
+tags: []
+---
 # Merged Key Points: *A 12 Minute Guide To Starting a Retail Business*
 
 This file merges the two prior extractions and resolves overlaps, wording differences, and omissions against the original PDF.

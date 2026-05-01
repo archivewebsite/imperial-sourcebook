@@ -1,5 +1,9 @@
 ---
 title: "Brainrot and Cognitive Overload"
+mata_pelajaran: Psikologi
+tanggal: 1 Mei 2026
+materi: Brainrot and Cognitive Overload
+tags: []
 author: "Julie Hook, PhD"
 site: "Medium"
 published: 2025-12-12T15:29:56Z

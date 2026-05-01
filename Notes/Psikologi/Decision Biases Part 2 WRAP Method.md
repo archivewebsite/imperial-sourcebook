@@ -1,12 +1,15 @@
 ---
 title: "Decision Biases Part 2 WRAP Method"
+mata_pelajaran: Psikologi
+tanggal: 1 Mei 2026
+materi: Decision Biases Part 2 WRAP Method
+tags:
+  - "clippings"
 source: "https://followmentalgarden.substack.com/p/decisive-chip-dan-heath-2?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true"
 author:
   - "[[Álvaro García]]"
 published: 2026-02-04
 created: 2026-04-25
-tags:
-  - "clippings"
 ---
 *Did you get here by chance?*
 

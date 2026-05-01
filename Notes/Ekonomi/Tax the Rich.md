@@ -1,12 +1,15 @@
 ---
 title: Tax The Rich
+mata_pelajaran: Ekonomi
+tanggal: 30 April 2026
+materi: Tax The Rich
+tags:
+- clippings
 source: https://momzillanc.medium.com/tax-the-rich-6312f735fbda
 author:
 - '[[D. Denise Dianaty]]'
 published: 2026-04-12
 created: 2026-04-17
-tags:
-- clippings
 ---
 
 ## Another ranting RANT

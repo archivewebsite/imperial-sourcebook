@@ -1,3 +1,10 @@
+---
+title: Pengertian atom lengkap
+mata_pelajaran: Kimia
+tanggal: 18 April 2026
+materi: Pengertian atom lengkap
+tags: []
+---
 Pengertian Atom Lengkap
 Pengertian Atom
 Atom adalah suatu satuan dasar materi, yang terdiri atas inti atom serta awan elektron bermuatan negatif yang mengelilinginya.

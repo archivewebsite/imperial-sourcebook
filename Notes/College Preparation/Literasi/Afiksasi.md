@@ -1,3 +1,10 @@
+---
+title: Afiksasi dalam Bahasa Indonesia
+mata_pelajaran: Literasi
+tanggal: 15 April 2026
+materi: Afiksasi dalam Bahasa Indonesia
+tags: []
+---
 # Afiksasi dalam Bahasa Indonesia
 
 ## Pengertian Afiksasi

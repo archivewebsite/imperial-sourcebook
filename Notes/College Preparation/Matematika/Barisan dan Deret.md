@@ -1,3 +1,10 @@
+---
+title: Barisan dan deret
+mata_pelajaran: Matematika
+tanggal: 20 April 2026
+materi: Barisan dan deret
+tags: []
+---
 ## Barisan Aritmatika
 
 Barisan aritmatika adalah barisan bilangan yang memiliki **selisih tetap** antar suku berurutan.

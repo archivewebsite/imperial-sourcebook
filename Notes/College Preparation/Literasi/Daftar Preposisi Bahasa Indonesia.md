@@ -1,3 +1,10 @@
+---
+title: Daftar preposisi Bahasa Indonesia
+mata_pelajaran: Literasi
+tanggal: 15 April 2026
+materi: Daftar preposisi Bahasa Indonesia
+tags: []
+---
 **Preposisi atau kata depan** adalah kelas kata tugas yang terletak di depan nomina, adjektiva, atau adverbia dan menandai hubungan tertentu antara bagian di depan preposisi dengan bagian di belakangnya.
 
 Berikut daftar preposisi di dalam bahasa Indonesia. Entri yang diberi tanda bintang `*` digunakan di dalam ragam percakapan (informal).

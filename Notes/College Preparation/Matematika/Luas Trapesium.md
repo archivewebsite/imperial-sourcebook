@@ -1,3 +1,10 @@
+---
+title: Luas Trapesium
+mata_pelajaran: Matematika
+tanggal: 22 April 2026
+materi: Luas Trapesium
+tags: []
+---
 # Luas Trapesium
 
 ## Inti Konsep

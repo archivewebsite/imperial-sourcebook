@@ -1,12 +1,15 @@
 ---
 title: The Male Loneliness Epidemic Is Just Natural Selection In Action
+mata_pelajaran: Psikologi
+tanggal: 30 April 2026
+materi: The Male Loneliness Epidemic Is Just Natural Selection In Action
+tags:
+- clippings
 source: https://medium.com/bitchy/the-male-loneliness-epidemic-is-just-natural-selection-in-action-7a5e2f0e286d
 author:
 - '[[Maria Cassano]]'
 published: 2026-04-11
 created: 2026-04-17
-tags:
-- clippings
 ---
 
 Thought-provoking essays on gender, identity, and culture through the feminist lens.

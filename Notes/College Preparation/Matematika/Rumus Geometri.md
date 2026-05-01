@@ -1,3 +1,10 @@
+---
+title: Rumus Geometri
+mata_pelajaran: Matematika
+tanggal: 30 April 2026
+materi: Rumus Geometri
+tags: []
+---
 # Rumus Geometri
 
 Catatan ini merangkum rumus dasar geometri 2D yang saat ini sudah memiliki catatan penjelasan tersendiri. Klik nama catatan untuk membuka definisi, cara pakai, dan contoh singkatnya.

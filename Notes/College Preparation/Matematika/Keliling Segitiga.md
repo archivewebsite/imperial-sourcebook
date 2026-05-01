@@ -1,3 +1,10 @@
+---
+title: Keliling Segitiga
+mata_pelajaran: Matematika
+tanggal: 22 April 2026
+materi: Keliling Segitiga
+tags: []
+---
 # Keliling Segitiga
 
 ## Inti Konsep

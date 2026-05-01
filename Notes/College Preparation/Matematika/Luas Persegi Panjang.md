@@ -1,3 +1,10 @@
+---
+title: Luas Persegi Panjang
+mata_pelajaran: Matematika
+tanggal: 22 April 2026
+materi: Luas Persegi Panjang
+tags: []
+---
 # Luas Persegi Panjang
 
 ## Inti Konsep

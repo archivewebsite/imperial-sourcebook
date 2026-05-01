@@ -1,12 +1,15 @@
 ---
 title: The 18 Maths Formulas Students Need To Learn For GCSE And How To Teach Them
+mata_pelajaran: Matematika
+tanggal: 1 Mei 2026
+materi: The 18 Maths Formulas Students Need To Learn For GCSE And How To Teach Them
+tags:
+  - clippings
 source: https://thirdspacelearning.com/blog/gcse-maths-formulas/
 author:
   - "[[Christine Norledge]]"
 published: 2022-10-27
 created: 2026-04-22
-tags:
-  - clippings
 ---
 [Key Stage 4 & GCSE](https://thirdspacelearning.com/blog/category/key-stage-4-gcse/ "Key Stage 4 & GCSE")
 

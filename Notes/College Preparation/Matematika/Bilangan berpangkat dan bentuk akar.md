@@ -1,3 +1,10 @@
+---
+title: Bilangan Berpangkat dan Bentuk Akar
+mata_pelajaran: Matematika
+tanggal: 30 April 2026
+materi: Bilangan Berpangkat dan Bentuk Akar
+tags: []
+---
 # Bilangan Berpangkat dan Bentuk Akar
 
 ## 1. Notasi Dasar

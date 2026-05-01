@@ -1,3 +1,10 @@
+---
+title: Persamaan Garis
+mata_pelajaran: Matematika
+tanggal: 30 April 2026
+materi: Persamaan Garis
+tags: []
+---
 # Persamaan Garis
 
 ## 1. Sistem Koordinat Kartesius

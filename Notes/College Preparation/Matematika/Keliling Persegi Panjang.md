@@ -1,3 +1,10 @@
+---
+title: Keliling Persegi Panjang
+mata_pelajaran: Matematika
+tanggal: 22 April 2026
+materi: Keliling Persegi Panjang
+tags: []
+---
 # Keliling Persegi Panjang
 
 ## Inti Konsep

@@ -1,3 +1,10 @@
+---
+title: Trillion Dollar Equation Behind Every Winning Trade
+mata_pelajaran: Ekonomi
+tanggal: 15 April 2026
+materi: Trillion Dollar Equation Behind Every Winning Trade
+tags: []
+---
 I am going to break down the hidden alpha inside the trillion dollar equation & show you the exact steps to use it to find real edge in any market you trade today.
 
 Let's get straight to it.

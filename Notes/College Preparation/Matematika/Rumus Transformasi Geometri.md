@@ -1,3 +1,10 @@
+---
+title: Rumus transformasi geometri
+mata_pelajaran: Matematika
+tanggal: 22 April 2026
+materi: Rumus transformasi geometri
+tags: []
+---
 
 |**No.**|**Tipe Transformasi**|**Hasil (Bayangan)**|**Matriks Transformasi**|
 |---|---|---|---|

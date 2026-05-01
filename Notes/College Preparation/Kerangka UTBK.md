@@ -1,3 +1,10 @@
+---
+title: Kerangka UTBK-SNBT 2026
+mata_pelajaran: UTBK
+tanggal: 24 April 2026
+materi: Kerangka UTBK-SNBT 2026
+tags: []
+---
 # Kerangka UTBK-SNBT 2026
 
 UTBK-SNBT 2026 terdiri dari **2 kelompok tes besar**, yaitu **Tes Potensi Skolastik (TPS)** dan **Tes Literasi**. Total waktu pengerjaan adalah **195 menit**, tanpa waktu istirahat selama tes berlangsung. Pada setiap subtes, peserta memilih jawaban sesuai petunjuk pengerjaan masing-masing subtes.

@@ -1,3 +1,10 @@
+---
+title: Luas Lingkaran
+mata_pelajaran: Matematika
+tanggal: 22 April 2026
+materi: Luas Lingkaran
+tags: []
+---
 # Luas Lingkaran
 
 ## Inti Konsep

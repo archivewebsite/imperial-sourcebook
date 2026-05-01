@@ -1,13 +1,16 @@
 ---
-
 title: "Cacat fatal demokrasi"
+mata_pelajaran: Pancasila
+tanggal: 1 Mei 2026
+materi: Cacat fatal demokrasi
+tags:
+  - "clippings"
+
 source: "https://medium.com/berbagi-berdampak/demokrasi-tidak-sesempurna-yang-kita-pikir-dia-punya-cacat-fatal-f5eb031611f1"
 author:
   - "[[Yopi Makdori]]"
 published: 2026-04-05
 created: 2026-04-27
-tags:
-  - "clippings"
 ---
 ## MEMBEDAH MITOS DALAM DEMOKRASI
 

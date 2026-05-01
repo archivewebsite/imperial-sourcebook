@@ -1,12 +1,15 @@
 ---
 title: AI Will Destroy The Economy
+mata_pelajaran: Ekonomi
+tanggal: 30 April 2026
+materi: AI Will Destroy The Economy
+tags:
+- clippings
 source: https://wlockett.medium.com/ai-will-destroy-the-economy-13e858872c1e
 author:
 - '[[Will Lockett]]'
 published: 2026-03-18
 created: 2026-04-17
-tags:
-- clippings
 ---
 
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*6hNthI1zQy96QoCF)

@@ -1,4 +1,9 @@
 ---
+title: Kosakata Bahasa Indonesia yang sering salah dieja
+mata_pelajaran: Literasi
+tanggal: 1 Mei 2026
+materi: Kosakata Bahasa Indonesia yang sering salah dieja
+tags: []
 created: 2026-04-21
 ---
 ### Ditulis serangkai

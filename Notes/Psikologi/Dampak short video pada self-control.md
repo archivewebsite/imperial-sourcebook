@@ -1,3 +1,10 @@
+---
+title: Dampak short video pada self-control
+mata_pelajaran: Psikologi
+tanggal: 24 April 2026
+materi: Dampak short video pada self-control
+tags: []
+---
 The antidote for brain rot is going back to longer formats: reading books, essays.
 
 Reading will help you rebuild your focus and attention span.

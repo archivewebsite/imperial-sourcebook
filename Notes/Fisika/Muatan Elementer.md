@@ -1,3 +1,10 @@
+---
+title: Muatan elementer
+mata_pelajaran: Fisika
+tanggal: 18 April 2026
+materi: Muatan elementer
+tags: []
+---
 **Intinya:** muatan elementer adalah satuan dasar muatan listrik. Besarnya dilambangkan dengan **e**, dan nilainya dalam SI modern adalah **1,602176634 × 10⁻¹⁹ coulomb**. Elektron memiliki muatan **−e**, sedangkan proton memiliki muatan **+e**. ([NIST][1])
 
 ## 1) Apa itu muatan elementer?

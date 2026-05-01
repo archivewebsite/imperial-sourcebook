@@ -1,13 +1,16 @@
 ---
-
 title: "Awal mula demokrasi di Prancis"
+mata_pelajaran: Pancasila
+tanggal: 1 Mei 2026
+materi: Awal mula demokrasi di Prancis
+tags:
+  - "clippings"
+
 source: "https://medium.com/berbagi-berdampak/mempertanyakan-tulisan-hutan-yang-terbakar-belum-tentu-mati-b55dd0e14a17"
 author:
   - "[[Yopi Makdori]]"
 published: 2026-04-23
 created: 2026-04-27
-tags:
-  - "clippings"
 ---
 ## (Bagian Pertama) Awal Mula Lahirnya Demokrasi di Prancis; Keruntuhan Sebuah Sistem yang Melahirkan Sistem Baru
 

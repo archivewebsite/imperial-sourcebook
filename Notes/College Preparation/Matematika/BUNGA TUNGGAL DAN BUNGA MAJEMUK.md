@@ -1,3 +1,10 @@
+---
+title: Bunga Tunggal dan Bunga Majemuk
+mata_pelajaran: Matematika
+tanggal: 30 April 2026
+materi: Bunga Tunggal dan Bunga Majemuk
+tags: []
+---
 ## BAGIAN 1 — BUNGA TUNGGAL
 
 ### Pengertian

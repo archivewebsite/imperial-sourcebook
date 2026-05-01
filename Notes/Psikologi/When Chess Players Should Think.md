@@ -1,13 +1,16 @@
 ---
-
 title: "When Chess Players Should Think"
+mata_pelajaran: Psikologi
+tanggal: 1 Mei 2026
+materi: When Chess Players Should Think
+tags:
+  - "clippings"
+
 source: "https://sciencespectrumu.com/do-chess-players-know-when-to-think-and-when-to-just-move-e56c80a7765e"
 author:
   - "[[Bjbalas]]"
 published: 2026-04-24
 created: 2026-04-27
-tags:
-  - "clippings"
 ---
 ## Some positions deserve a lot of thought and some don’t — but do players know which is which?
 

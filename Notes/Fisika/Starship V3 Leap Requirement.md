@@ -1,12 +1,15 @@
 ---
 title: You Do Not Understand Just How Big Of A Leap Starship V3 Needs To Be
+mata_pelajaran: Fisika
+tanggal: 17 April 2026
+materi: You Do Not Understand Just How Big Of A Leap Starship V3 Needs To Be
+tags:
+- clippings
 source: https://wlockett.medium.com/you-dont-understand-just-how-big-of-a-leap-starship-v3-needs-to-be-57397667e55d
 author:
 - '[[Will Lockett]]'
 published: 2026-04-12
 created: 2026-04-17
-tags:
-- clippings
 ---
 
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*K5j5sVJ6H0SioC6i)

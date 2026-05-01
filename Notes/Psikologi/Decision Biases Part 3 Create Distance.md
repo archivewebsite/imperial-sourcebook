@@ -1,12 +1,15 @@
 ---
 title: "Decision Biases Part 3 Create Distance"
+mata_pelajaran: Psikologi
+tanggal: 1 Mei 2026
+materi: Decision Biases Part 3 Create Distance
+tags:
+  - "clippings"
 source: "https://medium.com/change-your-mind/the-ultimate-decision-making-guide-why-we-fail-and-how-to-fix-it-part-3-4a224700b349"
 author:
   - "[[Mental Garden]]"
 published: 2026-02-12
 created: 2026-04-25
-tags:
-  - "clippings"
 ---
 ## The Hidden Biases That Sabotage Even Smart Choices
 

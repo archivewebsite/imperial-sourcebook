@@ -1,3 +1,10 @@
+---
+title: Rencana Belajar Tetap UTBK Tahun 2027
+mata_pelajaran: UTBK
+tanggal: 24 April 2026
+materi: Rencana Belajar Tetap UTBK Tahun 2027
+tags: []
+---
 # Rencana Belajar Tetap UTBK Tahun 2027
 
 Tanggal dibuat: 2026-04-24  

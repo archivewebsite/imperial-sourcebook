@@ -1,4 +1,8 @@
 ---
+title: "Materi Biologi: Ekologi, Bentuk-Fungsi Tumbuhan, Fotosintesis, dan Respirasi"
+mata_pelajaran: Biologi
+tanggal: 1 Mei 2026
+materi: "Materi Biologi: Ekologi, Bentuk-Fungsi Tumbuhan, Fotosintesis, dan Respirasi"
 tags:
   - biologi
   - ekologi

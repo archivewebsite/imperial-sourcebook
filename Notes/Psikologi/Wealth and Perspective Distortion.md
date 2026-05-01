@@ -1,3 +1,10 @@
+---
+title: Wealth and Perspective Distortion
+mata_pelajaran: Psikologi
+tanggal: 1 Mei 2026
+materi: Wealth and Perspective Distortion
+tags: []
+---
 ## Their success didn’t make them smarter, it made them blind
 
 They’re not like us. They’re gods with broken brains and we’re the ones who anointed them.

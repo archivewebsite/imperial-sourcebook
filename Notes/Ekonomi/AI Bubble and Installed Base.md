@@ -1,5 +1,9 @@
 ---
 title: "AI Bubble and Installed Base"
+mata_pelajaran: Ekonomi
+tanggal: 1 Mei 2026
+materi: AI Bubble and Installed Base
+tags: []
 author: "Tech Teacher"
 site: "Activated Thinker"
 published: 2026-01-15T14:23:22Z

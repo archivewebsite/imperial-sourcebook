@@ -1,3 +1,10 @@
+---
+title: Notasi standar yang berlaku di seluruh rumus ini
+mata_pelajaran: Matematika
+tanggal: 15 April 2026
+materi: Notasi standar yang berlaku di seluruh rumus ini
+tags: []
+---
 # Notasi standar yang berlaku di seluruh rumus ini
 
 - **Sisi:** $a, b, c$ (Sisi $a$ berhadapan dengan sudut $A$, sisi $b$ berhadapan dengan sudut $B$, dst.)

@@ -1,3 +1,10 @@
+---
+title: Cara cepat menyelesaikan soal pola kalimat UTBK
+mata_pelajaran: Literasi
+tanggal: 30 April 2026
+materi: Cara cepat menyelesaikan soal pola kalimat UTBK
+tags: []
+---
 **Sumber**: Thread @nadivbelajar (Mahasiswa Psikologi UI, skor PPU 800,91 di UTBK)  
 **Tujuan**: Membantu peserta UTBK 2025 mengerjakan soal **sintaksis/pola kalimat** dengan cepat di subtest PPU yang waktu terbatas.
 

@@ -1,13 +1,16 @@
 ---
-
 title: "Speed Dating and Gendered Social Pressure"
+mata_pelajaran: Psikologi
+tanggal: 1 Mei 2026
+materi: Speed Dating and Gendered Social Pressure
+tags:
+  - "clippings"
+
 source: "https://medium.com/the-virago/why-my-friend-and-i-noped-out-of-speed-dating-once-we-glimpsed-the-men-b4652720d27f"
 author:
   - "[[Laura Rosell]]"
 published: 2026-04-08
 created: 2026-04-27
-tags:
-  - "clippings"
 ---
 ## On consent, transparency, and the commodification of women
 

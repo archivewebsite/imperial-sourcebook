@@ -1,3 +1,10 @@
+---
+title: Daftar Lengkap Formula Operasi Aljabar
+mata_pelajaran: Matematika
+tanggal: 26 April 2026
+materi: Daftar Lengkap Formula Operasi Aljabar
+tags: []
+---
 # Daftar Lengkap Formula Operasi Aljabar
 
 ## 1. Operasi Dasar

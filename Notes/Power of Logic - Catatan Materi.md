@@ -1,5 +1,13 @@
 ---
 title: The Power of Logic - Catatan Materi
+mata_pelajaran: Logika
+tanggal: 27 April 2026
+materi: The Power of Logic
+tags:
+  - logic
+  - philosophy
+  - critical-thinking
+  - sourcebook/inbox
 authors:
   - Frances Howard-Snyder
   - Daniel Howard-Snyder
@@ -7,11 +15,6 @@ authors:
 source_type: book
 status: inbox
 created: 2026-04-27
-tags:
-  - logic
-  - philosophy
-  - critical-thinking
-  - sourcebook/inbox
 ---
 
 # The Power of Logic - Catatan Materi

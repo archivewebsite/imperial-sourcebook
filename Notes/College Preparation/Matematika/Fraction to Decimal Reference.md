@@ -1,3 +1,10 @@
+---
+title: Fraction to Decimal Reference
+mata_pelajaran: Matematika
+tanggal: 22 April 2026
+materi: Fraction to Decimal Reference
+tags: []
+---
 ### Denominator 2
 | Fraction | Decimal |
 | :------: | :-----: |

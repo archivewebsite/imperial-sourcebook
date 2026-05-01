@@ -1,3 +1,10 @@
+---
+title: Six Easy Pieces Physics Summary
+mata_pelajaran: Fisika
+tanggal: 26 April 2026
+materi: Six Easy Pieces Physics Summary
+tags: []
+---
 ## Core thesis
 
 _Six Easy Pieces_ introduces physics as a way of seeing the world beneath appearances. Feynman’s central message is that nature is not divided into neat human school subjects. Physics, chemistry, biology, astronomy, geology, and even psychology all describe the same universe at different levels. The deeper one goes, the more ordinary things, water, air, stars, muscles, heat, gravity, light, and electrons, become expressions of atoms, energy, forces, probability, and experiment.

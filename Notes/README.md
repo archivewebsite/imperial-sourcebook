@@ -6,6 +6,7 @@
 
 - `Biologi`: biology notes and source-derived biology study material.
 - `College Preparation`: entrance-exam material with literacy and math branches.
+- `Ekonomi`: economics, markets, business, finance, and money-related reference notes.
 - `Fisika`: physics notes and compact physics references.
 - `Kimia`: chemistry notes.
 - `Pancasila`: civic, democracy, and Pancasila-related reference notes.

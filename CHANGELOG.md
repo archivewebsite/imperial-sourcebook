@@ -14,7 +14,29 @@ Add new dated entries at the top of this section.
 ### Changed
 - Task type: `vault-governance`
 - Updated `AGENTS.md` naming rules so new files, filename tidy-ups, and filename edits use Capitalized Case across all languages, with lowercase minor words, normal acronym casing, proper full reduplication capitalization, and no non-acronym ALL-CAPS filenames.
+- Task type: `sourcebook-organization`
+- Completed a targeted organization pass across `Inbox`, `Clippings`, `Bahas Soal`, and `Notes` while keeping `Rencana 9 Minggu Fondasi Sains dan Matematika.md` inside Sourcebook.
 
+### Moved
+- Routed all current complete Inbox captures into Sourcebook buckets for math, design inspiration, psychology, college preparation, and motivation.
+- Routed cleaned clipping/source notes into Sourcebook buckets for design, motivation, personal advice, psychology, economics, learning, and curiosity references.
+- Moved 17 AI lab-reference clippings from Sourcebook `Clippings` into `D:\Imperial Records\Labs\AI`.
+- Refiled top-level `Notes` material into `Notes/College Preparation/Matematika`, `Notes/Ekonomi`, `Notes/Psychology`, `Notes/Fisika`, and `Curiosity Shelf`.
+
+### Renamed
+- Replaced the current `Untitled*` Inbox filenames with unique content-based names.
+- Normalized lowercase clipping and example filenames during routing.
+- Capitalized the current `Bahas Soal` `Bahasan Pertama` and `Bahasan Kedua` folders and renamed the three extracted example files with concise content-based titles.
+
+### Removed
+- Removed the weaker exact duplicate clipping for `The Beauty of Not Knowing What Comes Next` after confirming the body content matched the kept primary note.
+
+### Workflow
+- Added `Notes/Ekonomi/README.md` and refreshed `Notes/README.md` plus `Notes/Notes MOC.md` so the active economics bucket is documented.
+
+### Notes
+- Counts: 65 file moves or renames, 42 clipped/source notes cleaned, 3 folder case-normalizations, 1 reviewed duplicate removed, and 2 link-bearing files refreshed.
+- Left unresolved: `Inbox` and `Clippings` now contain only their README scaffolding; no path-length, unnamed-note, or lowercase-start issues remain in the requested folders.
 
 ## 2026-04-30
 

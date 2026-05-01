@@ -12,6 +12,7 @@
 
 - `Biologi`: biology notes.
 - [[College Preparation MOC]]
+- `Ekonomi`: economics, markets, business, finance, and money references.
 - `Fisika`: physics notes.
 - [[Kimia MOC]]
 - `Pancasila`: Pancasila notes.
@@ -23,7 +24,7 @@
 ## Notes
 
 - [[20 Intellectual Rabbit Holes to Sharpen Your Mind]]
-- [[12 Minute Retail Business Guide|A 12 Minute Guide to Starting a Retail Business - Key Points]]
+- [[Retail Business Guide|A 12 Minute Guide to Starting a Retail Business - Key Points]]
 - [[AI Will Destroy the Economy|AI Will Destroy The Economy]]
 - [[How Europe Is Politely Keeping Americans Out]]
 - [[Lima hal yang membuat Amerika Serikat tetap berjalan|Lima Hal yang Membuat Amerika Serikat Tetap Berjalan]]
@@ -31,7 +32,7 @@
 - [[Math Formulas Steps and Examples]]
 - [[Most Girls Die at Nineteen|Most Girls Die At Nineteen]]
 - [[On the Bedminster Tape Trump Was Certainly Talking About a War Plan|On The Bedminster Tape Trump Was Certainly Talking About A War Plan]]
-- [[Rumus matematika|Rumus Matematika]]
+- [[Rumus Matematika|Rumus Matematika]]
 - [[Tax the Rich|Tax The Rich]]
 - [[Teslas Lifeline Is Failing]]
 - [[GCSE Maths Formula Teaching Notes|The 18 Maths Formulas Students Need To Learn For GCSE And How To Teach Them]]

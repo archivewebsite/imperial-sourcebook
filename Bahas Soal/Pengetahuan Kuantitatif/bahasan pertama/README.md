@@ -1,6 +1,6 @@
-# bahasan pertama
+# Bahasan Pertama
 
-`bahasan pertama` is a focused worked-example set inside `Pengetahuan Kuantitatif`.
+`Bahasan Pertama` is a focused worked-example set inside `Pengetahuan Kuantitatif`.
 
 ## What Belongs Here
 

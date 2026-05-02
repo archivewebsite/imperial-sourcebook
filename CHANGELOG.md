@@ -9,6 +9,16 @@ This changelog is the required ledger for AI and agent work in this vault. Large
 Add new dated entries at the top of this section.
 
 
+## 2026-05-02
+
+### Changed
+- Task type: `note-update`
+- Created `Curiosity Shelf/Cool GitHub Repositories.md` as a lightweight repository collection table with the initial `chenglou/pretext` entry and a compact status legend.
+
+### Notes
+- Counts: 1 Curiosity Shelf note created.
+- Left unresolved: repository details were not expanded beyond the requested table and status options.
+
 ## 2026-05-01
 
 ### Changed

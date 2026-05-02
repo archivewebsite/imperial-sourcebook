@@ -1,0 +1,3 @@
+Have you ever felt that whenever you are in a new environment, there is always someone who reminds you of a friend from a previous one? The resemblance could be in their appearance, personality, or simply a certain impression that is hard to explain. Interestingly, we often naturally feel more drawn to or comfortable around that person.
+
+This phenomenon feels a little strange, but it is also very interesting to observe.

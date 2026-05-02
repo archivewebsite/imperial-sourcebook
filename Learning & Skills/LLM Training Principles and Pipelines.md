@@ -1,5 +1,3 @@
-![Image](https://pbs.twimg.com/media/HFcgza_aoAAiTi1?format=jpg&name=large)
-
 ## TL;DR
 
 After writing "The Claude Code You Don't Know" and "The AI Agents You Don't Know," I wanted to tackle a third installment. This time I pushed myself to work through how large model training actually works, and tried to write something that a non-specialist reader could follow.
@@ -16,13 +14,9 @@ InstructGPT gave a clear early example: a 1.3B-parameter model that had been ali
 
 Training is an assembly line where data, algorithms, systems, and feedback are tightly coupled. A change in one layer propagates through the others. In 2026, the capability and commercial value of models is increasingly concentrated in the layers after pretraining.
 
-![Image](https://pbs.twimg.com/media/HFchT_ua8AAKmEv?format=jpg&name=large)
-
 This is also why some models may not chase benchmark rankings but feel more natural in everyday use. When that happens, post-training is usually the reason.
 
 The six layers above describe the division of work. The diagram below shows a more detailed nine-stage version, where raw data and the system recipe are broken out separately, and agent harness and deployment are their own distinct post-training substages. Two feedback loops run throughout: production traffic feeding back into data engineering, and offline benchmark results feeding back into pretraining.
-
-![Image](https://pbs.twimg.com/media/HFchalAa8AIlezq?format=jpg&name=large)
 
 ## Pretraining Is Just the Foundation
 
@@ -38,8 +32,6 @@ Pretraining doesn't just decide how much knowledge the model learns; it also dec
 
 Based on Chinchilla's compute-optimal point, an 8B model should train on around 200B tokens. Llama 3 8B trained on 15T tokens, roughly 75 times more. This kind of over-training recipe typically produces higher capability density per parameter, yielding a smaller, cheaper-to-serve model. Total FLOPs (floating-point operations) is a better predictor of quality than parameter count alone. The chart below makes this gap concrete.
 
-![Image](https://pbs.twimg.com/media/HFchfE3bIAALLNm?format=jpg&name=large)
-
 There's another design decision that often gets overlooked: tokenizer vocabulary size, tokenization strategy, and byte-level encoding approaches all have meaningful impact. Llama 2 used a 32K vocabulary; Llama 3 expanded to 128K, compressing sequence length by roughly 15% and improving downstream performance. This carries forward into inference cost and multilingual capability. The token efficiency of Chinese, code, and mathematical notation is set at tokenizer design time. A tokenizer that splits Chinese characters into fragments isn't just a minor overhead per request; it's a decision whose cost compounds across every inference.
 
 ## The Data Recipe Determines the Model's Capabilities
@@ -47,8 +39,6 @@ There's another design decision that often gets overlooked: tokenizer vocabulary
 Parameter scale was the headline metric for years. The more important concept now is the "data recipe."
 
 What looks like data cleaning on the surface is a full production engineering process. Raw inputs including web crawls, code repositories, books, and forums all pass through text extraction, language identification, quality filtering, PII redaction, safety filtering, and deduplication before entering pretraining. The diagram below shows the complete funnel.
-
-![Image](https://pbs.twimg.com/media/HFchjJVbEAA9g-W?format=jpg&name=large)
 
 If you treat data as just fuel for training, it's easy to conclude that more is always better. Data engineering is closer to capability design. What the model sees and doesn't see, what proportion goes to code versus math versus encyclopedia content, these choices directly shape the capability distribution the model ends up with.
 
@@ -73,8 +63,6 @@ Long context, multimodality, and new architectures look like product features, b
 Work like Forgetting Transformer and Kimi's Attention Residuals is answering the same underlying question: how do you train on longer contexts, and how do you avoid information dilution as networks get deeper? From the outside you see a model that handles longer inputs or deploys more efficiently. From the inside you're facing a completely different set of constraints.
 
 Compute budget is fixed. More parameters, more training tokens, longer context, cheaper serving: every dollar spent in one direction costs you somewhere else.
-
-![Image](https://pbs.twimg.com/media/HFchu43aoAEpodT?format=jpg&name=large)
 
 Extending context inflates attention cost and forces a smaller batch size. Making the model larger pushes GPU memory and serving cost up proportionally. These aren't choices to weigh; they're the direct consequence of resource constraints, and most decisions get locked in before training begins.
 
@@ -110,8 +98,6 @@ Modern post-training is a multi-stage pipeline. DeepSeek-R1's public recipe is o
 
 **Stage 4** incorporates helpfulness and safety preference feedback to bring the model to a state that meets release standards as an assistant.
 
-![Image](https://pbs.twimg.com/media/HFch1TCbMAAdagk?format=jpg&name=large)
-
 The four stages depend on each other: cold start stabilizes RL, RL generates high-quality data, rejection sampling turns those into SFT inputs for the next round, and alignment RL brings behavior to convergence. From public results, the gap between direct SFT and going through all four stages is usually visible.
 
 ## Eval, Grader, and Reward Are Redefining What Training Optimizes For
@@ -134,17 +120,11 @@ In the agent phase, reward design gets broken down further. Final outcome is jus
 
 In implementation terms: ORM (Outcome Reward Model) scores only the final answer. Signal is sparse, cost is low, good for getting started, but also more prone to shortcut reasoning. PRM (Process Reward Model) scores intermediate steps. Signal is denser, generally stronger for math and code reasoning, but both annotation and systems cost are much higher. OpenAI's math reasoning experiments showed PRM not only improved accuracy but made it easier to constrain process quality, since every step is supervised. The practical issue is that PRM typically costs several times more than ORM, so most real systems start with ORM, and only in verifiable domains like math, code, and logic does it become practical to automate PRM using programs to check intermediate steps, bypassing the human annotation bottleneck.
 
-![Image](https://pbs.twimg.com/media/HFch5AKa8AQnBT-?format=jpg&name=large)
-
 The full loop runs like this:
-
-![Image](https://pbs.twimg.com/media/HFch9wGaAAAN-12?format=jpg&name=large)
 
 Recent alignment approaches are all converging on the same goal. Anthropic's Constitutional AI feeds human-written principles into training and uses AI feedback in place of per-example human preference labels. OpenAI's Deliberative Alignment builds safety compliance into the reasoning process, asking reasoning capability itself to carry some of the safety constraints. Deliberative Alignment means the model reasons through safety considerations at inference time rather than relying on trained reflexes. Both approaches are moving alignment away from human labels and toward being intrinsic to training objectives.
 
 The Constitutional AI pipeline runs in two phases: first the model self-critiques and revises its outputs according to the principles, then AI feedback replaces per-example human annotation. Alignment was never an afterthought appended after training. What the system tests, how it scores, and what it rewards determines where the model goes. That has always been the most direct control lever in the back half of training.
-
-![Image](https://pbs.twimg.com/media/HFch-mna8AAQjOh?format=jpg&name=large)
 
 ## In Agent Training, the Model Isn't the Only Thing Being Optimized
 
@@ -152,15 +132,11 @@ Over the past two years, reasoning models exemplified by the o1 series and DeepS
 
 This simultaneously opened a new dimension: inference-time compute can now also scale. RL training took on an additional function beyond teaching the model to answer questions: it started teaching the model how to allocate its reasoning budget, knowing when to think longer and when to stop. The next challenge after that became keeping a model acting productively in an environment across a sustained task, not just extending a single chain of thought.
 
-![Image](https://pbs.twimg.com/media/HFciCL3akAEHmh_?format=jpg&name=large)
-
 Qwen's former model lead Junyang Lin's reflection on the Thinking and Instruct hybrid approach is representative. The hard part isn't giving the model a reasoning toggle. The two modes have fundamentally different objectives: one prioritizes directness, compliance, and low latency; the other prioritizes broader exploration and higher accuracy. Pushed further, the training objective shifts from "how long to think before answering" to "how to allocate budget across actions, how to incorporate feedback, how to keep a task moving."
 
 At this point the training target is no longer just a model that answers questions. It's a system that can plan, call tools, receive feedback, and stay coherent across a long task. The training stack changes accordingly. Browsers, terminals, search, execution sandboxes, memory systems, tool servers, and orchestration frameworks all start entering the training system.
 
 More precisely, the harness is the control program wrapped around the model. This concept belongs to both agent runtime and training: it decides what input the model sees, in what form it receives feedback, when to truncate context, and when to call tools. Prompt construction, memory update, retrieval policy, context editing, and tool orchestration all live here. The environment is no longer just a static verifier; it's a layer that training and deployment both have to directly engage.
-
-![Image](https://pbs.twimg.com/media/HFciFvCa8AMiUy6?format=jpg&name=large)
 
 The harness has to be stable before model training can be meaningful. When tool return values are inconsistent, the browser environment doesn't match production, or the file system state isn't reproducible, the grader breaks first, and what the model then learns is not capability but how to exploit environment bugs. Training agents means debugging the model and debugging the environment at the same time.
 
@@ -170,13 +146,9 @@ In the SFT era, data diversity was the primary driver. In the agent era, environ
 
 This shift is moving further upstream: not just training models inside a runtime harness, but making the harness code itself a target that an outer loop can search and optimize.
 
-![Image](https://pbs.twimg.com/media/HFciJk6bIAEq7_M?format=jpg&name=large)
-
 Kimi K2.5's PARL is a useful case to unpack. The approach is direct: only train the orchestrator, and concentrate credit assignment at the orchestration layer rather than trying to optimize all sub-agents simultaneously.
 
 Reward signal has three components: task success, parallel decomposition quality, and completion constraints, all driving the orchestration layer. During early training, the r\_parallel weight is increased to encourage exploration of parallelization strategies, then gradually annealed to 0 to prevent the model from treating parallel sub-agent spawning as a shortcut. Evaluation doesn't just measure total steps; it measures critical path length. A shorter critical path indicates that parallelism is actually working.
-
-![Image](https://pbs.twimg.com/media/HFciNSdbsAAxHSn?format=jpg&name=large)
 
 By 2026, this has gone one step further. Meta-Harness explicitly extracts harness engineering as a standalone optimization target. It doesn't optimize weights; it optimizes the harness code itself, meaning the prompt construction, retrieval, memory, and state update programs wrapped around a fixed model. The opening number in the paper is direct: with the same base model, only changing the harness, you can see a 6x performance gap on the same benchmark. The program surrounding the model is no longer just a deployment detail. It's a layer that shapes capability.
 
@@ -204,8 +176,6 @@ Users see a model name and assume it corresponds to a smoothly ascending trainin
 
 A large model's value is both in what it can do for users today and in how it will continue generating training data, distillation sources, and release bases for the next generation.
 
-![Image](https://pbs.twimg.com/media/HFciQQ6aYAAk6T3?format=jpg&name=large)
-
 Beyond offline training, near-online continuous optimization has entered the mainstream pipeline. Cursor Composer 2's real-time RL indicates that some agent capabilities are already being iterated on through production traffic, rather than waiting for the next large-scale offline training cycle. The boundary between training and deployment hasn't disappeared, but the feedback loop between them is getting shorter.
 
 ## How to Read Why a Model Got Stronger
@@ -224,17 +194,17 @@ Today's shipped model is a snapshot. The pipeline and the harness program are wh
 
 ## Further Reading
 
-1. Hoffmann et al. (2022). Training Compute-Optimal Large Language Models (Chinchilla). [arXiv:2203.15556](https://arxiv.org/abs/2203.15556)
-2. Ouyang et al. (2022). Training language models to follow instructions with human feedback (InstructGPT). [arXiv:2203.02155](https://arxiv.org/abs/2203.02155)
-3. Shao et al. (2024). DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models (GRPO). [arXiv:2402.03300](https://arxiv.org/abs/2402.03300)
-4. DeepSeek-AI (2025). DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. [arXiv:2501.12948](https://arxiv.org/abs/2501.12948)
-5. DeepSeek-AI (2024). DeepSeek-V3 Technical Report. [arXiv:2412.19437](https://arxiv.org/abs/2412.19437)
-6. Llama Team, AI @ Meta (2024). The Llama 3 Herd of Models. [arXiv:2407.21783](https://arxiv.org/abs/2407.21783)
-7. Bai et al. (2022). Constitutional AI: Harmlessness from AI Feedback. [arXiv:2212.08073](https://arxiv.org/abs/2212.08073)
-8. OpenAI (2024). Deliberative Alignment: Reasoning Enables Safer Language Models. [openai.com/index/deliberative-alignment](https://openai.com/index/deliberative-alignment/)
-9. Anthropic (2025). Sycophancy to Subterfuge: Investigating Reward Tampering in Language Models. [anthropic.com/research/reward-tampering](https://www.anthropic.com/research/reward-tampering)
-10. MacDiarmid et al. (2025). Natural Emergent Misalignment from Reward Hacking in Production RL. [arXiv:2511.18397](https://arxiv.org/abs/2511.18397)
-11. Lee et al. (2026). Meta-Harness: End-to-End Optimization of Model Harnesses (preprint project page). [yoonholee.com/meta-harness](https://yoonholee.com/meta-harness/)
-12. Kimi Team (2026). Kimi K2.5 Tech Blog: Visual Agentic Intelligence. [kimi.com/blog/kimi-k2-5](https://www.kimi.com/blog/kimi-k2-5)
-13. Rush, S. (2026). A technical report on Composer 2. [cursor.com/blog/composer-2-technical-report](https://cursor.com/blog/composer-2-technical-report)
-14. Chroma (2026). Chroma Context-1: Training a Self-Editing Search Agent. [trychroma.com/research/context-1](https://www.trychroma.com/research/context-1)
+1. Hoffmann et al. (2022). Training Compute-Optimal Large Language Models (Chinchilla). arXiv:2203.15556
+2. Ouyang et al. (2022). Training language models to follow instructions with human feedback (InstructGPT). arXiv:2203.02155
+3. Shao et al. (2024). DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models (GRPO). arXiv:2402.03300
+4. DeepSeek-AI (2025). DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. arXiv:2501.12948
+5. DeepSeek-AI (2024). DeepSeek-V3 Technical Report. arXiv:2412.19437
+6. Llama Team, AI @ Meta (2024). The Llama 3 Herd of Models. arXiv:2407.21783
+7. Bai et al. (2022). Constitutional AI: Harmlessness from AI Feedback. arXiv:2212.08073
+8. OpenAI (2024). Deliberative Alignment: Reasoning Enables Safer Language Models. openai.com/index/deliberative-alignment
+9. Anthropic (2025). Sycophancy to Subterfuge: Investigating Reward Tampering in Language Models. anthropic.com/research/reward-tampering
+10. MacDiarmid et al. (2025). Natural Emergent Misalignment from Reward Hacking in Production RL. arXiv:2511.18397
+11. Lee et al. (2026). Meta-Harness: End-to-End Optimization of Model Harnesses (preprint project page). yoonholee.com/meta-harness
+12. Kimi Team (2026). Kimi K2.5 Tech Blog: Visual Agentic Intelligence. kimi.com/blog/kimi-k2-5
+13. Rush, S. (2026). A technical report on Composer 2. cursor.com/blog/composer-2-technical-report
+14. Chroma (2026). Chroma Context-1: Training a Self-Editing Search Agent. trychroma.com/research/context-1

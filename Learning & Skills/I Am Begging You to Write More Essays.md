@@ -1,5 +1,3 @@
-![Image](https://pbs.twimg.com/media/HE6bPOHaUAANdV4?format=jpg&name=large)
-
 I’m begging you to write more essays.
 
 Or to start writing essays if you aren’t already.
@@ -74,7 +72,7 @@ That’s layer one.
 
 If you are interested in turning thoughtful writing into a modern career, or simply want to realize that you do have ideas worth putting out in public, consider joining before the start date.
 
-[Check it out here.](https://stan.store/thedankoe/p/build-a-2hour-content-ecosystem-in-30-days)
+Check it out here.
 
 ## II – The three forces breaking civilization’s ability to think
 
@@ -240,6 +238,6 @@ Those are the only two platforms that prioritize long-form writing and thinking.
 
 I’ve written about this quite a few times before, so I’ll leave you at that.
 
-If you want a guided challenge to do this, and to learn the ins and outs of impactful writing, consider [joining the challenge before April 7th.](https://stan.store/thedankoe/p/build-a-2hour-content-ecosystem-in-30-days)
+If you want a guided challenge to do this, and to learn the ins and outs of impactful writing, consider joining the challenge before April 7th.
 
 – Dan

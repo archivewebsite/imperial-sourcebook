@@ -1,5 +1,3 @@
-![Image](https://pbs.twimg.com/media/HEwZGxbaQAAOrR3?format=jpg&name=large)
-
 You wouldn't run a company where you check revenue once a year and someone says "looks normal." You wouldn't deploy code with no monitoring, no alerts, no logs. Just a PDF someone emails you every 12 months that says "all systems operational" while your infrastructure is quietly on fire.
 
 But that's exactly how most people manage their health.
@@ -50,4 +48,4 @@ If you do nothing else, do this. Save it. Get real data.
 - Every supplement should map to a biomarker. No biomarker target equals no reason to take it. Be as rigorous with your health stack as you are with your tech stack.
 - Retest in 90-180 days. Diff the results. Attribute changes to interventions. Iterate. This is how you turn a static annual checkup into a continuous deployment pipeline for your body.
 
-We build alerting for everything except the system that matters most. Upload your labs at [ottolab.com](https://ottolab.com/). See what your doctor isn't showing you.
+We build alerting for everything except the system that matters most. Upload your labs at ottolab.com. See what your doctor isn't showing you.

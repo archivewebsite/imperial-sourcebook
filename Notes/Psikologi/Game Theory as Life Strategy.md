@@ -1,8 +1,4 @@
-![Image](https://pbs.twimg.com/media/HHIuFH_aoAASxZC?format=jpg&name=large)
-
 Game Theory: The Art of Outsmarting Everyone (and Why You’re Losing Without It)
-
-![Image](https://pbs.twimg.com/media/HHIuIN6bIAA7NnQ?format=jpg&name=large)
 
 Let’s play a game.
 
@@ -27,8 +23,6 @@ Wake up to reality.
 - **Social circles?** Game. The hottest girl never texts first. She’s waiting for you to trip over your own dick and double text.
 - **Negotiations?** Game. He who cares less wins, every time. The first person to show emotion, to “just want it to work out,” is the one who gets bent over the table and sent home with a participation trophy in the ass.
 - **Relationships, business, even family politics?** Game, game, game, game, game, game, and fuckinnnhggg GAME.
-
-![Image](https://pbs.twimg.com/media/HHIucRwbsAAz_vU?format=jpg&name=large)
 
 Game, game, game, game, game, game, and let me check my notes yep, still fucking GAME. If you thought it was anything else, you’re playing Candyland while I’m robbing the casino.
 
@@ -101,8 +95,6 @@ If you play game theory in real life, people will hate you. They’ll call you m
 - Family calls you “too intense.” (Translation: You’re not predictable anymore.)
 - Haters start copy pasting your words and moves and pretending they thought of them first.
 
-![Image](https://pbs.twimg.com/media/HHIumzaakAAluLg?format=jpg&name=large)
-
 The best men are loved by a few, feared by many, envied by all, and understood by none.
 
 **Start Playing or Stay Preying**
@@ -127,8 +119,6 @@ Inside, I’ll teach you
 - The real moves no bullshit, no recycled Instagram “hacks” that turn you into the kind of legend the world is hungry for
 - Stuff I can’t fucking post in the open air
 
-![Image](https://pbs.twimg.com/media/HHIvDATa4AATmZD?format=jpg&name=large)
-
 Winning isn’t about being better than everyone else it’s about making the game so rigged in your favor, even luck starts calling you ‘sir.
 
 This is your new operating system. The only thing between you and the wild, cinematic, outlaw life you’re meant for is whether you click, commit, and cross over.
@@ -139,10 +129,4 @@ Don’t just read. Don’t just hope. Don’t just play it safe. Hit the upgrade
 
 God help the rest.
 
-![Image](https://pbs.twimg.com/media/HHIuyVZaYAAMv4W?format=jpg&name=large)
-
 SVBSTACK // DAYDAYDAY
-
-![Image](https://pbs.twimg.com/media/HHIvjbbbIAA6I0t?format=png&name=large)
-
-![Image](https://pbs.twimg.com/media/HHIvhRfasAAgoAa?format=jpg&name=large)

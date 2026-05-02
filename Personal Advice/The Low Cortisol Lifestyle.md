@@ -1,5 +1,3 @@
-![Image](https://pbs.twimg.com/media/HEk6-3kWsAAFJRZ?format=jpg&name=large)
-
 "There’s a hormone quietly destroying your body, your mind, your confidence, and your face. And you’re feeding it every single day."
 
 You’re doing everything right. Training hard. Eating well. Trying to build something. Putting yourself out there socially. But something’s off. You’re tired all the time even though you’re sleeping. You’ve got this stubborn belly fat that won’t shift no matter what you do. Your focus is shot. You’re irritable over nothing. Your skin looks rough. Maybe your hair’s starting to thin. You can’t switch off at night — you’re exhausted but wired. And your confidence? It should be higher given how much work you’re putting in, but it’s not. Something’s sabotaging you from the inside.

@@ -1,5 +1,3 @@
-![Image](https://pbs.twimg.com/media/HFoODAza0AENZBf?format=jpg&name=large)
-
 the LLM Council is the hottest AI concept right now.
 
 **BUT there's a level most people are missing.**
@@ -10,7 +8,7 @@ the LLM Council is the hottest AI concept right now.
 
 > instead of asking one AI a question and trusting whatever comes back, you force multiple perspectives to argue, review each other's blind spots, and produce a verdict that's harder to disagree with.
 
-[Ole's implementation](https://x.com/itsolelehmann/status/2038661433626333649?s=20) works. he made a real business decision with it.
+Ole's implementation works. he made a real business decision with it.
 
 I'm not here to trash it.
 
@@ -39,7 +37,7 @@ the models disagreed with the human. the human disagreed with the models.
 
 that tension is where the value lives.
 
-17K stars on GitHub. VentureBeat called it ["a blueprint for enterprise AI orchestration."](https://venturebeat.com/ai/a-weekend-vibe-code-hack-by-andrej-karpathy-quietly-sketches-the-missing)
+17K stars on GitHub. VentureBeat called it "a blueprint for enterprise AI orchestration."
 
 ## \> what happened next
 
@@ -74,17 +72,17 @@ there's a well-documented phenomenon called self-preference bias.
 
 three papers from top venues:
 
-**Paper 1 — NeurIPS 2024**"LLM Evaluators Recognize and Favor Their Own Generations" 🔗 [https://arxiv.org/abs/2404.13076](https://arxiv.org/abs/2404.13076)
+**Paper 1 — NeurIPS 2024**"LLM Evaluators Recognize and Favor Their Own Generations" 🔗 https://arxiv.org/abs/2404.13076
 
 LLMs score their own outputs higher than outputs from other models — even when humans consider them equal quality.
 
 linear correlation: the better a model recognizes its own output → the stronger its self-preference bias.
 
-**Paper 2 — ICLR 2025**"Self-Preference Bias in LLM-as-a-Judge" 🔗 [https://arxiv.org/abs/2410.21819](https://arxiv.org/abs/2410.21819)
+**Paper 2 — ICLR 2025**"Self-Preference Bias in LLM-as-a-Judge" 🔗 https://arxiv.org/abs/2410.21819
 
 the mechanism: models favor outputs stylistically familiar to them (measured by perplexity). closer to their own style = higher scores.
 
-**Paper 3 — arXiv, April 2026**"Self-Preference Bias in Rubric-Based Evaluation" 🔗 [https://arxiv.org/abs/2604.06996](https://arxiv.org/abs/2604.06996)
+**Paper 3 — arXiv, April 2026**"Self-Preference Bias in Rubric-Based Evaluation" 🔗 https://arxiv.org/abs/2604.06996
 
 the bias persists even with entirely objective criteria. judges were up to 50% more likely to incorrectly mark outputs as correct when the output was their own.
 
@@ -134,7 +132,7 @@ this is the part that genuinely surprised me.
 
 there's a Stanford research paper by Jiayi Zhang, Christopher Manning, and colleagues called Verbalized Sampling.
 
-🔗 [https://arxiv.org/abs/2510.01171](https://arxiv.org/abs/2510.01171)
+🔗 https://arxiv.org/abs/2510.01171
 
 the problem they solve: after alignment training (RLHF, DPO), LLMs suffer from mode collapse. they converge on safe, typical, "most likely" responses.
 
@@ -284,11 +282,11 @@ this combines both, adds a research-backed diversity amplifier, and lets you red
 
 ## \> the research:
 
-- 🔗 [https://arxiv.org/abs/2404.13076](https://arxiv.org/abs/2404.13076) (NeurIPS 2024 — self-preference bias)
-- 🔗 [https://arxiv.org/abs/2410.21819](https://arxiv.org/abs/2410.21819) (ICLR 2025 — familiarity mechanism)
-- 🔗 [https://arxiv.org/abs/2604.06996](https://arxiv.org/abs/2604.06996) (arXiv 2026 — objective criteria bias)
-- 🔗 [https://arxiv.org/abs/2510.01171](https://arxiv.org/abs/2510.01171) (Stanford — verbalized sampling, 2-3x diversity)
+- 🔗 https://arxiv.org/abs/2404.13076 (NeurIPS 2024 — self-preference bias)
+- 🔗 https://arxiv.org/abs/2410.21819 (ICLR 2025 — familiarity mechanism)
+- 🔗 https://arxiv.org/abs/2604.06996 (arXiv 2026 — objective criteria bias)
+- 🔗 https://arxiv.org/abs/2510.01171 (Stanford — verbalized sampling, 2-3x diversity)
 
-follow me [@alex\_prompter](https://x.com/@alex_prompter) for more. I test the tools so you don't have to.
+follow me @alex\_prompter for more. I test the tools so you don't have to.
 
-**P. S. check out** [my free Perplexity mastery guide](https://godofprompt.ai/guides/perplexity-mastery-guide) **if you want.**
+**P. S. check out** my free Perplexity mastery guide **if you want.**

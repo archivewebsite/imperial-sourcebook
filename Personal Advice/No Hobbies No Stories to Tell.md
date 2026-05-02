@@ -1,5 +1,3 @@
-![Image](https://pbs.twimg.com/media/HFt0QzXW0AAqofy?format=jpg&name=large)
-
 The most interesting people you've ever met had something going on outside of work. Not a side hustle. Not a gym routine they post about. An actual thing they were into. Something they'd spent real time on, got frustrated by, came back to anyway and could talk about with the kind of enthusiasm that makes you lean in rather than glaze over.
 
 That's not a coincidence and it's not a personality type they were born with. It's something they built. Slowly, usually without realising it was making them into someone worth knowing.

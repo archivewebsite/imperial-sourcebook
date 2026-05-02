@@ -1,5 +1,3 @@
-![Image](https://pbs.twimg.com/media/HDDtZaQXQAAUtuK?format=jpg&name=large)
-
 I've used Claude Code for months, then moved to Codex. I just switched back to Claude and the reason has nothing to do with benchmarks. I also tested both on the same task.
 
 **In this article:** I will discuss the different aspects of Claude Code and Codex, the difference between the two flagship models powering them **Opus 4.6 vs. GPT-5.3-Codex,** what really changes your AI coding experience, and discuss a small case study where I have used both of them for the same task of building a RAG pipeline.
@@ -8,11 +6,9 @@ I've used Claude Code for months, then moved to Codex. I just switched back to C
 
 # Opus 4.6 vs. GPT-5.3-Codex: Task-Completion Time Horizon
 
-One reliable comparison between Codex vs. Claude Code is about their underlying flagship models and the **Completion Time Horizon**, [which you can check out here](https://metr.org/time-horizons/).
+One reliable comparison between Codex vs. Claude Code is about their underlying flagship models and the **Completion Time Horizon**, which you can check out here.
 
 This comparison asks: **how long of a task can this model reliably complete?** The task-completion time horizon is the task duration (measured by human expert completion time) at which the model is predicted to succeed with a level of reliability. So a model with a "2-hour time horizon at 50%" means: give it a task that would take a skilled human 2 hours, and the AI succeeds about half the time.
-
-![Image](https://pbs.twimg.com/media/HC-brvJXEAAaW1g?format=jpg&name=large)
 
 For this study, they use the appropriate scaffold for each model, including Claude Code and Codex. So while the focus is on the model, and not on the scaffold, we can get an idea of how reliable the scaffolds are as well. It tells us which one of these coding agents can handle longer, harder tasks.
 
@@ -40,7 +36,7 @@ It's an interesting area of research to fully review both agents in a variety of
 
 # How Each Came to Exist
 
-Claude Code initially started as a side project by [@bcherny](https://x.com/@bcherny) at Anthropic, who built a terminal prototype that could interact with the Claude API, read files, and run some bash commands.
+Claude Code initially started as a side project by @bcherny at Anthropic, who built a terminal prototype that could interact with the Claude API, read files, and run some bash commands.
 
 Half the internal team started using it by day five. Then Claude Code was released as a research preview on February 24, 2025, using Claude 3.7 Sonnet. It took some time to be mass-adopted by developers, and over time, Anthropic released a VS Code extension for it as well.
 
@@ -48,9 +44,9 @@ OpenAI on the other hand, announced the original Codex model as a 12B GPT-3 mode
 
 Codex CLI launched first on April 16, 2025, as a terminal agent, and has evolved with better models even since. The latest **GPT-5.3-Codex** (February 5, 2026) is described by OpenAI as "the first model that helped create itself."
 
-[@GergelyOrosz](https://x.com/@GergelyOrosz) has two very interesting interviews with the developers of Claude Code and Codex, about their tech stack, how they develop them, and also how each one started initially. You can learn a lot from these two interviews.
+@GergelyOrosz has two very interesting interviews with the developers of Claude Code and Codex, about their tech stack, how they develop them, and also how each one started initially. You can learn a lot from these two interviews.
 
-👉 [How Codex is Built](https://newsletter.pragmaticengineer.com/p/how-codex-is-built)
+👉 How Codex is Built
 
 > Sep 24, 2025
 > 
@@ -68,9 +64,7 @@ However, these glitches are nothing more than mildly annoying things; they reall
 
 # Benchmarks are Close, But with Nuances: Token Economics
 
-The biggest performance difference isn't accuracy, but token efficiency. A comprehensive [review on the Opus vs. Codex done by Morph](https://www.morphllm.com/best-ai-model-for-coding) shows an interesting gap.
-
-![Image](https://pbs.twimg.com/media/HC_BnObXsAACJao?format=jpg&name=large)
+The biggest performance difference isn't accuracy, but token efficiency. A comprehensive review on the Opus vs. Codex done by Morph shows an interesting gap.
 
 **Claude Code uses 3.2–4.2x more tokens than Codex** on identical tasks. On a Figma plugin build, Codex consumed 1.5M tokens compared to Claude's 6.2M.
 
@@ -98,15 +92,11 @@ On VS Code Marketplace, Claude Code has 6.1M installs with a 4/5 rating, while C
 
 On GitHub, Claude Code has approximately **65–72K stars** and Codex has ~**64K stars.**
 
-![Image](https://pbs.twimg.com/media/HC_TwVVXcAAYiGE?format=jpg&name=large)
-
 # Why I'm Moving Back to Claude Code for Now
 
 ## Anthropic's Ecosystem Pulls Hard
 
 Choosing whether to go for Codex or Claude Code isn't just about coding. A subscription to each of them is a subscription to the whole ecosystem of Anthropic/OpenAI and this is something you might want to consider.
-
-![Image](https://pbs.twimg.com/media/HDD-C8raMAIgFWI?format=jpg&name=large)
 
 I personally believe that Claude is becoming a very hot ecosystem similar to Apple, now with Claude Cowork, the Claude Chat, and the Claude Code. It seems Anthropic is also slowly building a safer and tamer version of OpenClaw (your proactive personal agent) with the Claude app, and the small bits and pieces for it are being rolled out gradually.
 
@@ -167,7 +157,7 @@ This is a task simple enough to be implemented in one session, but it has intric
 
 ## The Experiment Setup
 
-I took 5 research papers from the [@huggingface](https://x.com/@huggingface) daily papers of the past week, and created a test dataset (size = 100) of questions and ground truth answers, which I would later use for testing how good the implementation of Claude or Codex is.
+I took 5 research papers from the @huggingface daily papers of the past week, and created a test dataset (size = 100) of questions and ground truth answers, which I would later use for testing how good the implementation of Claude or Codex is.
 
 For both coding agents, I specified the following:
 
@@ -216,8 +206,6 @@ This is where they went with separate approaches:
 
 Using **gpt-5.4** as the LLM-as-a-judge, the answer of both pipelines is compared in four criteria: Correctness, Completeness, Relevance, Conciseness.
 
-![Image](https://pbs.twimg.com/media/HDEDud8XYAIOCF1?format=png&name=large)
-
 **Among the 100 questions, Claude Code won 42, Codex won 33, and 25 were ties.** Claude won mostly due to its looser confidence gating, and maybe a slightly higher generation temperature (0.2 vs 0.1 in Codex's pipeline).
 
 ## A Pinch of Salt
@@ -236,7 +224,7 @@ The most important thing is what you use these scaffolds for and how you use the
 
 This determines which one is better for you better than any benchmarks, and there's no clear answer to that other than your gut telling you which one feels better after you test both.
 
-There are developers like [@steipete](https://x.com/@steipete) who swear by Codex, and there is a community that believes Opus is just unrivaled by OpenAI models.
+There are developers like @steipete who swear by Codex, and there is a community that believes Opus is just unrivaled by OpenAI models.
 
 I think both of them are correct at the same time, simply because their workflow of using these coding agents, and their "taste" is different.
 

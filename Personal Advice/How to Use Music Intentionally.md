@@ -1,5 +1,3 @@
-![Image](https://pbs.twimg.com/media/G_l8oRNXoAATmSQ?format=jpg&name=large)
-
 Music is hypnosis.
 
 This is neither evil nor genius. It just is.
@@ -70,8 +68,6 @@ This is why visualization works.
 
 And this is exactly what music does without you even realizing it.
 
-![Image](https://pbs.twimg.com/media/G_l7GtrWsAAauNn?format=jpg&name=large)
-
 ## Why music is hypnosis
 
 Three things happen when you listen to music:
@@ -96,8 +92,6 @@ And you don't even have to believe this for it to work.
 
 Just know that the music literally changes your brain state, and you become receptive to whatever comes next.
 
-![Image](https://pbs.twimg.com/media/G_l7zhYXAAAJ_2X?format=png&name=large)
-
 **3\. Lyrics are programs**
 
 This is the part most people never think about.
@@ -115,8 +109,6 @@ That's programming.
 It makes you wonder, doesn't it? What lyrics have you been installing into your subconscious for years? What beliefs. What identity. What emotional patterns.
 
 Most people have never considered this. They just listen to whatever sounds good and wonder why they feel the way they feel.
-
-![Image](https://pbs.twimg.com/media/G_l6_dCWQAAXYul?format=png&name=large)
 
 ## How to use this intentionally
 
@@ -192,7 +184,7 @@ I wonder if you'll be one of them?
 
 **If you want this done for you : the script written, the audio produced, everything ready to go — send us a DM.**
 
-[(8) Sosa | Mental Strategist (@MetaMorpehus) / X](https://x.com/MetaMorpehus)
+(8) Sosa | Mental Strategist (@MetaMorpehus) / X
 
 **We build these for clients all the time.**
 

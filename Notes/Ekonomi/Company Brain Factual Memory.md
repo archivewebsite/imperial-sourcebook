@@ -1,6 +1,4 @@
-![Image](https://pbs.twimg.com/media/HHKmZMPbEAAvyX9?format=jpg&name=large)
-
-In the [first piece](https://x.com/ashwingop/status/2049641901410955694), I argued that a real Company Brain needs three kinds of memory: factual memory, interaction memory, and action memory. Factual memory is the first layer. It is the part that answers the basic questions every company asks all day: what is this, what happened, where is the source, who owns it, when did it change, and how does this thing work?
+In the first piece, I argued that a real Company Brain needs three kinds of memory: factual memory, interaction memory, and action memory. Factual memory is the first layer. It is the part that answers the basic questions every company asks all day: what is this, what happened, where is the source, who owns it, when did it change, and how does this thing work?
 
 That sounds simple, but it is not. Most companies have data. Some have knowledge bases. Few have real memory or a context graph. Almost none preserve the facts in a way that is personalized, permissioned, connected across tools, and useful in the moment work is happening.
 
@@ -42,4 +40,4 @@ Factual memory is the first layer of a Company Brain because without it, the com
 
 What it cannot fully preserve is why a decision was made. That lives in interactions: meetings, messages, disagreement, judgment, escalation, and tradeoff. That is the next layer of the Company Brain: interaction memory.
 
-At [Sentra](https://www.sentra.app/) , where we are building enterprise general intelligence: a shared intelligence/memory layer that sits on all communication channels, knowledge bases and agent traces to understand how everyone in an organization actually works as well as how work actually gets done, constructing a living world model of the entire company in near real time.
+At Sentra , where we are building enterprise general intelligence: a shared intelligence/memory layer that sits on all communication channels, knowledge bases and agent traces to understand how everyone in an organization actually works as well as how work actually gets done, constructing a living world model of the entire company in near real time.

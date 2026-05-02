@@ -1,5 +1,3 @@
-![Image](https://pbs.twimg.com/media/HEv7_K5WIAEcknc?format=jpg&name=large)
-
 At Sequoia, we see that speed is the best predictor of start-up success. Most companies are focused on AI as a productivity enhancer. Few are focused on the potential of AI to change how we work together. Block is showing what it looks like to fundamentally rethink organization design, ultimately harnessing AI to increase speed as a compounding competitive advantage.
 
 Two thousand years before the first corporate org chart, the Roman Army solved a problem that every large organization still faces: how do you coordinate thousands of people across vast distances with limited communication?
@@ -72,4 +70,4 @@ Block's answer is the economic graph: millions of merchants and consumers, both 
 
 Companies move fast or slow based on information flow. Hierarchy and middle management impede information flow. For two thousand years, from the Roman contubernium to today's global enterprises, we have had no real alternative. Eight soldiers sharing a tent needed a decanus. Eighty men needed a centurion. Five thousand needed a legate. The question was never whether you needed layers. The question was whether humans were the only option for what those layers do. They aren't anymore. Block is building what comes next.
 
-[https://block.xyz/inside/from-hierarchy-to-intelligence](https://block.xyz/inside/from-hierarchy-to-intelligence)
+https://block.xyz/inside/from-hierarchy-to-intelligence

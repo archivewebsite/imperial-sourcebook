@@ -14,10 +14,26 @@ Add new dated entries at the top of this section.
 ### Changed
 - Task type: `note-update`
 - Created `Curiosity Shelf/Cool GitHub Repositories.md` as a lightweight repository collection table with the initial `chenglou/pretext` entry and a compact status legend.
+- Task type: `inbox-organization`
+- Task type: `clipping-triage`
+- Completed an Inbox and Clippings organization pass, routing complete study, advice, learning, economics, psychology, and curiosity-reference notes into existing Sourcebook buckets.
+
+### Moved
+- Moved 13 complete Inbox notes into existing folders under `Notes`, `Learning & Skills`, and `Personal Advice`.
+- Moved 13 cleaned clipping notes into `Tools & Software Reference/Obsidian`, `Learning & Skills`, `Notes/Ekonomi`, `Notes/Psikologi`, `Personal Advice`, and `Curiosity Shelf`.
+
+### Renamed
+- Replaced generic `Untitled*` Inbox filenames with content-based destination names during filing.
+- Renamed the retained AI-workflow clipping to `Clippings/Stop Using LLM Council with Claude.md`.
+
+### Workflow
+- Removed external markdown image lines and stripped inline external markdown links from the 14 current clipping files before routing.
 
 ### Notes
 - Counts: 1 Curiosity Shelf note created.
 - Left unresolved: repository details were not expanded beyond the requested table and status options.
+- Counts: 27 file moves or renames applied, 14 clipping files cleaned, and 0 exact destination collisions found.
+- Left unresolved: 8 image-only Inbox captures remain in `Inbox` as stubs; `Clippings/Stop Using LLM Council with Claude.md` remains in `Clippings` because its best final home is outside this Sourcebook vault.
 
 ## 2026-05-01
 

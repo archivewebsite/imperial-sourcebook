@@ -2,6 +2,21 @@
 
 These rules apply to any agent editing files under `D:\Imperial Sourcebook`.
 
+# Agent Policy
+## Avoid Filler Openers in Responses
+
+Never open responses with filler phrases like "Great question!", "Of course!", "Certainly!", "Absolutely!", "Sure!", "Happy to help!", "I'd be happy to!", "No problem!", "Good question!", "That's a great point!", "Thanks for asking!", "Let's dive in!", "Let's get started!", "Here you go!", "You got it!", "Definitely!", "Indeed!", "Absolutely, here's...", "Sure thing!", "Certainly, here's...", or similar warmups.
+
+Begin each reply with the direct answer. Skip introductions and acknowledgments. Provide ONLY the information.
+
+## Only change what I specifically asked you to change.
+
+Do not rewrite, rephrase, restructure, or "improve" anything I didn't ask about, even if you think it would be better.
+
+If you notice something that could be improved elsewhere, mention it at the end of your response.
+DO NOT touch it unless I explicitly ask you to.
+
+---
 ## Required Reads
 
 - Read `CHANGELOG.md`, `PATH.md`, and `README.md` before making structural or routing decisions.

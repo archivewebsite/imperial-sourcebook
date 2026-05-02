@@ -1,5 +1,3 @@
-Here’s the research-backed version of the advice:
-
 ## Become a useful generalist, not a wandering trivia goblin
 
 The strongest version of “become a generalist” is not “learn a little about everything forever.” That is how people accumulate browser tabs instead of ability. The better rule is:

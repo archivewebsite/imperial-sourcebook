@@ -1,10 +1,7 @@
 ## how to notice life without sitting in silence
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*5Abu0WCxaRAWGotU)
 
-Photo by Melissa Askew on Unsplash
 
-***Note:*** *Non-members can read the full story free in this* [**link**](https://medium.com/@misbahch567/071dc97f9ed0?sk=1d400c5ef4e1fd15b8ace8ec70df2147)
 
 ==We rush through life as if speed were a badge of honor. Notifications, news, and endless content pull our attention in every direction. Half of what we consume makes us nostalgic; the other half keeps us anxious about the future. Rarely do we pause to notice the present.==
 
@@ -54,17 +51,3 @@ Over weeks, this habit builds awareness, calm, and clarity. You start noticing y
 By seeing your world clearly, you gain the freedom to act intentionally, respond thoughtfully, and live fully. Small, deliberate observations can be more transformative than hours of journaling or meditation.
 
 **Notice. Observe. Live.**
-
-**Thanks for Reading**
-
-## [You Can Tell Someone’s Been Through a Lot by the Way They Love Quiet Things](https://medium.com/write-a-catalyst/you-can-tell-someones-been-through-a-lot-by-the-way-they-love-quiet-things-017baa97b143?source=post_page-----071dc97f9ed0---------------------------------------)
-
-### A quiet reminder that strength doesn’t always look loud
-
-medium.com
-
-## [Why Most People Are Blind to Their Own Potential](https://medium.com/write-a-catalyst/why-most-people-are-blind-to-their-own-potential-38ae7bdf7742?source=post_page-----071dc97f9ed0---------------------------------------)
-
-### The biggest tragedy in life is not death — it’s what dies inside of us while we’re still alive.
-
-medium.com

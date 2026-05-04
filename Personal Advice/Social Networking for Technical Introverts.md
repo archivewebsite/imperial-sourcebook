@@ -491,21 +491,13 @@ What are signs your weak-edge graph is working?::Inbound connections, introducti
 
 ## Source Images Preserved
 
-![](https://pbs.twimg.com/media/G558rT2bUAEpG8e?format=jpg&name=large)
 
-![](https://pbs.twimg.com/media/G558-J4bAAA3nzz?format=jpg&name=large)
 
-![](https://pbs.twimg.com/media/G552ijwbAAAsFOE?format=png&name=large)
 
-![](https://pbs.twimg.com/media/G5524vGagAEuftc?format=png&name=large)
 
-![](https://pbs.twimg.com/media/G553byVb0AAdtGR?format=png&name=large)
 
-![](https://pbs.twimg.com/media/G5535jjaQAAGZ1k?format=png&name=large)
 
-![](https://pbs.twimg.com/media/G554dQsa0AEs-7E?format=jpg&name=large)
 
-![](https://pbs.twimg.com/media/G555blxbIAAag9N?format=png&name=large)
 
 ## Distilled Takeaway
 
@@ -514,4 +506,3 @@ Networking for technical introverts is not about becoming socially fake. It is a
 The whole system reduces to this:
 
 > Find the right people, understand their world, give them something useful, and leave before the vibe curdles.
-

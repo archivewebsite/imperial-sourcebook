@@ -9,6 +9,27 @@ This changelog is the required ledger for AI and agent work in this vault. Large
 Add new dated entries at the top of this section.
 
 
+## 2026-05-04
+
+### Changed
+- Task type: `inbox-organization`
+- Task type: `clipping-triage`
+- Completed the current Inbox and Clippings organization pass with short, content-based filenames using spaces instead of underscore or slug formatting.
+
+### Moved
+- Routed 18 Inbox captures into existing Sourcebook buckets for design references, college preparation, literacy, psychology, random questions, personal advice, learning, and software reference.
+- Routed 3 cleaned clipping notes into `Personal Advice` and `Learning & Skills`.
+
+### Renamed
+- Normalized 4 routed filenames after filing to remove hyphen punctuation from final note names.
+
+### Workflow
+- Removed web-clipper image embeds, promo/footer blocks, and external markdown link wrappers from 4 clipping files before routing or retaining them.
+
+### Notes
+- Counts: 25 file moves or renames applied, 4 clipping files cleaned, and 0 exact destination collisions found.
+- Left unresolved: `Clippings/Stop Using LLM Council with Claude.md` remains in `Clippings` because its best final home is still outside this Sourcebook vault; `Inbox` now contains only its README.
+
 ## 2026-05-02
 
 ### Changed

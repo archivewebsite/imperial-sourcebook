@@ -286,7 +286,3 @@ this combines both, adds a research-backed diversity amplifier, and lets you red
 - 🔗 https://arxiv.org/abs/2410.21819 (ICLR 2025 — familiarity mechanism)
 - 🔗 https://arxiv.org/abs/2604.06996 (arXiv 2026 — objective criteria bias)
 - 🔗 https://arxiv.org/abs/2510.01171 (Stanford — verbalized sampling, 2-3x diversity)
-
-follow me @alex\_prompter for more. I test the tools so you don't have to.
-
-**P. S. check out** my free Perplexity mastery guide **if you want.**

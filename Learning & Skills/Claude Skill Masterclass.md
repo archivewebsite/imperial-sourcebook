@@ -1,4 +1,3 @@
-![Image](https://pbs.twimg.com/media/HHJxIhRboAAGKW1?format=jpg&name=large)
 
 I’m building a really advanced Claude skill for our company right now.
 
@@ -54,9 +53,7 @@ Now, to help you grasp the concept, I published a **1-hour masterclass** to sh
 
 Here’s a video version if you prefer listening or watching instead:
 
-<video preload="none" tabindex="-1" playsinline="" aria-label="Embedded video" poster="https://pbs.twimg.com/amplify_video_thumb/2049825578707189762/img/8l3802C0FSZdSlsD.jpg" style="width: 100%; height: 100%; position: absolute; background-color: black; top: 0%; left: 0%; transform: rotate(0deg) scale(1.005);"><source type="video/mp4" src="blob:https://x.com/80062039-6545-40b2-9a13-adb4407cf04b"></video>
 
-![](https://pbs.twimg.com/amplify_video_thumb/2049825578707189762/img/8l3802C0FSZdSlsD.jpg?name=large)
 
 The way to think about Cowork and Notion working together is sort of like an advanced Claude project.
 
@@ -97,7 +94,6 @@ Mine looked like this:
 - Step 3: Build the full product outline using my Bookends Framework
 - Step 4: Write each module using my 7-Section Module Template
 
-![Image](https://pbs.twimg.com/media/HHJxcq9aQAA7HUI?format=jpg&name=large)
 
 ## Step 3: Package your skill one step at a time until every step works the way you want it to
 
@@ -136,27 +132,3 @@ The writers who figure this out are about to have a massive advantage. Not becau
 Because they’re better at thinking.
 
 —Cole
-
-**PS… Want to get paid to learn how to write high-quality AI Prompts?**
-
-Ghostwriting is the perfect way to use AI to get paid a premium (while learning a ton in the process).
-
-It's also the easiest side hustle to build if you want to make money as a writer.
-
-1 high-paying client can pay you anywhere from $1,500 to $5,000+ per month.
-
-That way, you can give this a try without worrying about “building a business” or replacing your 9-5 (while only writing a handful of hours per week).
-
-**If you want to scale your income from there, great!**
-
-You only need:
-
-- 3 high-paying clients
-- Paying you $2,700/month
-- To make $100,000+ per year
-
-And I have a FREE, 5-step blueprint that’s already helped over 10,000 writers start ghostwriting.
-
-## Click here to grab a copy of my Premium Ghostwriting Blueprint—and unlock everything you need to start landing high-paying writing clients.
-
-![Image](https://pbs.twimg.com/media/HHJxYdDa8AEifgm?format=jpg&name=large)

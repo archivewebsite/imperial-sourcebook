@@ -4,7 +4,7 @@ aliases:
   - "Networking Guide for a Hardened Technical Introvert"
   - "Weak-Edge Social Graph Building"
   - "Networking for Technical Introverts"
-type: "evergreen-note"
+type: "networking"
 status: "distilled"
 source_file: "networking-guide-for-a-hardened-technical-introvert.md"
 source_type: "markdown article"
@@ -19,14 +19,14 @@ tags:
   - weak-ties
   - opportunity-design
   - obsidian/evergreen
----
+---# Social Networking for Hardened Technical Introverts
 
-# Social Networking for Hardened Technical Introverts
-
-> [!abstract] Core thesis
+> [!abstract] Core thesis\
+> \
 > Networking is not performative extroversion, status-chasing, or maintaining a creepy people CRM. It is the deliberate construction of a meaningful [[Weak-Edge Social Graph]]: many low-pressure, useful relationships sustained by mutual information exchange and generosity.
 
-> [!quote] Source framing
+> [!quote] Source framing\
+> \
 > This is about **social networking**, not telecom networking. Apparently that distinction has to be made because humans named two different things the same thing and then acted surprised.
 
 ## Executive Summary
@@ -154,7 +154,8 @@ The model is not “be charming.” That advice is useless, which is why people 
 
 ## Practical Networking Loop
 
-> [!tip] Weekly loop
+> [!tip] Weekly loop\
+> \
 > The system works best as a repeated practice, not a dramatic personality transplant. Nobody needs you emerging from the cocoon as a caffeinated conference goblin.
 
 ### 1. Choose a target population
@@ -266,7 +267,8 @@ You: Good meeting you. I’ll send the link if I find it.
 
 ## Anti-Patterns
 
-> [!warning] What not to do
+> [!warning] What not to do\
+> \
 > These behaviors create social debt, not social capital. Human society, through some tragic oversight, still notices this.
 
 ### People CRM behavior
@@ -303,16 +305,16 @@ Better: end cleanly and leave the door open.
 
 Use this when deciding how to “feed” the graph.
 
-| Contribution Type | What It Looks Like | Best For |
-|---|---|---|
-| Information | “This tool breaks under `X`.” | Engineers, researchers, builders |
-| Resource | “This repo/paper/thread explains it well.” | Newcomers, peers |
-| Context | “The real bottleneck is usually `Y`.” | People entering your domain |
-| Warning | “Avoid `Z`; it cost us a week.” | Builders working near your experience |
-| Synthesis | “Here’s a short summary of the debate.” | Busy people |
-| Introduction | “You should talk to `A`; they solved this.” | People with complementary needs |
-| Artifact | A script, benchmark, diagram, note, checklist | Technical communities |
-| Attention | Thoughtful comment, bug report, review | Public builders |
+| Contribution Type | What It Looks Like                            | Best For                              |
+| ----------------- | --------------------------------------------- | ------------------------------------- |
+| Information       | “This tool breaks under `X`.”                 | Engineers, researchers, builders      |
+| Resource          | “This repo/paper/thread explains it well.”    | Newcomers, peers                      |
+| Context           | “The real bottleneck is usually `Y`.”         | People entering your domain           |
+| Warning           | “Avoid `Z`; it cost us a week.”               | Builders working near your experience |
+| Synthesis         | “Here’s a short summary of the debate.”       | Busy people                           |
+| Introduction      | “You should talk to `A`; they solved this.”   | People with complementary needs       |
+| Artifact          | A script, benchmark, diagram, note, checklist | Technical communities                 |
+| Attention         | Thoughtful comment, bug report, review        | Public builders                       |
 
 ## Network Effects to Watch For
 
@@ -490,14 +492,6 @@ What are signs your weak-edge graph is working?::Inbound connections, introducti
 - [ ] Review whether I gave more than I took.
 
 ## Source Images Preserved
-
-
-
-
-
-
-
-
 
 ## Distilled Takeaway
 

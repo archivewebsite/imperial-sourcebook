@@ -1,3 +1,6 @@
+---
+type: Note
+---
 # Jangan Hanya Menjadi Pencari Kerja: Nasihat untuk Bertahan di Dunia yang Tidak Lagi Menjamin Pekerjaan
 
 Bayangkan suatu dunia ketika pekerjaan formal tidak lagi tersedia bagi semua orang. Bukan karena manusia malas, bukan karena manusia tidak mau berusaha, tetapi karena sistem ekonomi sudah terlalu penuh, terlalu otomatis, terlalu kompetitif, atau terlalu sempit untuk menampung semua orang. Dalam dunia seperti itu, pertanyaan lama seperti “Saya harus kerja apa?” tidak lagi cukup. Pertanyaan yang lebih mendasar adalah: “Bagaimana saya tetap hidup, tetap berguna, dan tetap memiliki arah ketika pekerjaan tidak lagi menjadi jalan utama untuk bertahan?”

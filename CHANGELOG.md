@@ -9,6 +9,28 @@ This changelog is the required ledger for AI and agent work in this vault. Large
 Add new dated entries at the top of this section.
 
 
+## 2026-05-14
+
+### Changed
+- Task type: `inbox-organization`
+- Completed the Inbox organization pass with Obsidian-compatible headings, frontmatter title normalization where existing title fields were present, MathJax delimiter cleanup, and content-based Capitalized Case filenames.
+
+### Moved
+- Routed 39 complete Sourcebook Inbox notes into existing buckets for personal advice, motivation, learning, design, economics, psychology, chemistry, broad notes, and mixed math practice.
+- Moved 11 operational AI workflow notes from Sourcebook `Inbox` into `D:\Imperial Records\Labs\AI`.
+
+### Renamed
+- Replaced the current slug-style and generic `Untitled*` Inbox filenames with descriptive final titles.
+- Renamed three retained non-empty stubs in `Inbox`: `Kids Android Apps on Google Play.md`, `Study in a Different Place.md`, and `Homeless Vocabulary.md`.
+
+### Workflow
+- Converted `Inbox/Untitled 12.md` into `Bahas Soal/Matematika Dasar/Latihan Campuran/Set/Set 1.md` with Obsidian-compatible display math blocks.
+- Converted leftover raw `<details>` and `<summary>` transcript wrappers in moved AI notes into plain Markdown.
+
+### Notes
+- Counts: 50 files moved or renamed, 1 mixed math practice set created, 0 exact destination collisions, and 0 wikilinks updated.
+- Left unresolved: `Inbox/Untitled 13.md` remains untouched as an empty stub with no safe inferred title; `Inbox/sam-mccool-ejdeWiiChOI-unsplash.jpg` remains an unreferenced non-note image.
+
 ## 2026-05-04
 
 ### Changed

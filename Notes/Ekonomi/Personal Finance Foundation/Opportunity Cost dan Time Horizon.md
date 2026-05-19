@@ -73,5 +73,22 @@ Horizon: Jangka menengah
 Prioritas: Pertumbuhan moderat, tetapi risiko tetap terkendali
 Instrumen yang masuk akal: Obligasi, reksa dana pendapatan tetap, campuran saham kecil
 Instrumen yang terlalu agresif: All-in kripto atau saham spekulatif
-
 ```
+
+### Time Horizon Jangka Panjang
+
+Jangka panjang berarti di atas 10 tahun. Contohnya seperti dana pensiun, membangun kekayaan jangka panjang, persiapan finansial keluarga, dan lain-lain.
+
+**Contoh:**
+```text
+Tujuan: Dana pensiun
+Waktu: 25 tahun lagi
+Horizon: Jangka panjang
+Prioritas: Pertumbuhan kekayaan dan mengalahkan inflasi
+Instrumen yang masuk akal: Saham berkualitas, ETF indeks, portofolio growth, aset produktif
+Instrumen yang kurang optimal jika terlalu dominan: Cash saja
+```
+
+Pada horizon panjang, risiko terbesar bukan hanya harga aset turun sementara. Risiko lainnya adalah uang tidak tumbuh cukup cepat untuk mengalahkan inflasi.
+
+[[Menghitung Inflasi di Berbagai Negara]]

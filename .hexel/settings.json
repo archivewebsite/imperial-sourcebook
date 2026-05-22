@@ -4,7 +4,7 @@
   "autogit_idle_threshold_seconds": 90,
   "autogit_inactive_threshold_seconds": 30,
   "auto_advance_inbox_after_organize": false,
-  "theme_mode": "light",
+  "theme_mode": "graphite-light",
   "ui_language": null,
   "obsidian_compatibility_mode": true,
   "initial_h1_auto_rename_enabled": true,
@@ -21,7 +21,7 @@
   "editor_default_mode": "rich",
   "editor_focus_mode_enabled": false,
   "editor_typewriter_mode_enabled": true,
-  "editor_sticky_context_headers_enabled": false,
+  "editor_sticky_context_headers_enabled": true,
   "note_list_density": "comfortable",
   "extract_to_note_mode": "ask",
   "extract_to_note_default_path": null,
@@ -42,5 +42,6 @@
   "recommendations_enabled": true,
   "recommendations_banner_snoozed_until": null,
   "recommendations_model_profile": "base",
-  "recommendations_pending_model_profile": null
+  "recommendations_pending_model_profile": null,
+  "keyboard_shortcuts": null
 }

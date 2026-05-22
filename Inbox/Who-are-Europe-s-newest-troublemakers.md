@@ -1,11 +1,5 @@
 ## Corruption and inflation are boosting eurosceptic populists
 
-![Rumen Radev is followed by members of the media after voting.](Attachments/1779368910947-20260523_EUP502.jpg)
-
-Photograph: Getty Images
-
-|BUCHAREST AND SOFIA|5 min read
-
 WHEN PETER MAGYAR beat Viktor Orban in Hungary’s election in April, most European leaders were relieved. “For the first time in years, there are no Russians in the room,” joked Donald Tusk, Poland’s prime minister, at a European Union summit that month. Look to the south-east, however, and they have less to cheer. On May 8th Rumen Radev (pictured), a Russia-friendly populist, was sworn in as Bulgaria’s prime minister after winning an election in late April. On May 5th Romania’s liberal prime minister was forced out in a no-confidence motion that was backed by both the centre-left and a rising nationalist-right party.
 
 Might Bulgaria and Romania replace Hungary as the EU ’s awkward squad? Economic malaise is causing political turbulence in both countries. Last year prices rose by 3.5% in Bulgaria and 6.8% in Romania, well above the bloc’s average of 2.5%. Growth remains strong in Bulgaria, but Romania’s GDP was 1.7% lower in the first quarter than in the same period last year. All this is pushing voters towards populists.

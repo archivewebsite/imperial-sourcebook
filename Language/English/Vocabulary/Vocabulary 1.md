@@ -25,3 +25,5 @@ This dictionary is capped at 100 vocabulary rows. When it reaches 100 rows, star
 | cheers     | sorak-sorai; ucapan selamat                                       | noun            | Unfamiliar          | Yes       |
 | erratic    | tidak menentu; tidak teratur; berubah-ubah; tidak konsisten       | adjective       | Unfamiliar          | No        |
 | lingered   | berlama-lama; bertahan, menetap; tertahan; masih terasa/terdengar | verb            | Unfamiliar          | No        |
+| obstinacy  | kekerasan kepala, kebandelan, sifat membandel                     | Noun            | Unfamiliar          | No        |
+| wilful     | sengaja, dengan sengaja, keras kepala, berkeras hati              | Adjective       | Familiar            | No        |

@@ -1,4 +1,3 @@
-- *[Share this post](https://newsletter.systemdesign.one/p/llm-evals/?action=share) & I'll send you some rewards for the referrals.*
 
 ---
 

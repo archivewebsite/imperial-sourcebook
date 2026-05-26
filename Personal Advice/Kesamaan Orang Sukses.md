@@ -1,0 +1,11 @@
+# Kesamaan Orang Sukses
+
+1. Internal order. Hidup tidak sempurna, tetapi ada struktur. Mereka tahu prioritas, tahu apa yang sedang dikerjakan, dan tidak terus-menerus dikendalikan oleh mood. Mereka mungkin capek, sedih, atau stres, tetapi tidak membiarkan semua itu menghancurkan ritme hidupnya.
+2. Kompetensi nyata. Bukan hanya terlihat sibuk, bukan hanya branding, bukan hanya motivasi. Mereka benar-benar bisa melakukan sesuatu dengan baik. Skill mereka menghasilkan output. Oleh karena itu, orang lain percaya.
+3. Integritas kerja. Mereka menepati janji, menyelesaikan pekerjaan, tidak asal klaim, tidak menyalahkan orang lain, dan tidak menghindar dari tanggung jawab. Ini yang membuat "kerja benar" terasa.
+4. Orientasi jangka panjang. Banyak orang ingin hasil cepat. Orang yang benar-benar berkembang biasanya lebih tahan terhadap proses membosankan, seperti belajar, mengulang, memperbaiki, menerima kritik, membangun reputasi, menjaga kesehatan, dan memperbaiki kualitas keputusan.
+5. Emotional regulation. Mereka tidak gampang meledak, tidak mudah terseret drama, tidak terus-menerus mencari validasi, dan tidak membuat semua masalah menjadi personal. Karena hal itu mereka terasa lebih tenang. Dari luar, ini sering disebut _aura_.
+6. Nilai kepada lingkungan. Orang sukses biasanya membuat sekitar mereka ikut naik, seperti memberi kesempatan, memberi standar, memberi inspirasi, memberi rasa aman, atau memberi solusi. Bukan hanya mengambil perhatian, uang, tenaga, atau loyalitas dari orang lain.
+7. Self-respect tanpa merendahkan orang lain. Ini perbedaan antara percaya diri dengan arogansi. Orang yang benar-benar kuat tidak perlu terus membuktikan dirinya. Mereka bisa tegas tanpa menghina. Bisa unggul tanpa membuat orang lain merasa bodoh.
+
+Mereka punya arah, disiplin, kompetensi, kestabilan emosi, integritas, dan kemampuan menciptakan nilai.

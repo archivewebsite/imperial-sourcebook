@@ -8,6 +8,32 @@ This changelog is the required ledger for AI and agent work in this vault. Large
 
 Add new dated entries at the top of this section.
 
+## 2026-05-26
+
+### Changed
+- Task type: `inbox-organization`
+- Task type: `clipping-triage`
+- Task type: `vault-structure`
+- Organized the current Sourcebook `Inbox` and `Clippings` pass with short Capitalized Case filenames, spaces instead of slug formatting, and Obsidian-compatible headings.
+- Cleaned promotional CTA blocks, newsletter signup links, Medium/Substack footer material, and response/comment fragments while preserving source and reference links.
+
+### Moved
+- Routed complete Sourcebook Inbox notes into existing Sourcebook buckets for learning, design, language, economics, psychology, mathematics, personal advice, and broad notes.
+- Moved operational AI/model/prompt material from Sourcebook intake into `D:\Imperial Records\Labs\AI`.
+- Routed durable reference notes from `D:\Imperial Records\Inbox` and `D:\Imperial Records\Clippings` into Sourcebook.
+
+### Renamed
+- Replaced the current `Untitled*` Inbox filenames with descriptive names.
+- Kept two empty Inbox captures as `Empty Capture 1.md` and `Empty Capture 2.md`.
+
+### Workflow
+- Updated `.gitignore` for current Obsidian workspace state and local app-state folders.
+- Removed tracked Sourcebook `.hexel` and `.tolaria` app-state files from the git index while keeping the local files on disk.
+
+### Notes
+- `Rencana Perubahan Hidup 12 Bulan.md` was left outside and untouched.
+- The follow-up audit now reports only the two intentional empty Sourcebook Inbox stubs as intake notes.
+
 
 ## 2026-05-14
 

@@ -1,6 +1,7 @@
 # Obsidian workspace / cache (device-specific, not content)
 .obsidian/workspace
 .obsidian/workspace.json
+.obsidian/workspaces.json
 .obsidian/workspace.mobile.json
 .obsidian/cache
 .obsidian/plugins/*/data.json
@@ -16,6 +17,11 @@ desktop.ini
 # Claude Code local state (not part of the vault)
 .claude/
 
+# Local app state (not part of the vault)
+.hexel/
+.tolaria/
+.codex-tmp/
+
 # LaTeX build output
 **/build/
 *.aux
@@ -29,4 +35,3 @@ desktop.ini
 *.run.xml
 *.synctex.gz
 *.toc
-.hexel/startup-timing.json

@@ -5,7 +5,7 @@
 ## Start Here
 
 - [[Bunga Tunggal dan Bunga Majemuk]]
-- [[Rumus geometri|Rumus Geometri]]
+- [[Rumus Geometri|Rumus Geometri]]
 - [[Limit Definition of the Derivative|The Limit Definition of the Derivative]]
 
 ## Notes
@@ -26,8 +26,8 @@
 - [[Luas segitiga|Luas Segitiga]]
 - [[Luas trapesium|Luas Trapesium]]
 - [[Pecahan istimewa|Pecahan Istimewa]]
-- [[Rumus geometri|Rumus Geometri]]
-- [[Rumus segitiga|Rumus Segitiga]]
+- [[Rumus Geometri|Rumus Geometri]]
+- [[Rumus Segitiga|Rumus Segitiga]]
 - [[Rumus transformasi geometri|Rumus Transformasi Geometri]]
 - [[Statistika dasar|Statistika Dasar]]
 - [[Limit Definition of the Derivative|The Limit Definition of the Derivative]]

@@ -5,6 +5,9 @@
 .obsidian/workspace.mobile.json
 .obsidian/cache
 .obsidian/plugins/*/data.json
+.obsidian/plugins/*/obsidian_askpass.sh
+.obsidian/plugins/*/cache/
+.obsidian/plugins/*/.cache/
 
 # Trash
 .trash/

@@ -1,6 +1,6 @@
-## No, it’s not AI
+# Why Nobody Wants to Write Anymore
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*7Dj5yZ0-NkWzJ4bm24iyAA.jpeg)
+## No, it’s not AI
 
 Maria (1909) oil painting by Helene Schjerfbeck. Original public domain image from Finnish National Gallery. Digitally enhanced by rawpixel.
 
@@ -8,19 +8,19 @@ I need to come clean.
 
 Last year, I wrote 4 articles for my blog and a sponsored piece. If you calculate, I published an article every three months. This math went on in my head when a friend asked me
 
-*“How’s your writing going?”*
+*“How’s your writing going”*
 
 For someone who’s a full-time writer, I was embarrassed to answer the question. I rushed the topic with a monosyllabic response.
 
 I had taken a break from client work to focus on my creative writing. Still, I failed to produce any significant work. I had the time, the equipment, and a couple of ideas that could lead to a book or a series of newsletters.
 
-But I didn’t write. I’d sit in my home office chair in front of messy drafts and still nothing. I tried sitting in front of a blank screen as well. Nothing changed. Something was holding me back. I wasn’t sure if it was an algorithm change? Was it AI? Was I bored with writing?
+But I didn’t write. I’d sit in my home office chair in front of messy drafts and still nothing. I tried sitting in front of a blank screen as well. Nothing changed. Something was holding me back. I wasn’t sure if it was an algorithm change Was it AI Was I bored with writing
 
 For months, I couldn’t get any answer. I’d sleep with a heavy heart every night for not doing the work when it was the only thing I thought about.
 
 To my surprise, I wasn’t the only writer who’d stopped showing up; many of my writer buddies had quit their passion to get back to a 9–5 or followed a more lucrative creative pursuit.
 
-Did we all collectively stop writing in fear of getting replaced by AI, or did we accept our failure as writers and got serious about life?
+Did we all collectively stop writing in fear of getting replaced by AI, or did we accept our failure as writers and got serious about life
 
 When I went looking for answers, I realised it was neither.
 
@@ -30,7 +30,7 @@ AI happens to be the easiest villain they could find to not address the real cau
 
 Online creativity is on steroids lately. In the realm of the internet, everyone has a talent that’s waiting to be discovered.
 
-We’re consuming data not just from our favourite creators but also from our grandma and our neighbours, aka from almost everyone we know.  
+We’re consuming data not just from our favourite creators but also from our grandma and our neighbours, aka from almost everyone we know.
 It’s a lot of noise to deal with. The world outside social media is no different. It’s gotten impossible to keep up with the crazy stuff happening in the real world. Be it the [*West Asia conflic* t](https://www.bbc.com/audio/play/w173068b18k9848), anti-immigration rallies, or people [dying](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk) on live streams, it’s a lot for our brains to process.
 
 ==Amidst all of these, we can’t overlook the silent battles we confront at home, at work, and in our relationships. Our brains weren’t wired for this kind of information overload and to be this scattered==.

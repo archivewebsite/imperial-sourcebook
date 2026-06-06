@@ -1,6 +1,6 @@
-## Neuroscience shows a clear advantage for this one note-taking method
+# Neuroscience of Better Note Taking
 
-![Brain activations associated with handwriting](https://miro.medium.com/v2/resize:fit:1190/format:webp/1*KcDBOCalLyLaWkh8-zRRSw.png)
+## Neuroscience shows a clear advantage for this one note-taking method
 
 Brain regions associated with handwriting. Source: Marano et al. (2025).
 
@@ -48,8 +48,6 @@ So, handwriting had an advantage when people tried to actively remember somethin
 
 A recent [review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11943480/) of the evidence from various brain imaging studies found that handwriting activates more widespread brain networks than typing, suggesting it’s also more cognitively demanding.
 
-![A comparison of brain activation for handwriting versus typing](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ut6Gm-3mdqhou9QIcciJbw.png)
-
 A comparison of brain activation for handwriting versus typing. Source: Marano et al. (2025).
 
 The underlying processes are different:
@@ -61,7 +59,7 @@ The higher cognitive demand and the stronger brain engagement during handwriting
 
 Of course, this doesn’t mean that typing is bad for your brain; it simply means that handwriting involves a different and deeper way of information processing.
 
-## So, how should you take your notes?
+## So, how should you take your notes
 
 It depends on your goal.
 

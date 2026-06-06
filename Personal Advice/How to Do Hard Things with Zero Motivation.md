@@ -1,6 +1,6 @@
-## Tricks create novelty. These five strategies create consistency.
+# How to Do Hard Things with Zero Motivation
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*GE7EmdKHMPgxyIf5.png)
+## Tricks create novelty. These five strategies create consistency.
 
 One of the biggest mistakes you can make if you want to be consistent is trying to “trick” your brain.
 
@@ -19,7 +19,7 @@ But then the novelty would wear off and I’d go right back to my old routines.
 
 **Tricks ≠ lasting change.**
 
-What *does* work?
+What *does* work
 
 ## 1\. Focus on the bigger picture
 
@@ -95,8 +95,8 @@ Every time you scroll, you are training your brain to expect a reward for zero e
 
 [You are literally *practicing* being distracted](https://dariusforoux.com/stop-being-so-distracted/).
 
-- Is that what you want for your life?
-- To always be distracted?
+- Is that what you want for your life
+- To always be distracted
 
 Of course not. Remove the apps. I know, you probably did it 50 other times, like most of us.
 

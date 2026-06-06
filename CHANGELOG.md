@@ -8,6 +8,34 @@ This changelog is the required ledger for AI and agent work in this vault. Large
 
 Add new dated entries at the top of this section.
 
+## 2026-06-06
+
+### Changed
+- Task type: `inbox-organization`
+- Task type: `vault-structure`
+- Cleaned the current Sourcebook `Inbox` article imports for Obsidian-compatible headings, removed promotional/import navigation links and external image embeds, and preserved real source/reference links.
+
+### Moved
+- Routed 21 cleaned Sourcebook Inbox notes into existing Sourcebook buckets for collected readings, learning, language learning, economics, personal advice, and motivation.
+- Moved 5 AI model, LLM, and AI-tooling notes from Sourcebook Inbox into `D:\Imperial Records\Labs\AI`.
+- Moved 13 Sourcebook PDF source files from `Inbox` into `Attachments` with readable Capitalized Case filenames.
+- Moved `Inbox/kartu-utbk.pdf` to `D:\Imperial Records\Attachments\Kartu UTBK 2026.pdf` as an operational exam record.
+
+### Renamed
+- Replaced `Inbox/Untitled.md` and `Inbox/Untitled 1.md` with descriptive collected-reading filenames.
+- Normalized moved article and PDF filenames to short Capitalized Case names without slug formatting.
+
+### Removed
+- Removed 2 exact duplicate career-collapse captures after confirming their markdown content matched the filed primary note.
+
+### Workflow
+- Updated `.gitignore` so Obsidian Git askpass helpers and plugin cache folders remain local in both vault repositories.
+
+### Notes
+- `Rencana Perubahan Hidup 12 Bulan.md` was left outside and untouched as requested.
+- `Inbox` now contains only `README.md`, `Empty Capture 1.md`, and `Empty Capture 2.md`; the empty captures remain because they are stubs with no safe inferred title.
+- Cross-vault scan found no Records notes that needed to move back into Sourcebook during this pass.
+
 ## 2026-05-26
 
 ### Changed

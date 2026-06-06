@@ -1,6 +1,6 @@
-*How I stopped chasing a $2.5M nest egg and built $100K/year in cash flow instead*
+# Passive Income Snowball
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*JgkUsq9g7wrZgv-9tImz0w.png)
+*How I stopped chasing a $2.5M nest egg and built $100K/year in cash flow instead*
 
 The Wealth Strategy That Actually Scales How to turn one stream of passive income into a compounding machine
 
@@ -53,8 +53,6 @@ Passive income is about creating assets that work for you and throw off cash flo
 Cash flowing assets include things like dividend paying stocks, royalties, real estate.
 
 Later on I realized these assets could also come in the form of digital products or monetizing an audience in the form of sponsorships and affiliate income.
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-L0EFgWlLRbYqKWqxdWakQ.png)
 
 The problem with the traditional 4% rule of retirement.
 
@@ -109,8 +107,6 @@ This doesn’t mean I let off the gas, this means I continue to build out assets
 By shifting from net worth to cashflow, I’ve moved my financial escape velocity up by decades and the assets don’t deplete when and if I decide to stop working like they would with a traditional retirement strategy.
 
 ### The Passive Income Snowball Strategy Explained
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XNWgfUn5BN0LpfZYa0d-gw.png)
 
 Passive Income Snowball structure
 
@@ -178,7 +174,5 @@ You can also grab my [**Digital Product Playbook**](https://www.simonwparsons.co
 Best of luck on your journey.
 
 Simon
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Ewv5jR8VuD4Y2qa8LK6nBw.jpeg)
 
 You can find all of my online business playbooks and planners in my About Section.

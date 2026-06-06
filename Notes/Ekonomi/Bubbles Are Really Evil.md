@@ -1,6 +1,6 @@
-## Bernie Ebbers got what was coming to him.
+# Bubbles Are Really Evil
 
-![The royal carriage of king Louis Philippe is burned in front of the Chateau d’eau during the French revolution of 1848, Paris 24th February 1848.](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Kl7Xns14BEcOkhLNHMVBIw.jpeg)
+## Bernie Ebbers got what was coming to him.
 
 The royal carriage of king Louis Philippe is burned in front of the Chateau d’eau during the French revolution of 1848, Paris 24th February 1848.
 
@@ -42,9 +42,9 @@ Some of the underlying mechanisms from the crypto are useful, even without block
 
 But, as with the Enron Corpus, this is pretty small ball. The world has flushed away hundreds of billions to get paltry millions’ worth of value out of crypto — the rest of that value disappeared into the pockets of crooked insiders who defrauded the public into parting with their savings.
 
-If crypto will be Enron-like in its post-bubble life, what about AI? I think AI is more like Worldcom: there’s a bunch of useful stuff that AI can do, after all. Take away the bubble and we’d call the things AI can do “plug-ins” and some people would use them, and others wouldn’t, and some of those uses would be productive, and others would be foolish, but we wouldn’t bet the world’s economy on them, nor would we ==squander our last dribbles of potable water== to cool their data centers.
+If crypto will be Enron-like in its post-bubble life, what about AI I think AI is more like Worldcom: there’s a bunch of useful stuff that AI can do, after all. Take away the bubble and we’d call the things AI can do “plug-ins” and some people would use them, and others wouldn’t, and some of those uses would be productive, and others would be foolish, but we wouldn’t bet the world’s economy on them, nor would we ==squander our last dribbles of potable water== to cool their data centers.
 
-After the AI bubble pops, there will be a lot of durable residue. The data centers will still stand. The GPUs will still be there, and if we don’t “sweat the assets” by running them as hot and hard as they can tolerate, they won’t burn out in 2–3 years. There will be lots of applied statisticians, skilled data-labelers, etc, looking for work. And there will be lots of open source models that have barely been optimized (why make an open source model more efficient when you’re raising capital based on the promise of outspending everyone else in order to dominate a world of ubiquitous, pluripotent, winner-take-all centralized AI?):
+After the AI bubble pops, there will be a lot of durable residue. The data centers will still stand. The GPUs will still be there, and if we don’t “sweat the assets” by running them as hot and hard as they can tolerate, they won’t burn out in 2–3 years. There will be lots of applied statisticians, skilled data-labelers, etc, looking for work. And there will be lots of open source models that have barely been optimized (why make an open source model more efficient when you’re raising capital based on the promise of outspending everyone else in order to dominate a world of ubiquitous, pluripotent, winner-take-all centralized AI):
 
 [https://pluralistic.net/2025/10/16/post-ai-ai/#productive-residue](https://pluralistic.net/2025/10/16/post-ai-ai/#productive-residue)
 

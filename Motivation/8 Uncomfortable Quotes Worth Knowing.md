@@ -1,6 +1,4 @@
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*ECCmd6AEyytT9QAM)
-
-Photo by Donna Buchanan on Unsplash
+# 8 Uncomfortable Quotes Worth Knowing
 
 Some things I read feel like a psychological colonoscopy. The words creep up on me from behind and illuminate parts within. ==Parts I might not have been able to see by myself.==
 
@@ -56,7 +54,7 @@ Over the years, I’ve numbed myself out with tobacco, alcohol, drugs, and work.
 
 It felt impossible to give them up, too, because they were something to look forward to, and they provided relief from the world.
 
-“What do you think is in there, Andy? A big scary monster?” My tantra teacher teased. “You’re not as scary as you think you are.”
+“What do you think is in there, Andy A big scary monster” My tantra teacher teased. “You’re not as scary as you think you are.”
 
 I had been avoiding myself for so many years, and I’d used all kinds of different vices to help me do so. But with my teacher’s words reverberating in my ears, I signed up for a 10-day Vipassana meditation course, left everything I owned at the door, and sat down with myself for the first time in my life.
 

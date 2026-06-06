@@ -1,6 +1,6 @@
-## In the age of AI, running a McDonald’s may soon look a lot more appealing
+# Franchising Has Quietly Made Countless Americans Rich
 
-![Mcdonald's sign in Hachita, New Mexico](https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20260530_WBP001.jpg)
+## In the age of AI, running a McDonald’s may soon look a lot more appealing
 
 Photograph: Mark Power/Magnum Photos
 
@@ -12,7 +12,7 @@ Mr Flynn’s is a tale of slow and steady success. So is that of the franchise m
 
 Owning a franchise may be the purest distillation of the American dream. Some 95% of McDonald’s 14,000 American outlets are operated by franchisees, and the chain has plausibly created more millionaires than any firm in history. “We’re not all going to be Steve Jobs or Elon Musk,” says Matt Haller, who runs the IFA, but many can imagine themselves saving up to have a go at the all-American business of “slinging hamburgers”. The proposition has long appealed to immigrants in particular: around two-thirds of American motels are owned by Indians, many descended from Gujaratis who bought Super 8 and Travelodge franchises in the 1980s.
 
-Mr Haller says franchisees now report growing interest from their children in succession plans. That is perhaps unsurprising. A decade ago the path to prosperity for young Americans looked certain: a college education and a white-collar “laptop” job. But rising tuition fees and the emergence of artificial intelligence have prompted renewed interest in the trades and other more pedestrian ways to make a living. In-person businesses—teaching Pilates, cooking food—look like a safer bet now. “There’s really not a franchise that you can run without people,” says Mr Haller. Many more young people, then, may soon follow Mr Flynn’s example. Will it pay off for them?
+Mr Haller says franchisees now report growing interest from their children in succession plans. That is perhaps unsurprising. A decade ago the path to prosperity for young Americans looked certain: a college education and a white-collar “laptop” job. But rising tuition fees and the emergence of artificial intelligence have prompted renewed interest in the trades and other more pedestrian ways to make a living. In-person businesses—teaching Pilates, cooking food—look like a safer bet now. “There’s really not a franchise that you can run without people,” says Mr Haller. Many more young people, then, may soon follow Mr Flynn’s example. Will it pay off for them
 
 To economists, franchises are something of an oddity. As Paul Rubin of the University of Georgia noted in a paper in 1978, they blur the boundary between a firm and the open market. Franchisors, who typically maintain control over things such as menus and opening hours, gain a network of motivated entrepreneurs prepared to put down their own capital, allowing the company to scale quickly. In return, franchisees are given the opportunity to run their own business with the security of an established brand.
 
@@ -31,8 +31,6 @@ Bert Albertse, boss of Jetset Pilates, a chain of more than 100 studios, also se
 The terms on offer to franchisees are remarkably easy to look up: any business selling a franchise in America must produce a Franchise Disclosure Document (FDD), and several states publish their registries. FDD s disclose the many fees a franchisee must pay—including both upfront and ongoing payments—and can include detailed data on how existing franchisees are performing.
 
 Leafing through a dozen or so FDD s reveals that they have much in common. Ongoing royalties to the franchisor are typically paid as a share of sales. So are other fees such as for marketing. Together these amount to perhaps 5-7% of sales for food-service businesses and 10-12% for beauty and fitness. The initial fee paid to a franchisor to open a single outlet is usually tens of thousands of dollars, and often $50,000 or more, with discounts for multi-unit purchases. That is before any money has been put into renovations or equipment. Total opening costs vary widely: a food-service restaurant tends to run north of $1m; a fitness studio $300,000-800,000.
-
-![A customer wearing a Planet Hollywood t-shirt eats McDonalds.](https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20260530_WBP004.jpg)
 
 Plenty to go around Photograph: Mark Power/Magnum Photos
 

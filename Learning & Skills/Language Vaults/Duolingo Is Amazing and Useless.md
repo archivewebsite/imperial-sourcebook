@@ -1,8 +1,6 @@
-## Overhyped, underrated, or both? A linguist’s verdict from the evidence.
+# Duolingo Is Amazing and Useless
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*uEd_XuPNQHpl9Mv_)
-
-Photo by ilgmyzin on Unsplash
+## Overhyped, underrated, or both A linguist’s verdict from the evidence.
 
 Last summer, my country-house neighbor, a man of 78, told me he was moving to Spain.
 
@@ -22,9 +20,9 @@ For most of the world right now, learning a language equals downloading Duolingo
 
 Which makes the questions I keep getting more important than it sounds.
 
-*Is Duolingo any good?*
+*Is Duolingo any good*
 
-*What do you think about Duolingo?*
+*What do you think about Duolingo*
 
 I have spent 20 years teaching languages, and I have my opinions about apps, but my opinions are not why my readers are here.
 
@@ -54,8 +52,6 @@ One number, though, almost nobody mentions. The vast majority of people who down
 
 ## My own time with the owl
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*decbgWMEcs-3kdMU8FEwWQ.png)
-
 A screenshot from my Duolingo profile
 
 Years ago, before any of the recent studies were published and before the green owl had become a meme, I tried Duolingo myself. I was not their best customer, as you can see from the screenshot.
@@ -82,13 +78,9 @@ I was practicing the *opening of the app* more than I was practicing the languag
 
 ## What the evidence actually shows
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*SgwWGrkHbJ6EcaL_)
-
-Photo by Houcine Ncib on Unsplash
-
 Rather than march you through every study, I have organized the findings around the questions a real person asks when they are deciding whether to subscribe to the premium tier.
 
-## ‘Will I actually learn anything?‘
+## ‘Will I actually learn anything‘
 
 Yes. This is the part that marketing has the data for.
 
@@ -108,11 +100,7 @@ The research is honest about this in the methods.
 
 The marketing, less so.
 
-## ‘Why does my listening lag so far behind my reading?’
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*kaA5916Ubexe3QoS)
-
-Photo by Johnny Briggs on Unsplash
+## ‘Why does my listening lag so far behind my reading’
 
 Because that is what apps do.
 
@@ -120,7 +108,7 @@ Reading climbs faster than listening in nearly every study that tested both, acr
 
 The one exception worth flagging is Jiang et al. (2024), where listening caught up to reading at the end of A2 in three English courses, although that study had no control group and no measurement of informal exposure to English (movies, work, social media), which the authors openly flag as a limitation.
 
-So, why does listening tend to lag?
+So, why does listening tend to lag
 
 When you read a sentence, you control the speed. The text waits.
 
@@ -132,7 +120,7 @@ Real speech is the river.
 
 Some skills transfer, kicking and breathing, but the moment you step into the actual current, you discover what the pond did not teach you.
 
-## ‘Is it really “as good as four semesters of university”?’
+## ‘Is it really “as good as four semesters of university”’
 
 This is the most frequently repeated marketing claim, and the methods do not support it.
 
@@ -162,11 +150,7 @@ Birdsong (2018) has documented over the past decades that adults bring substanti
 
 The four-semester claim is not a lie. It is also not the whole truth.
 
-## ‘Why does the streak feel so important to me?’
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Ys5o-wop5jqhHzPs)
-
-Photo by Quino Al on Unsplash
+## ‘Why does the streak feel so important to me’
 
 ==Because the streak is what the app is actually selling==.
 
@@ -182,9 +166,9 @@ This is the dragon at the center of the Duolingo research, and almost nobody tal
 
 Every study reporting positive findings recruits learners who have completed hundreds of hours of practice. They are survivors. The vast majority of people who download the app are not these people, and they have not been studied.
 
-Asking *"Does Duolingo work?*" by studying only the people who finished is methodologically equivalent to asking *"Does jogging make you fit?*" by surveying only marathon finishers.
+Asking *"Does Duolingo work*" by studying only the people who finished is methodologically equivalent to asking *"Does jogging make you fit*" by surveying only marathon finishers.
 
-## ‘Will Duolingo replace a teacher?’
+## ‘Will Duolingo replace a teacher’
 
 No. The research is unusually clear on this.
 
@@ -204,7 +188,7 @@ The classroom does what the app cannot: real-time correction, social pressure th
 
 They are not in competition. They are doing different jobs.
 
-## ‘What about the new AI conversation features?’
+## ‘What about the new AI conversation features’
 
 This is where the research gets interesting, and where it asks for caution.
 
@@ -242,7 +226,7 @@ The custom-tutor group, with the guardrails, performed about the same as the no-
 
 The tool can make tasks feel easier while quietly hollowing out the underlying skills required to do them without it.
 
-## ‘What is missing from the research?’
+## ‘What is missing from the research’
 
 A great deal.
 
@@ -255,10 +239,6 @@ We do not yet know, in the rigorous sense, whether it builds the ability to *do*
 Until those studies exist, treat any “Duolingo will make you fluent” claim with the same skepticism you would treat a diet ad.
 
 ## The Verdict
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*ylKqY-jnrr1coXVG)
-
-Photo by Tingey Injury Law Firm on Unsplash
 
 If you skipped the studies and jumped straight here, welcome.
 
@@ -350,10 +330,6 @@ Until those studies exist, treat any “Duolingo will make you fluent” claim w
 
 ## 8\. Stack your tools. No single app does everything well.
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*IcUqD2ANUCp0JlWx)
-
-Photo by Or Hakim on Unsplash
-
 Duolingo is excellent for vocabulary recognition.
 
 It is weaker in pronunciation, where Memrise tends to perform better (Pichugin et al., 2023), and there is no clear winner over ChatGPT-based instruction in motivation, autonomy, or critical thinking (Xu & Liu, 2025).
@@ -400,30 +376,30 @@ The vocabulary you learn from the app may fade. The meta-skill of running your o
 
 - Viktoria Verde holds a PhD in Applied Linguistics and writes about how we learn languages with science-based strategies. She is also the editor of *Language Mind* [(submission guidelines)](https://medium.com/language-mind/submission-guidelines-058dd89152e1).
 - Subscribe for weekly deep dives + free 32-page Language Learning Starter Kit: [https://howwelearnlanguages.substack.com](https://howwelearnlanguages.substack.com/)
-- Need a tutor? [70% off your first Preply lesson.](https://preply.com/en/?pref=Mjc3MzkwNA%3D%3D&id=1771928501.262158&ep=w1)
-- Want to support me? [Buy me a coffee](http://buymeacoffee.com/viktoriaved) ☕
+- Need a tutor [70% off your first Preply lesson.](https://preply.com/en/pref=Mjc3MzkwNA%3D%3D&id=1771928501.262158&ep=w1)
+- Want to support me [Buy me a coffee](http://buymeacoffee.com/viktoriaved) ☕
 
 ## More stories you may like:
 
-## [When Life Feels Stuck, Learn a New Language](https://medium.com/language-lab/when-life-feels-stuck-learn-a-new-language-d04ae9161a7e?source=post_page-----cf2f606e1e0c---------------------------------------)
+## [When Life Feels Stuck, Learn a New Language](https://medium.com/language-lab/when-life-feels-stuck-learn-a-new-language-d04ae9161a7e)
 
 ### How learning a language helps you build a new life, a new you, and see the world with fresh eyes.
 
 medium.com
 
-## [How to Learn a Language: The Complete System That Actually Works](https://medium.com/language-mind/how-to-learn-a-language-the-complete-system-that-actually-works-375e19f814dc?source=post_page-----cf2f606e1e0c---------------------------------------)
+## [How to Learn a Language: The Complete System That Actually Works](https://medium.com/language-mind/how-to-learn-a-language-the-complete-system-that-actually-works-375e19f814dc)
 
 ### 20 Science-Based Principles and Strategies for Building Fluency — From a Linguist, Language Teacher, and Polyglot
 
 medium.com
 
-## [How to Learn 5,000 Words (and More) Without Flashcards](https://medium.com/language-mind/how-to-learn-5-000-words-and-more-without-flashcards-1b7e8d6ae260?source=post_page-----cf2f606e1e0c---------------------------------------)
+## [How to Learn 5,000 Words (and More) Without Flashcards](https://medium.com/language-mind/how-to-learn-5-000-words-and-more-without-flashcards-1b7e8d6ae260)
 
 ### My top 13 science-backed strategies for building a massive vocabulary without flashcards
 
 medium.com
 
-## [How to Become Ridiculously More Creative](https://medium.com/write-a-catalyst/how-to-become-ridiculously-more-creative-bca840e6ac4e?source=post_page-----cf2f606e1e0c---------------------------------------)
+## [How to Become Ridiculously More Creative](https://medium.com/write-a-catalyst/how-to-become-ridiculously-more-creative-bca840e6ac4e)
 
 ### A practical science-backed guide with 15 strategies and 5 creativity tests
 

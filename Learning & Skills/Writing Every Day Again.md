@@ -1,6 +1,6 @@
-## Inside a self-created writing challenge using mindset rewiring, smart habits, and practical strategies to stay consistent for good
+# Writing Every Day Again
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*dX5tSTvK-6B5dIr4QS8SvA@2x.jpeg)
+## Inside a self-created writing challenge using mindset rewiring, smart habits, and practical strategies to stay consistent for good
 
 Image of the author
 
@@ -8,7 +8,7 @@ Getting back to an old habit you’ve practiced for years is not that simple. I�
 
 I aimed to publish once a day on Medium. Sounds challenging, but I used to do it with a full-time job a few years back, like no biggie. Everything came to a halt when I got married and moved to an island.
 
-[Moving abroad](https://www.youtube.com/watch?v=QlXQ3cn685Y) disrupted my creative rhythm that was once part of my everyday routine. Losing an integral part of myself also hampered my confidence. I could no longer multitask or manage multiple projects.
+[Moving abroad](https://www.youtube.com/watchv=QlXQ3cn685Y) disrupted my creative rhythm that was once part of my everyday routine. Losing an integral part of myself also hampered my confidence. I could no longer multitask or manage multiple projects.
 
 This wasn’t the first time I was in a creative rut, but it was the longest.
 
@@ -34,7 +34,7 @@ I didn’t think about what I wanted to write. I didn’t want to get artsy and 
 
 > I have 700+ unfinished pieces in my drafts.
 
-Pick an old idea from the drafts. Finish it. Edit it. Publish.  
+Pick an old idea from the drafts. Finish it. Edit it. Publish.
 Pick. Finish. Edit. Publish. Pick Finish. Edit. Publish.
 
 That’s the formula I kept repeating in my head. No, waiting for the *Prince Charming* idea and die a spinster. This strategy saved me more time than any other hack in this list.
@@ -42,8 +42,6 @@ That’s the formula I kept repeating in my head. No, waiting for the *Prince Ch
 Most people stop at “ *I don’t know what to write* ” or get confused between multiple ideas, especially when they have 700 drafts. To avoid that decision fatigue, I took what was already half-baked in front of me and prepared a whole meal out of it.
 
 It also made me clean my draft list, allowing me to pick the next idea more quickly.
-
-![](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*CGvHvqRW_gHNlUgxQdcOuA.png)
 
 After deleting 30+ drafts, I am still at 716. Screenshot of my Medium Dashboard
 
@@ -71,16 +69,16 @@ Now, when I am feeling pumped about getting back to writing, I am writing this o
 
 It’s so much fun when you expand your emotions into what you’re doing. It’s an effortless way to create and express.
 
-Writing is therapeutic, and what you write greatly impacts how you feel. So why not write to release emotions and also use those to get to a better place?
+Writing is therapeutic, and what you write greatly impacts how you feel. So why not write to release emotions and also use those to get to a better place
 
-> **“The creative process is a process of surrender, not control.”  
+> **“The creative process is a process of surrender, not control.”
 > ― Julia Cameron**
 
 ## Using the right tools
 
 I loved playing with my new iPad. I’d carry it in my tote bag to use to draw and write while waiting in cages or on a flight. The confusion about choosing from various tools is draining. I don’t need 10 different tools.
 
-Should I write on my iPad or iPhone?
+Should I write on my iPad or iPhone
 
 All I need is my phone and my laptop.
 
@@ -116,7 +114,7 @@ I decide what I want to write a day prior, so when I wake up, I have a draft wai
 
 *“Oh, you’re a writer.”*
 
-I used to feel like an imposter whenever I was asked this question. Was I a writer? Maybe. Maybe not.
+I used to feel like an imposter whenever I was asked this question. Was I a writer Maybe. Maybe not.
 
 My reply used to be as lackadaisical as a child who lied about eating their vegetables. I was ashamed to answer that question. I hadn’t written anything for a while to be called a writer.
 
@@ -134,7 +132,7 @@ This paradigm shift helped me get back to writing faster than any of the above p
 
 [***Join my email***](https://shreyasls.substack.com/welcome) *list to receive monthly behind-the-scenes of building a creator-led business.*
 
-## [Here’s Why Nobody Wants To Write Anymore](https://shreyabadonia.medium.com/heres-why-nobody-wants-to-write-anymore-f662e1b7b78d?source=post_page-----807c7a02779f---------------------------------------)
+## [Here’s Why Nobody Wants To Write Anymore](https://shreyabadonia.medium.com/heres-why-nobody-wants-to-write-anymore-f662e1b7b78d)
 
 ### No, it’s not AI
 

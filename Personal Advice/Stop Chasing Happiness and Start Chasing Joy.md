@@ -1,16 +1,14 @@
-![A man swinging high on an orange playground swing](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*YCunHUh33u6ppRwMkrK87w.jpeg)
+# Stop Chasing Happiness and Start Chasing Joy
 
-Photo by Vika Strawberrika on Unsplash
+Why do you work so hard every day Ask most people this question and their ultimate answer will be happiness. Yes, we work to generate wealth and improve our communities, but the final aim for most of us is creating a happy life.
 
-Why do you work so hard every day? Ask most people this question and their ultimate answer will be happiness. Yes, we work to generate wealth and improve our communities, but the final aim for most of us is creating a happy life.
-
-That sounds like most common sense thing in the world. What could possibly be wrong with it? Actually quite a lot, according to [psychologists](https://www.inc.com/jessica-stillman/psychology-terms-ideas-emily-anhalt.html) who insist we all would be better off if we looked to increase our joy instead.
+That sounds like most common sense thing in the world. What could possibly be wrong with it Actually quite a lot, according to [psychologists](https://www.inc.com/jessica-stillman/psychology-terms-ideas-emily-anhalt.html) who insist we all would be better off if we looked to increase our joy instead.
 
 ## America the miserable
 
-Before we get to the distinction between happiness and joy, it’s important to answer another question first. What’s wrong with aiming for happiness? The short answer is that our quest for happiness is pretty [clearly backfiring](https://www.inc.com/jessica-stillman/neuroscience-says-be-happier-stop-thinking-about-happiness.html).
+Before we get to the distinction between happiness and joy, it’s important to answer another question first. What’s wrong with aiming for happiness The short answer is that our quest for happiness is pretty [clearly backfiring](https://www.inc.com/jessica-stillman/neuroscience-says-be-happier-stop-thinking-about-happiness.html).
 
-Look around at America today and ask yourself, how are we doing? We’re certainly a hugely prosperous country. We’re innovative, diverse, dynamic. But would you call us, overall, a happy people?
+Look around at America today and ask yourself, how are we doing We’re certainly a hugely prosperous country. We’re innovative, diverse, dynamic. But would you call us, overall, a happy people
 
 If your gut instinct answer to this question is no, then there is no shortage of data to back you up. The U.S. continued its slide down the World Happiness Rankings in 2024, hitting [a record low of 23rd most happy country](https://www.axios.com/2024/03/20/world-happiness-america-low-list-countries). These rankings are [admittedly problematic](https://www.inc.com/jessica-stillman/world-happiest-country-finland-offered-masterclass-how-be-happy-3-biggest-takeaways.html), but individual mental health statistics aren’t any cheerier.
 
@@ -22,9 +20,9 @@ The reasons for this are multiple and complex. Politics, economics, and culture 
 
 Americans in general are strivers. And many of us have added “be happy” to our long list of goals to strive for. Unfortunately, research suggests that, like a shy forest creature, happiness seems [to retreat the more we pursue it](https://www.vox.com/first-person/2016/10/4/13093380/happiness-america-ruth-whippman).
 
-[One recent study](https://psycnet.apa.org/doiLanding?doi=10.1037%2Femo0001381) out of University of California, Berkeley, New York University, and the University of Toronto checked in with 1,800 volunteers regularly about their moods. The researchers observed something peculiar. The more they asked study subjects about happiness, the less happy they reported being.
+[One recent study](https://psycnet.apa.org/doiLandingdoi=10.1037%2Femo0001381) out of University of California, Berkeley, New York University, and the University of Toronto checked in with 1,800 volunteers regularly about their moods. The researchers observed something peculiar. The more they asked study subjects about happiness, the less happy they reported being.
 
-What was going on? The scientists concluded that consciously thinking about happiness tends to nudge people to focus on all the ways they’re unhappy. Every passing negative emotion and minor disappointment gets magnified.
+What was going on The scientists concluded that consciously thinking about happiness tends to nudge people to focus on all the ways they’re unhappy. Every passing negative emotion and minor disappointment gets magnified.
 
 “Latching on to the less-than-perfect aspects of positive moments will ultimately spoil them,” said lead researcher [Felicia Zerwas](https://neurosciencenews.com/happiness-psychology-satisfaction-27514/).
 
@@ -42,7 +40,7 @@ Or [as positive psychologist Alison Bishop puts it on The Conversation](https://
 
 ## How to prepare you mind for joy
 
-If you’re convinced that chasing happiness frequently backfires, and [opening yourself up](https://www.inc.com/jessica-stillman/1-simple-way-to-train-your-brain-to-feel-joy-of-missing-out.html) to joy is a better bet, that raises an important question: How do you do that exactly? How do you make yourself into a more joy-prone person? Levine and Bishop offer suggestions:
+If you’re convinced that chasing happiness frequently backfires, and [opening yourself up](https://www.inc.com/jessica-stillman/1-simple-way-to-train-your-brain-to-feel-joy-of-missing-out.html) to joy is a better bet, that raises an important question: How do you do that exactly How do you make yourself into a more joy-prone person Levine and Bishop offer suggestions:
 
 - **Be present.** Just about anything can spark joy — from a sunset to a goofy look from [your dog](https://www.inc.com/jessica-stillman/pets-dogs-cats-mental-health-stress-reduction.html) — but to benefit from these moments, you need to actually be paying attention. “Focus on the present moment. Take a walk and notice the sights, sounds, and smells,” says Levine. “Sometimes we need to ditch the phone,” adds Bishop.
 - **Tune into yourself.** “As joy is unique to each of us, we need to hear our own voice to find out what will bring us joy,” says Bishop. To learn to feel more joy, you need to learn to feel your feelings in general, adds Levine.

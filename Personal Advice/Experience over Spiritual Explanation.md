@@ -1,10 +1,8 @@
+# Experience over Spiritual Explanation
+
 ## When words start losing their grip.
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*n5Z8ru7NFH-xxqAC2RKTDQ.jpeg)
-
-Photo by Russel Bailo on Unsplash
-
-Have you seen people talk about spirituality for hours and still feel untouched by it?
+Have you seen people talk about spirituality for hours and still feel untouched by it
 
 They quote masters, repeat ideas, explain concepts, and yet, when life hits, none of it holds them steady.
 
@@ -74,7 +72,7 @@ And once even a glimpse comes, the need to explain reduces on its own.
 
 Because in that state, the separation between you and others dissolves. The urge to convince fades. Words lose urgency.
 
-You can see the argument ego might love to give. “Jiddu did. Why can’t I?”
+You can see the argument ego might love to give. “Jiddu did. Why can’t I”
 
 But deep down, you know these masters have no compulsion to speak or share. They are/were equally calm when they sat with nothing and didn’t speak.
 
@@ -84,7 +82,7 @@ Quoting them or twisting their words to fit our narrative doesn’t actually hel
 
 But if the compulsion to explain comes, you know where to look and ask —
 
-***“Is it curiosity? Does the mind want to understand it further by talking, or is it trying to prove itself?”***
+***“Is it curiosity Does the mind want to understand it further by talking, or is it trying to prove itself”***
 
 These questions alone can reveal more than hours of reading.
 
@@ -150,4 +148,4 @@ And that trust carries you forward without noise, display, or the need to arrive
 
 Just a steady walk into what is real, unknown, but not scary as it might have been once.
 
-[*Wanna connect with me? Subscribe here and connect with me via email. You’ll also get a powerful audio meditation for free.*](https://www.ruchithalwal.com/free-audio-meditation-50ef3271)
+[*Wanna connect with me Subscribe here and connect with me via email. You’ll also get a powerful audio meditation for free.*](https://www.ruchithalwal.com/free-audio-meditation-50ef3271)

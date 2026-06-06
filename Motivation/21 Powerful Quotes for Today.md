@@ -1,20 +1,12 @@
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*_58dwPV6yfrfLHTM)
+# 21 Powerful Quotes for Today
 
 > *Words of wisdom from the world’s wisest thinkers are timeless, though the world continues to change every day.*
 
 ## 1\. “You must be the change you wish to see in the world.” — Gandhi
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*2Naf8azKdLTcsrZU)
-
-Photo by [Pratik Chauhan](https://unsplash.com/es/@smarty_14?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
-
 > *“Live for what’s worth dying for, and leverage technology to create the world you wish to see.”*
 
 ## 2\. “Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.” — Albert Einstein
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*QdtJEbJ2DdJkhd1B)
-
-Photo by [Taton Moïse](https://unsplash.com/ja/@moyse?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
 
 > *“* [*Tapping into genius*](https://www.linkedin.com/pulse/how-you-can-quickly-become-genius-why-arent-aram-taghavi) *is simple in theory yet hard in practice. It comes from mastering* [*the one activity you love most*](https://www.linkedin.com/post/edit/6352506283807043584)*.”*
 
@@ -93,7 +85,3 @@ Photo by [Taton Moïse](https://unsplash.com/ja/@moyse?utm_source=medium&utm_med
 ## 21\. “I would rather die a meaningful death than to live a meaningless life.” — Corazon Aquino”
 
 > *“Life is generally meaningless beyond the choice we have to assign how meaningful it can be. I don’t fear death because I know this and therefore am able to live with peace of mind.”*
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*6gfnVvkMRFtjVsWF7vkClA.png)
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*6gfnVvkMRFtjVsWF7vkClA.png)

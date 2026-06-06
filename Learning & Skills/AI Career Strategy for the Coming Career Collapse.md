@@ -1,8 +1,6 @@
+# AI Career Strategy for the Coming Career Collapse
+
 ## “Time-for-security” vs. “value-for-relevance.”
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*6ZEgV9JoY5n1ov3dg8vwuQ.jpeg)
-
-Photo by Venancio Dionela on Unsplash
 
 There’s a new dread in town. It’s “career anxiety.” And it’s everywhere people have a 9–5 job. It was never meant to be a source of existential anxiety. For most of the 20th century, it was the solution. You go to work, get the job done, and the company looked after you. You get your pensions. And promotion if you stick around long enough. The deal was basically: ==give us your time, and we’ll give you security.== Millions of people built their entire lives around that agreement. Don’t get me wrong. It still works for most people. But right now, people are more anxious about that arrangement. The trouble is, that’s how we were taught to think about work. Go to school. Get your certificates. Pick a stable career. Find a reputable employer. Stay loyal. And keep climbing. Of course, it was solid advice in 1975. In 2026, it’s making people doubt their very way of making a living.
 
@@ -24,7 +22,7 @@ A better framework for thinking about your life in the next ten years is this: f
 
 - Circle one: what the world needs now and may still need tomorrow. That means paying attention to where money and effort are moving. Where genuine problems exist that need solving.
 - Circle two: what can become so good at that they can’t touch. Not what you’re interested in. What you can master that requires multiple tools to figure out.
-- Circle three: what you can communicate without struggle. Can youexplain your expertise clearly? It’s a skill if you know how to package it for the right audience. People who can write, speak, and teach what they know have a massive advantage (leverage) over equally skilled people who can’t.
+- Circle three: what you can communicate without struggle. Can youexplain your expertise clearly It’s a skill if you know how to package it for the right audience. People who can write, speak, and teach what they know have a massive advantage (leverage) over equally skilled people who can’t.
 
 The sweet spot is where those three circles overlap.
 
@@ -42,7 +40,7 @@ The old model of work is failing people.
 
 The uncertainty and anxiety are getting worse.
 
-You need to hone in on something specific. Now the harder question is: on *what*, exactly? “Build specific knowledge” is easy to say and genuinely difficult to execute. The frameworks out there are confusing. Start with the three-circle logic I explained earlier. It’s more important now than ever. I will help you think clearly about *why* certain capabilities will hold their value over the next decade.
+You need to hone in on something specific. Now the harder question is: on *what*, exactly “Build specific knowledge” is easy to say and genuinely difficult to execute. The frameworks out there are confusing. Start with the three-circle logic I explained earlier. It’s more important now than ever. I will help you think clearly about *why* certain capabilities will hold their value over the next decade.
 
 ## “Value-for-relevance” is replacing “time-for-security”
 
@@ -58,9 +56,9 @@ The ‘human’ elements of work, building relationships, understanding emotions
 
 But the good judgment is a human task.
 
-If you’ve spent years inside a specific industry, healthcare, logistics, financial services, or education, you probably have more of this than you realise. The question is whether you’re treating it as expertise. Or better still, can you present it as leverage?
+If you’ve spent years inside a specific industry, healthcare, logistics, financial services, or education, you probably have more of this than you realise. The question is whether you’re treating it as expertise. Or better still, can you present it as leverage
 
-**A bridge between people who see the world in different ways.** Few people can do this anymore: step into the space between two experts and translate their worlds. Can you make two different kinds of minds understand each other? The technical and non-technical. Creative and commercial. Legal and management. Most companies are full of brilliant people who can’t communicate across these divides. Meetings go in circles. Projects stall. Decisions get made on bad information.
+**A bridge between people who see the world in different ways.** Few people can do this anymore: step into the space between two experts and translate their worlds. Can you make two different kinds of minds understand each other The technical and non-technical. Creative and commercial. Legal and management. Most companies are full of brilliant people who can’t communicate across these divides. Meetings go in circles. Projects stall. Decisions get made on bad information.
 
 People can’t properly explain knowledge to the person who needs it most in the best way possible. If you can make a CFO understand why a technical decision has financial benefits, or make an engineering team understand why a user experience detail matters, you are worth a great deal.
 
@@ -88,7 +86,7 @@ The time to develop specific knowledge is before everyone agrees it’s valuable
 
 The 9–5 system asks for your time and intelligence. The new model is more uncertain, demanding, and personal. But also more rewarding over the long-term. Don’t make reaction (waiting to see what happens, hoping to stay relevant long enough) a way of life. Be more proactive by deciding now what you’re going to become the best version of.
 
-Your starting point is to write down the three or four problems you find genuinely interesting. Things you consistently have opinions, questions or ideas that go beyond common knowledge. Now, is there a version of you that goes five years into it without losing your mind? What would that person know? What could they do that most people couldn’t? Start going there, deliberately. The 9–5 was a 20th-century solution. It worked while systems supported it. It’s now a 21st-century crisis.
+Your starting point is to write down the three or four problems you find genuinely interesting. Things you consistently have opinions, questions or ideas that go beyond common knowledge. Now, is there a version of you that goes five years into it without losing your mind What would that person know What could they do that most people couldn’t Start going there, deliberately. The 9–5 was a 20th-century solution. It worked while systems supported it. It’s now a 21st-century crisis.
 
 Nobody has your corner more than you.
 

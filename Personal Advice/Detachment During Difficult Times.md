@@ -1,8 +1,6 @@
+# Detachment During Difficult Times
+
 ## The antidote for these difficult times.
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*LaZrLAM1HVbEYVjL7CdfCQ.jpeg)
-
-Photo by Saro Contemporary Artist on Unsplash
 
 ==All life is suffering. You don’t just know that. You live it. You experience all of it. The pain, dissatisfaction, and the changes you didn’t ask for. “If there is meaning in life at all, then there must be a meaning in suffering.” I agree with Viktor Frankl. But the “root of suffering is attachment,” Buddha said.== That means what can’t be changed need not be endured. If you can step outside the pain. Detach from all the things falling apart. And the worst things happening right now. You have “stepped outside and above,” what you can’t change. That’s something. A valuable skill they don’t teach in school. But they should. The ability to transcend hard times. And keep your sanity, “untroubled” changes your relationship with the many stressors of life. Right now, the pressure to live is no joke. Entire industries are resetting because of tech intelligence.
 
@@ -16,11 +14,11 @@ But you still have to wake up tomorrow and check things off your to-do list. Job
 
 That distance is enough to start thinking clearly.
 
-Downsize your time horizon. If the next year feels overwhelming, forget the next year. Audit the “now.” What is happening in your physical space? I am sitting in a chair, reading, or looking at a screen. Everything else is a mental projection of a future that hasn’t happened yet. What does the next hour require from? Do that. Then the hour after. You could also describe your experience as if you were observing someone. Stop saying, “I am failing.” Try “I’m going through a complex career transition right now. I’m doing everything I can.”
+Downsize your time horizon. If the next year feels overwhelming, forget the next year. Audit the “now.” What is happening in your physical space I am sitting in a chair, reading, or looking at a screen. Everything else is a mental projection of a future that hasn’t happened yet. What does the next hour require from Do that. Then the hour after. You could also describe your experience as if you were observing someone. Stop saying, “I am failing.” Try “I’m going through a complex career transition right now. I’m doing everything I can.”
 
 It creates immediate breathing room.
 
-Viktor Frankl, surviving Auschwitz, described reducing his mental scope to the smallest survivable unit of time. “Between stimulus and response there is a space. In that space is our power to choose our response,” he said. The economy and the politicians own the “stimulus.” You own the “space.” When you occupy that space, you stop being rattled by the news cycle. You become the one holding the cue. If it worked for Frankl, it works in your home or office. What is within your control today? Write a list. Work only that list. Everything else, the fed’s decisions, the economy going south, the oil wars at the strait of hormuz goes in a separate circle. Things outside your control. Stop spending cognitive time on it. Moving your body helps. A short walk, a few minutes of deliberate breathing. They all take your mind off the things you can’t change. Movement narrows cognition. You literally cannot think broadly when your body is in threat mode.
+Viktor Frankl, surviving Auschwitz, described reducing his mental scope to the smallest survivable unit of time. “Between stimulus and response there is a space. In that space is our power to choose our response,” he said. The economy and the politicians own the “stimulus.” You own the “space.” When you occupy that space, you stop being rattled by the news cycle. You become the one holding the cue. If it worked for Frankl, it works in your home or office. What is within your control today Write a list. Work only that list. Everything else, the fed’s decisions, the economy going south, the oil wars at the strait of hormuz goes in a separate circle. Things outside your control. Stop spending cognitive time on it. Moving your body helps. A short walk, a few minutes of deliberate breathing. They all take your mind off the things you can’t change. Movement narrows cognition. You literally cannot think broadly when your body is in threat mode.
 
 ==Calm the body first, then think.==
 

@@ -1,6 +1,5 @@
 # Rekomendasi Bacaan Gratis Lintas Disiplin
 
-
 ---
 
 ## Rekomendasi Bacaan Berbahasa Inggris

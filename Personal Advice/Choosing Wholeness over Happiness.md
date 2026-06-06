@@ -1,8 +1,6 @@
+# Choosing Wholeness over Happiness
+
 ## Choosing wholeness over happiness isn’t easy, but it pays off in the end
-
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*j9zyk2C86kG8PkC4)
-
-Photo by Steve Johnson on Unsplash
 
 “You can’t choose both, Andy.” My tantra teacher said.
 
@@ -52,7 +50,7 @@ It’s something I’ve been dedicated to doing every single day since.
 
 If you liked this article, you might also enjoy…
 
-## [There Are Only Five Rules In Life (According to Carl Jung)](https://andycmurphy1.medium.com/there-are-only-five-rules-in-life-according-to-carl-jung-e9c740d8ee1a?source=post_page-----eadca56e00e0---------------------------------------)
+## [There Are Only Five Rules In Life (According to Carl Jung)](https://andycmurphy1.medium.com/there-are-only-five-rules-in-life-according-to-carl-jung-e9c740d8ee1a)
 
 ### The first is scary. The second is pleasurable. The third is relieving. The fourth is unnerving. The fifth ties them all…
 

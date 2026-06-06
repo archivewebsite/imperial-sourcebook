@@ -1,5 +1,3 @@
-
-
 # Daftar Bacaan Lintas Disiplin
 
 ## Filsafat, Sains, dan Cara Berpikir
@@ -21,7 +19,7 @@
 |---|--:|---|
 |[Extrinsic Hallucinations in LLMs](https://lilianweng.github.io/posts/2024-07-07-hallucination/) — Lilian Weng|Inggris|LLM, hallucination, evaluasi model|
 |[Artificial Intelligence](https://ourworldindata.org/artificial-intelligence) — Our World in Data|Inggris|AI, data, tren global|
-|[Are Americans worried about AI taking their jobs?](https://ourworldindata.org/are-americans-worried-about-ai-taking-their-jobs) — Our World in Data|Inggris|AI, pekerjaan, persepsi publik|
+|[Are Americans worried about AI taking their jobs](https://ourworldindata.org/are-americans-worried-about-ai-taking-their-jobs) — Our World in Data|Inggris|AI, pekerjaan, persepsi publik|
 |[Digital Technologies Play Politics: Let’s Use Them for Democracy](https://aeon.co/essays/digital-technologies-play-politics-lets-use-them-for-democracy) — Jack Shenker|Inggris|Teknologi, demokrasi, politik digital|
 |[How Social and Physical Technologies Collaborate to Create](https://aeon.co/essays/how-social-and-physical-technologies-collaborate-to-create) — Doyne Farmer dkk.|Inggris|Teknologi, ekonomi, sistem kompleks|
 |[Bazaar: The Rise and Rise of Open Source Politics](https://aeon.co/essays/bazaar-the-rise-and-rise-of-open-source-politics) — Nathaniel Tkacz|Inggris|Open source, politik, internet culture|
@@ -36,7 +34,7 @@
 |[Mengatur Ulang Kebijakan Tindak Pidana di Ruang Siber](https://icjr.or.id/wp-content/uploads/2021/03/ICJR_Mengatur-Ulang-Kebijakan-Pidana-di-Ruang-Siber.pdf) — ICJR|Indonesia|UU ITE, hukum pidana, kebebasan berekspresi|
 |[Tanda-Tanda Kemunduran Demokrasi Digital di Indonesia](https://www.remotivi.or.id/headline/esai/866) — Remotivi|Indonesia|Demokrasi digital, UU ITE, kebebasan sipil|
 |[Menguatnya Kontrol Negara di Ruang Digital dengan Dalih Memerangi Hoaks](https://www.remotivi.or.id/artikel/800) — Remotivi|Indonesia|Hoaks, kontrol negara, kebebasan berekspresi|
-|[Iklan Politik di Media Sosial: Larang atau Izinkan?](https://www.remotivi.or.id/headline/esai/561) — Remotivi|Indonesia|Politik digital, iklan politik, regulasi platform|
+|[Iklan Politik di Media Sosial: Larang atau Izinkan](https://www.remotivi.or.id/headline/esai/561) — Remotivi|Indonesia|Politik digital, iklan politik, regulasi platform|
 
 ## Politik, Demokrasi, dan HAM
 
@@ -96,7 +94,7 @@
 |Bacaan|Bahasa|Fokus|
 |---|--:|---|
 |[Skor Siswa Indonesia dalam Penilaian Global PISA Melorot, Kualitas Guru dan Disparitas Mutu Penyebab Utama](https://smeru.or.id/id/article-id/skor-siswa-indonesia-dalam-penilaian-global-pisa-melorot-kualitas-guru-dan-disparitas) — SMERU|Indonesia|Pendidikan, PISA, kualitas sekolah|
-|[Bagaimana Cara Mendeteksi Krisis Iklim?](https://mongabay.co.id/2025/04/04/bagaimana-cara-mendeteksi-krisis-iklim/) — Mongabay Indonesia|Indonesia|Krisis iklim, literasi iklim, data sains|
+|[Bagaimana Cara Mendeteksi Krisis Iklim](https://mongabay.co.id/2025/04/04/bagaimana-cara-mendeteksi-krisis-iklim/) — Mongabay Indonesia|Indonesia|Krisis iklim, literasi iklim, data sains|
 |[Studi: Iklim Global yang Menghangat dan Deforestasi Mendorong Risiko Kebakaran Hutan Kalimantan](https://mongabay.co.id/2023/04/22/studi-iklim-global-yang-menghangat-dan-deforestasi-mendorong-risiko-kebakaran-hutan-kalimantan/) — Mongabay Indonesia|Indonesia|Iklim, deforestasi, kebakaran hutan|
 |[Deforestasi Picu Peningkatan Berbagai Penyakit](https://mongabay.co.id/2025/10/01/deforestasi-picu-peningkatan-berbagai-penyakit/) — Mongabay Indonesia|Indonesia|Deforestasi, kesehatan, penyakit|
 |[Literasi Perubahan Iklim Bisa Tekan Polarisasi Masyarakat](https://www.ekuatorial.com/2023/03/literasi-perubahan-iklim-bisa-tekan-polarisasi-masyarakat/) — Ekuatorial|Indonesia|Literasi iklim, polarisasi publik|
@@ -106,8 +104,8 @@
 
 |Bacaan|Bahasa|Fokus|
 |---|--:|---|
-|[Do We All Need a Little Time Simply to Sit and Think?](https://aeon.co/essays/do-we-all-need-a-little-time-simply-to-sit-and-think) — Aeon|Inggris|Produktivitas, refleksi, filsafat hidup|
-|[Bagaimana Algoritma Memanipulasi Otak dan Perilaku Kita?](https://kanal.psikologi.ugm.ac.id/neurosains-di-balik-kecanduan-media-sosial-bagaimana-algoritma-memanipulasi-otak-dan-perilaku-kita/) — Kanal Psikologi UGM|Indonesia|Media sosial, distraksi digital, perilaku|
+|[Do We All Need a Little Time Simply to Sit and Think](https://aeon.co/essays/do-we-all-need-a-little-time-simply-to-sit-and-think) — Aeon|Inggris|Produktivitas, refleksi, filsafat hidup|
+|[Bagaimana Algoritma Memanipulasi Otak dan Perilaku Kita](https://kanal.psikologi.ugm.ac.id/neurosains-di-balik-kecanduan-media-sosial-bagaimana-algoritma-memanipulasi-otak-dan-perilaku-kita/) — Kanal Psikologi UGM|Indonesia|Media sosial, distraksi digital, perilaku|
 |[Hubungan Strategi Regulasi Emosi dengan Prokrastinasi Akademik pada Mahasiswa yang Mengerjakan Skripsi](https://repository.unair.ac.id/129950/1/repository%20artikel%20ilmiah_Gifty%20Nathalie.pdf) — UNAIR Repository|Indonesia|Prokrastinasi, regulasi emosi, mahasiswa|
 |[Stres Akademik dan Perceived Social Support dalam Memprediksi Kesehatan Mental Remaja Akhir](https://journal.ugm.ac.id/gamajpp/article/download/76711/pdf) — Jurnal UGM|Indonesia|Stres akademik, dukungan sosial, kesehatan mental|
 |[On Marissa’s Mind: Digital Minimalism](https://greatmind.id/article/on-marissa-s-mind-digital-minimalism) — Greatmind|Indonesia|Digital minimalism, fokus, ruang bosan|

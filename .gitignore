@@ -35,3 +35,4 @@ desktop.ini
 *.run.xml
 *.synctex.gz
 *.toc
+.hexel/startup-timing.json

@@ -1,0 +1,896 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=e6]:
+      - heading "Navigation Menu" [level=2] [ref=e7]
+      - generic [ref=e8]:
+        - link "Homepage" [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img [ref=e11]
+        - generic [ref=e13]:
+          - navigation "Global" [ref=e16]:
+            - list [ref=e17]:
+              - listitem [ref=e18]:
+                - button "Platform" [ref=e20] [cursor=pointer]:
+                  - text: Platform
+                  - img [ref=e21]
+              - listitem [ref=e23]:
+                - button "Solutions" [ref=e25] [cursor=pointer]:
+                  - text: Solutions
+                  - img [ref=e26]
+              - listitem [ref=e28]:
+                - button "Resources" [ref=e30] [cursor=pointer]:
+                  - text: Resources
+                  - img [ref=e31]
+              - listitem [ref=e33]:
+                - button "Open Source" [ref=e35] [cursor=pointer]:
+                  - text: Open Source
+                  - img [ref=e36]
+              - listitem [ref=e38]:
+                - button "Enterprise" [ref=e40] [cursor=pointer]:
+                  - text: Enterprise
+                  - img [ref=e41]
+              - listitem [ref=e43]:
+                - link "Pricing" [ref=e44] [cursor=pointer]:
+                  - /url: https://github.com/pricing
+                  - generic [ref=e45]: Pricing
+          - generic [ref=e46]:
+            - button "Search or jump to…" [ref=e49] [cursor=pointer]:
+              - img [ref=e51]
+            - link "Sign in" [ref=e54] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Farchivewebsite%2Fimperial-sourcebook
+            - link "Sign up" [ref=e55] [cursor=pointer]:
+              - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=archivewebsite%2Fimperial-sourcebook
+            - button "Appearance settings" [ref=e58] [cursor=pointer]:
+              - img
+  - main [ref=e62]:
+    - generic [ref=e63]:
+      - generic [ref=e64]:
+        - generic [ref=e66]:
+          - img [ref=e67]
+          - link "archivewebsite" [ref=e70] [cursor=pointer]:
+            - /url: /archivewebsite
+          - generic [ref=e71]: /
+          - strong [ref=e72]:
+            - link "imperial-sourcebook" [ref=e73] [cursor=pointer]:
+              - /url: /archivewebsite/imperial-sourcebook
+          - generic [ref=e74]: Public
+        - generic [ref=e75]:
+          - list:
+            - listitem [ref=e76]:
+              - link "You must be signed in to change notification settings" [ref=e77] [cursor=pointer]:
+                - /url: /login?return_to=%2Farchivewebsite%2Fimperial-sourcebook
+                - img [ref=e78]
+                - text: Notifications
+            - listitem [ref=e80]:
+              - link "Fork 0" [ref=e81] [cursor=pointer]:
+                - /url: /login?return_to=%2Farchivewebsite%2Fimperial-sourcebook
+                - img [ref=e82]
+                - text: Fork
+                - generic "0" [ref=e84]
+            - listitem [ref=e85]:
+              - link "You must be signed in to star a repository" [ref=e87] [cursor=pointer]:
+                - /url: /login?return_to=%2Farchivewebsite%2Fimperial-sourcebook
+                - img [ref=e88]
+                - text: Star
+                - generic "0 users starred this repository" [ref=e90]: "0"
+      - navigation "Repository" [ref=e91]:
+        - list [ref=e92]:
+          - listitem [ref=e93]:
+            - link "Code" [ref=e94] [cursor=pointer]:
+              - /url: /archivewebsite/imperial-sourcebook
+              - img [ref=e95]
+              - generic [ref=e97]: Code
+          - listitem [ref=e98]:
+            - link "Issues" [ref=e99] [cursor=pointer]:
+              - /url: /archivewebsite/imperial-sourcebook/issues
+              - img [ref=e100]
+              - generic [ref=e103]: Issues
+          - listitem [ref=e104]:
+            - link "Pull requests" [ref=e105] [cursor=pointer]:
+              - /url: /archivewebsite/imperial-sourcebook/pulls
+              - img [ref=e106]
+              - generic [ref=e108]: Pull requests
+          - listitem [ref=e109]:
+            - link "Actions" [ref=e110] [cursor=pointer]:
+              - /url: /archivewebsite/imperial-sourcebook/actions
+              - img [ref=e111]
+              - generic [ref=e113]: Actions
+          - listitem [ref=e114]:
+            - link "Projects" [ref=e115] [cursor=pointer]:
+              - /url: /archivewebsite/imperial-sourcebook/projects
+              - img [ref=e116]
+              - generic [ref=e118]: Projects
+          - listitem [ref=e119]:
+            - link "Security and quality" [ref=e120] [cursor=pointer]:
+              - /url: /archivewebsite/imperial-sourcebook/security
+              - img [ref=e121]
+              - generic [ref=e123]: Security and quality
+          - listitem [ref=e124]:
+            - link "Insights" [ref=e125] [cursor=pointer]:
+              - /url: /archivewebsite/imperial-sourcebook/pulse
+              - img [ref=e126]
+              - generic [ref=e128]: Insights
+    - generic [ref=e141]:
+      - heading "archivewebsite/imperial-sourcebook" [level=1] [ref=e143]
+      - generic [ref=e144]:
+        - generic [ref=e147]:
+          - generic [ref=e148]:
+            - generic [ref=e149]:
+              - button "main branch" [ref=e151] [cursor=pointer]:
+                - generic [ref=e152]:
+                  - generic [ref=e154]:
+                    - img [ref=e156]
+                    - generic [ref=e159]: main
+                  - generic:
+                    - img
+              - generic [ref=e160]:
+                - link "Go to Branches page" [ref=e161] [cursor=pointer]:
+                  - /url: /archivewebsite/imperial-sourcebook/branches
+                  - img [ref=e162]
+                - link "Go to Tags page" [ref=e164] [cursor=pointer]:
+                  - /url: /archivewebsite/imperial-sourcebook/tags
+                  - img [ref=e165]
+            - generic [ref=e167]:
+              - generic [ref=e171]:
+                - img [ref=e173]
+                - combobox "Go to file" [ref=e175]
+              - button "Code" [ref=e176] [cursor=pointer]:
+                - generic [ref=e177]:
+                  - generic:
+                    - img
+                  - generic [ref=e178]: Code
+                  - generic:
+                    - img
+          - generic [ref=e179]:
+            - generic [ref=e180]:
+              - heading "Folders and files" [level=2] [ref=e181]
+              - table "Folders and files" [ref=e182]:
+                - rowgroup:
+                  - row "Name Last commit message Last commit date":
+                    - columnheader "Name"
+                    - columnheader "Last commit message":
+                      - generic "Last commit message"
+                    - columnheader "Last commit date":
+                      - generic "Last commit date"
+                - rowgroup [ref=e183]:
+                  - row "Latest commit archivewebsite commits by archivewebsite Organize Sourcebook inbox Commit 67e655c · Jun 6, 2026yesterday History 244 Commits" [ref=e184]:
+                    - cell "Latest commit archivewebsite commits by archivewebsite Organize Sourcebook inbox Commit 67e655c · Jun 6, 2026yesterday History 244 Commits" [ref=e185]:
+                      - generic [ref=e186]:
+                        - heading "Latest commit" [level=2] [ref=e187]
+                        - generic [ref=e188]:
+                          - generic [ref=e190]:
+                            - link "archivewebsite" [ref=e191] [cursor=pointer]:
+                              - /url: /archivewebsite
+                              - img "archivewebsite" [ref=e192]
+                            - link "commits by archivewebsite" [ref=e193] [cursor=pointer]:
+                              - /url: /archivewebsite/imperial-sourcebook/commits?author=archivewebsite
+                              - text: archivewebsite
+                          - link "Organize Sourcebook inbox" [ref=e197] [cursor=pointer]:
+                            - /url: /archivewebsite/imperial-sourcebook/commit/67e655cec09602be3d7bfe86aa9dc61eca3f83d4
+                        - generic [ref=e198]:
+                          - generic [ref=e200]:
+                            - link "Commit 67e655c" [ref=e201] [cursor=pointer]:
+                              - /url: /archivewebsite/imperial-sourcebook/commit/67e655cec09602be3d7bfe86aa9dc61eca3f83d4
+                              - text: 67e655c
+                            - text: ·
+                            - generic "Jun 6, 2026, 8:13 PM GMT+8" [ref=e202]: Jun 6, 2026yesterday
+                          - generic [ref=e203]:
+                            - heading "History" [level=2] [ref=e204]
+                            - link "244 Commits" [ref=e205] [cursor=pointer]:
+                              - /url: /archivewebsite/imperial-sourcebook/commits/main/
+                              - generic [ref=e206]:
+                                - generic:
+                                  - img
+                                - generic [ref=e207]: 244 Commits
+                  - 'row ".obsidian, (Directory) vault backup: 3 May 19, 20263 weeks ago" [ref=e208]':
+                    - cell ".obsidian, (Directory)" [ref=e209]:
+                      - generic [ref=e210]:
+                        - img [ref=e211]
+                        - link ".obsidian, (Directory)" [ref=e216] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/tree/main/.obsidian
+                          - text: .obsidian
+                    - 'cell "vault backup: 3" [ref=e217]':
+                      - 'link "vault backup: 3" [ref=e220] [cursor=pointer]':
+                        - /url: /archivewebsite/imperial-sourcebook/commit/bf5f33659bf98d6325377fcfe79802ee103ac611
+                    - cell "May 19, 20263 weeks ago" [ref=e221]:
+                      - generic [ref=e222]: May 19, 20263 weeks ago
+                  - row "Attachments, (Directory) Organize Sourcebook inbox Jun 6, 2026yesterday" [ref=e223]:
+                    - cell "Attachments, (Directory)" [ref=e224]:
+                      - generic [ref=e225]:
+                        - img [ref=e226]
+                        - link "Attachments, (Directory)" [ref=e231] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/tree/main/Attachments
+                          - text: Attachments
+                    - cell "Organize Sourcebook inbox" [ref=e232]:
+                      - link "Organize Sourcebook inbox" [ref=e235] [cursor=pointer]:
+                        - /url: /archivewebsite/imperial-sourcebook/commit/67e655cec09602be3d7bfe86aa9dc61eca3f83d4
+                    - cell "Jun 6, 2026yesterday" [ref=e236]:
+                      - generic [ref=e237]: Jun 6, 2026yesterday
+                  - 'row "Bahas Soal, (Directory) vault backup: 63 May 16, 20263 weeks ago" [ref=e238]':
+                    - cell "Bahas Soal, (Directory)" [ref=e239]:
+                      - generic [ref=e240]:
+                        - img [ref=e241]
+                        - link "Bahas Soal, (Directory)" [ref=e246] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/tree/main/Bahas%20Soal
+                          - text: Bahas Soal
+                    - 'cell "vault backup: 63" [ref=e247]':
+                      - 'link "vault backup: 63" [ref=e250] [cursor=pointer]':
+                        - /url: /archivewebsite/imperial-sourcebook/commit/27534e10c0a6fd8aa85e0dc2fdf650e2d0858896
+                    - cell "May 16, 20263 weeks ago" [ref=e251]:
+                      - generic [ref=e252]: May 16, 20263 weeks ago
+                  - row "Clippings, (Directory) Organize inbox and route records May 26, 20262 weeks ago" [ref=e253]:
+                    - cell "Clippings, (Directory)" [ref=e254]:
+                      - generic [ref=e255]:
+                        - img [ref=e256]
+                        - link "Clippings, (Directory)" [ref=e261] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/tree/main/Clippings
+                          - text: Clippings
+                    - cell "Organize inbox and route records" [ref=e262]:
+                      - link "Organize inbox and route records" [ref=e265] [cursor=pointer]:
+                        - /url: /archivewebsite/imperial-sourcebook/commit/de973ae3fecf9f4aae4f1380efdc2b6149766d2d
+                    - cell "May 26, 20262 weeks ago" [ref=e266]:
+                      - generic [ref=e267]: May 26, 20262 weeks ago
+                  - row "Collected Readings, (Directory) Organize Sourcebook inbox Jun 6, 2026yesterday" [ref=e268]:
+                    - cell "Collected Readings, (Directory)" [ref=e269]:
+                      - generic [ref=e270]:
+                        - img [ref=e271]
+                        - link "Collected Readings, (Directory)" [ref=e276] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/tree/main/Collected%20Readings
+                          - text: Collected Readings
+                    - cell "Organize Sourcebook inbox" [ref=e277]:
+                      - link "Organize Sourcebook inbox" [ref=e280] [cursor=pointer]:
+                        - /url: /archivewebsite/imperial-sourcebook/commit/67e655cec09602be3d7bfe86aa9dc61eca3f83d4
+                    - cell "Jun 6, 2026yesterday" [ref=e281]:
+                      - generic [ref=e282]: Jun 6, 2026yesterday
+                  - 'row "Curiosity Shelf, (Directory) vault backup: 29 May 2, 2026last month" [ref=e283]':
+                    - cell "Curiosity Shelf, (Directory)" [ref=e284]:
+                      - generic [ref=e285]:
+                        - img [ref=e286]
+                        - link "Curiosity Shelf, (Directory)" [ref=e291] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/tree/main/Curiosity%20Shelf
+                          - text: Curiosity Shelf
+                    - 'cell "vault backup: 29" [ref=e292]':
+                      - 'link "vault backup: 29" [ref=e295] [cursor=pointer]':
+                        - /url: /archivewebsite/imperial-sourcebook/commit/148bc1e7f856ce591d9d5aa3d34b4ff2e51a118e
+                    - cell "May 2, 2026last month" [ref=e296]:
+                      - generic [ref=e297]: May 2, 2026last month
+                  - row "Design, (Directory) Organize inbox and route records May 26, 20262 weeks ago" [ref=e298]:
+                    - cell "Design, (Directory)" [ref=e299]:
+                      - generic [ref=e300]:
+                        - img [ref=e301]
+                        - link "Design, (Directory)" [ref=e306] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/tree/main/Design
+                          - text: Design
+                    - cell "Organize inbox and route records" [ref=e307]:
+                      - link "Organize inbox and route records" [ref=e310] [cursor=pointer]:
+                        - /url: /archivewebsite/imperial-sourcebook/commit/de973ae3fecf9f4aae4f1380efdc2b6149766d2d
+                    - cell "May 26, 20262 weeks ago" [ref=e311]:
+                      - generic [ref=e312]: May 26, 20262 weeks ago
+                  - 'row "Glossary, (Directory) vault backup: 44 Apr 30, 20262 months ago" [ref=e313]':
+                    - cell "Glossary, (Directory)" [ref=e314]:
+                      - generic [ref=e315]:
+                        - img [ref=e316]
+                        - link "Glossary, (Directory)" [ref=e321] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/tree/main/Glossary
+                          - text: Glossary
+                    - 'cell "vault backup: 44" [ref=e322]':
+                      - 'link "vault backup: 44" [ref=e325] [cursor=pointer]':
+                        - /url: /archivewebsite/imperial-sourcebook/commit/711ab388e23e1bfbfb36e1f6d2ab15a0d0aae0e8
+                    - cell "Apr 30, 20262 months ago" [ref=e326]:
+                      - generic [ref=e327]: Apr 30, 20262 months ago
+                  - row "Inbox, (Directory) Organize Sourcebook inbox Jun 6, 2026yesterday" [ref=e328]:
+                    - cell "Inbox, (Directory)" [ref=e329]:
+                      - generic [ref=e330]:
+                        - img [ref=e331]
+                        - link "Inbox, (Directory)" [ref=e336] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/tree/main/Inbox
+                          - text: Inbox
+                    - cell "Organize Sourcebook inbox" [ref=e337]:
+                      - link "Organize Sourcebook inbox" [ref=e340] [cursor=pointer]:
+                        - /url: /archivewebsite/imperial-sourcebook/commit/67e655cec09602be3d7bfe86aa9dc61eca3f83d4
+                    - cell "Jun 6, 2026yesterday" [ref=e341]:
+                      - generic [ref=e342]: Jun 6, 2026yesterday
+                  - row "Language, (Directory) Organize inbox and route records May 26, 20262 weeks ago" [ref=e343]:
+                    - cell "Language, (Directory)" [ref=e344]:
+                      - generic [ref=e345]:
+                        - img [ref=e346]
+                        - link "Language, (Directory)" [ref=e351] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/tree/main/Language
+                          - text: Language
+                    - cell "Organize inbox and route records" [ref=e352]:
+                      - link "Organize inbox and route records" [ref=e355] [cursor=pointer]:
+                        - /url: /archivewebsite/imperial-sourcebook/commit/de973ae3fecf9f4aae4f1380efdc2b6149766d2d
+                    - cell "May 26, 20262 weeks ago" [ref=e356]:
+                      - generic [ref=e357]: May 26, 20262 weeks ago
+                  - row "Learning & Skills, (Directory) Organize Sourcebook inbox Jun 6, 2026yesterday" [ref=e358]:
+                    - cell "Learning & Skills, (Directory)" [ref=e359]:
+                      - generic [ref=e360]:
+                        - img [ref=e361]
+                        - link "Learning & Skills, (Directory)" [ref=e366] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/tree/main/Learning%20%26%20Skills
+                          - text: Learning & Skills
+                    - cell "Organize Sourcebook inbox" [ref=e367]:
+                      - link "Organize Sourcebook inbox" [ref=e370] [cursor=pointer]:
+                        - /url: /archivewebsite/imperial-sourcebook/commit/67e655cec09602be3d7bfe86aa9dc61eca3f83d4
+                    - cell "Jun 6, 2026yesterday" [ref=e371]:
+                      - generic [ref=e372]: Jun 6, 2026yesterday
+                  - row "Motivation, (Directory) Organize Sourcebook inbox Jun 6, 2026yesterday" [ref=e373]:
+                    - cell "Motivation, (Directory)" [ref=e374]:
+                      - generic [ref=e375]:
+                        - img [ref=e376]
+                        - link "Motivation, (Directory)" [ref=e381] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/tree/main/Motivation
+                          - text: Motivation
+                    - cell "Organize Sourcebook inbox" [ref=e382]:
+                      - link "Organize Sourcebook inbox" [ref=e385] [cursor=pointer]:
+                        - /url: /archivewebsite/imperial-sourcebook/commit/67e655cec09602be3d7bfe86aa9dc61eca3f83d4
+                    - cell "Jun 6, 2026yesterday" [ref=e386]:
+                      - generic [ref=e387]: Jun 6, 2026yesterday
+                  - row "Notes, (Directory) Organize Sourcebook inbox Jun 6, 2026yesterday" [ref=e388]:
+                    - cell "Notes, (Directory)" [ref=e389]:
+                      - generic [ref=e390]:
+                        - img [ref=e391]
+                        - link "Notes, (Directory)" [ref=e396] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/tree/main/Notes
+                          - text: Notes
+                    - cell "Organize Sourcebook inbox" [ref=e397]:
+                      - link "Organize Sourcebook inbox" [ref=e400] [cursor=pointer]:
+                        - /url: /archivewebsite/imperial-sourcebook/commit/67e655cec09602be3d7bfe86aa9dc61eca3f83d4
+                    - cell "Jun 6, 2026yesterday" [ref=e401]:
+                      - generic [ref=e402]: Jun 6, 2026yesterday
+                  - 'row "People, (Directory) vault backup: 44 Apr 30, 20262 months ago" [ref=e403]':
+                    - cell "People, (Directory)" [ref=e404]:
+                      - generic [ref=e405]:
+                        - img [ref=e406]
+                        - link "People, (Directory)" [ref=e411] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/tree/main/People
+                          - text: People
+                    - 'cell "vault backup: 44" [ref=e412]':
+                      - 'link "vault backup: 44" [ref=e415] [cursor=pointer]':
+                        - /url: /archivewebsite/imperial-sourcebook/commit/711ab388e23e1bfbfb36e1f6d2ab15a0d0aae0e8
+                    - cell "Apr 30, 20262 months ago" [ref=e416]:
+                      - generic [ref=e417]: Apr 30, 20262 months ago
+                  - row "Personal Advice, (Directory) Organize Sourcebook inbox Jun 6, 2026yesterday" [ref=e418]:
+                    - cell "Personal Advice, (Directory)" [ref=e419]:
+                      - generic [ref=e420]:
+                        - img [ref=e421]
+                        - link "Personal Advice, (Directory)" [ref=e426] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/tree/main/Personal%20Advice
+                          - text: Personal Advice
+                    - cell "Organize Sourcebook inbox" [ref=e427]:
+                      - link "Organize Sourcebook inbox" [ref=e430] [cursor=pointer]:
+                        - /url: /archivewebsite/imperial-sourcebook/commit/67e655cec09602be3d7bfe86aa9dc61eca3f83d4
+                    - cell "Jun 6, 2026yesterday" [ref=e431]:
+                      - generic [ref=e432]: Jun 6, 2026yesterday
+                  - 'row "Science Reference, (Directory) vault backup: 44 Apr 30, 20262 months ago" [ref=e433]':
+                    - cell "Science Reference, (Directory)" [ref=e434]:
+                      - generic [ref=e435]:
+                        - img [ref=e436]
+                        - link "Science Reference, (Directory)" [ref=e441] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/tree/main/Science%20Reference
+                          - text: Science Reference
+                    - 'cell "vault backup: 44" [ref=e442]':
+                      - 'link "vault backup: 44" [ref=e445] [cursor=pointer]':
+                        - /url: /archivewebsite/imperial-sourcebook/commit/711ab388e23e1bfbfb36e1f6d2ab15a0d0aae0e8
+                    - cell "Apr 30, 20262 months ago" [ref=e446]:
+                      - generic [ref=e447]: Apr 30, 20262 months ago
+                  - 'row "Tools & Software Reference, (Directory) vault backup: 8943 May 10, 2026last month" [ref=e448]':
+                    - cell "Tools & Software Reference, (Directory)" [ref=e449]:
+                      - generic [ref=e450]:
+                        - img [ref=e451]
+                        - link "Tools & Software Reference, (Directory)" [ref=e456] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/tree/main/Tools%20%26%20Software%20Reference
+                          - text: Tools & Software Reference
+                    - 'cell "vault backup: 8943" [ref=e457]':
+                      - 'link "vault backup: 8943" [ref=e460] [cursor=pointer]':
+                        - /url: /archivewebsite/imperial-sourcebook/commit/90c868716d337d0ffca596babff0380925c5130f
+                    - cell "May 10, 2026last month" [ref=e461]:
+                      - generic [ref=e462]: May 10, 2026last month
+                  - 'row "Tugas, (Directory) vault backup: 51 Apr 30, 20262 months ago" [ref=e463]':
+                    - cell "Tugas, (Directory)" [ref=e464]:
+                      - generic [ref=e465]:
+                        - img [ref=e466]
+                        - link "Tugas, (Directory)" [ref=e471] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/tree/main/Tugas
+                          - text: Tugas
+                    - 'cell "vault backup: 51" [ref=e472]':
+                      - 'link "vault backup: 51" [ref=e475] [cursor=pointer]':
+                        - /url: /archivewebsite/imperial-sourcebook/commit/660aad6cd47dca83d90e59ab0fea5a99932001c0
+                    - cell "Apr 30, 20262 months ago" [ref=e476]:
+                      - generic [ref=e477]: Apr 30, 20262 months ago
+                  - 'row ".gitattributes, (File) vault backup: 8943 May 10, 2026last month" [ref=e478]':
+                    - cell ".gitattributes, (File)" [ref=e479]:
+                      - generic [ref=e480]:
+                        - img [ref=e481]
+                        - link ".gitattributes, (File)" [ref=e486] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/blob/main/.gitattributes
+                          - text: .gitattributes
+                    - 'cell "vault backup: 8943" [ref=e487]':
+                      - 'link "vault backup: 8943" [ref=e490] [cursor=pointer]':
+                        - /url: /archivewebsite/imperial-sourcebook/commit/90c868716d337d0ffca596babff0380925c5130f
+                    - cell "May 10, 2026last month" [ref=e491]:
+                      - generic [ref=e492]: May 10, 2026last month
+                  - row ".gitignore, (File) Organize Sourcebook inbox Jun 6, 2026yesterday" [ref=e493]:
+                    - cell ".gitignore, (File)" [ref=e494]:
+                      - generic [ref=e495]:
+                        - img [ref=e496]
+                        - link ".gitignore, (File)" [ref=e501] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/blob/main/.gitignore
+                          - text: .gitignore
+                    - cell "Organize Sourcebook inbox" [ref=e502]:
+                      - link "Organize Sourcebook inbox" [ref=e505] [cursor=pointer]:
+                        - /url: /archivewebsite/imperial-sourcebook/commit/67e655cec09602be3d7bfe86aa9dc61eca3f83d4
+                    - cell "Jun 6, 2026yesterday" [ref=e506]:
+                      - generic [ref=e507]: Jun 6, 2026yesterday
+                  - 'row "AGENTS.md, (File) vault backup: 1 May 2, 2026last month" [ref=e508]':
+                    - cell "AGENTS.md, (File)" [ref=e509]:
+                      - generic [ref=e510]:
+                        - img [ref=e511]
+                        - link "AGENTS.md, (File)" [ref=e516] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/blob/main/AGENTS.md
+                          - text: AGENTS.md
+                    - 'cell "vault backup: 1" [ref=e517]':
+                      - 'link "vault backup: 1" [ref=e520] [cursor=pointer]':
+                        - /url: /archivewebsite/imperial-sourcebook/commit/ad6f6daa7199445be60b426b7a974bf69cb829fd
+                    - cell "May 2, 2026last month" [ref=e521]:
+                      - generic [ref=e522]: May 2, 2026last month
+                  - row "CHANGELOG.md, (File) Organize Sourcebook inbox Jun 6, 2026yesterday" [ref=e523]:
+                    - cell "CHANGELOG.md, (File)" [ref=e524]:
+                      - generic [ref=e525]:
+                        - img [ref=e526]
+                        - link "CHANGELOG.md, (File)" [ref=e531] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/blob/main/CHANGELOG.md
+                          - text: CHANGELOG.md
+                    - cell "Organize Sourcebook inbox" [ref=e532]:
+                      - link "Organize Sourcebook inbox" [ref=e535] [cursor=pointer]:
+                        - /url: /archivewebsite/imperial-sourcebook/commit/67e655cec09602be3d7bfe86aa9dc61eca3f83d4
+                    - cell "Jun 6, 2026yesterday" [ref=e536]:
+                      - generic [ref=e537]: Jun 6, 2026yesterday
+                  - row "LICENSE, (File) Bootstrap Imperial Sourcebook vault Apr 22, 20262 months ago" [ref=e538]:
+                    - cell "LICENSE, (File)" [ref=e539]:
+                      - generic [ref=e540]:
+                        - img [ref=e541]
+                        - link "LICENSE, (File)" [ref=e546] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/blob/main/LICENSE
+                          - text: LICENSE
+                    - cell "Bootstrap Imperial Sourcebook vault" [ref=e547]:
+                      - link "Bootstrap Imperial Sourcebook vault" [ref=e550] [cursor=pointer]:
+                        - /url: /archivewebsite/imperial-sourcebook/commit/6473aa7d8f78c8cdaa32a9b80d31ea6e52910532
+                    - cell "Apr 22, 20262 months ago" [ref=e551]:
+                      - generic [ref=e552]: Apr 22, 20262 months ago
+                  - 'row "PATH.md, (File) vault backup: 44 Apr 30, 20262 months ago" [ref=e553]':
+                    - cell "PATH.md, (File)" [ref=e554]:
+                      - generic [ref=e555]:
+                        - img [ref=e556]
+                        - link "PATH.md, (File)" [ref=e561] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/blob/main/PATH.md
+                          - text: PATH.md
+                    - 'cell "vault backup: 44" [ref=e562]':
+                      - 'link "vault backup: 44" [ref=e565] [cursor=pointer]':
+                        - /url: /archivewebsite/imperial-sourcebook/commit/711ab388e23e1bfbfb36e1f6d2ab15a0d0aae0e8
+                    - cell "Apr 30, 20262 months ago" [ref=e566]:
+                      - generic [ref=e567]: Apr 30, 20262 months ago
+                  - 'row "README.md, (File) vault backup: 44 Apr 30, 20262 months ago" [ref=e568]':
+                    - cell "README.md, (File)" [ref=e569]:
+                      - generic [ref=e570]:
+                        - img [ref=e571]
+                        - link "README.md, (File)" [ref=e576] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/blob/main/README.md
+                          - text: README.md
+                    - 'cell "vault backup: 44" [ref=e577]':
+                      - 'link "vault backup: 44" [ref=e580] [cursor=pointer]':
+                        - /url: /archivewebsite/imperial-sourcebook/commit/711ab388e23e1bfbfb36e1f6d2ab15a0d0aae0e8
+                    - cell "Apr 30, 20262 months ago" [ref=e581]:
+                      - generic [ref=e582]: Apr 30, 20262 months ago
+                  - 'row "REVIEW.md, (File) vault backup: 47 Apr 30, 20262 months ago" [ref=e583]':
+                    - cell "REVIEW.md, (File)" [ref=e584]:
+                      - generic [ref=e585]:
+                        - img [ref=e586]
+                        - link "REVIEW.md, (File)" [ref=e591] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/blob/main/REVIEW.md
+                          - text: REVIEW.md
+                    - 'cell "vault backup: 47" [ref=e592]':
+                      - 'link "vault backup: 47" [ref=e595] [cursor=pointer]':
+                        - /url: /archivewebsite/imperial-sourcebook/commit/1a9d606e75338cee74630689940ffc4f7e018a28
+                    - cell "Apr 30, 20262 months ago" [ref=e596]:
+                      - generic [ref=e597]: Apr 30, 20262 months ago
+                  - 'row "Rencana Perubahan Hidup 12 Bulan.md, (File) vault backup: 1 May 22, 20262 weeks ago" [ref=e598]':
+                    - cell "Rencana Perubahan Hidup 12 Bulan.md, (File)" [ref=e599]:
+                      - generic [ref=e600]:
+                        - img [ref=e601]
+                        - link "Rencana Perubahan Hidup 12 Bulan.md, (File)" [ref=e606] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/blob/main/Rencana%20Perubahan%20Hidup%2012%20Bulan.md
+                          - text: Rencana Perubahan Hidup 12 Bulan.md
+                    - 'cell "vault backup: 1" [ref=e607]':
+                      - 'link "vault backup: 1" [ref=e610] [cursor=pointer]':
+                        - /url: /archivewebsite/imperial-sourcebook/commit/8366943361e2e10d8cf1c74ef525c4b184519fbf
+                    - cell "May 22, 20262 weeks ago" [ref=e611]:
+                      - generic [ref=e612]: May 22, 20262 weeks ago
+                  - 'row "TAGS.md, (File) vault backup: 35 Apr 30, 20262 months ago" [ref=e613]':
+                    - cell "TAGS.md, (File)" [ref=e614]:
+                      - generic [ref=e615]:
+                        - img [ref=e616]
+                        - link "TAGS.md, (File)" [ref=e621] [cursor=pointer]:
+                          - /url: /archivewebsite/imperial-sourcebook/blob/main/TAGS.md
+                          - text: TAGS.md
+                    - 'cell "vault backup: 35" [ref=e622]':
+                      - 'link "vault backup: 35" [ref=e625] [cursor=pointer]':
+                        - /url: /archivewebsite/imperial-sourcebook/commit/bc541651ae25c4c7b9850466e5975fa38ec37b3c
+                    - cell "Apr 30, 20262 months ago" [ref=e626]:
+                      - generic [ref=e627]: Apr 30, 20262 months ago
+            - generic [ref=e629]:
+              - generic [ref=e630]:
+                - heading "Repository files navigation" [level=2] [ref=e631]
+                - navigation "Repository files" [ref=e632]:
+                  - list [ref=e633]:
+                    - listitem [ref=e634]:
+                      - link "README" [ref=e635] [cursor=pointer]:
+                        - /url: "#"
+                        - img [ref=e637]
+                        - generic [ref=e639]: README
+                    - listitem [ref=e640]:
+                      - link "MIT license" [ref=e641] [cursor=pointer]:
+                        - /url: "#"
+                        - img [ref=e643]
+                        - generic [ref=e645]: MIT license
+                - button "Outline" [ref=e646] [cursor=pointer]:
+                  - img [ref=e647]
+              - article [ref=e650]:
+                - generic [ref=e651]:
+                  - heading "Imperial Sourcebook" [level=1] [ref=e652]
+                  - 'link "Permalink: Imperial Sourcebook" [ref=e653] [cursor=pointer]':
+                    - /url: "#imperial-sourcebook"
+                    - img [ref=e654]
+                - paragraph [ref=e656]: Imperial Sourcebook is the sibling Obsidian vault for durable knowledge, study material, reference notes, worked examples, collected readings, and source-driven writing that should stay useful beyond the project or moment that produced it.
+                - generic [ref=e657]:
+                  - heading "Why This Vault Exists" [level=2] [ref=e658]
+                  - 'link "Permalink: Why This Vault Exists" [ref=e659] [cursor=pointer]':
+                    - /url: "#why-this-vault-exists"
+                    - img [ref=e660]
+                - paragraph [ref=e662]:
+                  - text: This vault was split out of
+                  - code [ref=e663]: Imperial Records
+                  - text: so long-lived knowledge can grow separately from execution, maintenance, and rough capture. The goal is to make reference material easier to revisit, reorganize, and connect without crowding the main operational vault.
+                - generic [ref=e664]:
+                  - heading "Relationship To Imperial Records" [level=2] [ref=e665]
+                  - 'link "Permalink: Relationship To Imperial Records" [ref=e666] [cursor=pointer]':
+                    - /url: "#relationship-to-imperial-records"
+                    - img [ref=e667]
+                - paragraph [ref=e669]:
+                  - code [ref=e670]: D:\Imperial Records
+                  - text: is the main vault. Use it for capture, active projects, ongoing areas, experiments, prompts, future commitments, and daily operations.
+                - paragraph [ref=e671]:
+                  - code [ref=e672]: D:\Imperial Sourcebook
+                  - text: "is the knowledge vault. Use it for material that should remain useful after the immediate task is done: study notes, reusable references, source clippings after triage, worked examples, readings, design references, and practical advice."
+                - paragraph [ref=e673]:
+                  - text: Records points here through its
+                  - code [ref=e674]: Resources
+                  - text: marker folder. Sourcebook points back through this root documentation and
+                  - code [ref=e675]: PATH.md
+                  - text: ; no reciprocal marker folder is needed here.
+                - generic [ref=e676]:
+                  - heading "Top-Level Map" [level=2] [ref=e677]
+                  - 'link "Permalink: Top-Level Map" [ref=e678] [cursor=pointer]':
+                    - /url: "#top-level-map"
+                    - img [ref=e679]
+                - list [ref=e681]:
+                  - listitem [ref=e682]:
+                    - code [ref=e683]: Bahas Soal
+                    - text: ": worked solutions, formula support, and practice breakdowns."
+                  - listitem [ref=e684]:
+                    - code [ref=e685]: Clippings
+                    - text: ": imported source material that belongs in Sourcebook but still needs cleanup, extraction, or routing."
+                  - listitem [ref=e686]:
+                    - code [ref=e687]: Collected Readings
+                    - text: ": curated readings, grouped excerpts, and texts worth keeping together."
+                  - listitem [ref=e688]:
+                    - code [ref=e689]: Curiosity Shelf
+                    - text: ": books, topics, and references worth keeping visible before mastery."
+                  - listitem [ref=e690]:
+                    - code [ref=e691]: Design
+                    - text: ": design study notes, design class material, and visual or product references."
+                  - listitem [ref=e692]:
+                    - code [ref=e693]: Glossary
+                    - text: ": atomic term-definition entries for concepts that need a canonical short definition."
+                  - listitem [ref=e694]:
+                    - code [ref=e695]: Inbox
+                    - text: ": low-friction intake for material already meant for Sourcebook."
+                  - listitem [ref=e696]:
+                    - code [ref=e697]: Language
+                    - text: ": language-specific dictionaries and compact reference notes, organized by language."
+                  - listitem [ref=e698]:
+                    - code [ref=e699]: Learning & Skills
+                    - text: ": study notes, technical references, learning systems, and skill-building material."
+                  - listitem [ref=e700]:
+                    - code [ref=e701]: Motivation
+                    - text: ": short notes that restore perspective or momentum."
+                  - listitem [ref=e702]:
+                    - code [ref=e703]: Notes
+                    - text: ": broad source-driven notes, topical references, and"
+                    - code [ref=e704]: Notes/Random Questions
+                    - text: for open curiosities.
+                  - listitem [ref=e705]:
+                    - code [ref=e706]: People
+                    - text: ": canonical pages for authors, mentors, scientists, and other repeatedly referenced people."
+                  - listitem [ref=e707]:
+                    - code [ref=e708]: Personal Advice
+                    - text: ": practical guidance, self-management material, and"
+                    - code [ref=e709]: Personal Advice/Tips and Trick
+                    - text: for compact tactical reminders.
+                  - listitem [ref=e710]:
+                    - code [ref=e711]: Science Reference
+                    - text: ": compact formulas, constants, theorems, laws, and science theory notes."
+                  - listitem [ref=e712]:
+                    - code [ref=e713]: Tugas
+                    - text: ": assignment outputs and school-task material worth preserving as reference."
+                  - listitem [ref=e714]:
+                    - code [ref=e715]: Tools & Software Reference
+                    - text: ": Obsidian, VS Code, CLI, Git, and other software reference guides."
+                  - listitem [ref=e716]:
+                    - code [ref=e717]: Attachments
+                    - text: ": supporting files only. Keep meaning, summaries, and decisions in markdown notes."
+                - generic [ref=e718]:
+                  - heading "How To Use This Vault" [level=2] [ref=e719]
+                  - 'link "Permalink: How To Use This Vault" [ref=e720] [cursor=pointer]':
+                    - /url: "#how-to-use-this-vault"
+                    - img [ref=e721]
+                - list [ref=e723]:
+                  - listitem [ref=e724]:
+                    - text: Put operational capture, project plans, recurring systems, experiments, and future commitments in
+                    - code [ref=e725]: D:\Imperial Records
+                    - text: .
+                  - listitem [ref=e726]:
+                    - text: Put source-heavy or topical knowledge in
+                    - code [ref=e727]: Notes
+                    - text: ","
+                    - code [ref=e728]: Clippings
+                    - text: ","
+                    - code [ref=e729]: Collected Readings
+                    - text: ", or"
+                    - code [ref=e730]: Learning & Skills
+                    - text: based on its role.
+                  - listitem [ref=e731]:
+                    - text: Keep atomic term definitions in
+                    - code [ref=e732]: Glossary
+                    - text: ", and keep author or thinker reference pages in"
+                    - code [ref=e733]: People
+                    - text: .
+                  - listitem [ref=e734]:
+                    - text: Keep language-specific vocabulary dictionaries and compact language references in
+                    - code [ref=e735]: Language
+                    - text: .
+                  - listitem [ref=e736]:
+                    - text: Keep worked exercises and formula support in
+                    - code [ref=e737]: Bahas Soal
+                    - text: .
+                  - listitem [ref=e738]:
+                    - text: Keep pre-mastery books, topics, and frontier references in
+                    - code [ref=e739]: Curiosity Shelf
+                    - text: until they become active study or durable notes.
+                  - listitem [ref=e740]:
+                    - text: Store design references and design study material in
+                    - code [ref=e741]: Design
+                    - text: .
+                  - listitem [ref=e742]:
+                    - text: Store practical rereadable guidance in
+                    - code [ref=e743]: Personal Advice
+                    - text: ", using"
+                    - code [ref=e744]: Personal Advice/Tips and Trick
+                    - text: for compact reminders and
+                    - code [ref=e745]: Motivation
+                    - text: for short reset notes.
+                  - listitem [ref=e746]:
+                    - text: Store reusable formulas, constants, theorems, laws, and science theory in
+                    - code [ref=e747]: Science Reference
+                    - text: when they are not worked solutions.
+                  - listitem [ref=e748]:
+                    - text: Store stable software guides in
+                    - code [ref=e749]: Tools & Software Reference
+                    - text: rather than mixing tool manuals into learning notes.
+                  - listitem [ref=e750]:
+                    - text: Park unanswered knowledge questions in
+                    - code [ref=e751]: Notes/Random Questions
+                    - text: .
+                  - listitem [ref=e752]:
+                    - text: Use Sourcebook
+                    - code [ref=e753]: Inbox
+                    - text: only for knowledge material already destined for this vault.
+                  - listitem [ref=e754]:
+                    - text: Keep raw files in
+                    - code [ref=e755]: Attachments
+                    - text: ", but keep context, summaries, and decisions in markdown."
+                - generic [ref=e756]:
+                  - heading "Conventions" [level=2] [ref=e757]
+                  - 'link "Permalink: Conventions" [ref=e758] [cursor=pointer]':
+                    - /url: "#conventions"
+                    - img [ref=e759]
+                - list [ref=e761]:
+                  - listitem [ref=e762]: Prefer one clear note, question, source, or concept per file when possible.
+                  - listitem [ref=e763]:
+                    - text: Use the nearest folder
+                    - code [ref=e764]: README.md
+                    - text: before creating a new bucket or filing ambiguous notes.
+                  - listitem [ref=e765]: Let folders describe role; let note titles describe the specific material inside them.
+                  - listitem [ref=e766]: Keep article-derived notes close to their source role, then refine them when they become durable.
+                  - listitem [ref=e767]:
+                    - text: Keep
+                    - code [ref=e768]: Glossary
+                    - text: flat until repeated domain terms justify a split such as
+                    - code [ref=e769]: Math Glossary
+                    - text: or
+                    - code [ref=e770]: Bio Glossary
+                    - text: .
+                  - listitem [ref=e771]:
+                    - text: Keep future commitments in
+                    - code [ref=e772]: D:\Imperial Records\Labs\Idea Backlog
+                    - text: ", not in this reference vault."
+                  - listitem [ref=e773]: Do not create new top-level buckets unless the existing map cannot hold the material clearly.
+                - generic [ref=e774]:
+                  - heading "What Does Not Belong" [level=2] [ref=e775]
+                  - 'link "Permalink: What Does Not Belong" [ref=e776] [cursor=pointer]':
+                    - /url: "#what-does-not-belong"
+                    - img [ref=e777]
+                - list [ref=e779]:
+                  - listitem [ref=e780]:
+                    - text: active project planning and deliverables that belong in
+                    - code [ref=e781]: D:\Imperial Records\Projects
+                  - listitem [ref=e782]:
+                    - text: recurring operational systems that belong in
+                    - code [ref=e783]: D:\Imperial Records\Areas
+                  - listitem [ref=e784]:
+                    - text: experiments, prompt work, and unstable tools that belong in
+                    - code [ref=e785]: D:\Imperial Records\Labs
+                  - listitem [ref=e786]:
+                    - text: general rough capture that belongs in
+                    - code [ref=e787]: D:\Imperial Records\Inbox
+                  - listitem [ref=e788]: attachment-only storage without a markdown note carrying context
+                - generic [ref=e789]:
+                  - heading "Review Rhythm" [level=2] [ref=e790]
+                  - 'link "Permalink: Review Rhythm" [ref=e791] [cursor=pointer]':
+                    - /url: "#review-rhythm"
+                    - img [ref=e792]
+                - list [ref=e794]:
+                  - listitem [ref=e795]:
+                    - text: Review
+                    - code [ref=e796]: Inbox
+                    - text: and
+                    - code [ref=e797]: Clippings
+                    - text: when they start hiding useful material.
+                  - listitem [ref=e798]:
+                    - text: Review
+                    - code [ref=e799]: Notes
+                    - text: ","
+                    - code [ref=e800]: Learning & Skills
+                    - text: ", and"
+                    - code [ref=e801]: Bahas Soal
+                    - text: when a topic starts repeating.
+                  - listitem [ref=e802]: Promote or split material only when it improves retrieval.
+                  - listitem [ref=e803]: Prune low-value duplicates instead of adding structure too early.
+        - generic [ref=e807]:
+          - generic [ref=e810]:
+            - heading "About" [level=2] [ref=e811]
+            - generic [ref=e812]: No description, website, or topics provided.
+            - heading "Resources" [level=3] [ref=e813]
+            - link "Readme" [ref=e815] [cursor=pointer]:
+              - /url: "#readme-ov-file"
+              - img [ref=e816]
+              - text: Readme
+            - heading "License" [level=3] [ref=e818]
+            - link "MIT license" [ref=e820] [cursor=pointer]:
+              - /url: "#MIT-1-ov-file"
+              - img [ref=e821]
+              - text: MIT license
+            - link "Activity" [ref=e824] [cursor=pointer]:
+              - /url: /archivewebsite/imperial-sourcebook/activity
+              - img [ref=e825]
+              - text: Activity
+            - heading "Stars" [level=3] [ref=e827]
+            - link "0 stars" [ref=e829] [cursor=pointer]:
+              - /url: /archivewebsite/imperial-sourcebook/stargazers
+              - img [ref=e830]
+              - strong [ref=e832]: "0"
+              - text: stars
+            - heading "Watchers" [level=3] [ref=e833]
+            - link "0 watching" [ref=e835] [cursor=pointer]:
+              - /url: /archivewebsite/imperial-sourcebook/watchers
+              - img [ref=e836]
+              - strong [ref=e838]: "0"
+              - text: watching
+            - heading "Forks" [level=3] [ref=e839]
+            - link "0 forks" [ref=e841] [cursor=pointer]:
+              - /url: /archivewebsite/imperial-sourcebook/forks
+              - img [ref=e842]
+              - strong [ref=e844]: "0"
+              - text: forks
+            - link "Report repository" [ref=e846] [cursor=pointer]:
+              - /url: /contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Farchivewebsite%2Fimperial-sourcebook&report=archivewebsite+%28user%29
+          - generic [ref=e848]:
+            - heading "Releases" [level=2] [ref=e849]:
+              - link "Releases" [ref=e850] [cursor=pointer]:
+                - /url: /archivewebsite/imperial-sourcebook/releases
+            - generic [ref=e851]: No releases published
+          - generic [ref=e853]:
+            - heading "Packages" [level=2] [ref=e854]:
+              - link "Packages" [ref=e855] [cursor=pointer]:
+                - /url: /users/archivewebsite/packages?repo_name=imperial-sourcebook
+            - generic [ref=e856]: No packages published
+          - generic [ref=e858]:
+            - heading "Contributors 2" [level=2] [ref=e859]:
+              - link "Contributors 2" [ref=e860] [cursor=pointer]:
+                - /url: /archivewebsite/imperial-sourcebook/graphs/contributors
+                - text: Contributors
+                - generic "2" [ref=e861]
+            - list [ref=e862]:
+              - listitem [ref=e863]:
+                - link "@prezvious" [ref=e864] [cursor=pointer]:
+                  - /url: https://github.com/prezvious
+                  - img "@prezvious" [ref=e865]
+                - link "prezvious" [ref=e867] [cursor=pointer]:
+                  - /url: https://github.com/prezvious
+                  - strong [ref=e868]: prezvious
+              - listitem [ref=e869]:
+                - link "@archivewebsite" [ref=e870] [cursor=pointer]:
+                  - /url: https://github.com/archivewebsite
+                  - img "@archivewebsite" [ref=e871]
+                - link "archivewebsite" [ref=e873] [cursor=pointer]:
+                  - /url: https://github.com/archivewebsite
+                  - strong [ref=e874]: archivewebsite
+          - generic [ref=e876]:
+            - heading "Languages" [level=2] [ref=e877]
+            - list [ref=e883]:
+              - listitem [ref=e884]:
+                - link "HTML 75.0%" [ref=e885] [cursor=pointer]:
+                  - /url: /archivewebsite/imperial-sourcebook/search?l=html
+                  - img [ref=e886]
+                  - generic [ref=e888]: HTML
+                  - generic [ref=e889]: 75.0%
+              - listitem [ref=e890]:
+                - link "JavaScript 16.4%" [ref=e891] [cursor=pointer]:
+                  - /url: /archivewebsite/imperial-sourcebook/search?l=javascript
+                  - img [ref=e892]
+                  - generic [ref=e894]: JavaScript
+                  - generic [ref=e895]: 16.4%
+              - listitem [ref=e896]:
+                - link "CSS 8.6%" [ref=e897] [cursor=pointer]:
+                  - /url: /archivewebsite/imperial-sourcebook/search?l=css
+                  - img [ref=e898]
+                  - generic [ref=e900]: CSS
+                  - generic [ref=e901]: 8.6%
+  - contentinfo [ref=e903]:
+    - heading "Footer" [level=2] [ref=e904]
+    - generic [ref=e905]:
+      - generic [ref=e906]:
+        - link "GitHub Homepage" [ref=e907] [cursor=pointer]:
+          - /url: https://github.com
+          - img [ref=e908]
+        - generic [ref=e910]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=e911]:
+        - heading "Footer navigation" [level=3] [ref=e912]
+        - list "Footer navigation" [ref=e913]:
+          - listitem [ref=e914]:
+            - link "Terms" [ref=e915] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=e916]:
+            - link "Privacy" [ref=e917] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=e918]:
+            - link "Security" [ref=e919] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=e920]:
+            - link "Status" [ref=e921] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=e922]:
+            - link "Community" [ref=e923] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=e924]:
+            - link "Docs" [ref=e925] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=e926]:
+            - link "Contact" [ref=e927] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=e928]:
+            - button "Manage cookies" [ref=e930] [cursor=pointer]
+          - listitem [ref=e931]:
+            - button "Do not share my personal information" [ref=e933] [cursor=pointer]
